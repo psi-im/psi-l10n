@@ -17,3 +17,6 @@ release is produced, the latest translations from Qt will be obtained, but any
 present in this repo will override what comes with Qt.
 
 Please do not commit .qm files to the repo.
+
+If you want to make a brand new translation, the psi_xx.ts file can be copied
+and used as a blank slate.
