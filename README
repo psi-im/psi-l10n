@@ -1,1 +1,19 @@
-psi translations go here
+Psi Translations
+----------------
+
+Each subdirectory is a language code (XX). Inside each should be:
+
+  psi_XX.ts - translation of Psi
+  psi_XX.html - downloading instructions for the website
+
+Optionally, a Qt translation can be included:
+
+  qt_XX.ts - translation of qt
+
+However, Qt itself already has most translations so you should not store this
+file here unless Qt does not support the language at all and you need
+somewhere to put it. Otherwise, try to work with qt-project.org. When a Psi
+release is produced, the latest translations from Qt will be obtained, but any
+present in this repo will override what comes with Qt.
+
+Please do not commit .qm files to the repo.
