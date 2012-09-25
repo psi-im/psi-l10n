@@ -7102,42 +7102,47 @@ Details: %1</source>
         <translation>交談和其他在一個視窗</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="139"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
         <source>Message</source>
         <translation>訊息</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="153"/>
         <source>Chat</source>
         <translation>交談</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="156"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="163"/>
         <source>Delete chat window contents</source>
         <translation>刪除交談視窗內容</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="168"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
         <source>When chat window is closed</source>
         <translation>當交談視窗已被關閉</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
         <source>One hour after chat window was closed</source>
         <translation>交談視窗已被關閉一小時候</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
         <source>One day after chat window was closed</source>
         <translation>交談視窗已被關閉一天後</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="196"/>
         <source>Never</source>
         <translation>從不</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
         <source>Default action</source>
         <translation>預設行動</translation>
     </message>
@@ -9303,8 +9308,8 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1296"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="3095"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3097"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9357,7 +9362,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1860"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2099"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2101"/>
         <source>Server Error</source>
         <translation>伺服器錯誤</translation>
     </message>
@@ -9587,24 +9592,24 @@ Do you want to log out ?</source>
         <translation>無</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2100"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2102"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>和伺服器通訊時發生錯誤。
 細節: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Incoming file</source>
         <translation>進來的檔案</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>你想要接受 %1 (%2 kb) 從 %3 嗎?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
         <translation>無法登入。確定你的帳號資訊填寫完整。</translation>
     </message>
@@ -9621,44 +9626,44 @@ Details: %1</source>
         <translation type="obsolete">請輸入你的密碼:</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="3096"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3098"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>為了作這個你必須連線到伺服器。</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5499"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5501"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>簽入你的狀態時發生錯誤。
 原因: %1。</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5609"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5611"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[錯誤: 這個訊息已被加密, 而你無法解密。]</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>No key</source>
         <translation>沒有鑰匙</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi 無法定位 &lt;b&gt;%1&lt;/b&gt; 所使用的 OpenPGP 鑰匙。&lt;br&gt;&lt;br&gt;這可能是因為你沒有聯絡人簽署發佈的鑰匙, 或是聯絡人根本沒有發佈鑰匙。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>&amp;Choose key manually</source>
         <translation>手動選擇鑰匙(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>Do &amp;nothing</source>
         <translation>什麼都不做(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5922"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5924"/>
         <source>Public Key: %1</source>
         <translation>公鑰: %1</translation>
     </message>
@@ -10892,35 +10897,35 @@ Reason: %1</source>
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../../psi/src/main.cpp" line="205"/>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="200"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="206"/>
+        <location filename="../../psi/src/main.cpp" line="201"/>
         <source>There was an error creating the default profile.</source>
         <translation>產生預設的個人設定檔時發生錯誤。</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="248"/>
+        <location filename="../../psi/src/main.cpp" line="243"/>
         <source>Profile already in use</source>
         <translation>設定檔已經在使用了</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="249"/>
+        <location filename="../../psi/src/main.cpp" line="244"/>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
         <translation>設定檔 &quot;%1&quot; 已經在使用了。
 你現在想要啟用那個會話嗎?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="251"/>
+        <location filename="../../psi/src/main.cpp" line="246"/>
         <source>Activate</source>
         <translation>啟用的</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>無法開啟這個個人設定檔 - 它已經在執行了, 不過沒有回應</translation>
     </message>
@@ -11206,9 +11211,13 @@ Proceed?</source>
 <context>
     <name>PsiToolBar</name>
     <message>
-        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>Configure&amp; Toolbar...</source>
-        <translation>設置工具列(&amp;T)...</translation>
+        <translation type="obsolete">設置工具列(&amp;T)...</translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
+        <source>&amp;Configure Toolbar...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13106,12 +13115,12 @@ Reason: %1</source>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="248"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="259"/>
         <source>Detach Tab</source>
         <translation>分離標籤</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="251"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="262"/>
         <source>Close Tab</source>
         <translation>關閉標籤</translation>
     </message>
@@ -13120,12 +13129,12 @@ Reason: %1</source>
         <translation type="obsolete">傳送標籤到</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="286"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="297"/>
         <source>Detach Current Tab</source>
         <translation>分離目前的標籤</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="287"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="298"/>
         <source>Close Current Tab</source>
         <translation>關閉目前的標籤</translation>
     </message>
@@ -13142,32 +13151,32 @@ Reason: %1</source>
         <translation type="obsolete">用於新的其他</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="503"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="514"/>
         <source>%1 Conversations</source>
         <translation>%1 對話</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="507"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
         <translation> 撰寫中</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="256"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="267"/>
         <source>Send Tab To</source>
         <translation>傳送標籤到</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="290"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="301"/>
         <source>Send Current Tab To</source>
         <translation>傳送目前的標籤到</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="302"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
         <translation>用於新的交談</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="305"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
         <translation>用於新的其他</translation>
     </message>

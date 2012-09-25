@@ -7118,7 +7118,12 @@ Details: %1</translation>
         <translation>Größe des Texteingabe-Feldes automatisch anpassen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/options/opt_chat.ui" line="153"/>
         <source>Chat</source>
         <translation></translation>
     </message>
@@ -7132,7 +7137,7 @@ Details: %1</translation>
         <translation type="obsolete">Voreinstellung</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="156"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="163"/>
         <source>Delete chat window contents</source>
         <translation>Inhalt des Chatfensters löschen</translation>
     </message>
@@ -7166,22 +7171,22 @@ Details: %1</translation>
         <translation>nur für MUCs</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="139"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
         <source>Message</source>
         <translation>Nachricht</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="196"/>
         <source>Never</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
         <source>One day after chat window was closed</source>
         <translation>Einen Tag nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
         <source>One hour after chat window was closed</source>
         <translation>Eine Stunde nach dem Schließen des Chatfensters</translation>
     </message>
@@ -7205,12 +7210,12 @@ Details: %1</translation>
         <translation>für Chats und MUCs in einem Fenster</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
         <source>Default action</source>
         <translation>Voreinstellung</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="168"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
         <source>When chat window is closed</source>
         <translation>Beim Schließen des Chatfensters</translation>
     </message>
@@ -9402,7 +9407,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation type="obsolete">Anmeldung fehlgeschlagen: SSL ist aktiviert, aber es ist keine SSL/TLS-Unterstützung (Plugin) verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>&amp;Choose key manually</source>
         <translation>Schlüssel manuell aus&amp;wählen</translation>
     </message>
@@ -9427,12 +9432,12 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Nicht verbunden</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>Do &amp;nothing</source>
         <translation>&amp;Nichts tun</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Möchten Sie %1 (%2 kb) von %3 annehmen?</translation>
     </message>
@@ -9443,8 +9448,8 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1296"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="3095"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3097"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -9469,7 +9474,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Beim Vermitteln mit dem Proxy-Server ist ein Fehler aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5609"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5611"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[FEHLER: Diese Nachricht ist verschlüsselt und Sie können sie nicht entschlüsseln.]</translation>
     </message>
@@ -9494,7 +9499,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Der Host ist nicht bekannt</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Incoming file</source>
         <translation>Eingehende Datei</translation>
     </message>
@@ -9533,7 +9538,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Es ist keine passende Methode für die angegebenen Sicherheitseinstellungen verfügbar (z. B. zu schwache SASL-Bibliothek oder Klartext-Autentifizierung nicht aktiviert)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>No key</source>
         <translation>Kein Schlüssel</translation>
     </message>
@@ -9561,7 +9566,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Methodenverletzung</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Es konnte kein OpenPGP-Schlüssel für &lt;b&gt;%1&lt;/b&gt; gefunden werden.&lt;br&gt;&lt;br&gt;Entweder wurde der Schlüssel noch nicht per Jabber ausgetauscht, oder der Kontakt bietet generell keinen Schlüssel an.&lt;/p&gt;</translation>
     </message>
@@ -9571,7 +9576,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
         <translation>Authentifizierung beim Proxy-Server schlug fehl</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5922"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5924"/>
         <source>Public Key: %1</source>
         <translation>Öffentlicher Schlüssel: %1</translation>
     </message>
@@ -9597,7 +9602,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1860"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2099"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2101"/>
         <source>Server Error</source>
         <translation>Serverfehler</translation>
     </message>
@@ -9648,14 +9653,14 @@ Do you want to log out ?</source>
 Möchten Sie sich abmelden?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2100"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2102"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Bei der Kommunikation mit dem Jabber-Server ist ein Fehler aufgetreten. 
 Details: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5499"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5501"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Beim Signieren Ihres Status ist ein Fehler aufgetreten.
@@ -9693,7 +9698,7 @@ Grund: %1.</translation>
         <translation>Anmeldung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
         <translation>Anmeldung nicht möglich. Überprüfen Sie, ob Ihre Zugangsdaten korrekt ausgefüllt sind.</translation>
     </message>
@@ -9713,7 +9718,7 @@ Grund: %1.</translation>
         <translation>XMPP-Stream-Fehler: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="3096"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3098"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Sie müssen hierfür mit dem Server verbunden sein.</translation>
     </message>
@@ -10964,35 +10969,35 @@ Grund: %1</translation>
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../../psi/src/main.cpp" line="251"/>
+        <location filename="../../psi/src/main.cpp" line="246"/>
         <source>Activate</source>
         <translation>Aktivieren</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Kann dieses Profil nicht öffnen - es läuft bereits, antwortet jedoch nicht</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="205"/>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="200"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="248"/>
+        <location filename="../../psi/src/main.cpp" line="243"/>
         <source>Profile already in use</source>
         <translation>Profil wird bereits verwendet</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="249"/>
+        <location filename="../../psi/src/main.cpp" line="244"/>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
         <translation>Das Profil &quot;%1&quot;wird gerade benutzt.
 Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="206"/>
+        <location filename="../../psi/src/main.cpp" line="201"/>
         <source>There was an error creating the default profile.</source>
         <translation>Es gab einen Fehler beim Erstellen des Standardprofils.</translation>
     </message>
@@ -11282,9 +11287,13 @@ Fortfahren?</translation>
 <context>
     <name>PsiToolBar</name>
     <message>
-        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>Configure&amp; Toolbar...</source>
-        <translation>Symbolleiste &amp;einrichten ...</translation>
+        <translation type="obsolete">Symbolleiste &amp;einrichten ...</translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
+        <source>&amp;Configure Toolbar...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13153,52 +13162,52 @@ Grund: %1</translation>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="503"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="514"/>
         <source>%1 Conversations</source>
         <translation>%1 Konversationen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="287"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="298"/>
         <source>Close Current Tab</source>
         <translation>Aktuellen Tab schließen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="251"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="262"/>
         <source>Close Tab</source>
         <translation>Tab schließen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="256"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="267"/>
         <source>Send Tab To</source>
         <translation>Tab senden zu</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="286"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="297"/>
         <source>Detach Current Tab</source>
         <translation>Aktuellen Tab lösen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="248"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="259"/>
         <source>Detach Tab</source>
         <translation>Tab lösen</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="290"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="301"/>
         <source>Send Current Tab To</source>
         <translation>Aktuellen Tab senden zu</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="302"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
         <translation>Für neue Chats verwenden</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="305"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
         <translation>Für neue MUCs verwenden</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="507"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
         <translation> schreibt ...</translation>
     </message>

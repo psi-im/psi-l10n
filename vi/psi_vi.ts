@@ -6041,6 +6041,10 @@ Details: %1</source>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9405,7 +9409,7 @@ Tiếp tục không?</translation>
         <translation type="obsolete">Cấu hình &amp;thanh công cụ...</translation>
     </message>
     <message>
-        <source>Configure&amp; Toolbar...</source>
+        <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

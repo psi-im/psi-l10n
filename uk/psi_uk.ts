@@ -6824,6 +6824,11 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6832,37 +6837,37 @@ Details: %1</source>
         <translation type="obsolete">Дія за умовчанням</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="139"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
         <source>Message</source>
         <translation>Повідомлення</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="153"/>
         <source>Chat</source>
         <translation>Розмова</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="156"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="163"/>
         <source>Delete chat window contents</source>
         <translation>Видалити вміст вікна розмови</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="168"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
         <source>When chat window is closed</source>
         <translation>Коли вікно розмови було закрито</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
         <source>One hour after chat window was closed</source>
         <translation>Через годину після того, коли було закрито вікно розмови</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
         <source>One day after chat window was closed</source>
         <translation>Через день після того, коли було закрито вікно розмови</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="196"/>
         <source>Never</source>
         <translation>Ніколи</translation>
     </message>
@@ -9055,8 +9060,8 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1296"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="3095"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3097"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -9076,7 +9081,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Ніякий</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
         <translation>Неможливо увійти. Упевніться, що інформація введена вірно і повністю.</translation>
     </message>
@@ -9085,7 +9090,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="obsolete">Треба пароль</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="3096"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3098"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Ви повинні бути з&apos;єднаними, якщо ви хочете зробити це.</translation>
     </message>
@@ -9106,22 +9111,22 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="obsolete">Пр&amp;одовжити</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5922"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5924"/>
         <source>Public Key: %1</source>
         <translation>Відкритий ключ: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>No key</source>
         <translation>Немає ключа</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Обрати ключ вручну</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>Do &amp;nothing</source>
         <translation>Нічого не роби&amp;ти</translation>
     </message>
@@ -9330,7 +9335,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Пошкоджений рівень захисту (SASL)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Неможливо  визначити місцезнаходження OpenPGP ключа для &lt;b&gt;%1&lt;/b&gt;.&lt;/p&gt;</translation>
     </message>
@@ -9353,7 +9358,7 @@ Do you want to log out ?</source>
 Ви хочете вийти?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5609"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5611"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ПОМИЛКА: Це повідомлення зашифровано, і ви не в змозі розшифрувати це.]</translation>
     </message>
@@ -9372,12 +9377,12 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1860"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2099"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2101"/>
         <source>Server Error</source>
         <translation>Помилка сервера</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2100"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2102"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Сталася помилка під час взаємодії з джаббер сервером.
@@ -9388,7 +9393,7 @@ Details: %1</source>
         <translation type="obsolete">Будь ласка, введіть пароль:</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5499"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5501"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Сталася помилка під час спроби позначити статус.
@@ -9400,12 +9405,12 @@ Reason: %1.</source>
         <translation>Сервер не підтримує TLS шифрування.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Incoming file</source>
         <translation>Вхідний файл</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Хочете прийняти %1 (%2 kb) від %3?</translation>
     </message>
@@ -10600,35 +10605,35 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../../psi/src/main.cpp" line="205"/>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="200"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="206"/>
+        <location filename="../../psi/src/main.cpp" line="201"/>
         <source>There was an error creating the default profile.</source>
         <translation>Сталася помилка під час створення профіля за умовчанням.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="248"/>
+        <location filename="../../psi/src/main.cpp" line="243"/>
         <source>Profile already in use</source>
         <translation>Профіль вже використовується</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="249"/>
+        <location filename="../../psi/src/main.cpp" line="244"/>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
         <translation>Профіль &quot;%1&quot; вже використовується.
 Бажаєте активувати ту сесію зараз?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="251"/>
+        <location filename="../../psi/src/main.cpp" line="246"/>
         <source>Activate</source>
         <translation>Активувати</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Неможливо відкрити цей профіль - він вже працює, але не відповідає</translation>
     </message>
@@ -10917,9 +10922,13 @@ Proceed?</source>
 <context>
     <name>PsiToolBar</name>
     <message>
-        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>Configure&amp; Toolbar...</source>
-        <translation>Налаштунки&amp; панелей...</translation>
+        <translation type="obsolete">Налаштунки&amp; панелей...</translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
+        <source>&amp;Configure Toolbar...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12790,47 +12799,47 @@ Reason: %1</source>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="256"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="267"/>
         <source>Send Tab To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="286"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="297"/>
         <source>Detach Current Tab</source>
         <translation>Відділити поточну закладку</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="287"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="298"/>
         <source>Close Current Tab</source>
         <translation>Закрити поточну закладку</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="290"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="301"/>
         <source>Send Current Tab To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="302"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="305"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="507"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
         <translation> друкує</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="248"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="259"/>
         <source>Detach Tab</source>
         <translation>Відділити закладку</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="251"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="262"/>
         <source>Close Tab</source>
         <translation>Закрити закладку</translation>
     </message>
@@ -12851,7 +12860,7 @@ Reason: %1</source>
         <translation type="obsolete">Використовувати для нових конференцій</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="503"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="514"/>
         <source>%1 Conversations</source>
         <translation>%1 Розмови</translation>
     </message>

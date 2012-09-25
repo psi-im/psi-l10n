@@ -7263,7 +7263,7 @@ Detalhes: %1</translation>
         <translation>Ajustar tamanho automaticamente o campo para entrada de texto</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="153"/>
         <source>Chat</source>
         <translation>Bate-papo</translation>
     </message>
@@ -7272,7 +7272,7 @@ Detalhes: %1</translation>
         <translation type="obsolete">Ação padrão</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="156"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="163"/>
         <source>Delete chat window contents</source>
         <translation>Remover conteúdo da janela de bate-papo</translation>
     </message>
@@ -7292,22 +7292,22 @@ Detalhes: %1</translation>
         <translation>Usar modo de abas:</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="139"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="146"/>
         <source>Message</source>
         <translation>Mensagem</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="196"/>
         <source>Never</source>
         <translation>Nunca</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="189"/>
         <source>One day after chat window was closed</source>
         <translation>Um dia após a janela de bate-papo for fechada</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="182"/>
         <source>One hour after chat window was closed</source>
         <translation>Uma hora após a janela de bate-papo for fechada</translation>
     </message>
@@ -7326,7 +7326,7 @@ Detalhes: %1</translation>
         <translation>Exibir janela de bate-papo ao receber novas mensagens</translation>
     </message>
     <message>
-        <location filename="../../psi/src/options/opt_chat.ui" line="168"/>
+        <location filename="../../psi/src/options/opt_chat.ui" line="175"/>
         <source>When chat window is closed</source>
         <translation>Quando janela de bate-papo é fechada</translation>
     </message>
@@ -7364,6 +7364,11 @@ Detalhes: %1</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
         <source>Default action</source>
         <translation>Ação padrão</translation>
     </message>
@@ -9632,7 +9637,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
 <context>
     <name>PsiAccount</name>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>&amp;Choose key manually</source>
         <translation>Es&amp;colher chave manualmente</translation>
     </message>
@@ -9641,7 +9646,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
         <translation type="obsolete">&amp;Detalhes...</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Não foi possível localizar a chave OpenPGP para &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Isto ocorre se voce não tem a chave que o contato está anunciando em sua presença, ou se o contato não estiver anunciando nenhuma chave.&lt;/p&gt;</translation>
     </message>
@@ -9703,12 +9708,12 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
         <translation>Desconectado</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5915"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5917"/>
         <source>Do &amp;nothing</source>
         <translation>Fazer &amp;nada</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Você deseja aceitar %1 (%2 kb) de %3?</translation>
     </message>
@@ -9719,8 +9724,8 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1296"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="3095"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3097"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
@@ -9759,7 +9764,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
         <translation type="obsolete">Imagens (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2688"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2690"/>
         <source>Incoming file</source>
         <translation>Arquivo chegando</translation>
     </message>
@@ -9798,7 +9803,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
         <translation>Nenhum mecanismo apropriado para as configurações de segurança informada (exemplo: biblioteca SASL muito fraca ou autenticação em texto puro não habilitada)</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5910"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5912"/>
         <source>No key</source>
         <translation>Sem chave</translation>
     </message>
@@ -9831,7 +9836,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
         <translation>Autenticação com proxy falhou</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5922"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5924"/>
         <source>Public Key: %1</source>
         <translation>Chave Pública: %1</translation>
     </message>
@@ -9860,7 +9865,7 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1860"/>
-        <location filename="../../psi/src/psiaccount.cpp" line="2099"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2101"/>
         <source>Server Error</source>
         <translation>Erro do Servidor</translation>
     </message>
@@ -9930,14 +9935,14 @@ Você deseja desconectar ?</translation>
         <translation>O servidor não suporta criptografia TLS.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2100"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2102"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Ocorreu um erro comunicando com o servidor.
 Detalhes: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5499"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5501"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Ocorreu um erro definindo seu status.
@@ -9965,7 +9970,7 @@ Razão: %1.</translation>
         <translation>Não foi possível fazer login</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="2776"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="2778"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
         <translation>Não foi possível fazer login. Certifique-se que as informações de sua conta foram preenchidas.</translation>
     </message>
@@ -9995,12 +10000,12 @@ Razão: %1.</translation>
         <translation>Erro de fluxo XMPP: %1</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="3096"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="3098"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Você deve estar conectado ao servidor para fazer isso.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psiaccount.cpp" line="5609"/>
+        <location filename="../../psi/src/psiaccount.cpp" line="5611"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ERRO: Esta mensagem está criptografada e você é incapaz de descriptografá-la.]</translation>
     </message>
@@ -11215,35 +11220,35 @@ Razão: %1</translation>
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../../psi/src/main.cpp" line="205"/>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="200"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="206"/>
+        <location filename="../../psi/src/main.cpp" line="201"/>
         <source>There was an error creating the default profile.</source>
         <translation>Ocorreu um erro criando o perfil padrão.</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="248"/>
+        <location filename="../../psi/src/main.cpp" line="243"/>
         <source>Profile already in use</source>
         <translation>Perfil já em uso</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="249"/>
+        <location filename="../../psi/src/main.cpp" line="244"/>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
         <translation>O perfil &quot;%1&quot; já está em uso.
 Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="251"/>
+        <location filename="../../psi/src/main.cpp" line="246"/>
         <source>Activate</source>
         <translation>Ativar</translation>
     </message>
     <message>
-        <location filename="../../psi/src/main.cpp" line="285"/>
+        <location filename="../../psi/src/main.cpp" line="283"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Não é possível abrir este perfi - ele está em uso, mas não está respondendo</translation>
     </message>
@@ -11520,9 +11525,13 @@ Prosseguir?</translation>
         <translation type="obsolete">Configurar &amp;Barra de Ferramentas...</translation>
     </message>
     <message>
-        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>Configure&amp; Toolbar...</source>
-        <translation>Configurar &amp;Barra de Ferramentas...</translation>
+        <translation type="obsolete">Configurar &amp;Barra de Ferramentas...</translation>
+    </message>
+    <message>
+        <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
+        <source>&amp;Configure Toolbar...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13492,27 +13501,27 @@ Razão: %1</translation>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="507"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
         <translation>está compondo</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="287"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="298"/>
         <source>Close Current Tab</source>
         <translation>Fechar Aba Atual</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="251"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="262"/>
         <source>Close Tab</source>
         <translation>Fechar Aba</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="286"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="297"/>
         <source>Detach Current Tab</source>
         <translation>Desprender Aba Atual</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="248"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="259"/>
         <source>Detach Tab</source>
         <translation>Desprender Aba</translation>
     </message>
@@ -13533,27 +13542,27 @@ Razão: %1</translation>
         <translation type="obsolete">Enviar Aba para</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="256"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="267"/>
         <source>Send Tab To</source>
         <translation>Enviar aba para</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="290"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="301"/>
         <source>Send Current Tab To</source>
         <translation>Enviar aba atual para</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="302"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
         <translation>Usar para novos bate-papo</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="305"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
         <translation>Usar para novos Mucs</translation>
     </message>
     <message>
-        <location filename="../../psi/src/tabs/tabdlg.cpp" line="503"/>
+        <location filename="../../psi/src/tabs/tabdlg.cpp" line="514"/>
         <source>%1 Conversations</source>
         <translation>%1 Conversas</translation>
     </message>
