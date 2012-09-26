@@ -151,11 +151,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished">Traducción al español:&lt;br&gt;
+        <translation>Traducción al español:&lt;br&gt;
 
 &amp;nbsp;&amp;nbsp;&lt;B&gt;Versión 0.15&lt;/B&gt;: &lt;br&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;JanKusanagi - &lt;a href=&quot;xmpp:jan@jabberes.org&quot;&gt;jan@jabberes.org&lt;/a&gt;&lt;BR&gt;
 &lt;P&gt;
+
 &amp;nbsp;&amp;nbsp;&lt;B&gt;Versión 0.12&lt;/B&gt;: &lt;br&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;JanKusanagi - &lt;a href=&quot;xmpp:jan@jabberes.org&quot;&gt;jan@jabberes.org&lt;/a&gt;&lt;BR&gt;
 &lt;P&gt;
@@ -315,7 +316,7 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi-im.org/forum/
     <message>
         <location filename="../../psi/src/about.ui" line="42"/>
         <source>psi/logo_48</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
@@ -850,7 +851,7 @@ Marca la casilla &lt;b&gt;Registrar una cuenta nueva&lt;/b&gt; solo si quieres q
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="288"/>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="555"/>
@@ -991,32 +992,32 @@ Marca la casilla &lt;b&gt;Registrar una cuenta nueva&lt;/b&gt; solo si quieres q
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="227"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca esta opción para usar una conexión SSL cifrada con el servidor XMPP.  Puedes usar esta opción si tu servidor lo permite y si tienes el plugin QCA-OpenSSL necesario instalado.  Para más información, consulta la página web de Psi.</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="233"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca esta opción para usar una conexión comprimida con el servidor XMPP, si el servidor lo permite.</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="236"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliza esta opción para una configuración manual de tu servidor XMPP si no es el mismo al cual se está conectando. Esta opción es útil principalmente si tiene algún tipo de ruta proxy en su máquina local (p.ej. se conecta al servidor local), pero su cuenta está registrada en un servidor externo.</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="242"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes tener varios clientes conectados al servidor XMPP con una cuenta única. Cada conexión se distingue por un nombre de &quot;recurso&quot;, que puedes especificar en este campo, como &quot;Casa&quot;, &quot;Trabajo&quot;, o &quot;Portatil&quot;.</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="246"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta opción establece con qué usuario (y dominio) te quieres autenticar. Esto sustituye la dirección XMPP con la que te has conectado.</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="250"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Puedes tener múltiples clientes conectados al servidor XMPP con tu única cuenta.  En tal caso, el cliente con la prioridad más alta (que se especifica en este campo) será el que reciba todos los eventos entrantes.&lt;/p&gt;&lt;p&gt;Por ejemplo, si tienes una conexión permanente a Internet desde tu lugar de trabajo, y tienes una conexión telefónica en casa, puedes dejar funcionando de forma permanente tu cliente XMPP en el trabajo con una prioridad baja, y puedes usar la misma cuenta desde casa utilizando un cliente con una prioridad más alta para &quot;deshabilitar&quot; temporalmente al cliente de prioridad más baja del trabajo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="365"/>
@@ -1461,7 +1462,7 @@ Para añadir un contacto de un servicio &lt;b&gt;que no sea Jabber&lt;/b&gt;, as
     <message>
         <location filename="../../psi/src/adduser.ui" line="314"/>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="263"/>
@@ -1811,7 +1812,7 @@ Asegúrate de que has introducido una dirección correcta (usuario@servidor)</tr
     <message>
         <location filename="../../psi/src/avcall/call.ui" line="13"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <location filename="../../psi/src/avcall/call.ui" line="21"/>
@@ -2453,53 +2454,53 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="63"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará permanentemente a &lt;br&gt;%1&lt;br&gt; de tu lista de contactos.</translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi/src/contactlistutil.cpp" line="86"/>
         <source>and %n contacts </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>y %n contacto </numerusform>
+            <numerusform>y %n contactos </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi/src/contactlistutil.cpp" line="91"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="100"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y el grupo &quot;%3&quot; de tu lista de contactos.</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="108"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará permanentemente:&lt;br&gt;%1&lt;br&gt;%2 de tu lista de contactos.</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="118"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto es un grupo de sistema y no puede eliminarse. ¿Eliminar permanentemente todos sus contactos de tu lista de contactos?</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="120"/>
         <source>Clear Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar grupo</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="123"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará permanentemente el grupo&lt;br&gt;%1&lt;br&gt;y todos sus contactos de tu lista de contactos.</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="140"/>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará permanentemente a %1 de tu lista de contactos. Podrías bloquearle para evitar futuros mensajes.</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="143"/>
@@ -2515,7 +2516,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="149"/>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto eliminará %1 del grupo &quot;%2&quot;. También podrías eliminarlo de todos los grupos.</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="154"/>
@@ -4132,7 +4133,7 @@ Razón: %3</translation>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1408"/>
         <source>&amp;Open Containing Folder</source>
-        <translation>Abrir carpeta contenedora</translation>
+        <translation>&amp;Abrir carpeta contenedora</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1409"/>
@@ -4318,7 +4319,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="923"/>
         <source>Error: Cannot parse command: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error: No se puede analizar el comando: </translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1169"/>
@@ -4333,12 +4334,12 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1319"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Quieres entrar al lugar alternativo &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1346"/>
         <source>You have been banned from the room by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Has sido baneado de la sala por %1</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1347"/>
@@ -4353,7 +4354,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1354"/>
         <source>You have been kicked from the room by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Has sido expulsado de la sala por %1</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1355"/>
@@ -4368,12 +4369,12 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1363"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation type="unfinished"></translation>
+        <translation>Has sido eliminado de la sala por %1 debido a un cambio de afiliación</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1371"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation type="unfinished"></translation>
+        <translation>Has sido eliminado de la sala por %1 porque la sala se ha hecho sólo para miembros</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1372"/>
@@ -5088,7 +5089,8 @@ Has perdido la partida.</translation>
     <message>
         <location filename="../../psi/src/history.ui" line="29"/>
         <source>HistoryDlg</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Leaving untranslated, since apparently is used as window title, but not really</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/history.ui" line="156"/>
@@ -5664,7 +5666,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi/src/info.ui" line="95"/>
         <source>Alt+V</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/info.ui" line="98"/>
@@ -5739,12 +5741,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi/src/info.ui" line="458"/>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/info.ui" line="461"/>
         <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/info.ui" line="468"/>
@@ -6022,12 +6024,12 @@ Are you sure you want to discard them?</source>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="71"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="81"/>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Position (Advanced)</source>
@@ -6084,7 +6086,7 @@ Nota: Es imposible anclar una barra de herramientas redimensionable. Desmarque l
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="245"/>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="286"/>
@@ -6094,7 +6096,7 @@ Nota: Es imposible anclar una barra de herramientas redimensionable. Desmarque l
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="307"/>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="335"/>
@@ -6104,12 +6106,12 @@ Nota: Es imposible anclar una barra de herramientas redimensionable. Desmarque l
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="263"/>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="217"/>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6562,7 +6564,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="905"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta aplicación usa GStreamer %1, un completo framework multimedia que es software libre y multiplataforma.  Para más informacion, visita &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="917"/>
@@ -7182,27 +7184,27 @@ Detalles: %1</translation>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="95"/>
         <source>Make roster window a &quot;tool window&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer la lista de contactos una &quot;ventana de herramientas&quot;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="105"/>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar actualizaciones al iniciar</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="117"/>
         <source>Data transfer base port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto base para transferencia de datos:</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="130"/>
         <source>99999; </source>
-        <translation type="unfinished"></translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="146"/>
         <source>(1 TCP, 4 UDP)</source>
-        <translation type="unfinished"></translation>
+        <translation>(1 TCP, 4 UDP)</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="188"/>
@@ -7212,7 +7214,7 @@ Detalles: %1</translation>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="200"/>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del Proxy</translation>
     </message>
     <message>
         <source>Data transfer port:</source>
@@ -7270,7 +7272,8 @@ Detalles: %1</translation>
     <message>
         <location filename="../../psi/src/options/opt_avcall.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translatorcomment>Translated, but I think it&apos;s not really used. But seems like all strings in .ui files are marked for translation</translatorcomment>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_avcall.ui" line="19"/>
@@ -7313,7 +7316,7 @@ Detalles: %1</translation>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar atajos de pestañas con Alt+[0-9]</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
@@ -8617,7 +8620,7 @@ Los nombres de opción no pueden estar vacios, acabar en &apos;.&apos; o contene
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="71"/>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica la prioridad del estado auto-ausente. Si se encuentra vacío, Psi usará la prioridad predefinida de la cuenta.</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="87"/>
@@ -9191,7 +9194,7 @@ Por favor, introducela a continuación:</translation>
     <message>
         <location filename="../../psi/src/profilemanage.ui" line="33"/>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/profilemanage.ui" line="47"/>
@@ -9201,7 +9204,7 @@ Por favor, introducela a continuación:</translation>
     <message>
         <location filename="../../psi/src/profilemanage.ui" line="50"/>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9508,7 +9511,8 @@ Marca la casilla &lt;i&gt;Activar Smileys&lt;/i&gt; si deseas que textos como &l
     <message>
         <location filename="../../psi/src/proxy.ui" line="126"/>
         <source>Polling URL:</source>
-        <translation type="unfinished">URL de polling:</translation>
+        <translatorcomment>Maybe use &quot;sondeo&quot;, but might sound kind of weird</translatorcomment>
+        <translation>URL de polling:</translation>
     </message>
     <message>
         <location filename="../../psi/src/proxy.ui" line="136"/>
@@ -10604,7 +10608,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="220"/>
         <source>Input command...</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduce comando...</translation>
     </message>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="304"/>
@@ -10664,7 +10668,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="646"/>
         <source>Error: Can not parse command: </source>
-        <translation type="unfinished"></translation>
+        <translation>Error: No se puede analizar el comando: </translation>
     </message>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="665"/>
@@ -10684,19 +10688,19 @@ Motivo: %1.</translation>
         <location filename="../../psi/src/psicli.h" line="16"/>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Activar la instancia del programa que esté ejecutando el perfil especificado. De lo contrario, abrir una nueva instancia usando este perfil (a no ser que se use junto con --remote).</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="22"/>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forzar modo de control remoto. Si no hay ninguna instancia en ejecución, o se especificó --profile pero no hay ninguna instancia usándolo, salir sin hacer nada. No puede usarse junto con --choose-profile.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="30"/>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la ventana de selección de perfil al iniciar. No puede usarse junto con --remote.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="34"/>
@@ -10707,7 +10711,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psicli.h" line="35"/>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir una URI XMPP. (p.ej. xmpp:alguien@ejemplo.org?chat) Por razones de seguridad, esta debe ser la última opción.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="38"/>
@@ -10719,29 +10723,29 @@ Motivo: %1.</translation>
         <location filename="../../psi/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Establecer el estado. ESTADO debe ser uno entre &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="42"/>
         <source>MSG</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSG</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="43"/>
         <source>Set status message. Must be used together with --status.</source>
         <comment>do not translate --status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Establecer mensaje de estado. Debe usarse junto con --status.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="46"/>
         <source>Show this help message and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar este mensaje de ayuda y salir.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="50"/>
         <source>Show version information and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar información de versión y salir.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="55"/>
@@ -10751,37 +10755,37 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psicli.h" line="57"/>
         <source>PROFILE</source>
-        <translation type="unfinished">PERFIL</translation>
+        <translation>PERFIL</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="57"/>
         <source>STATUS</source>
-        <translation type="unfinished">ESTADO</translation>
+        <translation>ESTADO</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="57"/>
         <source>MSG</source>
-        <translation type="unfinished"></translation>
+        <translation>MSG</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="57"/>
         <source>URI</source>
-        <translation type="unfinished">URI</translation>
+        <translation>URI</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi - El cliente XMPP multiplataforma para usuarios avanzados</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="63"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones:</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="67"/>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visita &lt;http://psi-im.org/&gt; para más informacióno sobre Psi.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="75"/>
@@ -10817,7 +10821,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1186"/>
         <source>Unsupported URI type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de URI no soportado</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1319"/>
@@ -10837,12 +10841,12 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1556"/>
         <source>Call ended</source>
-        <translation type="unfinished">Llamada finalizada</translation>
+        <translation>Llamada finalizada</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1556"/>
         <source>Other party canceled call.</source>
-        <translation type="unfinished"></translation>
+        <translation>El otro usuario ha cancelado la llamada.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1718"/>
@@ -10983,7 +10987,7 @@ Si REALMENTE quieres deshabilitar todas las barras de herramientas y la barra de
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="288"/>
         <source>A&amp;uth</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;utorizar</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="291"/>
@@ -10994,7 +10998,7 @@ Si REALMENTE quieres deshabilitar todas las barras de herramientas y la barra de
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="294"/>
         <source>Disable mood notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar notificaciones de estado de ánimo</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="312"/>
@@ -11362,7 +11366,7 @@ Quieres activar esa sesión ahora?</translation>
     <message>
         <location filename="../../psi/src/psioptionseditor.cpp" line="129"/>
         <source>Full name of the currently selected option.</source>
-        <translation>Nombre completo de la opción seleccionada actualmente</translation>
+        <translation>Nombre completo de la opción seleccionada actualmente.</translation>
     </message>
     <message>
         <location filename="../../psi/src/psioptionseditor.cpp" line="135"/>
@@ -11529,7 +11533,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Configurar barra de herramientas...</translation>
     </message>
 </context>
 <context>
@@ -11923,27 +11927,27 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="53"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="56"/>
         <source>Messages,</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes,</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="58"/>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation>Presencia-Entrante,</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="60"/>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation>Presencia-Saliente,</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="62"/>
         <source>Queries,</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultas,</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="78"/>
@@ -12564,22 +12568,22 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/applicationinfo.cpp" line="269"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han encontrado datos de configuración de una versión anterior de Psi, pero no ha sido posible convertirlos para que funcionen con la versión actual. Asegúrate de que tienes los permisos apropiados, y de que no hay otra copia de Psi ejecutandose, e inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="906"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: %1 está obsoleto y será eliminado en el futuro</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="909"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, establece un atajo de teclado para &quot;Cambiar a modo de comando rápido&quot;, usa ese atajo e introduce &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="911"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>En su lugar, pulsa %1 e introduce &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -12853,22 +12857,23 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/search.ui" line="72"/>
         <source>form</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>I&apos;ve translated it, but I doubt it&apos;s used. Comes from search.ui, and all &lt;string&gt; tags seem to be marked for translation.</translatorcomment>
+        <translation>formulario</translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="242"/>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="87"/>
         <source>psi/search</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="116"/>
         <source>psi/stop</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="204"/>
@@ -12878,7 +12883,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi/src/search.ui" line="252"/>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13143,27 +13148,27 @@ Razón: %1</translation>
     <message>
         <location filename="../../psi/src/vcardphotodlg.cpp" line="41"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guardar como...</translation>
     </message>
     <message>
         <location filename="../../psi/src/vcardphotodlg.cpp" line="44"/>
         <source>&amp;Restore Size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaurar tamaño</translation>
     </message>
     <message>
         <location filename="../../psi/src/vcardphotodlg.cpp" line="50"/>
         <source>Save As</source>
-        <translation type="unfinished">Guardar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../psi/src/vcardphotodlg.cpp" line="50"/>
         <source>photo.png</source>
-        <translation type="unfinished"></translation>
+        <translation>foto.png</translation>
     </message>
     <message>
         <location filename="../../psi/src/vcardphotodlg.cpp" line="51"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo PNG (*.png);;Archivo JPEG (*.jpeg);;Archivo BMP (*.bmp);;Archivo PPM (*.ppm);;Todos los archivos (*)</translation>
     </message>
 </context>
 <context>
@@ -14445,7 +14450,7 @@ o escriba la suya propia. En otro caso, deje el campo vacío.</translation>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished">El servidor no pudo procesar la estrofa por un error de configuración o un error interno no definido del servidor.</translation>
+        <translation>El servidor no pudo procesar la &quot;stanza&quot; por un error de configuración o un error interno no definido del servidor.</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
