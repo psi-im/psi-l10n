@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="ca_ES">
 <context>
     <name>@default</name>
     <message>
@@ -12,34 +12,34 @@
     <name>AHCFormDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalitzar</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Següent</translation>
     </message>
 </context>
 <context>
     <name>AHCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre:</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar</translation>
     </message>
 </context>
 <context>
@@ -262,14 +262,16 @@ Uneix-te a l&apos;equip de traducció! Visita &lt;a href=&quot;http://psi.affini
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Un client XMPP multi-plataforma dissenyat per als usuaris avançats.&lt;br&gt;
+&lt;br&gt;
+Copyright (C) 2001 - 2012 per l&apos;equip de Psi&lt;br&gt;</translation>
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
@@ -373,7 +375,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marqui aquesta opció si encara no té un compte XMPP i en vol registrar un. Tingui en compte que això sols funcionarà en servidors que permetin registre anònim.</translation>
     </message>
 </context>
 <context>
@@ -425,34 +427,34 @@ Fagi clic a la casella &lt;b&gt;Registrar un nou compte&lt;/b&gt; si desitja que
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation type="unfinished">Si us plau, introdueixi la contrasenya de %1:</translation>
+        <translation>Si us plau, introdueixi la contrasenya de %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introdueixi la seva contrasenya:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Requereix contrasenya</translation>
     </message>
 </context>
 <context>
     <name>AccountManage</name>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptes XMPP</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished">Servidor</translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -460,7 +462,7 @@ Fagi clic a la casella &lt;b&gt;Registrar un nou compte&lt;/b&gt; si desitja que
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -472,7 +474,7 @@ Fagi clic a la casella &lt;b&gt;Registrar un nou compte&lt;/b&gt; si desitja que
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
