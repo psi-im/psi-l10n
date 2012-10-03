@@ -20,3 +20,9 @@ Please do not commit .qm files to the repo.
 
 If you want to make a brand new translation, the psi_xx.ts file can be copied
 and used as a blank slate.
+
+To compile ALL the language packs:
+
+  QTDIR=/path/to/qt ./build.sh
+
+This will create a directory 'dist' containing all the .qm files.
