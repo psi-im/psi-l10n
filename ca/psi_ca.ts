@@ -319,7 +319,15 @@ Copyright (C) 2001 - 2012 per l&apos;equip de Psi&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Traducció al català:&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;B&gt;Versió 0.9.3&lt;/B&gt;: &lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Josep Maria Roca Cabré - &lt;a href=&quot;jabber:quelcom@jabber.org&quot;&gt;quelcom@jabber.org&lt;/a&gt;&lt;BR&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:quelcom@gmail.com&quot;&gt;quelcom@gmail.com&lt;/a&gt;&lt;P&gt;
+
+&amp;nbsp;&amp;nbsp;&lt;B&gt;Versió 0.9.1&lt;/B&gt;: &lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Álvaro Cuevas i Fajardo - &lt;a href=&quot;jabber:acuevas@aditel.org&quot;&gt;acuevas@aditel.org&lt;/a&gt;&lt;BR&gt;&lt;BR&gt;
+
+Uneix-te a l&apos;equip de traducció! Visita &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; per a més detalls!</translation>
     </message>
 </context>
 <context>
@@ -336,27 +344,27 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <source>Register new account</source>
-        <translation type="unfinished">Registra un nou compte</translation>
+        <translation>Registra un nou compte</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegeix</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -458,7 +466,7 @@ Fagi clic a la casella &lt;b&gt;Registrar un nou compte&lt;/b&gt; si desitja que
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegeix</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -466,11 +474,11 @@ Fagi clic a la casella &lt;b&gt;Registrar un nou compte&lt;/b&gt; si desitja que
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished">&amp;Modifica</translation>
+        <translation>&amp;Modifica</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -556,11 +564,11 @@ activa.
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, desconnecta abans d&apos;eliminar el compte.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desconnectar</translation>
     </message>
 </context>
 <context>
@@ -602,99 +610,99 @@ activa.
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats del compte</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Compte</translation>
+        <translation>Compte</translation>
     </message>
     <message>
         <source>Example: juliet@capulet.com</source>
-        <translation type="unfinished">Exemple: juliet@capulet.com</translation>
+        <translation>Exemple: julieta@capulet.com</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça XMPP:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Contrasenya:</translation>
+        <translation>Contrasenya:</translation>
     </message>
     <message>
         <source>Change...</source>
-        <translation type="unfinished">Canvia...</translation>
+        <translation>Canvia...</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation type="unfinished">Connecta automàticament a l&apos;inici</translation>
+        <translation>Connecta automàticament a l&apos;inici</translation>
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connecta automàticament desprès de</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation type="unfinished">Reconnecta automàticament si es desconnecta</translation>
+        <translation>Reconnecta automàticament si es desconnecta</translation>
     </message>
     <message>
         <source>Log message history</source>
-        <translation type="unfinished">Quadern de bitàcora de l&apos;historial de missatges</translation>
+        <translation>Guardar historial de missatges</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detalls</translation>
+        <translation>Detalls</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished">Informació personal</translation>
+        <translation>Informació personal</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="unfinished">&lt;qt&gt;La seva informació s&apos;emmagatzema en el servidor com una vCard, a la qual hi poden consultar altres persones en qualsevol moment.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;La seva informació s&apos;emmagatzema en el servidor com una vCard, a la qual hi poden consultar altres persones en qualsevol moment.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation type="unfinished">Edita &amp;detalls personals...</translation>
+        <translation>Edita &amp;detalls personals...</translation>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished">OpenPGP</translation>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Seleccioni &amp;clau...</translation>
+        <translation>Selecciona &amp;clau...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation type="unfinished">No n&apos;utilitzeu cap</translation>
+        <translation>No n&apos;utilitzeu cap</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Privacitat</translation>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Contactes bloquejats</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Afegeix</translation>
+        <translation>Afegeix</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
@@ -702,47 +710,47 @@ activa.
     </message>
     <message>
         <source>Advanced ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançat ...</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished">Connexió</translation>
+        <translation>Connexió</translation>
     </message>
     <message>
         <source>Connection proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy de connexió:</translation>
     </message>
     <message>
         <source>proxychooser</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Compress traffic (if possible)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir trafic (quan sigui possible)</translation>
     </message>
     <message>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Envia paquets &quot;Keep-alive&quot; (per a evitar límits de temps)</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished">Especifica manualment servidor/port:</translation>
+        <translation>Especifica manualment servidor/port:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished">Servidor:</translation>
+        <translation>Servidor:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished">Port:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Encriptar connexió:</translation>
     </message>
     <message>
         <source>Allow plaintext authentication:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetre autenticació de text net:</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
@@ -754,7 +762,7 @@ activa.
     </message>
     <message>
         <source>Misc.</source>
-        <translation type="unfinished">Misc.</translation>
+        <translation>Misc.</translation>
     </message>
     <message>
         <source>Use hostname as resource</source>
@@ -762,15 +770,15 @@ activa.
     </message>
     <message>
         <source>Resource:</source>
-        <translation type="unfinished">Recurs:</translation>
+        <translation>Recurs:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished">Prioritat:</translation>
+        <translation>Prioritat:</translation>
     </message>
     <message>
         <source>Data Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferència de dades</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
@@ -778,19 +786,19 @@ activa.
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
-        <translation type="unfinished"></translation>
+        <translation>STUN/TURN</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;usuari:</translation>
     </message>
     <message>
         <source>Authenticate as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticar com a:</translation>
     </message>
     <message>
         <source>Realm:</source>
@@ -945,31 +953,31 @@ guardarla.</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>When available</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan sigui disponible</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai</translation>
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL antic</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre connexió encriptada</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap</translation>
     </message>
     <message>
         <source>Integrity</source>
-        <translation type="unfinished"></translation>
+        <translation>Integritat</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -985,7 +993,7 @@ guardarla.</translation>
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalment, Psi es connecta utilitzant el mètode d&apos;autentificació per &lt;i&gt;resum de contrasenya&lt;/i&gt;. Marqui aquesta casella per a forçar una connexió de text net al servidor XMPP. Utilitzi aquesta opció només si té problemes amb el processament usual de connexió, ja que fa que la seva connexió sigui potencialment vulnerable a atacs.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -1017,7 +1025,7 @@ guardarla.</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;usuari:</translation>
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
@@ -1041,7 +1049,7 @@ guardarla.</translation>
     </message>
     <message>
         <source>Block contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquejar contacte</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
@@ -1053,7 +1061,7 @@ guardarla.</translation>
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No estàs connectat.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
@@ -1758,34 +1766,34 @@ Raó: %1</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest perfil de Psi ja està funcionant...&lt;br&gt;Si us plau, espera...</translation>
     </message>
 </context>
 <context>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
-        <translation type="unfinished">Afegeix URL</translation>
+        <translation>Afegeix URL</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished">URL:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Descripció:</translation>
+        <translation>Descripció:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1815,7 +1823,7 @@ Raó: %1</translation>
     <name>AddUser</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegir contacte</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1827,31 +1835,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Service:</source>
-        <translation type="unfinished">Servei:</translation>
+        <translation>Servei:</translation>
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
-        <translation type="unfinished">Traducció de la &quot;Service ID&quot;</translation>
+        <translation>Traducció de la ID de servei</translation>
     </message>
     <message>
         <source>No description</source>
-        <translation type="unfinished">Sense descripció</translation>
+        <translation>Sense descripció</translation>
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir adreça XMPP</translation>
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup:</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -1859,35 +1867,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Nickname (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nick (opcional):</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça XMPP:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
-        <translation type="unfinished">Demana autorització al afegir</translation>
+        <translation>Demana autorització al afegir</translation>
     </message>
     <message>
         <source>Close window after adding</source>
-        <translation type="unfinished">Tanca la finestra després de afegir</translation>
+        <translation>Tanca la finestra després d&apos;afegir</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegeix</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1980,11 +1988,11 @@ Assegurís de que ha introduit una Jabber ID completament vàlida.</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Automàtic</translation>
+        <translation>Ocult</translation>
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introdueix l&apos;adreça XMPP de la persona que vols afegir.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
@@ -2139,7 +2147,7 @@ Par afegir un contacte d&apos;un servei &lt;b&gt;no Jabber&lt;/b&gt;, assegurís
     <name>AvCallEvent</name>
     <message>
         <source>The user is calling you.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;usuari t&apos;està trucant.</translation>
     </message>
 </context>
 <context>
@@ -2351,15 +2359,15 @@ Razón: %1</translation>
     <name>Call</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Diàleg</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">A:</translation>
+        <translation>A:</translation>
     </message>
     <message>
         <source>Use video</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzar vídeo</translation>
     </message>
     <message>
         <source>Sending bandwidth:</source>
@@ -2367,22 +2375,22 @@ Razón: %1</translation>
     </message>
     <message>
         <source>Call status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat de la trucada</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation type="unfinished">&amp;Rebutjar</translation>
+        <translation>&amp;Rebutjar</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation type="unfinished">&amp;Accepta</translation>
+        <translation>&amp;Accepta</translation>
     </message>
 </context>
 <context>
     <name>CallDlg::Private</name>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Trucada de veu</translation>
     </message>
     <message>
         <source>High (1Mbps)</source>
@@ -2398,152 +2406,152 @@ Razón: %1</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>C&amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;rucar</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">A punt</translation>
+        <translation>Preparat</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished">De:</translation>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Accept call?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptar trucada?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancel.la</translation>
     </message>
     <message>
         <source>Calling...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trucant...</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation type="unfinished">Acceptant...</translation>
+        <translation>Acceptant...</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Penjar</translation>
     </message>
     <message>
         <source>Call active</source>
-        <translation type="unfinished"></translation>
+        <translation>Trucada activa</translation>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Trucada finalitzada</translation>
     </message>
 </context>
 <context>
     <name>CertificateDisplay</name>
     <message>
         <source>Certificate Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació de certificat</translation>
     </message>
     <message>
         <source>Certificate Validation:</source>
-        <translation type="unfinished">Validació de certificat:</translation>
+        <translation>Validació de certificat:</translation>
     </message>
     <message>
         <source>Valid From:</source>
-        <translation type="unfinished">Vàlid desde:</translation>
+        <translation>Vàlid des de:</translation>
     </message>
     <message>
         <source>Valid Until:</source>
-        <translation type="unfinished">Vàlid fins a:</translation>
+        <translation>Vàlid fins a:</translation>
     </message>
     <message>
         <source>Serial Number:</source>
-        <translation type="unfinished">Número de sèrie:</translation>
+        <translation>Número de sèrie:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca</translation>
     </message>
 </context>
 <context>
     <name>CertificateDisplayDialog</name>
     <message>
         <source>The certificate is valid.</source>
-        <translation type="unfinished">El certificat es vàlid.</translation>
+        <translation>El certificat es vàlid.</translation>
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation type="unfinished">El certificat NO es vàlid!</translation>
+        <translation>El certificat NO es vàlid!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
-        <translation type="unfinished">Raó: %1.</translation>
+        <translation>Raó: %1.</translation>
     </message>
     <message>
         <source>Subject Details:</source>
-        <translation type="unfinished">Detalls del assumpte:</translation>
+        <translation>Detalls de l&apos;assumpte:</translation>
     </message>
     <message>
         <source>Issuer Details:</source>
-        <translation type="unfinished">Detalls del emissor:</translation>
+        <translation>Detalls de l&apos;emissor:</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished">Organització:</translation>
+        <translation>Organització:</translation>
     </message>
     <message>
         <source>Organizational unit:</source>
-        <translation type="unfinished">Unitat d&apos;organització:</translation>
+        <translation>Unitat d&apos;organització:</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished">Localitat:</translation>
+        <translation>Localitat:</translation>
     </message>
     <message>
         <source>State:</source>
-        <translation type="unfinished">Estat/Província:</translation>
+        <translation>Estat/Província:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished">País:</translation>
+        <translation>País:</translation>
     </message>
     <message>
         <source>Common name:</source>
-        <translation type="unfinished">Nom comú:</translation>
+        <translation>Nom comú:</translation>
     </message>
     <message>
         <source>Domain name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de domini:</translation>
     </message>
     <message>
         <source>XMPP name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom XMPP:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Correu Electrònic:</translation>
+        <translation>Correu electrònic:</translation>
     </message>
 </context>
 <context>
     <name>ChangePassword</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviar contrasenya</translation>
     </message>
     <message>
         <source>Confirm new password:</source>
-        <translation type="unfinished">Confirma nova contrasenya:</translation>
+        <translation>Confirma nova contrasenya:</translation>
     </message>
     <message>
         <source>Current password:</source>
-        <translation type="unfinished">Contrasenya actual:</translation>
+        <translation>Contrasenya actual:</translation>
     </message>
     <message>
         <source>New password:</source>
-        <translation type="unfinished">Nova contrasenya:</translation>
+        <translation>Nova contrasenya:</translation>
     </message>
 </context>
 <context>
@@ -2762,27 +2770,27 @@ Verifiqui la seva aplicació/configuració OpenPGP.</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Accions</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -2797,7 +2805,7 @@ Verifiqui la seva aplicació/configuració OpenPGP.</translation>
     <name>ChatEdit</name>
     <message>
         <source>Add to dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegir al diccionari</translation>
     </message>
 </context>
 <context>
@@ -2883,57 +2891,57 @@ Verifiqui la seva aplicació/configuració OpenPGP.</translation>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Re&amp;nombra</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished">Eliminar grup i contactes</translation>
+        <translation>Elimina grup i contactes</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Eliminar</translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished">Eliminar grup</translation>
+        <translation>Elimina grup</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia un missatge al grup</translation>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Afegeix grup...</translation>
     </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation type="unfinished">No pot establir-se un nom de grup buit.</translation>
+        <translation>No pot establir-se un nom de grup buit.</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation type="unfinished"></translation>
+        <translation>No està a la llista</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Agents/Transports</translation>
+        <translation>Agents/Transports</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Missatges privats</translation>
     </message>
 </context>
 <context>
@@ -3000,7 +3008,7 @@ Verifiqui la seva aplicació/configuració OpenPGP.</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3597,36 +3605,36 @@ Continuar?</translation>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">Descobreix serveis</translation>
+        <translation>Descobreix serveis</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
         <comment>Don&apos;t translate this string</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adreça:</translation>
     </message>
     <message>
         <source>&amp;Node:</source>
-        <translation type="unfinished">&amp;Node:</translation>
+        <translation>&amp;Node:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navega</translation>
     </message>
     <message>
         <source>Auto-browse into objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-navegació dins dels objectes</translation>
     </message>
     <message>
         <source>Automatically get item information</source>
-        <translation type="unfinished">Obtingues automàticament la informació de l&apos;element</translation>
+        <translation>Obtingues automàticament la informació de l&apos;element</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
@@ -3734,11 +3742,11 @@ Continuar?</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar ordre</translation>
     </message>
     <message>
         <source>&amp;Execute command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Executar ordre</translation>
     </message>
     <message>
         <source>Service Discovery toolbar</source>
@@ -3789,7 +3797,7 @@ Raó: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Servei XMPP</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -3832,7 +3840,7 @@ Raó: %2</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Error:</translation>
     </message>
 </context>
 <context>
@@ -4175,14 +4183,14 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>FancyPopup::Private</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca</translation>
     </message>
 </context>
 <context>
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest usuari vol enviar-te un fitxer.</translation>
     </message>
 </context>
 <context>
@@ -4360,39 +4368,39 @@ contacte està desconnectat.</translation>
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>accountlabel</source>
-        <translation type="unfinished">etiquetacompte</translation>
+        <translation></translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">A:</translation>
+        <translation>A:</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished">Fitxer:</translation>
+        <translation>Fitxer:</translation>
     </message>
     <message>
         <source>psi/browse</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Descripció:</translation>
+        <translation>Descripció:</translation>
     </message>
     <message>
         <source>stop</source>
-        <translation type="unfinished">final</translation>
+        <translation></translation>
     </message>
     <message>
         <source>start</source>
-        <translation type="unfinished">començament</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4505,7 +4513,7 @@ Raó: %3</translation>
     </message>
     <message>
         <source>File I/O error (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de E/S del fitxer (%1)</translation>
     </message>
 </context>
 <context>
@@ -4555,7 +4563,7 @@ Raó: %3</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obrir carpeta contenidora</translation>
     </message>
 </context>
 <context>
@@ -4610,26 +4618,26 @@ Raó: %3</translation>
     </message>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntant al proxy...</translation>
     </message>
 </context>
 <context>
     <name>FileUtil</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>The file specified does not exist.</source>
-        <translation type="unfinished">El fitxer especificat no existeix.</translation>
+        <translation>El fitxer especificat no existeix.</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Escull un fitxer</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatges (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
 </context>
 <context>
