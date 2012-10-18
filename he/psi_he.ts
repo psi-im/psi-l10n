@@ -1057,7 +1057,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/accountmanagedlg.cpp" line="139"/>
         <source>&amp;No</source>
-        <translatio>&amp;לא</translation>
+        <translation>&amp;לא</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanagedlg.cpp" line="140"/>
@@ -1883,7 +1883,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="87"/>
         <source>Service &amp;Discovery</source>
-        <translation">מציאת &amp;שירות</translation>
+        <translation>מציאת &amp;שירות</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="90"/>
@@ -3698,7 +3698,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1169"/>
-        <source>Unable to join groupchat.	Reason: %1</source>
+        <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
