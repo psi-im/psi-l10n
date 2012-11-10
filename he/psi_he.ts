@@ -15,7 +15,7 @@
     <message>
         <location filename="../psi/src/ahcformdlg.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>תבנית</translation>
     </message>
     <message>
         <location filename="../psi/src/ahcformdlg.cpp" line="65"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../psi/src/ahcommanddlg.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>תבנית</translation>
     </message>
     <message>
         <location filename="../psi/src/ahcommanddlg.ui" line="20"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../psi/src/ahcommanddlg.cpp" line="128"/>
         <source>Execute</source>
-        <translation type="unfinished"></translation>
+        <translation>ביצוע</translation>
     </message>
 </context>
 <context>
@@ -129,7 +129,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="57"/>
         <source>Lead Widget Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>מפתח תוכנית תרשימית מוביל</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="60"/>
@@ -152,12 +152,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="82"/>
         <source>Build setup, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>בניית התקנה, סיוע מעורב</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="85"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>צלמיות רבות הינן מן מוטיב הצלמיות Crystal שלו</translation>
+        <translation>צלמיות רבות הינן מן מוטיב הצלמיות ‫Crystal שלו</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="88"/>
@@ -168,12 +168,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="94"/>
         <source>Original Mac Port</source>
-        <translation type="unfinished"></translation>
+        <translation>פורט Mac מקורי</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="97"/>
         <source>Mac OS X Port</source>
-        <translation type="unfinished"></translation>
+        <translation>פורט Mac OS X</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="100"/>
@@ -188,7 +188,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="106"/>
         <source>Bug Tracker Management</source>
-        <translation type="unfinished"></translation>
+        <translation>ניהול מעקב תקלות</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="109"/>
@@ -293,7 +293,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountadddlg.cpp" line="43"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>יש לעשות שימוש באפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים הרשמה אלמונית בלבד.</translation>
+        <translation>יש לעשות שימוש באפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadddlg.cpp" line="47"/>
@@ -453,7 +453,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="155"/>
         <source>Automatically reconnect if disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>התחבר מחודש אוטומטית בעת התנתקות לא רצונית</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="162"/>
@@ -483,7 +483,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="259"/>
         <source>OpenPGP</source>
-        <translation>‫OpenPGP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="288"/>
@@ -498,7 +498,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="328"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>ללא מפתח</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="357"/>
@@ -508,7 +508,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="428"/>
         <source>Blocked Contacts</source>
-        <translation>אישי־קשר חסומים</translation>
+        <translation>אישי קשר חסומים</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="451"/>
@@ -580,7 +580,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="682"/>
         <source>Allow plaintext authentication:</source>
-        <translation>התרת אימות גלוי (plaintext):</translation>
+        <translation>התרת אימות גלוי:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="720"/>
@@ -615,12 +615,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="859"/>
         <source>Data Transfer</source>
-        <translation>העברת נתונים</translation>
+        <translation>מסירת נתונים</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="865"/>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">בתוך-פס בלבד (איטי)</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="880"/>
@@ -641,7 +641,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="986"/>
         <source>Authenticate as:</source>
-        <translation type="unfinished"></translation>
+        <translation>התאמת כ:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="1027"/>
@@ -711,7 +711,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="206"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>התחברות אוטומטית אל חשבון זה בהפעלת Psi.  שימושית אם Psi משוגר באופן אוטומטית בעת איתור חיבור אינטרנט.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="210"/>
@@ -726,7 +726,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="217"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
-        <translation type="unfinished"></translation>
+        <translation>שמירת רישום של היסטוריית הודעה.  נטרל את אפשרות זו אם ברצונך לשמר מרחב כונן או אם יש לך הצורך למקסם אבטחה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="221"/>
@@ -736,22 +736,22 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="227"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>סמן את אפשרות זו כדי לעשות שימוש בחיבור SSL מוצפן לשרת XMPP.  באפשרותך לעשות שימוש באפשרות זו אם שרתך תומך בה ואם יש לך את התוספת qca-ossl הנחוצה מותקנת.  לפרטים נוספים, בדוק את עמוד הבית של Psi.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="233"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>סמן את אפשרות זו כדי לעשות שימוש בחיבור דחוס בהתברותך אל שרת XMPP, במידה והשרת תומך בכך.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="236"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש באפשרות זו לתצורה ידנית של מארח XMPP אם זה אינו זהה למארח אליו הינך מתחבר.  אפשרות זו שימושית בעיקר אם יש לך סוג מסוים של נתב פרוקסי במכונה המקומית שלך (דהיינו התחברות אל localhost), אך חשבונך הינו רשום על שרת חיצוני.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="242"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>ביכולתך להתחבר עם לקוחות מרובים אל שרת XMPP עם חשבונך היחידי.  כל התחברות מובדלת על ידי שם &quot;משאב&quot;, שביכולתך להתוות בשדה זה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="246"/>
@@ -793,7 +793,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="403"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן לאפשר SSL/TLS.  תוספת לא נמצאה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="430"/>
@@ -818,32 +818,32 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="541"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation type="unfinished"></translation>
+        <translation>חשבון זה פעיל עתה, כך ששינויים מסוימים עשוים שלא להיכנס לתוקף עד ההתחברות הבאה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="543"/>
         <source>Reconnect &amp;Later</source>
-        <translation type="unfinished"></translation>
+        <translation>התחבר מחדש &amp;מאוחר יותר</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="544"/>
         <source>Reconnect &amp;Now</source>
-        <translation type="unfinished"></translation>
+        <translation>התחבר מחדש &amp;עכשיו</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="574"/>
         <source>Block contact</source>
-        <translation>חסימת איש־קשר</translation>
+        <translation>חסימת איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="574"/>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation>נא להזין כתובת XMPP של איש־קשר לחסימה:</translation>
+        <translation>נא להזין כתובת XMPP של איש קשר לחסימה:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="606"/>
         <source>Retrieving blocked contact list ...</source>
-        <translation>מאחזר כעת רשימת אישי־קשר חסומים ...</translation>
+        <translation>מאחזר כעת רשימת קשר חסומה ...</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="615"/>
@@ -861,7 +861,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="13"/>
         <source>Register Account</source>
-        <translation>הרשמת חשבון</translation>
+        <translation>רישום חשבון</translation>
     </message>
     <message>
         <location filename="../psi/src/accountreg.ui" line="38"/>
@@ -934,7 +934,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="64"/>
         <source>When available</source>
-        <translation>בעת זמינות</translation>
+        <translation>כאשר זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="65"/>
@@ -949,7 +949,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="107"/>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אכן ברצונך לבטל את הרישום?</translation>
     </message>
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="107"/>
@@ -1007,7 +1007,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="279"/>
         <source>This server does not support registration</source>
-        <translation>שרת זה לא תומך הרשמה</translation>
+        <translation>שרת זה לא תומך רישום</translation>
     </message>
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="289"/>
@@ -1023,7 +1023,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <location filename="../psi/src/accountregdlg.cpp" line="297"/>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>אירעה שגיאה בהרשמת חשבון.
+        <translation>אירעה שגיאה ברישום חשבון.
 סיבה: %1</translation>
     </message>
 </context>
@@ -1043,7 +1043,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>להסיר חשבון וגם לנסות להסיר את ההרשמה מן השרת.</translation>
+        <translation>להסיר חשבון וגם לנסות להסיר את הרישום מן השרת.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountremove.ui" line="42"/>
@@ -1068,7 +1068,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/accountmanagedlg.cpp" line="138"/>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation>האם אכן ברצונך לבטל את הסרת ההשרמה?</translation>
+        <translation>האם אכן ברצונך לבטל את הסרת הרישום?</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanagedlg.cpp" line="139"/>
@@ -1163,7 +1163,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/adduser.ui" line="14"/>
         <source>Add Contact</source>
-        <translation>הוספת איש־קשר</translation>
+        <translation>הוספת איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/adduser.ui" line="38"/>
@@ -1176,7 +1176,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;בכדי להוסיף משתמש &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;, עליך לציין כתובת XMPP (אפשרי גם כינוי וקבוצה) מתחת וללחוץ &lt;span style=&quot; font-style:italic;&quot;&gt;הוספה&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש־קשר מן שירות &lt;span style=&quot; font-weight:600;&quot;&gt;שאיננו XMPP&lt;/span&gt;, נא לוודא ראשית שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן הקופסא שלמעלה. נא לעקוב אחר ההנחיות בתוך קופסת &lt;span style=&quot; font-style:italic;&quot;&gt;תרגום זהות שירות&lt;/span&gt; וללחוץ על &lt;span style=&quot; font-style:italic;&quot;&gt;השגת כתובת XMPP&lt;/span&gt; כדי לחולל כתובת XMPP עבור אותו איש־קשר.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;בכדי להוסיף משתמש &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;, עליך לציין כתובת XMPP (אפשרי גם כינוי וקבוצה) מתחת וללחוץ &lt;span style=&quot; font-style:italic;&quot;&gt;הוספה&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר מן שירות &lt;span style=&quot; font-weight:600;&quot;&gt;שאיננו XMPP&lt;/span&gt;, וודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן הקופסא שלמעלה. נא לעקוב אחר ההנחיות בתוך קופסת &lt;span style=&quot; font-style:italic;&quot;&gt;תרגום זהות שירות&lt;/span&gt; וללחוץ על &lt;span style=&quot; font-style:italic;&quot;&gt;השגת כתובת XMPP&lt;/span&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/adduser.ui" line="68"/>
@@ -1216,7 +1216,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/adduser.ui" line="208"/>
         <source>Resolve</source>
-        <translation type="unfinished"></translation>
+        <translation>פתירה</translation>
     </message>
     <message>
         <location filename="../psi/src/adduser.ui" line="217"/>
@@ -1340,7 +1340,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/psievent.cpp" line="432"/>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation>‫%1 רוצה להירשם לנוכחותך.</translation>
+        <translation>‫%1 רוצה להירשם אל נוכחותך.</translation>
     </message>
     <message>
         <location filename="../psi/src/psievent.cpp" line="434"/>
@@ -1436,7 +1436,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/bookmarkmanage.ui" line="78"/>
         <source>Password:</source>
-        <translation>מילת מעבר</translation>
+        <translation>סיסמה:</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanage.ui" line="95"/>
@@ -1449,22 +1449,22 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="44"/>
         <source>&amp;Add</source>
-        <translation>&amp;הסרה</translation>
+        <translation>הוס&amp;פה</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="45"/>
         <source>&amp;Remove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>הס&amp;רה</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="46"/>
         <source>&amp;Join</source>
-        <translation>&amp;הצטרפות</translation>
+        <translation>&amp;כניסה</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="126"/>
         <source>Unnamed</source>
-        <translation>בלי שם</translation>
+        <translation>סימנייה בלי שם</translation>
     </message>
 </context>
 <context>
@@ -1535,7 +1535,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="114"/>
         <source>C&amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;חיוג</translation>
     </message>
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="115"/>
@@ -1576,12 +1576,12 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="216"/>
         <source>Call active</source>
-        <translation type="unfinished"></translation>
+        <translation>שיחה פעילה</translation>
     </message>
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="225"/>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>שיחה הסתיימה</translation>
     </message>
 </context>
 <context>
@@ -1726,7 +1726,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/changepwdlg.cpp" line="79"/>
         <source>You must fill out the fields properly before you can proceed.</source>
-        <translation>עליך למלא את השדטת כראוי לפני שתוכלי להמשיך.</translation>
+        <translation>עליך למלא את השדות כראוי לפני שתוכלי להמשיך.</translation>
     </message>
     <message>
         <location filename="../psi/src/changepwdlg.cpp" line="84"/>
@@ -1786,7 +1786,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="153"/>
         <source>Select icon</source>
-        <translation>בחירת צלמית</translation>
+        <translation>בחירת רגשון</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="172"/>
@@ -1819,22 +1819,22 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="453"/>
         <source>%1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 מצוי/ה במצב %2</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="612"/>
         <source>%1 (Composing ...)</source>
-        <translation>‫%1 (כותב/ת כעת ...)</translation>
+        <translation>‫%1 (הלחנה ...)</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="615"/>
         <source>%1 (Inactive)</source>
-        <translation>‫%1 (לא פעיל/ה)</translation>
+        <translation>‫%1 (חוסר פעילות)</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="657"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש־קשר מרוחק.  האם אכן ברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אכן ברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="660"/>
@@ -1859,7 +1859,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/chatdlg.cpp" line="951"/>
         <source>%1 ended the conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 סיים/ה את השיחה</translation>
     </message>
 </context>
 <context>
@@ -1900,7 +1900,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="84"/>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש־קשר</translation>
+        <translation>&amp;הוספת איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="87"/>
@@ -1960,12 +1960,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="129"/>
         <source>&amp;Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;הנהלה</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="166"/>
         <source>Join %1</source>
-        <translation type="unfinished"></translation>
+        <translation>הצטרפות אל %1</translation>
     </message>
 </context>
 <context>
@@ -1978,7 +1978,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="60"/>
         <source>Remove Group and Contacts</source>
-        <translation>הסרת קבוצה וגם אישי־קשר</translation>
+        <translation>הסרת קבוצה וגם אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="62"/>
@@ -2042,36 +2042,39 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="63"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מן רשימתך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מן רשימת קשריך.</translation>
     </message>
     <message numerus="yes">
         <location filename="../psi/src/contactlistutil.cpp" line="86"/>
         <source>and %n contacts </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>וגם איש קשר %n </numerusform>
+            <numerusform>וגם %n אישי קשר </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../psi/src/contactlistutil.cpp" line="91"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מן רשימת קשריך.</numerusform>
+            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מן רשימת קשריך.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="100"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם &quot;%3&quot; קבוצה מן רשימתך.</translation>
+        <translation>פעו
+לה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת קשריך.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="108"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2מן רשימתך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2מן רשימת קשריך.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="118"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>זוהי קבוצת מערכת ולא ניתן להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מן רשימתך?</translation>
+        <translation>זוהי קבוצת מערכת ולא ניתן להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מן רשימת קשריך?</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="120"/>
@@ -2081,12 +2084,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="123"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מן רשימתך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מן רשימת קשריך.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="140"/>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>פעולה זו תסיר לצמיתות את %1 מן רשימתך. ביכולתך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
+        <translation>פעולה זו תסיר לצמיתות את %1 מן רשימת קשריך. ביכולתך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="143"/>
@@ -2113,7 +2116,7 @@ Do you still want to close the window?</source>
         <location filename="../psi/src/contactlistutil.cpp" line="169"/>
         <location filename="../psi/src/contactlistutil.cpp" line="183"/>
         <source>Deleting contacts</source>
-        <translation>מחיקת אישי־קשר</translation>
+        <translation>מחיקת אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="260"/>
@@ -2203,7 +2206,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="970"/>
         <source>Join %1</source>
-        <translation type="unfinished"></translation>
+        <translation>הצטרפות אל %1</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="978"/>
@@ -2213,7 +2216,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="981"/>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש־קשר</translation>
+        <translation>&amp;הוספת איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="982"/>
@@ -2223,7 +2226,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="984"/>
         <source>New &amp;Blank Message</source>
-        <translation type="unfinished"></translation>
+        <translation>הודעה &amp;ריקה חדשה</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="986"/>
@@ -2238,7 +2241,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="992"/>
         <source>&amp;Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;מנהל</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1064"/>
@@ -2255,7 +2258,7 @@ Do you still want to close the window?</source>
         <location filename="../psi/src/contactview.cpp" line="1078"/>
         <location filename="../psi/src/contactview.cpp" line="1116"/>
         <source>Remove Group and Contacts</source>
-        <translation>הסרת קבוצה וגם אישי־קשר</translation>
+        <translation>הסרת קבוצה וגם אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1083"/>
@@ -2267,7 +2270,9 @@ Do you still want to close the window?</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>פעולה זו תגרום לכל אישי הקשר בקבוצה זו להיפרד ממנה.
+
+להמשיך?</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1107"/>
@@ -2290,14 +2295,14 @@ Proceed?</source>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>אזהרה!  פעולה זו תסיר את כל אישי־הקשר שקשורים עם קבוצה זו!
+        <translation>אזהרה!  פעולה זו תסיר את כל אישי הקשר שקשורים עם קבוצה זו!
 
 האם להמשיך?</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1161"/>
         <source>Add/Authorize to Contact List</source>
-        <translation>הוספה/אישור אל רשימת אישי־קשר</translation>
+        <translation>הוספה/אישור אל רשימת קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1204"/>
@@ -2307,7 +2312,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1210"/>
         <source>Open Chat To</source>
-        <translation>פתיחת שיחה אל</translation>
+        <translation>פתיחת שיחה עם</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1217"/>
@@ -2347,7 +2352,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1349"/>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;צור חדש...</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1350"/>
@@ -2357,7 +2362,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1364"/>
         <source>Log Off</source>
-        <translation type="unfinished"></translation>
+        <translation>התנתקות</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1374"/>
@@ -2387,18 +2392,18 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1407"/>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
+        <translation>הקצאת מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1409"/>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
+        <translation>אי הקצאת מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1452"/>
         <location filename="../psi/src/contactview.cpp" line="1505"/>
         <source>Authorize</source>
-        <translation type="unfinished"></translation>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1453"/>
@@ -2423,7 +2428,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1499"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת אישי־קשר.</translation>
+        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת הקשר.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1506"/>
@@ -2454,7 +2459,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1737"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>האם אכן ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מן רשימת אישי־קשר שלך?</translation>
+        <translation>האם אכן ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מן רשימת קשריך?</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1763"/>
@@ -2504,7 +2509,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="2039"/>
         <source>&amp;Assign Custom Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;הקצאת תמונה מותאמת</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="2041"/>
@@ -2529,12 +2534,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="2051"/>
         <source>&amp;Log on</source>
-        <translation type="unfinished"></translation>
+        <translation>הת&amp;חברות</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="2053"/>
         <source>&amp;Receive Incoming Event</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;קבלת אירוע נכנס</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="2055"/>
@@ -2578,7 +2583,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/disco.ui" line="76"/>
         <source>&amp;Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;נקודת ממסר:</translation>
     </message>
     <message>
         <location filename="../psi/src/disco.ui" line="113"/>
@@ -2681,12 +2686,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="994"/>
         <source>Register</source>
-        <translation>הרשמה</translation>
+        <translation>רישום</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="994"/>
         <source>&amp;Register</source>
-        <translation>&amp;הרשמה</translation>
+        <translation>&amp;רישום</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="997"/>
@@ -2811,7 +2816,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="799"/>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation>טיפוס</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="808"/>
@@ -2829,7 +2834,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdb.cpp" line="887"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;הינך מורשה כעת.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdb.cpp" line="889"/>
@@ -2857,7 +2862,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="747"/>
         <source>Type:</source>
-        <translation>סוג:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="750"/>
@@ -2877,7 +2882,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="771"/>
         <source>Select icon</source>
-        <translation>בחירת צלמית</translation>
+        <translation>בחירת רגשון</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="778"/>
@@ -2913,7 +2918,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="888"/>
         <source>Transaction &amp;identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>מזהה &amp;הסדרה:</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="910"/>
@@ -2936,7 +2941,7 @@ Proceed?</source>
         <location filename="../psi/src/eventdlg.cpp" line="929"/>
         <location filename="../psi/src/eventdlg.cpp" line="968"/>
         <source>&amp;Deny</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;אסירה</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="935"/>
@@ -2961,7 +2966,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="961"/>
         <source>C&amp;onfirm</source>
-        <translation type="unfinished"></translation>
+        <translation>אי&amp;שור</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="976"/>
@@ -2999,7 +3004,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1581"/>
         <source>Please type in a transaction identifier first.</source>
-        <translation type="unfinished"></translation>
+        <translation>נא להזין תחילה מזהה הסדרה.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1636"/>
@@ -3012,7 +3017,7 @@ Proceed?</source>
 URL: %1
 Method: %2
 </source>
-        <translation type="unfinished">מישהו (ייתכן עצמך) ביקש לגשת אל המשאב הבא:
+        <translation>מישהו (ייתכן עצמך) ביקש לגשת אל המשאב הבא:
 ‫URL: %1
 שיטה: %2
 </translation>
@@ -3021,24 +3026,27 @@ Method: %2
         <location filename="../psi/src/eventdlg.cpp" line="1810"/>
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+אם ברצונך לאשר את בקשה זו, נא לספק מזהה הסדרה וללחוץ על כפתור אישור. אחרת לחץ/י על כפתור אסירה.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1816"/>
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
-        <translation type="unfinished"></translation>
+        <translation>מזהה הסדרה: %1
+
+אם ברצונך לאשר את בקשה זו, נא ללחוץ על כפתור אישור. אחרת לחץ/י על כפתור אסירה.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1923"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה רוצה להירשם אל נוכחותך.  לחץ/י על הלחצן המתויג בשם &quot;הוספה/אישור&quot; כדי לאשר את ההרשמה.  פעולה זו גם תוסיף את האיש אל רשימת קשריך במידה וזה אינו מצוי שם כבר.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1939"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;הינך מורשה כעת.</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="1951"/>
@@ -3078,7 +3086,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="2004"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה מעוניין לשנות את רשימתך (%1). לחץ/י על הלחצן המתויג בשם &quot;הוספה/אישור&quot; כדי לאשר את השינויים.</translation>
     </message>
 </context>
 <context>
@@ -3086,7 +3094,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../psi/src/mainwin_p.cpp" line="566"/>
         <source>&lt;Event notifier&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;מודיע אירועים&gt;</translation>
     </message>
 </context>
 <context>
@@ -3244,17 +3252,17 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="849"/>
         <source>This file is being transferred already!</source>
-        <translation type="unfinished"></translation>
+        <translation>קובץ זה כבר מצוי בשלבי העברה ברגע זה!</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="869"/>
         <source>Accepting...</source>
-        <translation type="unfinished"></translation>
+        <translation>מקבל כעת...</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="884"/>
         <source>Accepted!</source>
-        <translation type="unfinished"></translation>
+        <translation>התקבל!</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="930"/>
@@ -3267,7 +3275,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation type="unfinished">לא ניתן להסדיר העברה.
+        <translation>לא ניתן להסדיר העברה.
 
 זה יכול לקרות אם איש הקשר לא הבין את הבקשה, או אם
 איש הקשר אינו מקוון.</translation>
@@ -3279,7 +3287,11 @@ contact is offline.</source>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.
+
+וודא שהגדרות מסירת נתונים שלך הינם מתאימים.  אם הינך מאחורי
+נתב NAT או חומת אש אז עליך לפתוח את הפורט מטיפוס TCP
+המתאים או לציין פרוקסי מסירת נתונים בהגדרות חשבונך.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="946"/>
@@ -3288,7 +3300,11 @@ or specify a Data Transfer Proxy in your account settings.</source>
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>כשל בהתחברות אל, או בשפעול, פרוקסי מסירת נתונים.
+
+זה אומר ששירות פרוקסי הינו לא מתפקד או שזה אינו
+בר השגה.  אם הינך מאחורי חומת אש, אז עליך לוודא
+שחיבורי TCP יוצאים הינם מותרים.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="954"/>
@@ -3341,7 +3357,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../psi/src/filetrans.ui" line="152"/>
         <source>stop</source>
-        <translation>עצירה</translation>
+        <translation>הפסקה</translation>
     </message>
     <message>
         <location filename="../psi/src/filetrans.ui" line="159"/>
@@ -3415,7 +3431,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1324"/>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation>טיפוס</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1324"/>
@@ -3518,7 +3534,7 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="297"/>
         <source>Requesting data transfer channel...</source>
-        <translation type="unfinished"></translation>
+        <translation>מבקש כעת ערוץ מסירת נתונים...</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="302"/>
@@ -3548,17 +3564,17 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="449"/>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="451"/>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להתחבר אל פרוקסי עבור מסירת נתונים.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="453"/>
         <source>Lost connection / Cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>חיבור אבד / בוטלה.</translation>
     </message>
 </context>
 <context>
@@ -3661,7 +3677,7 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="696"/>
         <source>Select Icon</source>
-        <translation>בחירת צלמית</translation>
+        <translation>בחירת רגשון</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="701"/>
@@ -3698,7 +3714,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1000"/>
         <source>Enter a topic:</source>
-        <translation>הזנת נושא:</translation>
+        <translation>הזן נושא:</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1023"/>
@@ -3709,7 +3725,8 @@ Reason: %1</source>
         <location filename="../psi/src/groupchatdlg.cpp" line="1024"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אכן ברצונך לטהר את חלון השיחה?
+(הערה: לא משפיעה על היסטורייה שמורה)</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1080"/>
@@ -3719,7 +3736,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1108"/>
         <source>Reconnecting...</source>
-        <translation>מתחבר כעת מחדש...</translation>
+        <translation>מתחבר מחדש כעת...</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1115"/>
@@ -3754,30 +3771,30 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1243"/>
         <source>%1 has joined the room</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 נכנס/ה אל החדר</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1248"/>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1251"/>
         <location filename="../psi/src/groupchatdlg.cpp" line="1255"/>
         <source>%2 has joined the room as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 נכנס/ה אל החדר בתפקיד %1</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1272"/>
         <source>%1 is now %2 and %3</source>
-        <translation type="unfinished"></translation>
+        <translation>התפקיד של %1 שונה אל %2 והסינוף %3</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1275"/>
         <location filename="../psi/src/groupchatdlg.cpp" line="1279"/>
         <location filename="../psi/src/groupchatdlg.cpp" line="1295"/>
         <source>%1 is now %2</source>
-        <translation type="unfinished"></translation>
+        <translation>המצב או הסינוף או התפקיד של %1 שונה אל %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1291"/>
@@ -3859,7 +3876,7 @@ Reason: %1</source>
         <location filename="../psi/src/groupchatdlg.cpp" line="1361"/>
         <location filename="../psi/src/groupchatdlg.cpp" line="1369"/>
         <source>Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסר/ה</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1362"/>
@@ -3879,27 +3896,27 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1365"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 הוסר/ה מן החדר על ידי %2 עקב שינוי שיוך</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1370"/>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסרת מן החדר משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1371"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסרת מן החדר על ידי %1 משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1372"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 הוסר/ה מן החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1373"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 הוסר/ה מן החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1379"/>
@@ -4031,7 +4048,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="40"/>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation type="unfinished"></translation>
+        <translation>הדגש שורות והזהר את המשתמש אם תמליל זה הינו כלול בתוך שיחה</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="43"/>
@@ -4041,18 +4058,18 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="55"/>
         <source>Words which will cause a notification in group chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>מילים שיגרמו להתראה בשיחת קבוצה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="58"/>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="unfinished"></translation>
+        <translation>זוהי הרשימה של מילים שכאשר יאמרו בקבוצת שיחה יגרמו למשתמש להתוודע.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="65"/>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="68"/>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation type="unfinished"></translation>
+        <translation>הקלד מילה חגשה כאן ולחץ &quot;הוספת מילה&quot; כדי שזו תוסף אל הרשימה המודגשת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="99"/>
@@ -4096,13 +4113,13 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="178"/>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>זוהי הרשימה של צבעים עמם כינויים יצוירו בשיחת קבוצה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="193"/>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="196"/>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"></translation>
+        <translation>הקלד כאן קוד צבע, או לחץ על צלחת הצבעים מימין</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="244"/>
@@ -4139,7 +4156,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="56"/>
         <source>Set Keys</source>
-        <translation>הגדרת מפתחות</translation>
+        <translation>הגדרת מקשים</translation>
     </message>
 </context>
 <context>
@@ -4158,7 +4175,7 @@ Reason: %1</source>
         <location filename="../psi/src/groupchatdlg.ui" line="98"/>
         <location filename="../psi/src/groupchatdlg.ui" line="117"/>
         <source>Select icon</source>
-        <translation>בחירת צלמית</translation>
+        <translation>בחירת רגשון</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.ui" line="136"/>
@@ -4181,7 +4198,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="90"/>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;צור חדש...</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="128"/>
@@ -4239,7 +4256,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/historydlg.cpp" line="292"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation>האם אכן ברצונך להסיר לחלוטין היסטוריה עבור איש־קשר %1?</translation>
+        <translation>האם אכן ברצונך להסיר לחלוטין היסטוריה עבור איש קשר %1?</translation>
     </message>
     <message>
         <location filename="../psi/src/historydlg.cpp" line="316"/>
@@ -4357,7 +4374,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/psievent.cpp" line="531"/>
         <source>HTTP Authentication Request</source>
-        <translation type="unfinished"></translation>
+        <translation>בקשת אימות HTTP</translation>
     </message>
 </context>
 <context>
@@ -4576,7 +4593,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="87"/>
         <source>Use transport specific icons for contacts</source>
-        <translation>שימוש בצלמיות מוביל סגוליות עבור אישי־קשר</translation>
+        <translation>שימוש בצלמיות מוביל סגוליות עבור אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="123"/>
@@ -4763,7 +4780,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/info.ui" line="331"/>
         <source>Postal Code:</source>
-        <translation>מיקוד דואר:</translation>
+        <translation>מיקוד:</translation>
     </message>
     <message>
         <location filename="../psi/src/info.ui" line="347"/>
@@ -4911,7 +4928,7 @@ Are you sure you want to discard them?</source>
         <location filename="../psi/src/infodlg.cpp" line="327"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>לא ניתן לאחזר מידע אודות איש־קשר זה.
+        <translation>לא ניתן לאחזר מידע אודות איש קשר זה.
 סיבה: %1</translation>
     </message>
     <message>
@@ -5435,17 +5452,17 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="950"/>
         <source>Security Plugins Diagnostic Text</source>
-        <translation type="unfinished"></translation>
+        <translation>תמליל דיאגנוסטיקת תוספות אבטחה</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="959"/>
         <source>Key Storage Diagnostic Text</source>
-        <translation type="unfinished"></translation>
+        <translation>תמליל דיאגנוסטיקת אחסון מפתח</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="993"/>
         <source>Receive next event</source>
-        <translation type="unfinished"></translation>
+        <translation>קבלת אירוע בא</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="998"/>
@@ -5460,7 +5477,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="1034"/>
         <source>Connecting</source>
-        <translation type="unfinished"></translation>
+        <translation>מתחבר כעת</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="1300"/>
@@ -5509,7 +5526,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/mood.ui" line="39"/>
         <source>Type:</source>
-        <translation>סוג:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../psi/src/mood.ui" line="49"/>
@@ -5533,7 +5550,7 @@ Details: %1</source>
         <location filename="../psi/src/mooddlg.cpp" line="38"/>
         <location filename="../psi/src/mooddlg.cpp" line="48"/>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;לא מוגדר&gt;</translation>
     </message>
 </context>
 <context>
@@ -5546,7 +5563,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="25"/>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation>אפשור אירועי &quot;איש־קשר מקליד כעת ...&quot;</translation>
+        <translation>אפשור אירועי &quot;איש קשר מקליד כעת ...&quot;</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="32"/>
@@ -5571,7 +5588,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="60"/>
         <source>Single-click triggers default action</source>
-        <translation type="unfinished"></translation>
+        <translation>הקלקה-בודדת מפעילה פעולה משתמטת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="67"/>
@@ -5606,7 +5623,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="109"/>
         <source>Animate the roster when a contact comes online</source>
-        <translation>הנפשת רשימה כאשר איש־קשר נהפך למקוון</translation>
+        <translation>הנפשת רשימה כאשר איש קשר נהפך למקוון</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="116"/>
@@ -5739,22 +5756,22 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="302"/>
         <source>Online contacts:</source>
-        <translation>אישי־קשר מקוונים:</translation>
+        <translation>אישי קשר מקוונים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="328"/>
         <source>Away contacts:</source>
-        <translation>אישי־קשר נעדרים:</translation>
+        <translation>אישי קשר נעדרים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="354"/>
         <source>DND contacts:</source>
-        <translation>אישי־קשר עסוקים:</translation>
+        <translation>אישי קשר עסוקים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="380"/>
         <source>Offline contacts:</source>
-        <translation>אישי־קשר לא מקוונים:</translation>
+        <translation>אישי קשר לא מקוונים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="406"/>
@@ -5764,7 +5781,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="409"/>
         <source>Contact list background:</source>
-        <translation>צבע רקע אחורי של רשימת אישי־קשר:</translation>
+        <translation>צבע רקע אחורי של רשימת קשר:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="435"/>
@@ -5864,7 +5881,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="26"/>
         <source>Auto-resize contact list</source>
-        <translation>שינוי גודל אוטומטי של רשימת אישי־קשר</translation>
+        <translation>שינוי גודל אוטומטי של רשימת קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="36"/>
@@ -5909,7 +5926,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="117"/>
         <source>Data transfer base port:</source>
-        <translation type="unfinished"></translation>
+        <translation>פורט בסיס מסירת נתונים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="130"/>
@@ -5924,7 +5941,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="188"/>
         <source>Data transfer external address:</source>
-        <translation type="unfinished"></translation>
+        <translation>כתובת חיצונית מסירת נתונים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="200"/>
@@ -6005,7 +6022,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_chat.ui" line="92"/>
         <source>for mucs and chats in one window</source>
-        <translation>עבור שיחות וגם שיחות מרובות משתתפים בחלון אחד</translation>
+        <translation>הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_chat.ui" line="97"/>
@@ -6020,12 +6037,12 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_chat.ui" line="127"/>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשור קיצורי דרך לשונית Alt-[0-9]</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_chat.ui" line="134"/>
         <source>Default action</source>
-        <translation>מעולה משתמטת</translation>
+        <translation>פעולה משתמטת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_chat.ui" line="146"/>
@@ -6088,7 +6105,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="46"/>
         <source>Allow auto-open even when Away/XA</source>
-        <translation type="unfinished"></translation>
+        <translation>התרת פתיחה אוטומטית אפילו בזמן של חוסר הימצאות</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="53"/>
@@ -6103,12 +6120,12 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="67"/>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation>התעלמות מן אירועים מאת אישי קשר שלא מצויים כבר ברשימתך</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="74"/>
         <source>Auto-authorize contacts</source>
-        <translation>אישור אוטומטי של אישי־קשר</translation>
+        <translation>אישור אוטומטי של אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="81"/>
@@ -6173,32 +6190,32 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="230"/>
         <source>On incoming message event</source>
-        <translation type="unfinished"></translation>
+        <translation>באירוע הודעה נכנסת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="237"/>
         <source>On incoming headline event</source>
-        <translation type="unfinished"></translation>
+        <translation>באירוע כותרת נכנסת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="244"/>
         <source>On incoming file event</source>
-        <translation type="unfinished"></translation>
+        <translation>באירוע קובץ נכנס</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="251"/>
         <source>When a contact becomes available</source>
-        <translation>כאשר איש־קשר הופך להיות זמין</translation>
+        <translation>כאשר איש קשר הופך להיות זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="258"/>
         <source>When a contact becomes unavailable</source>
-        <translation>כאשר איש־קשר הופך להיות לא זמין</translation>
+        <translation>כאשר איש קשר הופך להיות לא זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="265"/>
         <source>When a contact changes status</source>
-        <translation>כאשר איש־קשר משנה מצב</translation>
+        <translation>כאשר איש קשר משנה מצב</translation>
     </message>
 </context>
 <context>
@@ -6282,7 +6299,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="48"/>
         <source>Play sounds when away/XA</source>
-        <translation type="unfinished"></translation>
+        <translation>ניגון צלילים אפילו בזמן של חוסר הימצאות</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="55"/>
@@ -6332,12 +6349,12 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="286"/>
         <source>Incoming file transfer:</source>
-        <translation>העברת קובץ נכנסת:</translation>
+        <translation>העברת קובץ נכנס:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="293"/>
         <source>File transfer complete:</source>
-        <translation>העברת קובץ הושלמה</translation>
+        <translation>סיום העברת קובץ:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="328"/>
@@ -6362,7 +6379,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="417"/>
         <source>Reset to defaults</source>
-        <translation>איפוס אל ברירות מחדל</translation>
+        <translation>איפוס שינויים</translation>
     </message>
 </context>
 <context>
@@ -6466,7 +6483,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/optioneditor.ui" line="53"/>
         <source>Type:</source>
-        <translation>סוג:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../psi/src/optioneditor.ui" line="66"/>
@@ -6488,7 +6505,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="77"/>
         <source>Can&apos;t edit this type of setting, sorry.</source>
-        <translation>לא ניתן לערוך את סוג הגדרה זו, עמך הסליחה.</translation>
+        <translation>לא ניתן לערוך את טיפוס הגדרה זו, עמך הסליחה.</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="90"/>
@@ -6639,17 +6656,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="205"/>
         <source>Selects a font for the roster window using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון הרשימה באמצות דו שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון הרשימה באמצעות דו־שיח בחירת גופן.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="207"/>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון הודעה באמצות דו שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון הודעה באמצעות דו־שיח בחירת גופן.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="209"/>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון שיחה באמצות דו שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון שיחה באמצעות דו־שיח בחירת גופן.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="213"/>
@@ -6786,7 +6803,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_chat.cpp" line="26"/>
         <source>Configure the chat dialog</source>
-        <translation>הגדרת דו שיח שיחה</translation>
+        <translation>הגדרת דו־שיח שיחה</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_chat.cpp" line="63"/>
@@ -6859,7 +6876,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="26"/>
         <source>The events behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>התנהגות אירועים</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="40"/>
@@ -7019,14 +7036,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="177"/>
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="213"/>
         <source>Unnamed group</source>
-        <translation>קבוצה ללא שם</translation>
+        <translation>קבוצה בלי שם</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="230"/>
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="282"/>
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="318"/>
         <source>Key %1</source>
-        <translation>מפתח %1</translation>
+        <translation>מקש %1</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_shortcuts.cpp" line="345"/>
@@ -7064,7 +7081,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_sound.cpp" line="125"/>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation type="unfinished"></translation>
+        <translation>נגן צלילים עבור כל האירוע בשיחת קבוצה, לא רק עבור איזכור כינויך.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.cpp" line="170"/>
@@ -7227,7 +7244,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/tools/optionstree/optionstreemodel.cpp" line="181"/>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation>טיפוס</translation>
     </message>
     <message>
         <location filename="../psi/src/tools/optionstree/optionstreemodel.cpp" line="182"/>
@@ -7286,7 +7303,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/pgpkeydlg.cpp" line="210"/>
         <source>Key Storage Diagnostic Text</source>
-        <translation type="unfinished"></translation>
+        <translation>תמליל דיאגנוסטיקת אחסון מפתח</translation>
     </message>
 </context>
 <context>
@@ -7304,13 +7321,13 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/pgputil.cpp" line="304"/>
         <source>OpenPGP Diagnostic Text</source>
-        <translation type="unfinished"></translation>
+        <translation>תמליל דיאגנוסטיקת OpenPGP</translation>
     </message>
     <message>
         <location filename="../psi/src/pgputil.cpp" line="318"/>
         <source>There was an error trying to send the message encrypted.
 Reason: %1.</source>
-        <translation type="unfinished">ארעה שגיאה בניסיון שליחת ההודעה כמוצפנת.
+        <translation>ארעה שגיאה בניסיון שליחת ההודעה כמוצפנת.
 סיבה: %1.</translation>
     </message>
 </context>
@@ -7469,7 +7486,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="36"/>
         <source>Then:</source>
-        <translation>אז:</translation>
+        <translation>אזי:</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="51"/>
@@ -7680,7 +7697,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation>רצוי להשאיר את&lt;i&gt; שם דיוקן&lt;/i&gt; פשוט. זה צריך להיות מילה בודדת המכילה רק אותיות או מספרים.&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;פעולה משתמטת&lt;/i&gt; היא מה שקורה כאשר מוקלקת לחיצה כפולה על איש־קשר ברשימתך. הברירות הינן&lt;b&gt; הודעה&lt;/b&gt; (סגנון ICQ) וגם&lt;b&gt; שיחה&lt;/b&gt; (סגנון AIM). ביכולתך לשנות זאת מאוחר יותר מן התפריט אפשרויות.&lt;br&gt;
+&lt;i&gt;פעולה משתמטת&lt;/i&gt; היא מה שקורה כאשר מוקלקת לחיצה כפולה על איש קשר ברשימתך. הברירות הינן&lt;b&gt; הודעה&lt;/b&gt; (סגנון ICQ) וגם&lt;b&gt; שיחה&lt;/b&gt; (סגנון AIM). ביכולתך לשנות זאת מאוחר יותר מן התפריט אפשרויות.&lt;br&gt;
 &lt;br&gt;
 אם ברצונך שתמליל כגון &lt;b&gt;:-)&lt;/b&gt; יהפוך אל תרשים שרטוטי כמו &lt;icon name=&quot;psi/smile&quot;&gt; קיים הכרח לסמן את תיבת הסימון &lt;i&gt;אפשור רגשונים&lt;/i&gt;.</translation>
     </message>
@@ -7828,12 +7845,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="117"/>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר שפה מן רשימה זו בה ברצונך לעשות שימוש יחד עם Psi.  ביכולתך להוריד חבילות שפה נוספות מן עמוד הבית של Psi.</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="120"/>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>פתיחה אוטומטית של דיוקן זה כאשר ‫Psi הינו מופעל.  שימושי אם ברשותך רק דיוקן אחד.</translation>
+        <translation>פתיחה אוטומטית של דיוקן זה כאשר Psi הינו מופעל.  שימושי אם ברשותך רק דיוקן אחד.</translation>
     </message>
 </context>
 <context>
@@ -7866,7 +7883,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/proxy.ui" line="62"/>
         <source>Type:</source>
-        <translation>סוג:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.ui" line="93"/>
@@ -8162,17 +8179,17 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1991"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>אין מנגנון הולם זמין עבור הגדרות האבטחה הנתונות (למשל ספריית SASL רפויה מידי, או שאימות גלוי מאופשר)</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1994"/>
         <source>Bad server response</source>
-        <translation type="unfinished"></translation>
+        <translation>מענה שרת רע</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1996"/>
         <source>Server failed mutual authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת נכשל באימות הדדי</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1998"/>
@@ -8270,7 +8287,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="5912"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח שאיש הקשר מפרסם באמצעות נוכחות חתומה, או אם איש הקשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="5917"/>
@@ -8308,22 +8325,22 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="129"/>
         <source>Show Offline Contacts</source>
-        <translation>הצגת אישי־קשר לא מקוונים</translation>
+        <translation>הצגת אישי קשר לא מקוונים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="130"/>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>החלפת ראות של אישי־קשר לא מקוונים ברשימה</translation>
+        <translation>החלפת ראות של אישי קשר לא מקוונים ברשימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="136"/>
         <source>Show Hidden Contacts</source>
-        <translation>הצגת אישי־קשר חבויים</translation>
+        <translation>הצגת אישי קשר חבויים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="137"/>
         <source>Toggles visibility of hidden contacts in roster</source>
-        <translation>החלפת ראות של אישי־קשר חבויים ברשימה</translation>
+        <translation>החלפת ראות של אישי קשר חבויים ברשימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="139"/>
@@ -8338,12 +8355,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="142"/>
         <source>Show Self Contact</source>
-        <translation>הצגת איש־קשר עצמי</translation>
+        <translation>הצגת איש קשר עצמי</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="143"/>
         <source>Toggles visibility of self contact in roster</source>
-        <translation>החלפת ראות של איש־קשר עצמי ברשימה</translation>
+        <translation>החלפת ראות של איש קשר עצמי ברשימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="145"/>
@@ -8353,12 +8370,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="146"/>
         <source>Toggles visibility of status messages of contacts</source>
-        <translation>החלפת ראות של הודעות מצב של אישי־קשר</translation>
+        <translation>החלפת ראות של הודעות מצב של אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="159"/>
         <source>Show Contacts</source>
-        <translation>הצגת אישי־קשר</translation>
+        <translation>הצגת אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="163"/>
@@ -8368,7 +8385,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="164"/>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation>לחצן Psi הראשי, שמספק לך גישה אל פעולות רבות</translation>
+        <translation>לחצן Psi הראשי, שמספק גישה אל פעולות רבות</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="168"/>
@@ -8378,12 +8395,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="169"/>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation type="unfinished"></translation>
+        <translation>מספקת דרך נוחה לשנות ולהשיג מידע אודות מצב עכשווי</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="173"/>
         <source>Special item that displays number of pending events</source>
-        <translation type="unfinished"></translation>
+        <translation>פריט מיוחד שמציג את המספר של אירועים ממתינים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="182"/>
@@ -8393,7 +8410,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="189"/>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש־קשר</translation>
+        <translation>&amp;הוספת איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="191"/>
@@ -8478,7 +8495,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="223"/>
         <source>Toggles whether sound should be played or not</source>
-        <translation type="unfinished"></translation>
+        <translation>האם צליל צריך להיות מנוגן או לא</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="225"/>
@@ -8526,7 +8543,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="234"/>
         <source>Opens the transfer manager dialog</source>
-        <translation>פתיחת דו שיח מנהל העברות</translation>
+        <translation>פתיחת דו־שיח מנהל העברות</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="252"/>
@@ -8546,7 +8563,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="258"/>
         <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation type="unfinished"></translation>
+        <translation>האם לחן שמתנגן כעת צריך להתפרסם או לא</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="265"/>
@@ -8561,7 +8578,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="273"/>
         <source>Smaller alternative to the Status button</source>
-        <translation type="unfinished"></translation>
+        <translation>חלופה קטנה יותר ללחצן המצב</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="277"/>
@@ -8732,12 +8749,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="359"/>
         <source>Key Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>אחסון מפתח</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="359"/>
         <source>&amp;Key Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;אחסון מפתח</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="378"/>
@@ -8760,7 +8777,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="308"/>
         <source>Select Icon</source>
-        <translation>בחירת צלמית</translation>
+        <translation>בחירת רגשון</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="312"/>
@@ -8790,7 +8807,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="328"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>החלפת גודל צפוף/מלא</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="334"/>
@@ -8818,7 +8835,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="555"/>
         <source>%1 says:</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 אמר/ה:</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="581"/>
@@ -8833,7 +8850,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="585"/>
         <source>Desc:</source>
-        <translation type="unfinished"></translation>
+        <translation>תיאור:</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="646"/>
@@ -8981,17 +8998,17 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psicon.cpp" line="800"/>
         <source>Please disconnect before changing the profile.</source>
-        <translation>נא להתנתק לפני שינוי דיוקן.</translation>
+        <translation>עליך להתנתק לפני שינוי דיוקן.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="802"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;התנתקות</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1186"/>
         <source>Unsupported URI type</source>
-        <translation>סוג URI לא נתמך</translation>
+        <translation>טיפוס URI לא נתמך</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1275"/>
@@ -9001,7 +9018,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1275"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>כמה מן האפשרויות ששינית ייכנסו לתוקף מלא רק לאחר אתחול.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1317"/>
@@ -9012,7 +9029,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1318"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
-        <translation type="unfinished"></translation>
+        <translation>אין ביכולתך לנטרל את &lt;i&gt;כל&lt;/i&gt; סרגלי הכלים &lt;i&gt;וגם&lt;/i&gt; את שורת התפריט. היה וכך יעשה, לא תהיה לך האפשרות לאפשרם בחזרה, כאשר דעתך תשונה.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1319"/>
@@ -9022,7 +9039,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1556"/>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>שיחה הסתיימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1556"/>
@@ -9054,7 +9071,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicon.cpp" line="1718"/>
         <source>Register new account</source>
-        <translation>הרשמת חשבון חדש</translation>
+        <translation>רישום חשבון חדש</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1719"/>
@@ -9078,7 +9095,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../psi/src/psicontact.cpp" line="398"/>
         <location filename="../psi/src/userlist.cpp" line="343"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>מוסתרת</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontact.cpp" line="739"/>
@@ -9161,7 +9178,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="312"/>
         <source>Add/Authorize to Contact List</source>
-        <translation>הוספה/אישור אל רשימת אישי־קשר</translation>
+        <translation>הוספה/אישור אל רשימת קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="315"/>
@@ -9196,12 +9213,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="336"/>
         <source>&amp;Log on</source>
-        <translation type="unfinished"></translation>
+        <translation>הת&amp;חברות</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="340"/>
         <source>Log Off</source>
-        <translation type="unfinished"></translation>
+        <translation>התנתקות</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="343"/>
@@ -9261,7 +9278,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="385"/>
         <source>Open Chat To</source>
-        <translation>פתיחת שיחה אל</translation>
+        <translation>פתיחת שיחה עם</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="388"/>
@@ -9311,7 +9328,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="578"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת אישי־קשר.</translation>
+        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת הקשר.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="644"/>
@@ -9481,12 +9498,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="176"/>
         <source>Out for the night</source>
-        <translation type="unfinished"></translation>
+        <translation>יצאתי להלילה</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="177"/>
         <source>Out for the night.</source>
-        <translation type="unfinished"></translation>
+        <translation>יצאתי להלילה.</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="180"/>
@@ -9496,7 +9513,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="181"/>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="unfinished"></translation>
+        <translation>הלכתי אל מקום רחוק.  אני אחזור ביום מן הימים!</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="187"/>
@@ -9506,12 +9523,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="195"/>
         <source>Show contacts</source>
-        <translation>הצגת אישי־קשר</translation>
+        <translation>הצגת אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="199"/>
         <source>Event notifier</source>
-        <translation type="unfinished"></translation>
+        <translation>מודיע אירועים</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="213"/>
@@ -9524,12 +9541,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="129"/>
         <source>Full name of the currently selected option.</source>
-        <translation type="unfinished"></translation>
+        <translation>שם מלא של האפשרות הנבחרת.</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="135"/>
         <source>(no selection)</source>
-        <translation type="unfinished"></translation>
+        <translation>(אין בחירה)</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="154"/>
@@ -9564,12 +9581,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="235"/>
         <source>(internal node)</source>
-        <translation type="unfinished"></translation>
+        <translation>(קשר פנימי)</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="238"/>
         <source>Type:</source>
-        <translation>סוג:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="271"/>
@@ -9592,12 +9609,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="247"/>
         <source>Contact online</source>
-        <translation>איש־קשר מקוון</translation>
+        <translation>איש קשר מקוון</translation>
     </message>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="251"/>
         <source>Contact offline</source>
-        <translation>איש־קשר לא מקוון</translation>
+        <translation>איש קשר לא מקוון</translation>
     </message>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="255"/>
@@ -9622,7 +9639,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="274"/>
         <source>Incoming file</source>
-        <translation type="unfinished"></translation>
+        <translation>קובץ נכנס</translation>
     </message>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="279"/>
@@ -9647,7 +9664,9 @@ Would you like to activate that session now?</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>פעולה זו תגרום לכל אישי הקשר בקבוצה זו להיפרד ממנה.
+
+להמשיך?</translation>
     </message>
     <message>
         <location filename="../psi/src/psirosterwidget.cpp" line="256"/>
@@ -9788,7 +9807,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/Certificates/CertificateHelpers.cpp" line="154"/>
         <source>General certificate validation error.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאת מתן תוקף לתעודה כללית.</translation>
     </message>
     <message>
         <location filename="../psi/src/applicationinfo.cpp" line="269"/>
@@ -9852,17 +9871,17 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="906"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">אזהרה: %1 הינה מסוייגת ותוסר בעתיד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="909"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>נא להגדיר קיצור דרך עבור &apos;שנה אל מצב מהיר של פקודה&apos;, השתמש בקיצור דרך זה והזן &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="911"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>במקום זאת נא להדפיס %1 ולהזין &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="58"/>
@@ -10242,12 +10261,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/mucmanager.cpp" line="402"/>
         <source>unaffiliated</source>
-        <translation>ללא סינוף</translation>
+        <translation>נטול סינוף</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_toolbars.cpp" line="227"/>
         <source>&lt;unnamed%1&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ללא שם%1&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/pgputil.cpp" line="239"/>
@@ -10262,7 +10281,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/pgputil.cpp" line="245"/>
         <source>Signing key expired</source>
-        <translation type="unfinished"></translation>
+        <translation>חתימת מפתח פקעה</translation>
     </message>
     <message>
         <location filename="../psi/src/pgputil.cpp" line="248"/>
@@ -10333,12 +10352,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="58"/>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation>הופעה נכנסת,</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="60"/>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation>הופעה יוצאת,</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="62"/>
@@ -10353,17 +10372,17 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="72"/>
         <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation>אם JID הינו &apos;%1&apos; אז %2 %3</translation>
+        <translation>אם JID הינו &apos;%1&apos; אזי %2 %3</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="75"/>
         <source>If Group is &apos;%1&apos; then %2 %3</source>
-        <translation>אם קבוצה הינה &apos;%1&apos; אז %2 %3</translation>
+        <translation>אם קבוצה הינה &apos;%1&apos; אזי %2 %3</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="78"/>
         <source>If Subscription is &apos;%1&apos; then %2 %3</source>
-        <translation>אם הרשמה הינה &apos;%1&apos; אז %2 %3</translation>
+        <translation>אם הרשמה הינה &apos;%1&apos; אזי %2 %3</translation>
     </message>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="685"/>
@@ -10373,26 +10392,26 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="1109"/>
         <source>Event notifier</source>
-        <translation>מידע אירועים</translation>
+        <translation>מודיע אירועים</translation>
     </message>
     <message>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="66"/>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="75"/>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="139"/>
         <source>Contact becomes Available</source>
-        <translation>איש־קשר הופך להיות זמין</translation>
+        <translation>איש קשר הופך להיות זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="67"/>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="145"/>
         <source>Contact becomes Unavailable</source>
-        <translation>איש־קשר הופך להיות לא זמין</translation>
+        <translation>איש קשר הופך להיות לא זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="68"/>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="151"/>
         <source>Contact changes Status</source>
-        <translation>איש־קשר משנה מצב</translation>
+        <translation>איש קשר משנה מצב</translation>
     </message>
     <message>
         <location filename="../psi/src/psigrowlnotifier.cpp" line="69"/>
@@ -10444,7 +10463,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/rc.cpp" line="68"/>
         <source>Chat</source>
-        <translation>שיחה</translation>
+        <translation>חופשי לשיחה</translation>
     </message>
     <message>
         <location filename="../psi/src/rc.cpp" line="82"/>
@@ -10499,7 +10518,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/rc.cpp" line="193"/>
         <source>Auto-authorize contacts</source>
-        <translation>אישור אוטומטי של אישי־קשר</translation>
+        <translation>אישור אוטומטי של אישי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/rc.cpp" line="201"/>
@@ -10549,7 +10568,7 @@ Proceed?</source>
         <location filename="../psi/src/userlist.cpp" line="516"/>
         <location filename="../psi/src/userlist.cpp" line="520"/>
         <source>Signed</source>
-        <translation type="unfinished"></translation>
+        <translation>חתומה</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="523"/>
@@ -10589,7 +10608,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/userlist.cpp" line="599"/>
         <source>Last Available</source>
-        <translation type="unfinished"></translation>
+        <translation>זמין לאחרונה</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="605"/>
@@ -10607,12 +10626,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="157"/>
         <source>Registration: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>רישום: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="182"/>
         <source>&amp;Register</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;רישום</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="186"/>
@@ -10627,7 +10646,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="211"/>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;הרשמה כבר נשלחה, אי לכך סגירת חלון זה לא תמנע את ההרשמה מלהתרחש.  האם עדיין ברצונך לסגור?&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;רישום כבר נשלח, אי לכך סגירת חלון זה לא תמנע את הרישום מלהתרחש.  האם עדיין ברצונך לסגור?&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="211"/>
@@ -10642,12 +10661,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="220"/>
         <source>Fetching registration form for %1 ...</source>
-        <translation type="unfinished"></translation>
+        <translation>מושך כעת תבנית רישום עבור %1 ...</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="268"/>
         <source>&lt;b&gt;Registration for &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;רישום עבור &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="362"/>
@@ -10657,7 +10676,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="362"/>
         <source>Registration successful.</source>
-        <translation>הרשמה צלחה.</translation>
+        <translation>רישום צלח.</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="368"/>
@@ -10737,7 +10756,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/search.ui" line="72"/>
         <source>form</source>
-        <translation type="unfinished"></translation>
+        <translation>תבנית</translation>
     </message>
     <message>
         <location filename="../psi/src/search.ui" line="84"/>
@@ -10752,7 +10771,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/search.ui" line="113"/>
         <source>&amp;Stop</source>
-        <translation>&amp;עצירה</translation>
+        <translation>&amp;הפסקה</translation>
     </message>
     <message>
         <location filename="../psi/src/search.ui" line="116"/>
@@ -10787,7 +10806,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/search.ui" line="239"/>
         <source>&amp;Add Contact</source>
-        <translation>הוספת &amp;איש־קשר</translation>
+        <translation>הוספת &amp;איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/search.ui" line="242"/>
@@ -10815,7 +10834,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/searchdlg.cpp" line="248"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;מביא כעת תבנית חיפוש עבור %1 ...&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;מושך כעת תבנית חיפוש עבור %1 ...&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/searchdlg.cpp" line="381"/>
@@ -10856,14 +10875,15 @@ Reason: %1</source>
     <message numerus="yes">
         <location filename="../psi/src/searchdlg.cpp" line="490"/>
         <source>Added %n users to your roster.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>התווסף משתמש %n אל רשימתך.</numerusform>
+            <numerusform>התווספו %n משתמשים אל רשימתך.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../psi/src/searchdlg.cpp" line="495"/>
         <source>Added %1 to your roster.</source>
-        <translation type="unfinished"></translation>
+        <translation>‫%1 התווסף אל רשימתך.</translation>
     </message>
 </context>
 <context>
@@ -10894,17 +10914,17 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/serverlistquerier.cpp" line="87"/>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>הכוונה מחדש אל פרוטוקול &apos;%1&apos; לא נתמכת</translation>
     </message>
     <message>
         <location filename="../psi/src/serverlistquerier.cpp" line="92"/>
         <source>Cannot redirect to empty host</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להכוין מחדש את מארח ריק</translation>
     </message>
     <message>
         <location filename="../psi/src/serverlistquerier.cpp" line="106"/>
         <source>Unexpected HTTP status code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>קוד מצב HTTP לא צפוי: %1</translation>
     </message>
 </context>
 <context>
@@ -10922,7 +10942,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/vcardphotodlg.cpp" line="44"/>
         <source>&amp;Restore Size</source>
-        <translation>&amp;שחזור גודל</translation>
+        <translation>&amp;שחזור מידה</translation>
     </message>
     <message>
         <location filename="../psi/src/vcardphotodlg.cpp" line="50"/>
@@ -10955,12 +10975,12 @@ Reason: %1</source>
         <location filename="../psi/src/mainwin_p.cpp" line="494"/>
         <location filename="../psi/src/mainwin_p.cpp" line="495"/>
         <source>&lt;Spacer&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;מרווח&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin_p.cpp" line="496"/>
         <source>Spacer provides spacing to separate actions</source>
-        <translation type="unfinished"></translation>
+        <translation>מרווח מספק ריווח להפרדת פעולות</translation>
     </message>
 </context>
 <context>
@@ -10993,7 +11013,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="154"/>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ללא&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="172"/>
@@ -11008,17 +11028,17 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="175"/>
         <source>Sa&amp;ve as Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;שמירה כמצב ערוך מראש</translation>
     </message>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="218"/>
         <source>New Status Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>מצב חדש ערוך מראש</translation>
     </message>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="219"/>
         <source>Please enter a name for the new status preset:</source>
-        <translation type="unfinished"></translation>
+        <translation>נא להזין שם עבור המצב החדש הערוך מראש:</translation>
     </message>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="226"/>
@@ -11029,12 +11049,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="227"/>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן ליצור מצב ערוך מראש ריק!</translation>
     </message>
     <message>
         <location filename="../psi/src/statusdlg.cpp" line="231"/>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished"></translation>
+        <translation>כבר יש לך מצב ערוך מראש עם שם זה!</translation>
     </message>
 </context>
 <context>
@@ -11085,12 +11105,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>תיעול עבור שיחה חדשה</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
-        <translation type="unfinished"></translation>
+        <translation>תיעול עבור שמ״מ חדשה</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="514"/>
@@ -11100,7 +11120,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
-        <translation type="unfinished"></translation>
+        <translation> כותב/ת כעת</translation>
     </message>
 </context>
 <context>
@@ -11172,14 +11192,14 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>שלום! תודה לך על שהורדת את Psi!
 אנו תקוה שתהיה לך את האפשרות להפיק הנאה מן יישום זה כשם שאנחנו נהננו להכינו!
-&lt;br&gt;&lt;br&gt;היה וברצונך להוריד שפת תרגום, מערך צלמיות או גירסה חדשה של Psi, אז עליך לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;היה וברצונך להוריד שפת תרגום, מערך צלמיות או גירסה חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;במידה ומצאת תקלה או אם ברצונך לשוחח עם משתמשי Psi אחרים, ניתן לבקר &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;בפורומים של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;נבחרת Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="67"/>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>ביכולתך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
+        <translation>ביכולתך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו־שיח אפשרויות.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="68"/>
@@ -11196,7 +11216,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;ul&gt;
 &lt;li&gt;‏Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
 &lt;li&gt;‏Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
-&lt;li&gt;‏Ctrl+H כדי להציג דו שיח הודעת שיחה&lt;/li&gt;
+&lt;li&gt;‏Ctrl+H כדי להציג דו־שיח הודעת שיחה&lt;/li&gt;
 &lt;li&gt;‏Alt+S כדי לשלוח הודעה&lt;/li&gt;
 &lt;li&gt;‏Ctrl+U כדי לטהר מאגר עריכה&lt;/li&gt;
 &lt;li&gt;‏Ctrl+PgUp/PgDn כדי לגולל תצוגת שיחה&lt;/li&gt;
@@ -11213,12 +11233,12 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>ביכולתך להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
+        <translation>ביכולתך להקליד פקודות מיוחדות אלו בדו־שיח של שיחה ושל שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;‏‭/clear‬&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
 &lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; ‭/me‬&quot; &apos;‭/me‬&apos; מוחלפת בכינויך&lt;/li&gt;
 &lt;/ul&gt;
-ואלו עובדות רק בדו שיח שיחת קבוצה:
+ואלו עובדות רק בדו־שיח שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;&amp;lt;שם_כינוי_חדש&amp;gt; ‭/nick‬&quot; כדי לשנות את שם כינויך&lt;/li&gt;
 &lt;/ul&gt;</translation>
@@ -11236,7 +11256,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="90"/>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>הידעת שביכולתך לעשות שימוש בתיבות סימון בדו שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעיתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
+        <translation>הידעת שביכולתך לעשות שימוש בתיבות סימון בדו־שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעיתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="92"/>
@@ -11256,12 +11276,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="98"/>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>הידעת שהקלקה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) &quot;יבצע את הפעולה המשתמטת&quot; על אובייקטים רבים בתוך Psi?  נסו הקלקה-אמצעית על איש־קשר או חלון קופץ.</translation>
+        <translation>הידעת שהקלקה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) יבצע את &quot;הפעולה המשתמטת&quot; על אובייקטים רבים בתוך Psi?  נסו הקלקה-אמצעית על איש קשר או חלון קופץ.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="100"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>על מנת להוסיף אישי־קשר מן רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מן שרת XMPP. קחו מבט בתפריט של Psi -&gt; מציאת שירות.</translation>
+        <translation>על מנת להוסיף אישי קשר מן רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מן שרת XMPP. קחו מבט בתפריט Psi -&gt; מציאת שירות.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="102"/>
@@ -11273,14 +11293,14 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>מחפשים עבור מוביל או חדר שיחה, אולם שרתך לא מספק/מקצה משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים טובים על ידי הקלקת המתחם שלו בשדה הכתובת.
+        <translation>מחפשים עבור מוביל או חדר שיחה, אולם שרתך לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלקת המתחם שלו בשדה הכתובת.
 &lt;br&gt;&lt;br&gt;
-הערה: שרתים מסוימים עשויים לנטרל הרשמת מוביל עבור משתמשים מן שרתים אחרים, אולם זה לא שכיח עדיין.</translation>
+הערה: שרתים מסוימים עשויים לנטרל רישום מוביל עבור משתמשים מן שרתים אחרים, אולם זה לא שכיח עדיין.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="106"/>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>היה ואתה משוחח בשיחות קבוצה לעיתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון שפנה אליך ישירות. באותה עת ביכולתך להמשיך להדפיס &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים שבחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתה רושם &lt;tt&gt;m&lt;/tt&gt; ומדפים &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב אך פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt;, וביכולתך לבחור להמשיך להדפיס &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt; או לרשום עוד אותיות עד להשלמה ייחודית. כאשר אתה מדפיס את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז מדפיס &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתה תעשה שימוש יותר נרחב בתכונה זו, סביר יותר שאתה תחפוץ אותה יותר ותסתמוך עליה יותר. נסה השלמת כינוי על מישהו ואתה תבין כמה אפשרות זו יעילה.</translation>
+        <translation>היה ואתה משוחח בשיחות קבוצה לעיתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון שפנה אליך ישירות. באותה עת ביכולתך להמשיך להדפיס &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים שבחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתה רושם &lt;tt&gt;m&lt;/tt&gt; ומדפים &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt;, וביכולתך לבחור בין אם להמשיך להדפיס &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתה מדפיס את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז מדפיס &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתה תעשה שימוש יותר נרחב בתכונה זו, סביר יותר שאתה תחפוץ אותה יותר ותסתמוך עליה יותר. נסה השלמת כינוי על מישהו ואתה תבין כמה אפשרות זו יעילה.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="110"/>
@@ -11300,7 +11320,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/translationmanager.cpp" line="35"/>
         <source>language_name</source>
-        <translation>שם שפה</translation>
+        <translation>עברית</translation>
     </message>
 </context>
 <context>
@@ -11458,7 +11478,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="84"/>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>מילוי צבע</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="88"/>
@@ -11760,7 +11780,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="183"/>
         <source>Register</source>
-        <translation>הרשמה</translation>
+        <translation>רישום</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="184"/>
@@ -11785,7 +11805,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="188"/>
         <source>VCard</source>
-        <translation>‫VCard</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="189"/>
@@ -11826,7 +11846,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן להעניק גישה משום שקיים משאב או סשן עם אותו השם או כתובת.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
@@ -11846,7 +11866,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>הישות המבקשת לא מחזיקה בהרשאות הדרושות להוציא את הפעולה אל הפועל.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
@@ -11866,7 +11886,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>השרת לא יכול היה לעבד את הסטנזה משום תצורה מוטעית או שגיאת שרת פנימית מעורפלת אחרת.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
@@ -11891,12 +11911,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>Not acceptable</source>
-        <translation type="unfinished"></translation>
+        <translation>לא קביל</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation>המקבל או השרת מבין את הבקשה אך זה מסרב לעבדה משום שזו לא תואמת קריטריון מוגדר על ידי המקבל או השרת (למשל, מדיניות מקומית בנוגע למילים קבילות בהודעה).</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
@@ -11906,7 +11926,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation>המקבל או השרת לא מרשה לאף ישות להוציא אל הפועל את הפעולה.</translation>
+        <translation>המקבל או השרת לא מתיר לאף ישות להוציא את הפעולה אל הפועל.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
@@ -11916,7 +11936,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>על השולח לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, או שזה סיפק נתוני התחברות שאינם מתאימים.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
@@ -11941,12 +11961,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Redirect</source>
-        <translation type="unfinished"></translation>
+        <translation>הכוונה מחדש</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation>המקבל או השרת מכוון מחדש בקשות עבור מידע זה אל ישות אחרת, זמנית לרוב.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
@@ -11966,7 +11986,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת מרוחק או שירות שצוין כחלק או מכל כתובת JID של המקבל המיועד לא קיים.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
@@ -11976,7 +11996,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת מרוחק או שירות שצוין כחלק או מכל כתובת JID של המקבל המיועד (או הנדרש להגשים בקשה) לא יכול היה להתקשר בתוך כמות זמן סבירה.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
@@ -11986,7 +12006,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation>לשרת או למקבל חסרים משאבי המערכת הנחוצים לשרת את הבקשה.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
@@ -11996,7 +12016,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"></translation>
+        <translation>השרת או המקבל לא מספק כעת את השירות המבוקש.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="268"/>
@@ -12016,7 +12036,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="269"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>מצב השגיאה אינו אחד מן אלו שתוחמו אצל המצבים האחרים ברשימה זו.</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
@@ -12026,7 +12046,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation>המקבל או השרת הבינו את הבקשה אך לא צפו לה בזמן זה (למשל, הבקשה לא הייתה תקינה).</translation>
+        <translation>המקבל או השרת הבין את הבקשה אך לא צפה לה בעת זה (למשל, הבקשה לא הייתה תקינה).</translation>
     </message>
 </context>
 <context>
@@ -12034,7 +12054,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>מנותק</translation>
     </message>
 </context>
 <context>
