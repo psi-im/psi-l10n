@@ -2063,8 +2063,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="100"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>פעו
-לה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת קשריך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת קשריך.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="108"/>
