@@ -75,7 +75,7 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation>לקוח XMPP מרובה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
+        <translation>לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
 &lt;br&gt;
 זכויות יוצרים © 2001-2012 נבחרת ‫Psi.&lt;br&gt;
 </translation>
@@ -94,7 +94,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/about.ui" line="165"/>
         <source>Thanks To</source>
-        <translation>תודה ל</translation>
+        <translation>תודות</translation>
     </message>
     <message>
         <location filename="../psi/src/about.ui" line="181"/>
@@ -168,12 +168,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="94"/>
         <source>Original Mac Port</source>
-        <translation>פורט Mac מקורי</translation>
+        <translation>פורט ‫Mac מקורי</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="97"/>
         <source>Mac OS X Port</source>
-        <translation>פורט Mac OS X</translation>
+        <translation>פורט ‫Mac OS X</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="100"/>
@@ -236,9 +236,9 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:genghiskhan@gmx.ca&quot;&gt;genghiskhan@gmx.ca&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;מתרגם (Rahut)&lt;br&gt;
 &lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
+&lt;center&gt;מנשר&lt;/center&gt;
+&lt;p dir="rtl"&gt;קבוצות התרגום של Psi וגם Psi‪+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
+&lt;a href=&quot;xmpp:israeli@failar.nu&quot;&gt;xmpp:israeli@failar.nu&lt;/a&gt;. רב תודות!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -293,7 +293,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountadddlg.cpp" line="43"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>ניתן לעשות שימוש באפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
+        <translation>ניתן לסמן את אפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadddlg.cpp" line="47"/>
@@ -641,7 +641,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="986"/>
         <source>Authenticate as:</source>
-        <translation>התאמת כ:</translation>
+        <translation type="unfinished">התאמת כמו:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="1027"/>
@@ -706,17 +706,17 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="199"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>באופן רגיל, Psi מתחבר באמצעות שיטת האימות &lt;i&gt;digest&lt;/i&gt;.  באפשרותך לסמן את תיבה זו כדי לכפות התחברות גלויה אל שרת XMPP. מוטב להשתמש באפשרות זו רק אם יש לך בעיות בהתחברות עם פרוצדורת ההתחברות הרגילה, מכיוון שזו הופכת את חיבורך אל פגיע להתקפות באופן פוטנציאלי.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="206"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>התחברות אוטומטית אל חשבון זה בהפעלת Psi.  שימושית אם Psi משוגר באופן אוטומטית בעת איתור חיבור אינטרנט.</translation>
+        <translation>התחברות אוטומטית אל חשבון זה בהפעלת Psi.  שימושית אם Psi משוגר באופן אוטומטי בעת איתור חיבור אינטרנט.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="210"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi ינסה להתחבר כאשר המחשב חוזר משינה.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi ינסה להתחבר כאשר המחשב חוזר מן שינה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="213"/>
@@ -731,17 +731,17 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="221"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation type="unfinished"></translation>
+        <translation>שליחת חבילות &quot;Keep-alive&quot; במחזוריות.  תפקודיות זו שימושית אם חיבורך מוגדר להתנתק אוטומטית לאחר משך זמן מסוים של חוסר פעילות (לדוגמא, על ידי ספקית האינטרנט שלך) וברצונך לשומרו באופן תמידי כל הזמן.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="227"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>סמן את אפשרות זו כדי לעשות שימוש בחיבור SSL מוצפן לשרת XMPP.  באפשרותך לעשות שימוש באפשרות זו אם שרתך תומך בה ואם יש לך את התוספת qca-ossl הנחוצה מותקנת.  לפרטים נוספים, בדוק את עמוד הבית של Psi.</translation>
+        <translation>ניתן לסמן את אפשרות זו כדי לעשות שימוש בחיבור SSL מוצפן אל שרת XMPP.  באפשרותך לעשות שימוש באפשרות זו אם שרתך תומך בה ואם יש לך את התוספת qca-ossl הנחוצה מותקנת.  לפרטים נוספים, ניתן לבדוק את עמוד הבית של Psi.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="233"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation>סמן את אפשרות זו כדי לעשות שימוש בחיבור דחוס בהתברותך אל שרת XMPP, במידה והשרת תומך בכך.</translation>
+        <translation>ניתן לסמן את אפשרות זו כדי לעשות שימוש בחיבור דחוס בהתברותך אל שרת XMPP, במידה והשרת תומך בכך.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="236"/>
@@ -756,12 +756,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="246"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשרות זו מגדירה את המשתמש (וגם את התחום) שברצונך לאמתו כמו. אפשרות זו עוקפת כתובת XMPP עימה חיבורך מתבצע.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="250"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;ביכולתך להחזיק בלקוחות מרובים להתחברות אל שרת XMPP חשבונך היחידי.  בנסיבה שכזו, הלקוח עם העדיפות הגבוהה ביותר (שמצוינת בשדה זה) יהיה זה שיקבל את כל האירועים הנכנסים.&lt;/p&gt;&lt;p&gt;לדוגמא, אם עומד לרשותך חיבור קבוע אל המרשתת (אינטרנט) במקום עבודתך, ויש לך מודם חיוג (dial-up) בביתך, באפשרותך שיהיה לך לקוח XMPP מורץ באופן קבוע בעבודתך עם עדיפות נמוכה, ועדיין תעמוד לרשותך האפשרות לעשות שימוש באותו חשבון מביתך, בעושך שימוש בלקוח בעל עדיפות גבוהה יותר כדי &quot;לנטרל&quot; באופן זמני את הלקוח בעל העדיפות הנמוכה יותר בעבודתך.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="270"/>
@@ -1176,7 +1176,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;בכדי להוסיף משתמש &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;, עליך לציין כתובת XMPP (אפשרי גם כינוי וקבוצה) מתחת וללחוץ &lt;span style=&quot; font-style:italic;&quot;&gt;הוספה&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר מן שירות &lt;span style=&quot; font-weight:600;&quot;&gt;שאיננו XMPP&lt;/span&gt;, וודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן הקופסא שלמעלה. נא לעקוב אחר ההנחיות בתוך קופסת &lt;span style=&quot; font-style:italic;&quot;&gt;תרגום זהות שירות&lt;/span&gt; וללחוץ על &lt;span style=&quot; font-style:italic;&quot;&gt;השגת כתובת XMPP&lt;/span&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;בכדי להוסיף משתמש &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;, עליך לציין כתובת XMPP (אפשרי גם כינוי וקבוצה) מתחת וללחוץ &lt;span style=&quot; font-style:italic;&quot;&gt;הוספה&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר מן שירות &lt;span style=&quot; font-weight:600;&quot;&gt;שאיננו XMPP&lt;/span&gt;, וודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן התיבה שלמעלה. נא לעקוב אחר ההנחיות בתוך תיבת &lt;span style=&quot; font-style:italic;&quot;&gt;תרגום זהות שירות&lt;/span&gt; וללחוץ על &lt;span style=&quot; font-style:italic;&quot;&gt;השגת כתובת XMPP&lt;/span&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/adduser.ui" line="68"/>
@@ -1762,7 +1762,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="13"/>
         <source>Form</source>
-        <translation>מאת</translation>
+        <translation>תבנית</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="103"/>
@@ -3471,7 +3471,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1667"/>
         <source>Clear &amp;Finished</source>
-        <translation>טיהור &amp;מסוימות</translation>
+        <translation>טיהור &amp;גמורות</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1670"/>
@@ -3794,7 +3794,7 @@ Reason: %1</source>
         <location filename="../psi/src/groupchatdlg.cpp" line="1279"/>
         <location filename="../psi/src/groupchatdlg.cpp" line="1295"/>
         <source>%1 is now %2</source>
-        <translation>המשתמש %1 הינו %2 כעת</translation>
+        <translation>ההוויה של %1 שונתה אל %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1291"/>
@@ -5583,7 +5583,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="53"/>
         <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש בעיצוב הודעה של איש קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="60"/>
@@ -5618,7 +5618,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="102"/>
         <source>Automatically get vCard when becoming online</source>
-        <translation>השגת ‫vCard אוטומטית כאשר אני במצב מקוון</translation>
+        <translation>השגת vCard באופן אוטומטי כאשר אני במצב מקוון</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="109"/>
@@ -5676,7 +5676,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="47"/>
         <source>Account heading foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>צבע קדמי של כותרת חשבון:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="73"/>
@@ -5686,12 +5686,12 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="76"/>
         <source>Account heading background:</source>
-        <translation type="unfinished"></translation>
+        <translation>צבע אחורי של כותרת חשבון:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="102"/>
         <source>Group heading foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>צבע קדמי של כותרת קבוצה:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="109"/>
@@ -5701,7 +5701,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="112"/>
         <source>Group heading background:</source>
-        <translation type="unfinished"></translation>
+        <translation>צבע אחורי של כותרת קבוצה:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.ui" line="119"/>
@@ -5832,17 +5832,17 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_appearance_misc.ui" line="28"/>
         <source>Headings</source>
-        <translation type="unfinished"></translation>
+        <translation>כותרות</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance_misc.ui" line="40"/>
         <source>Slim group headings</source>
-        <translation type="unfinished"></translation>
+        <translation>כותרות קבוצה רזות</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance_misc.ui" line="47"/>
         <source>Outline headings</source>
-        <translation type="unfinished"></translation>
+        <translation>כותרות עם קו מקיף</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance_misc.ui" line="57"/>
@@ -6445,12 +6445,12 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="183"/>
         <source>Presets</source>
-        <translation>ערוכים מראש:</translation>
+        <translation>ערוכות מראש:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="203"/>
         <source>Preset:</source>
-        <translation>ערוך מראש:</translation>
+        <translation>ערוכה מראש:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="226"/>
@@ -6532,12 +6532,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="50"/>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>מאפשרת שליחה ובקשה של אירועי הודעה כגון &apos;איש קשר מקליד כעת&apos;, ...</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="53"/>
         <source>Enables the sending of events when you end or suspend a conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>מאפשרת שליחת אירועים בהפסיקך או בהתלותך של שיחה</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="56"/>
@@ -6557,7 +6557,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="62"/>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>ניתן לסמן את אפשרות זו אם ברצונך שתמליל נבחר בהודעות נכנסות וביומני שיחות יועתק אוטומטית אל לוח גזירות</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="64"/>
@@ -6567,7 +6567,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="67"/>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>מאפשרת השלמת כתובת JID באופן אוטומטי בדו־שיח הודעה בזמן הקלדה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="69"/>
@@ -6628,12 +6628,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="148"/>
         <source>Fonts &amp;&amp; Colors</source>
-        <translation>גופנים &amp;&amp; צבעים</translation>
+        <translation>גופנים וצבעים</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="148"/>
         <source>Fonts &amp;&amp; Color Settings</source>
-        <translation>הגדרות גופנים &amp;&amp; צבע</translation>
+        <translation>הגדרות גופנים וצבע</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="197"/>
@@ -6673,7 +6673,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="213"/>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ציון צבע התמליל עבור שם איש קשר בחלון הראשי כאשר משתמש זה הינו &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="221"/>
@@ -6739,7 +6739,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="47"/>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>באופן רגיל, הקלקה-ימנית עם העכבר על איש קשר תשפעל תפריט-הקשר.  ניתן לעשות שימוש באפשרות זו אם מוטב לך לעשות שימוש בהקלקה-שמאלית.</translation>
+        <translation>באופן רגיל, הקלקה-ימנית עם העכבר על איש קשר תשפעל תפריט-הקשר.  ניתן לסמן את אפשרות זו אם מוטב לך לעשות שימוש בהקלקה-שמאלית.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="50"/>
@@ -6754,7 +6754,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="56"/>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>באופן רגיל, הקלקה-בודדת על צלמית הרציפון של Psi מביאה את החלון הראשי אל הרקע הקדמי.  ביכולתך לסמן את אפשרות זו אם ברצונך לעשות שימוש בהקלקה-כפולה במקום.</translation>
+        <translation>באופן רגיל, הקלקה-בודדת על צלמית הרציפון של Psi מביאה את החלון הראשי אל הרקע הקדמי.  ניתן לסמן את אפשרות זו אם ברצונך לעשות שימוש בהקלקה-כפולה במקום.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="59"/>
@@ -6764,12 +6764,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="61"/>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>מונעת מן Psi מלתפוס מקום על שורת המשימות וגורמת לחלון הראשי לעשות שימוש בשורת כותרת קטנה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="164"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TCP: מנוטרל, UDP: אוטומטי)</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="167"/>
@@ -6830,7 +6830,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_chat.cpp" line="75"/>
         <source>Makes Psi bring an open chat window to the front of your screen when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יגיש חלון שיחה פתוח אל לפנים מרקעך כאשר תתקבל הודעה חדשה. פעולה זו לא תופסת את המיקוד של המקלדת, כך שזו לא תפריע לעבודתך.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יביא חלון שיחה פתוח אל לפנים מרקעך כאשר תתקבל הודעה חדשה. פעולה זו לא תופסת את המיקוד של המקלדת, כך שזו לא תפריע למהלך עבודתך השוטפת.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_chat.cpp" line="78"/>
@@ -6883,17 +6883,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="40"/>
         <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation type="unfinished"></translation>
+        <translation>במידה ואפשרות זו מסומנת, חלונות של הודעות נכנסות חדשות יוקפצו אוטומטית כאשר אלו יתקבלו.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="42"/>
         <source>Makes new incoming headlines pop up automatically when received.</source>
-        <translation type="unfinished"></translation>
+        <translation>במידה ואפשרות זו מסומנת, כותרות נכנסות חדשות יוקפצו אוטומטית כאשר אלו יתקבלו.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="44"/>
         <source>Makes new incoming file requests pop up automatically when received.</source>
-        <translation type="unfinished"></translation>
+        <translation>במידה ואפשרות זו מסומנת, בקשות קובץ נכנסות חדשות יוקפצו אוטומטית כאשר אלו יתקבלו.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="46"/>
@@ -6908,7 +6908,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="52"/>
         <source>Makes new incoming events bring the main window to the foreground.</source>
-        <translation type="unfinished"></translation>
+        <translation>במידה ואפשרות זו מסומנת, אירועים נכנסים חדשים יביאו את החלון הראשי אל הרקע הקדמי.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="54"/>
@@ -6918,7 +6918,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="57"/>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
-        <translation type="unfinished"></translation>
+        <translation>באיזה סוג של הנפשה על psi להשתמש עבור צלמיות של אירועים נכנסים בחלון הראשי?</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="69"/>
@@ -6982,7 +6982,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="710"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
-        <translation type="unfinished"></translation>
+        <translation>שימוש בצלמיות של מוביל לאישי הקשר, שעושים שימוש במובילים נתונים.</translation>
     </message>
 </context>
 <context>
@@ -7078,7 +7078,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_sound.cpp" line="123"/>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>ניתן להפעיל את אפשרות זו אם ברצונך לשמוע צלילי התראה כאשר מצבך הינו &quot;נעדר&quot; או &quot;נעדר לזמן ממושך&quot;.</translation>
+        <translation>ניתן להפעיל את אפשרות זו אם ברצונך לשמוע צלילי התראה כאשר מצבך הינו &quot;נעדר&quot; או &quot;לא זמין&quot;.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.cpp" line="125"/>
@@ -7126,7 +7126,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="52"/>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יגדיר אוטומטית את מצבך אל &quot;נעדר לזמן ממושך&quot; אם מחשבך הינו עצל בכמות הזמן המצוינת.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יגדיר אוטומטית את מצבך אל &quot;לא זמין&quot; אם מחשבך הינו עצל בכמות הזמן המצוינת.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="56"/>
@@ -7136,7 +7136,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="68"/>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"></translation>
+        <translation>ציון הודעה מורחבת לשימוש בהרשך למען Psi להגדיר את מצבך אוטומטית.  ראה את האפשרויות מעלה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="71"/>
@@ -7156,12 +7156,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="87"/>
         <source>Use this list to select a status message preset to view or edit in the box to the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>ביכולתך לעשות שימוש בתיבה-משולבת זו כדי לברור הודעת מצב ערוכה מראש כדי לצפות או לערוך בתבנית שמטה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="90"/>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation type="unfinished"></translation>
+        <translation>ביכולתך לערוך את ההודעה כאן עבור הודעת המצב הערוכה מראש ברשימה שלמעלה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="93"/>
@@ -7176,7 +7176,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="99"/>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP מתירה לך להשים הודעות מצב מורחבות על כל טיפוס מצב.  באופן רגיל, Psi לא שואל אותך עבור הודעה מורחבת בהגדירך את מצבך אל &quot;מקוון&quot;.  ניתן לסמן את אפשרות זו אם כן ברצונך להישאל.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.cpp" line="267"/>
@@ -7665,7 +7665,9 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;כאמצעי זהירות, הינך נשאל/ת פעם אחת אחרונה אם זו אכן מה שברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+להמשיך?</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="293"/>
@@ -7949,12 +7951,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/proxy.cpp" line="319"/>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזנת שם התחברות שרת פרוקסי (שם משתמש) או השארת שדה זה ריק במידה ושרת הפרוקסי לא מצריכו.</translation>
+        <translation>הזנת שם התחברות שרת פרוקסי (שם משתמש) או הנחת שדה זה ריק במידה ושרת הפרוקסי לא מצריכו.</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.cpp" line="323"/>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזנת סיסמת שרת פרוקסי או השארת שדה זה ריק במידה ושרת הפרוקסי לא מצריכה.</translation>
+        <translation>הזנת סיסמת שרת פרוקסי או הנחת שדה זה ריק במידה ושרת הפרוקסי לא מצריכה.</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.cpp" line="327"/>
@@ -8081,12 +8083,12 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1923"/>
         <source>Server out of resources</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת אזל ממשאבים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1927"/>
         <source>Server is shutting down</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת נכבה כעת</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1929"/>
@@ -8116,7 +8118,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1944"/>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished"></translation>
+        <translation>אימות פרוקסי נכשל</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1949"/>
@@ -8141,7 +8143,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1961"/>
         <source>A required remote connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>חיבור מרוחק נצרך נכשל</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1965"/>
@@ -8151,7 +8153,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1967"/>
         <source>Server does not support proper XMPP version</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת לא תומך בגירסת XMPP מתאימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1968"/>
@@ -8274,7 +8276,8 @@ Details: %1</source>
         <location filename="../psi/src/psiaccount.cpp" line="5501"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ארעה שגיאה בניסיון לחתום את מצבך.
+סיבה: %1.</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="5611"/>
@@ -8322,7 +8325,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="125"/>
         <source>Toggle visibility of special roster groups</source>
-        <translation type="unfinished"></translation>
+        <translation>החלפת ראות של קבוצות רשימה מיוחדות</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="129"/>
@@ -8605,7 +8608,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="292"/>
         <source>XA</source>
-        <translation>נעדר לזמן ארוך</translation>
+        <translation>לא זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="295"/>
@@ -9553,7 +9556,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="154"/>
         <source>Flat</source>
-        <translation>שטוחה</translation>
+        <translation>תצוגה שטוחה</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="155"/>
@@ -10470,7 +10473,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/rc.cpp" line="82"/>
         <source>Extended Away</source>
-        <translation>נעדר לזמן ממושך</translation>
+        <translation>לא זמין</translation>
     </message>
     <message>
         <location filename="../psi/src/rc.cpp" line="87"/>
@@ -11475,7 +11478,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="82"/>
         <source>Stroke color</source>
-        <translation type="unfinished"></translation>
+        <translation>צבע מכחול</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="84"/>
@@ -11485,7 +11488,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="88"/>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>רוחב מכחול</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="89"/>
@@ -11495,17 +11498,17 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="104"/>
         <source>Thin stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>מכחול דק</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="110"/>
         <source>Medium stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>מכחול בינוני</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="115"/>
         <source>Thick stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>מכחול עבה</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="120"/>
@@ -11525,7 +11528,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="129"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>שינוי גודל</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="132"/>
@@ -11560,7 +11563,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="235"/>
         <source>%1 left (session: %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 עזב/ה (סשן: %2).</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="240"/>
