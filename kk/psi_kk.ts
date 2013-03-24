@@ -473,7 +473,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="259"/>
         <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="288"/>
@@ -498,7 +498,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="428"/>
         <source>Blocked Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокталған контакттар</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="451"/>
@@ -585,7 +585,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="790"/>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Түрлі</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="796"/>
@@ -595,7 +595,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="811"/>
         <source>Resource:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресурс: </translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="828"/>
@@ -615,7 +615,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="880"/>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокси:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="895"/>
@@ -761,7 +761,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="365"/>
         <source>No Key Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Кілт таңдалмады</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="395"/>
@@ -778,7 +778,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="403"/>
         <source>SSL error</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL қатесі</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="403"/>
@@ -851,7 +851,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="13"/>
         <source>Register Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркелгіні жасау</translation>
     </message>
     <message>
         <location filename="../psi/src/accountreg.ui" line="38"/>
@@ -896,7 +896,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="192"/>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокси:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountreg.ui" line="199"/>
@@ -967,7 +967,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="130"/>
         <source>SSL error</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL қатесі</translation>
     </message>
     <message>
         <location filename="../psi/src/accountregdlg.cpp" line="130"/>
@@ -1022,7 +1022,7 @@ Reason: %1</source>
         <location filename="../psi/src/accountremove.ui" line="14"/>
         <location filename="../psi/src/accountremove.ui" line="20"/>
         <source>Remove Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркелгіні өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/accountremove.ui" line="26"/>
@@ -1118,7 +1118,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/addurl.ui" line="16"/>
         <source>Add URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Сілтемені қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/addurl.ui" line="39"/>
@@ -1517,7 +1517,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="114"/>
         <source>C&amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>Қоңырау ш&amp;алу</translation>
     </message>
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="115"/>
@@ -1527,7 +1527,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="125"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кімнен:</translation>
     </message>
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="138"/>
@@ -1669,7 +1669,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>Эл. пошта:</translation>
     </message>
 </context>
 <context>
@@ -1677,7 +1677,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/changepw.ui" line="14"/>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Парольді өзгерту</translation>
     </message>
     <message>
         <location filename="../psi/src/changepw.ui" line="36"/>
@@ -1687,7 +1687,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/changepw.ui" line="43"/>
         <source>Current password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ағымдағы пароль:</translation>
     </message>
     <message>
         <location filename="../psi/src/changepw.ui" line="57"/>
@@ -1762,7 +1762,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="137"/>
         <source>Toggle encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрлеуді іске қосу/сөндіру</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="153"/>
@@ -1915,17 +1915,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="105"/>
         <source>Set MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD орнату</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="108"/>
         <source>Update MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD жаңарту</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="111"/>
         <source>Delete MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="116"/>
@@ -1945,7 +1945,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="166"/>
         <source>Join %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ішіне кіру</translation>
     </message>
 </context>
 <context>
@@ -1958,7 +1958,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="60"/>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Топ және контакттарды өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="62"/>
@@ -1968,12 +1968,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="67"/>
         <source>Remove Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Топты өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="70"/>
         <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Топқа хабарламаны жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistgroupmenu.cpp" line="74"/>
@@ -2029,14 +2029,12 @@ Do you still want to close the window?</source>
         <source>and %n contacts </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../psi/src/contactlistutil.cpp" line="91"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2079,7 +2077,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="144"/>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Блоктау</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="149"/>
@@ -2135,22 +2133,22 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="930"/>
         <source>Send Server Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер хабарламасын жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="932"/>
         <source>Set MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD орнату</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="933"/>
         <source>Update MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD жаңарту</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="934"/>
         <source>Delete MOTD</source>
-        <translation type="unfinished"></translation>
+        <translation>MOTD өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="952"/>
@@ -2180,12 +2178,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="965"/>
         <source>Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>Басқару...</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="970"/>
         <source>Join %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Кіру: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="978"/>
@@ -2215,29 +2213,29 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="988"/>
         <source>&amp;Modify Account...</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркелгіні тү&amp;зету...</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="992"/>
         <source>&amp;Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ә&amp;кімші</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1064"/>
         <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Топқа хабарламаны жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1077"/>
         <location filename="../psi/src/contactview.cpp" line="1104"/>
         <source>Remove Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Топты өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1078"/>
         <location filename="../psi/src/contactview.cpp" line="1116"/>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Топ пен контакттарды өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1083"/>
@@ -2277,17 +2275,17 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1161"/>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакттар тізіміне қосу/авторизациялау</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1204"/>
         <source>Send Message To</source>
-        <translation type="unfinished"></translation>
+        <translation>Хабарламаны жіберу:</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1210"/>
         <source>Open Chat To</source>
-        <translation type="unfinished"></translation>
+        <translation>Сөйлесуді ашу:</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1217"/>
@@ -2297,12 +2295,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1232"/>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1255"/>
         <source>Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Белсенді чаттар</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1263"/>
@@ -2327,7 +2325,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1349"/>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа&amp;сын жасау...</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1350"/>
@@ -2362,12 +2360,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1401"/>
         <source>&amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сурет</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1407"/>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP &amp;кілтін орнату</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1409"/>
@@ -2424,7 +2422,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1605"/>
         <source>Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Шақыру</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1606"/>
@@ -2661,12 +2659,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="994"/>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркеу</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="994"/>
         <source>&amp;Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Тір&amp;кеу</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="997"/>
@@ -2691,12 +2689,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1003"/>
         <source>Execute command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команданы орындау</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1003"/>
         <source>&amp;Execute command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Команданы орындау</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1006"/>
@@ -2711,12 +2709,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1009"/>
         <source>Add to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Ростерге қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1009"/>
         <source>&amp;Add to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Рост&amp;ерге қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/discodlg.cpp" line="1014"/>
@@ -2832,12 +2830,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="738"/>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кімнен:</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="747"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Түрі:</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="750"/>
@@ -2910,7 +2908,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="923"/>
         <source>&amp;Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дәйексөз</translation>
     </message>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="929"/>
@@ -3098,7 +3096,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="588"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="589"/>
@@ -3134,7 +3132,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../psi/src/filetransdlg.cpp" line="679"/>
         <location filename="../psi/src/filetransdlg.cpp" line="797"/>
         <source>%1 byte(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 байт</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="656"/>
@@ -3424,7 +3422,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1651"/>
         <source>Transfer Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлдармен алмасулар басқарушысы</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1667"/>
@@ -3614,12 +3612,12 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="687"/>
         <source>Configure Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Бөлмені баптау</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="687"/>
         <source>&amp;Configure Room</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Бөлмені баптау</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="691"/>
@@ -3639,12 +3637,12 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="701"/>
         <source>Change Nickname...</source>
-        <translation type="unfinished"></translation>
+        <translation>Никті өзгерту...</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="705"/>
         <source>Enter Command...</source>
-        <translation type="unfinished"></translation>
+        <translation>Команданы енгізу...</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="852"/>
@@ -3781,7 +3779,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1345"/>
         <source>Banned</source>
-        <translation type="unfinished"></translation>
+        <translation>Бандалған</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1345"/>
@@ -3877,22 +3875,22 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1379"/>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 енді %2 ретінде белгілі</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1383"/>
         <source>%1 has left the room</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 чат бөлмесінен шықты</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1426"/>
         <source>has set the topic to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>тақырыпты келесідей орнатты: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1429"/>
         <source>The topic has been set to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Тақырып келесідей орнатылды: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1476"/>
@@ -4120,7 +4118,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.ui" line="69"/>
         <source>Topic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тақырыбы:</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.ui" line="91"/>
@@ -4154,7 +4152,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="90"/>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа&amp;сын жасау...</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="128"/>
@@ -4247,7 +4245,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/historydlg.cpp" line="400"/>
         <source>&amp;Delete history</source>
-        <translation type="unfinished"></translation>
+        <translation>Тарихты ө&amp;шіру</translation>
     </message>
 </context>
 <context>
@@ -4306,7 +4304,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/homedirmigration.ui" line="80"/>
         <source>Create new profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа профильді жасау</translation>
     </message>
 </context>
 <context>
@@ -4327,7 +4325,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="324"/>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост табылмады</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="328"/>
@@ -4355,7 +4353,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="984"/>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост табылмады</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="988"/>
@@ -4383,7 +4381,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="701"/>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост табылмады</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="705"/>
@@ -4478,7 +4476,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_emo.ui" line="28"/>
         <source>Enable emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation>Смайликтерді іске қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_emo.ui" line="38"/>
@@ -4498,7 +4496,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_emo.ui" line="92"/>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Ақ&amp;паратты көрсету</translation>
     </message>
 </context>
 <context>
@@ -4523,7 +4521,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="180"/>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="257"/>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Ақ&amp;паратты көрсету</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="75"/>
@@ -4602,7 +4600,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_system.ui" line="42"/>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Ақ&amp;паратты көрсету</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_system.ui" line="45"/>
@@ -4807,7 +4805,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../psi/src/infodlg.cpp" line="161"/>
         <location filename="../psi/src/infodlg.cpp" line="162"/>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб браузерін ашу</translation>
     </message>
     <message>
         <location filename="../psi/src/infodlg.cpp" line="192"/>
@@ -5139,7 +5137,7 @@ available</source>
     <message>
         <location filename="../psi/src/mucjoin.ui" line="20"/>
         <source>Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификация:</translation>
     </message>
     <message>
         <location filename="../psi/src/mucjoin.ui" line="33"/>
@@ -5412,7 +5410,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="1034"/>
         <source>Connecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Қосылуда</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="1300"/>
@@ -5512,7 +5510,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="46"/>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Емлені тексеру</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="53"/>
@@ -5880,7 +5878,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="200"/>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокси баптаулары</translation>
     </message>
 </context>
 <context>
@@ -5888,7 +5886,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_avcall.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_avcall.ui" line="19"/>
@@ -6089,7 +6087,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="151"/>
         <source>Animation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Анимация:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="165"/>
@@ -6099,7 +6097,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="170"/>
         <source>Blink</source>
-        <translation type="unfinished"></translation>
+        <translation>Жыпылықтау</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.ui" line="175"/>
@@ -6268,7 +6266,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="146"/>
         <source>Receive message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Хабарлама алу:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="195"/>
@@ -6368,7 +6366,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="146"/>
         <source>Status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Қалып-күй хабарламасы</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="168"/>
@@ -6379,7 +6377,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="183"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Сақталған баптаулар</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="203"/>
@@ -6404,7 +6402,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="292"/>
         <source>Content:</source>
-        <translation type="unfinished"></translation>
+        <translation>Құрамасы:</translation>
     </message>
 </context>
 <context>
@@ -6454,7 +6452,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="26"/>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Түрлі</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="26"/>
@@ -6630,7 +6628,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="225"/>
         <source>Status message</source>
-        <translation type="unfinished"></translation>
+        <translation>Қалып-күй хабарламасы</translation>
     </message>
 </context>
 <context>
@@ -6638,7 +6636,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="92"/>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Түрлі</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_appearance.cpp" line="92"/>
@@ -6868,7 +6866,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_groupchat.cpp" line="30"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат бөлмесі</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_groupchat.cpp" line="30"/>
@@ -7222,7 +7220,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/pgpkeydlg.cpp" line="91"/>
         <source>User ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Пайдаланушы ID-і</translation>
     </message>
     <message>
         <location filename="../psi/src/pgpkeydlg.cpp" line="199"/>
@@ -7306,17 +7304,17 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="56"/>
         <source>Default List (all sessions):</source>
-        <translation type="unfinished"></translation>
+        <translation>Бастапқы тізім (барлық сессиялар):</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="63"/>
         <source>Active List (current session):</source>
-        <translation type="unfinished"></translation>
+        <translation>Белсенді тізім (ағымдағы сессия):</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="80"/>
         <source>List Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Тізімдер түзетушісі</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="88"/>
@@ -7326,22 +7324,22 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="115"/>
         <source>New List</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа тізім</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="122"/>
         <source>Delete List</source>
-        <translation type="unfinished"></translation>
+        <translation>Тізімді өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="131"/>
         <source>Automatically activate this list on connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Байланысты орнатқан кезде бұл тізімді автобелсендіру</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="138"/>
         <source>Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Ережелер</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacy.ui" line="149"/>
@@ -7379,7 +7377,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="36"/>
         <source>%1: Privacy Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Жекелік тізімдері</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="148"/>
@@ -7390,12 +7388,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="304"/>
         <source>New List</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа тізім</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="304"/>
         <source>Enter the name of the new list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа тізімнің атын енгізіңіз:</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="309"/>
@@ -7405,7 +7403,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacydlg.cpp" line="309"/>
         <source>A list with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Осылай аталатын тізім бар болып тұр.</translation>
     </message>
 </context>
 <context>
@@ -7413,12 +7411,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="16"/>
         <source>Edit Privacy Rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Жекелік ережесін түзету</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="36"/>
         <source>Then:</source>
-        <translation type="unfinished"></translation>
+        <translation>Одан кейін:</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="51"/>
@@ -7428,7 +7426,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="58"/>
         <source>Queries</source>
-        <translation type="unfinished"></translation>
+        <translation>Сұранымдар</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="65"/>
@@ -7443,7 +7441,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="87"/>
         <source>If:</source>
-        <translation type="unfinished"></translation>
+        <translation>Егер:</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyrule.ui" line="183"/>
@@ -7481,7 +7479,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/privacy/privacyruledlg.cpp" line="33"/>
         <source>Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Жазылу</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacyruledlg.cpp" line="34"/>
@@ -7515,7 +7513,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="14"/>
         <source>Manage Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Профильдерді басқару</translation>
     </message>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="30"/>
@@ -7550,7 +7548,7 @@ Please enter your passphrase below:</source>
         <location filename="../psi/src/profiledlg.cpp" line="243"/>
         <location filename="../psi/src/profiledlg.cpp" line="247"/>
         <source>Rename Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль атын ауыстыру</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="238"/>
@@ -7587,7 +7585,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="280"/>
         <source>Delete it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Оны өшіру!</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="287"/>
@@ -7617,7 +7615,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/profilenew.ui" line="16"/>
         <source>New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа профиль</translation>
     </message>
     <message>
         <location filename="../psi/src/profilenew.ui" line="48"/>
@@ -7631,12 +7629,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profilenew.ui" line="75"/>
         <source>Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль аты:</translation>
     </message>
     <message>
         <location filename="../psi/src/profilenew.ui" line="87"/>
         <source>Default Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Бастапқы әрекет</translation>
     </message>
     <message>
         <location filename="../psi/src/profilenew.ui" line="99"/>
@@ -7651,7 +7649,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profilenew.ui" line="116"/>
         <source>Enable Emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation>Смайликтерді іске қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/profilenew.ui" line="170"/>
@@ -7680,7 +7678,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <location filename="../psi/src/profiledlg.cpp" line="351"/>
         <location filename="../psi/src/profiledlg.cpp" line="356"/>
         <source>New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа профиль</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="351"/>
@@ -7699,7 +7697,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <location filename="../psi/src/profileopen.ui" line="16"/>
         <location filename="../psi/src/profileopen.ui" line="64"/>
         <source>Open Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профильді ашу</translation>
     </message>
     <message>
         <location filename="../psi/src/profileopen.ui" line="36"/>
@@ -7709,7 +7707,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profileopen.ui" line="43"/>
         <source>Image goes here</source>
-        <translation type="unfinished"></translation>
+        <translation>Сурет осында</translation>
     </message>
     <message>
         <location filename="../psi/src/profileopen.ui" line="50"/>
@@ -7724,7 +7722,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profileopen.ui" line="105"/>
         <source>&amp;Automatically open on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Іске қосылған кезде &amp;автоашу</translation>
     </message>
     <message>
         <location filename="../psi/src/profileopen.ui" line="123"/>
@@ -7744,7 +7742,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profileopen.ui" line="185"/>
         <source>&amp;Profiles...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Профильдер...</translation>
     </message>
     <message>
         <location filename="../psi/src/profileopen.ui" line="188"/>
@@ -7767,7 +7765,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="115"/>
         <source>Select a profile to open from this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бұл тізімнен ашу үшін профильді таңдаңыз.</translation>
     </message>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="117"/>
@@ -7913,28 +7911,29 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1300"/>
         <source>Disable Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркелгіні сөндіру</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1300"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Бұл тіркелгі қазір белсенді болып тұр.
+Одан шығуды қалайсыз ба?</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1537"/>
         <source>Encryption Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрлеу қатесі</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1538"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Байланысты орнату мүмкін емес: Шифрлеу іске қосылған, бірақ QCA2 SSL/TLS плагині қолжетерсіз.</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1554"/>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Мүмкіндік алынып тасталды</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1555"/>
@@ -7990,12 +7989,12 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1915"/>
         <source>Internal server error</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервердің ішкі қатесі</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1917"/>
         <source>Invalid XML</source>
-        <translation type="unfinished"></translation>
+        <translation>Қате XML</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1919"/>
@@ -8015,22 +8014,22 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1929"/>
         <source>XMPP Stream Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP ағым қатесі: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1936"/>
         <source>Unable to connect to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Серверге байланысты орнату мүмкін емес</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1938"/>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост табылмады</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1940"/>
         <source>Error connecting to proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Проксиге байланысты орнату сәтсіз</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1942"/>
@@ -8155,7 +8154,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="2016"/>
         <source>Authentication error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Шындылықты анықтау қатесі</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="2019"/>
@@ -8717,7 +8716,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="319"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрлеуді іске қосу/сөндіру</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="322"/>
@@ -9091,7 +9090,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../psi/src/psicontactmenu.cpp" line="291"/>
         <location filename="../psi/src/psicontactmenu.cpp" line="466"/>
         <source>&amp;Block</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Блоктау</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="294"/>
@@ -9101,7 +9100,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="312"/>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакттар тізіміне қосу/авторизациялау</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="315"/>
@@ -9171,7 +9170,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="360"/>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP кілтін орнату</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="363"/>
@@ -9196,12 +9195,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="382"/>
         <source>Send Message To</source>
-        <translation type="unfinished"></translation>
+        <translation>Хабарламаны кімге жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="385"/>
         <source>Open Chat To</source>
-        <translation type="unfinished"></translation>
+        <translation>Сөйлесуді ашу:</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="388"/>
@@ -9211,12 +9210,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="391"/>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="394"/>
         <source>Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Белсенді чаттар</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="419"/>
@@ -9226,17 +9225,17 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="425"/>
         <source>&amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сурет</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="466"/>
         <source>&amp;Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок&amp;таудан босату</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="560"/>
         <source>Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Шақыру</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="561"/>
@@ -9327,7 +9326,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/main.cpp" line="246"/>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Белсендіру</translation>
     </message>
     <message>
         <location filename="../psi/src/main.cpp" line="283"/>
@@ -9360,7 +9359,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="152"/>
         <source>Eating</source>
-        <translation type="unfinished"></translation>
+        <translation>Тамақ ішуде</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="153"/>
@@ -9400,7 +9399,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="168"/>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Кино</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="169"/>
@@ -9473,7 +9472,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="154"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Жазық</translation>
     </message>
     <message>
         <location filename="../psi/src/psioptionseditor.cpp" line="155"/>
@@ -9541,7 +9540,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="255"/>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation>Қалып-күйді өзгерту</translation>
     </message>
     <message>
         <location filename="../psi/src/psipopup.cpp" line="259"/>
@@ -9579,7 +9578,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psirosterwidget.cpp" line="252"/>
         <source>Remove Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Топты өшіру</translation>
     </message>
     <message>
         <location filename="../psi/src/psirosterwidget.cpp" line="253"/>
@@ -9657,7 +9656,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/types.cpp" line="2846"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Күйі</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/types.cpp" line="2847"/>
@@ -9682,7 +9681,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/types.cpp" line="2851"/>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Түрлі</translation>
     </message>
     <message>
         <location filename="../psi/src/Certificates/CertificateErrorDialog.cpp" line="17"/>
@@ -9732,7 +9731,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/applicationinfo.cpp" line="269"/>
         <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Айналдыру қатесі.</translation>
     </message>
     <message>
         <location filename="../psi/src/applicationinfo.cpp" line="269"/>
@@ -9786,7 +9785,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/eventdlg.cpp" line="312"/>
         <source>Invitation to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ішіне шақыру</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="906"/>
@@ -9806,307 +9805,307 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="58"/>
         <source>Afraid</source>
-        <translation type="unfinished"></translation>
+        <translation>Қорқуда</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="59"/>
         <source>Amazed</source>
-        <translation type="unfinished"></translation>
+        <translation>Таң қалған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="60"/>
         <source>Angry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ашулы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="61"/>
         <source>Annoyed</source>
-        <translation type="unfinished"></translation>
+        <translation>Тітіркенген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="62"/>
         <source>Anxious</source>
-        <translation type="unfinished"></translation>
+        <translation>Алаңдаған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="63"/>
         <source>Aroused</source>
-        <translation type="unfinished"></translation>
+        <translation>Қоздырылған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="64"/>
         <source>Ashamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ұялған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="65"/>
         <source>Bored</source>
-        <translation type="unfinished"></translation>
+        <translation>Жалыққан</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="66"/>
         <source>Brave</source>
-        <translation type="unfinished"></translation>
+        <translation>Қайсар</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="67"/>
         <source>Calm</source>
-        <translation type="unfinished"></translation>
+        <translation>Тыныш</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="68"/>
         <source>Cold</source>
-        <translation type="unfinished"></translation>
+        <translation>Суық</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="69"/>
         <source>Confused</source>
-        <translation type="unfinished"></translation>
+        <translation>Шатасқан</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="70"/>
         <source>Contented</source>
-        <translation type="unfinished"></translation>
+        <translation>Мәз</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="71"/>
         <source>Cranky</source>
-        <translation type="unfinished"></translation>
+        <translation>Қырсық</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="72"/>
         <source>Curious</source>
-        <translation type="unfinished"></translation>
+        <translation>Әуесқой</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="73"/>
         <source>Depressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Депрессияда</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="74"/>
         <source>Disappointed</source>
-        <translation type="unfinished"></translation>
+        <translation>Түңілген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="75"/>
         <source>Disgusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Жиіркенген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="76"/>
         <source>Distracted</source>
-        <translation type="unfinished"></translation>
+        <translation>Шашыраңқы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="77"/>
         <source>Embarrassed</source>
-        <translation type="unfinished"></translation>
+        <translation>Қымсынған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="78"/>
         <source>Excited</source>
-        <translation type="unfinished"></translation>
+        <translation>Қызыққан</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="79"/>
         <source>Flirtatious</source>
-        <translation type="unfinished"></translation>
+        <translation>Әсемпаз</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="80"/>
         <source>Frustrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Көңілі қайтқан</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="81"/>
         <source>Grumpy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ашулы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="82"/>
         <source>Guilty</source>
-        <translation type="unfinished"></translation>
+        <translation>Кінәлі</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="83"/>
         <source>Happy</source>
-        <translation type="unfinished"></translation>
+        <translation>Бақытты</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="84"/>
         <source>Hot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ыстық</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="85"/>
         <source>Humbled</source>
-        <translation type="unfinished"></translation>
+        <translation>Кемсітілген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="86"/>
         <source>Humiliated</source>
-        <translation type="unfinished"></translation>
+        <translation>Қор болған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="87"/>
         <source>Hungry</source>
-        <translation type="unfinished"></translation>
+        <translation>Аш</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="88"/>
         <source>Hurt</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаралы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="89"/>
         <source>Impressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Әсер етілген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="90"/>
         <source>In Awe</source>
-        <translation type="unfinished"></translation>
+        <translation>Қастерлеуде</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="91"/>
         <source>In Love</source>
-        <translation type="unfinished"></translation>
+        <translation>Ғашық</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="92"/>
         <source>Indignant</source>
-        <translation type="unfinished"></translation>
+        <translation>Ашынған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="93"/>
         <source>Interested</source>
-        <translation type="unfinished"></translation>
+        <translation>Қызыққан</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="94"/>
         <source>Intoxicated</source>
-        <translation type="unfinished"></translation>
+        <translation>Мас</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="95"/>
         <source>Invincible</source>
-        <translation type="unfinished"></translation>
+        <translation>Жеңілмейтін</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="96"/>
         <source>Jealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Қызғаншақ</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="97"/>
         <source>Lonely</source>
-        <translation type="unfinished"></translation>
+        <translation>Жалғыз</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="98"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Орташа маңызы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="99"/>
         <source>Moody</source>
-        <translation type="unfinished"></translation>
+        <translation>Түнерген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="100"/>
         <source>Nervous</source>
-        <translation type="unfinished"></translation>
+        <translation>Ашушаң</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="101"/>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Бейтарап</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="102"/>
         <source>Offended</source>
-        <translation type="unfinished"></translation>
+        <translation>Ренжіген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="103"/>
         <source>Playful</source>
-        <translation type="unfinished"></translation>
+        <translation>Ойнақы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="104"/>
         <source>Proud</source>
-        <translation type="unfinished"></translation>
+        <translation>Мақтанған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="105"/>
         <source>Relieved</source>
-        <translation type="unfinished"></translation>
+        <translation>Босатылған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="106"/>
         <source>Remorseful</source>
-        <translation type="unfinished"></translation>
+        <translation>Өкінген</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="107"/>
         <source>Restless</source>
-        <translation type="unfinished"></translation>
+        <translation>Тынымсыз</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="108"/>
         <source>Sad</source>
-        <translation type="unfinished"></translation>
+        <translation>Көңілі жоқ</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="109"/>
         <source>Sarcastic</source>
-        <translation type="unfinished"></translation>
+        <translation>Мысқыл</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="110"/>
         <source>Serious</source>
-        <translation type="unfinished"></translation>
+        <translation>Байсалды</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="111"/>
         <source>Shocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Шокта</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="112"/>
         <source>Shy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ұялшақ</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="113"/>
         <source>Sick</source>
-        <translation type="unfinished"></translation>
+        <translation>Ауырған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="114"/>
         <source>Sleepy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ұйқылы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="115"/>
         <source>Stressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Қызулы</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="116"/>
         <source>Surprised</source>
-        <translation type="unfinished"></translation>
+        <translation>Таң қалған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="117"/>
         <source>Thirsty</source>
-        <translation type="unfinished"></translation>
+        <translation>Сусаған</translation>
     </message>
     <message>
         <location filename="../psi/src/moodcatalog.cpp" line="118"/>
         <source>Worried</source>
-        <translation type="unfinished"></translation>
+        <translation>Абыржыған</translation>
     </message>
     <message>
         <location filename="../psi/src/mucmanager.cpp" line="371"/>
@@ -10282,7 +10281,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="62"/>
         <source>Queries,</source>
-        <translation type="unfinished"></translation>
+        <translation>Сұранымдар,</translation>
     </message>
     <message>
         <location filename="../psi/src/privacy/privacylistitem.cpp" line="68"/>
@@ -10307,7 +10306,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="685"/>
         <source>%1 Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 прокси</translation>
     </message>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="1109"/>
@@ -10388,7 +10387,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/rc.cpp" line="82"/>
         <source>Extended Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Кеңейтілген кетіп қалған</translation>
     </message>
     <message>
         <location filename="../psi/src/rc.cpp" line="87"/>
@@ -10443,7 +10442,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/rc.cpp" line="201"/>
         <source>Auto-open new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа хабарламаларды автоашу</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="452"/>
@@ -10498,7 +10497,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/userlist.cpp" line="535"/>
         <source>Last Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Соңғы қалып-күйі</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="541"/>
@@ -10523,7 +10522,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/userlist.cpp" line="580"/>
         <source>Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Қалып-күй хабарламасы</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="599"/>
@@ -10551,7 +10550,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="182"/>
         <source>&amp;Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Тір&amp;кеу</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="186"/>
@@ -10561,7 +10560,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="211"/>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Бос емес</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="211"/>
@@ -10674,7 +10673,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/search.ui" line="72"/>
         <source>form</source>
-        <translation type="unfinished"></translation>
+        <translation>форма</translation>
     </message>
     <message>
         <location filename="../psi/src/search.ui" line="84"/>
@@ -10792,7 +10791,6 @@ Reason: %1</source>
         <location filename="../psi/src/searchdlg.cpp" line="490"/>
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -11001,32 +10999,32 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="267"/>
         <source>Send Tab To</source>
-        <translation type="unfinished"></translation>
+        <translation>Бетті қайда жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="297"/>
         <source>Detach Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Ағымдағы бетті бөліп жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="298"/>
         <source>Close Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Ағымдағы бетті жабу</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="301"/>
         <source>Send Current Tab To</source>
-        <translation type="unfinished"></translation>
+        <translation>Ағымдағы бетті қайда жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="313"/>
         <source>Use for New Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа чаттар үшін қолдану</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="316"/>
         <source>Use for New Mucs</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа чат бөлмелері үшін қолдану</translation>
     </message>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="514"/>
@@ -11036,7 +11034,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
-        <translation type="unfinished"></translation>
+        <translation> жазуда</translation>
     </message>
 </context>
 <context>
@@ -11044,17 +11042,17 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tip.ui" line="16"/>
         <source>Useful Tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Пайдалы кеңестер</translation>
     </message>
     <message>
         <location filename="../psi/src/tip.ui" line="59"/>
         <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/logo_128</translation>
     </message>
     <message>
         <location filename="../psi/src/tip.ui" line="189"/>
         <source>Show tips at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Іске қосылғанда, кеңестерді көрсету</translation>
     </message>
     <message>
         <location filename="../psi/src/tip.ui" line="212"/>
@@ -11226,22 +11224,22 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/widgets/urlobject.cpp" line="57"/>
         <source>Open mail composer</source>
-        <translation type="unfinished"></translation>
+        <translation>Хат құрастырушысын ашу</translation>
     </message>
     <message>
         <location filename="../psi/src/widgets/urlobject.cpp" line="61"/>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб браузерін ашу</translation>
     </message>
     <message>
         <location filename="../psi/src/widgets/urlobject.cpp" line="65"/>
         <source>Add to Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Ростерге қосу</translation>
     </message>
     <message>
         <location filename="../psi/src/widgets/urlobject.cpp" line="69"/>
         <source>Send message to</source>
-        <translation type="unfinished"></translation>
+        <translation>Хабарламаны кімге жіберу</translation>
     </message>
     <message>
         <location filename="../psi/src/widgets/urlobject.cpp" line="73"/>
@@ -11371,7 +11369,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="84"/>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Толтырудың түсi</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="88"/>
@@ -11406,7 +11404,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="123"/>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудару</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="126"/>
@@ -11416,7 +11414,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="129"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабтау</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="132"/>
@@ -11486,7 +11484,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="357"/>
         <source>Set new width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа енін орнату:</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="357"/>
@@ -11496,7 +11494,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="362"/>
         <source>Set new height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Жаңа биіктігін орнату:</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbdlg.cpp" line="362"/>
@@ -11519,12 +11517,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="336"/>
         <source>Bring forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Алдына жылжыту</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="338"/>
         <source>Bring to front</source>
-        <translation type="unfinished"></translation>
+        <translation>Алдынғы көрiнiске</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="340"/>
@@ -11534,7 +11532,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="342"/>
         <source>Send to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Артқы көрiнiске</translation>
     </message>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="348"/>
@@ -11544,7 +11542,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/whiteboarding/wbitem.cpp" line="350"/>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Топты тарату</translation>
     </message>
 </context>
 <context>
@@ -11615,7 +11613,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/xmlconsole.ui" line="63"/>
         <source>IQ</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ</translation>
     </message>
     <message>
         <location filename="../psi/src/xmlconsole.ui" line="86"/>
@@ -11653,7 +11651,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/stream.cpp" line="783"/>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ұсынылатын механизмдері:</translation>
     </message>
 </context>
 <context>
@@ -11671,7 +11669,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="183"/>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіркеу</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="184"/>
@@ -11681,12 +11679,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="185"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат бөлмесі</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="186"/>
         <source>Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлюз</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="187"/>
@@ -11696,17 +11694,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="188"/>
         <source>VCard</source>
-        <translation type="unfinished"></translation>
+        <translation>vCard</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="189"/>
         <source>Execute command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команданы орындау</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="192"/>
         <source>Add to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Ростерге қосу</translation>
     </message>
 </context>
 <context>
@@ -11762,7 +11760,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>Gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Кетіп қалды</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
@@ -11772,7 +11770,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>Internal server error</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервердің ішкі қатесі</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
@@ -11902,7 +11900,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>Service unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Қызмет қолжетерсіз</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
@@ -11922,7 +11920,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="269"/>
         <source>Undefined condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Анықталмаған шарт</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="269"/>
@@ -11932,7 +11930,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
         <source>Unexpected request</source>
-        <translation type="unfinished"></translation>
+        <translation>Күтілмеген сұраным</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
