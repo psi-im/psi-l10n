@@ -77,7 +77,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
         <translation>לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
 &lt;br&gt;
-זכויות יוצרים © 2001-2012 נבחרת ‫Psi.&lt;br&gt;
+זכויות יוצרים © 2001-2012 נבחרת &amp;#8207;Psi.&lt;br&gt;
 </translation>
     </message>
     <message>
@@ -157,7 +157,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="85"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>צלמיות רבות הינן מן מוטיב הצלמיות ‫Crystal שלו</translation>
+        <translation>צלמיות רבות הינן מן מוטיב הצלמיות &amp;#8235;Crystal שלו</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="88"/>
@@ -168,12 +168,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="94"/>
         <source>Original Mac Port</source>
-        <translation>פורט ‫Mac מקורי</translation>
+        <translation>פורט &amp;#8235;Mac מקורי</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="97"/>
         <source>Mac OS X Port</source>
-        <translation>פורט ‫Mac OS X</translation>
+        <translation>פורט &amp;#8235;Mac OS X</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="100"/>
@@ -207,7 +207,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="129"/>
         <source>Sponsor (Summer of Code)</source>
-        <translation>נותנת חסות (קיץ של קוד)</translation>
+        <translation>נותנת חסות (Summer of Code)</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="134"/>
@@ -237,7 +237,7 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &amp;nbsp;&amp;nbsp;מתרגם (Rahut)&lt;br&gt;
 &lt;br&gt;
 &lt;center&gt;-= מנשר =-&lt;/center&gt;
-קבוצות התרגום של Psi וגם Psi‪+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
+קבוצות התרגום של Psi וגם Psi&amp;#8234;+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
 &lt;a href=&quot;xmpp:israeli@failar.nu&quot;&gt;xmpp:israeli@failar.nu&lt;/a&gt;. רב תודות!</translation>
     </message>
 </context>
@@ -275,7 +275,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountadd.ui" line="146"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadd.ui" line="149"/>
@@ -344,7 +344,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmanage.ui" line="64"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanage.ui" line="67"/>
@@ -354,12 +354,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmanage.ui" line="74"/>
         <source>&amp;Modify</source>
-        <translation>ה&amp;תאמה</translation>
+        <translation>ה&amp;תאם</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanage.ui" line="81"/>
         <source>Rem&amp;ove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanage.ui" line="84"/>
@@ -1058,7 +1058,7 @@ Reason: %1</source>
         <location filename="../psi/src/accountmanagedlg.cpp" line="105"/>
         <location filename="../psi/src/accountmanagedlg.cpp" line="176"/>
         <source>&amp;Remove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmanagedlg.cpp" line="138"/>
@@ -1137,7 +1137,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/addurl.ui" line="39"/>
         <source>URL:</source>
-        <translation>:URL</translation>
+        <translation>‏URL‏:</translation>
     </message>
     <message>
         <location filename="../psi/src/addurl.ui" line="46"/>
@@ -1244,7 +1244,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/adduser.ui" line="311"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/adduser.ui" line="314"/>
@@ -1450,17 +1450,17 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="44"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="45"/>
         <source>&amp;Remove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="46"/>
         <source>&amp;Join</source>
-        <translation>&amp;כניסה</translation>
+        <translation>&amp;הצטרף</translation>
     </message>
     <message>
         <location filename="../psi/src/bookmarkmanagedlg.cpp" line="126"/>
@@ -3022,7 +3022,7 @@ URL: %1
 Method: %2
 </source>
         <translation>מישהו (ייתכן עצמך) ביקש לגשת אל המשאב הבא:
-‫URL: %1
+‫‏URL‏: %1
 שיטה: %2
 </translation>
     </message>
@@ -3777,12 +3777,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1243"/>
         <source>%1 has joined the room</source>
-        <translation>‫%1 נכנס/ה אל החדר</translation>
+        <translation>%1 נכנס/ה אל החדר</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1248"/>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation>‫%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
+        <translation>%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1251"/>
@@ -3846,12 +3846,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1347"/>
         <source>%1 has been banned</source>
-        <translation>‫%1 נאסר/ה</translation>
+        <translation>%1 נאסר/ה</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1348"/>
         <source>%1 has been banned by %2</source>
-        <translation>‫%1 נאסר/ה על ידי %2</translation>
+        <translation>%1 נאסר/ה על ידי %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1353"/>
@@ -3871,12 +3871,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1355"/>
         <source>%1 has been kicked</source>
-        <translation>‫%1 נבעט/ה</translation>
+        <translation>%1 נבעט/ה</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1356"/>
         <source>%1 has been kicked by %2</source>
-        <translation>‫%1 נבעט/ה על ידי %2</translation>
+        <translation>%1 נבעט/ה על ידי %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1361"/>
@@ -3897,12 +3897,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1364"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>‫%1 הוסר/ה מן החדר עקב שינוי סינוף</translation>
+        <translation>%1 הוסר/ה מן החדר עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1365"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>‫%1 הוסר/ה מן החדר על ידי %2 עקב שינוי סינוף</translation>
+        <translation>%1 הוסר/ה מן החדר על ידי %2 עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1370"/>
@@ -3917,22 +3917,22 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1372"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>‫%1 הוסר/ה מן החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
+        <translation>%1 הוסר/ה מן החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1373"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>‫%1 הוסר/ה מן החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
+        <translation>%1 הוסר/ה מן החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1379"/>
         <source>%1 is now known as %2</source>
-        <translation>‫%1 ידוע/ה כעת בשם %2</translation>
+        <translation>%1 ידוע/ה כעת בשם %2</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1383"/>
         <source>%1 has left the room</source>
-        <translation>‫%1 עזב/ה את החדר</translation>
+        <translation>%1 עזב/ה את החדר</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="1426"/>
@@ -4087,7 +4087,7 @@ Reason: %1</source>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="105"/>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="250"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="112"/>
@@ -4099,7 +4099,7 @@ Reason: %1</source>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="118"/>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="263"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_general_groupchat.ui" line="156"/>
@@ -4635,7 +4635,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="274"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="281"/>
@@ -4975,7 +4975,7 @@ available</source>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="68"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="71"/>
@@ -4985,7 +4985,7 @@ available</source>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="78"/>
         <source>&amp;Delete</source>
-        <translation>&amp;מחיקה</translation>
+        <translation>&amp;מחק</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="81"/>
@@ -5094,12 +5094,12 @@ available</source>
     <message>
         <location filename="../psi/src/mucconfig.ui" line="101"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../psi/src/mucconfig.ui" line="108"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../psi/src/mucconfig.ui" line="116"/>
@@ -5255,7 +5255,7 @@ available</source>
     <message>
         <location filename="../psi/src/mucjoindlg.cpp" line="44"/>
         <source>&amp;Join</source>
-        <translation>&amp;כניסה</translation>
+        <translation>ה&amp;צטרף</translation>
     </message>
     <message>
         <location filename="../psi/src/mucjoindlg.cpp" line="59"/>
@@ -5381,12 +5381,12 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mucreasonseditor.ui" line="55"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../psi/src/mucreasonseditor.ui" line="62"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../psi/src/mucreasonseditor.ui" line="95"/>
@@ -6388,8 +6388,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="417"/>
         <source>Reset to defaults</source>
-        <translatorcomment>אפס אל ברירות מחדל</translatorcomment>
-        <translation>איפוס שינויים</translation>
+        <translation>אפס אל ברירות מחדל</translation>
     </message>
 </context>
 <context>
@@ -6470,7 +6469,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="233"/>
         <source>Delete</source>
-        <translation>מחיקה</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_status.ui" line="250"/>
@@ -7600,7 +7599,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="30"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="33"/>
@@ -7615,7 +7614,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="47"/>
         <source>Rem&amp;ove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../psi/src/profilemanage.ui" line="50"/>
@@ -7749,7 +7748,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/profilenew.ui" line="177"/>
         <source>&amp;Create</source>
-        <translation>י&amp;צירה</translation>
+        <translation>&amp;צור</translation>
     </message>
     <message>
         <location filename="../psi/src/profilenew.ui" line="180"/>
@@ -7914,7 +7913,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <location filename="../psi/src/proxy.ui" line="126"/>
         <source>Polling URL:</source>
         <translatorcomment>כתובת קבלה (Polling):</translatorcomment>
-        <translation>:Polling URL</translation>
+        <translation>‏Polling URL:</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.ui" line="136"/>
@@ -8863,7 +8862,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="584"/>
         <source>URL:</source>
-        <translation>:URL</translation>
+        <translation>‏URL‏:</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="585"/>
@@ -9175,7 +9174,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="285"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="288"/>
@@ -9341,7 +9340,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="577"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="578"/>
@@ -9367,7 +9366,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="662"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="663"/>
@@ -10601,7 +10600,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/userlist.cpp" line="541"/>
         <source>JID: %1</source>
-        <translation></translation>
+        <translation>מזהה Jabber&amp;#8207;: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="543"/>
@@ -10617,7 +10616,7 @@ Proceed?</source>
         <location filename="../psi/src/userlist.cpp" line="574"/>
         <source>Using</source>
         <translatorcomment>משתמש</translatorcomment>
-        <translation>‎פרטי מערכת</translation>
+        <translation>פרטי מערכת</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="580"/>
@@ -10729,7 +10728,7 @@ Reason: %1</source>
         <location filename="../psi/src/removeconfirmationmessagebox.cpp" line="84"/>
         <location filename="../psi/src/removeconfirmationmessagebox.cpp" line="228"/>
         <source>Delete</source>
-        <translation>מחיקה</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <location filename="../psi/src/removeconfirmationmessagebox.cpp" line="85"/>
@@ -11265,7 +11264,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="86"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>הידעת שביכולתך לרשום חשבונות XMPP מרובים בעזרת Psi? אם הינך מעוניין להפריד את עבודתך מן חשבונך האישי, אתה יכול.  אם אתה משתמש מיומן שרוצה לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, ביכולתך לעשות כן -- ללא הרצת לקוח שני כדי להתחבר אל שרתך הקבוע.  פשוט הקלק על הוספה במרקע הבניית חשבון.</translation>
+        <translation>הידעת שביכולתך לרשום חשבונות XMPP מרובים בעזרת Psi? אם הינך מעוניין להפריד את עבודתך מן חשבונך האישי, אתה יכול.  אם אתה משתמש מיומן שרוצה לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, ביכולתך לעשות כן -- ללא הרצת לקוח שני כדי להתחבר אל שרתך הקבוע.  פשוט הקלק על הוסף במרקע הבניית חשבון.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="88"/>
@@ -11748,7 +11747,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/xmlconsole.ui" line="86"/>
         <source>JID:</source>
-        <translation>:JID</translation>
+        <translation>‏JID‏:</translation>
     </message>
     <message>
         <location filename="../psi/src/xmlconsole.ui" line="107"/>
