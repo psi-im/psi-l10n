@@ -49,7 +49,7 @@
     <message>
         <location filename="../psi/src/ahcommanddlg.cpp" line="128"/>
         <source>Execute</source>
-        <translation>ביצוע</translation>
+        <translation>הרץ</translation>
     </message>
 </context>
 <context>
@@ -3293,7 +3293,7 @@ a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.
 
-וודא שהגדרות מסירת נתונים שלך הינם מתאימים.  אם הינך מאחורי
+ודא שהגדרות מסירת נתונים הינן מתאימות.  באם הינך מאחורי
 נתב NAT או חומת אש אז עליך לפתוח את הפורט מטיפוס TCP
 המתאים או לציין פרוקסי מסירת נתונים בהגדרות חשבונך.</translation>
     </message>
@@ -7692,7 +7692,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/profiledlg.cpp" line="298"/>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>לא ניתן למחוק את התיקייה לחלוטין.  וודא שעומדות לרשותך ההרשאות המתאימות.</translation>
+        <translation>לא ניתן למחוק את התיקייה לחלוטין.  ודא שעומדות לרשותך ההרשאות המתאימות.</translation>
     </message>
 </context>
 <context>
@@ -8276,7 +8276,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="2778"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation>לא ניתן להתחבר.  וודא שמידע חשבונך מולא.</translation>
+        <translation>לא ניתן להתחבר.  ודא שמידע חשבונך מולא.</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="3098"/>
@@ -9834,7 +9834,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/applicationinfo.cpp" line="269"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation>נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. וודא שיש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
+        <translation>נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. ודא שיש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
     </message>
     <message>
         <location filename="../psi/src/common.cpp" line="172"/>
