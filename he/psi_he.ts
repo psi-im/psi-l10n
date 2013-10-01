@@ -77,7 +77,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
         <translation>לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
 &lt;br&gt;
-זכויות יוצרים © 2001-2012 נבחרת &amp;#8207;Psi.&lt;br&gt;
+זכויות יוצרים © 2001-2012 נבחרת &amp;rlm;Psi.&lt;br&gt;
 </translation>
     </message>
     <message>
@@ -157,7 +157,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="85"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>צלמיות רבות הינן מתוך מוטיב הצלמיות &amp;#8235;Crystal שלו</translation>
+        <translation>Crystal צלמיות רבות הינן לקוחות מתוך סדרת הצלמיות שלו</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="88"/>
@@ -168,12 +168,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="94"/>
         <source>Original Mac Port</source>
-        <translation>פורט &amp;#8235;Mac מקורי</translation>
+        <translation>מקורי Mac פורט</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="97"/>
         <source>Mac OS X Port</source>
-        <translation>פורט &amp;#8235;Mac OS X</translation>
+        <translation>Mac OS X פורט</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="100"/>
@@ -237,7 +237,7 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &amp;nbsp;&amp;nbsp;מתרגם (Rahut)&lt;br&gt;
 &lt;br&gt;
 &lt;center&gt;-= מנשר =-&lt;/center&gt;
-קבוצות התרגום של Psi וגם Psi&amp;#8234;+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
+קבוצות התרגום של Psi וגם +Psi זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
 &lt;a href=&quot;xmpp:israeli@failar.nu&quot;&gt;xmpp:israeli@failar.nu&lt;/a&gt;. רב תודות!</translation>
     </message>
 </context>
@@ -872,7 +872,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="50"/>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation>אנא הזן את השם של השרת שעמו ברצונך להירשם:</translation>
+        <translation>אנא הזן את השם של השרת אשר עמו ברצונך להירשם:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountreg.ui" line="76"/>
@@ -4272,7 +4272,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/historydlg.cpp" line="318"/>
         <source>Text files (*.txt);;All files (*.*)</source>
-        <translation>קבצי תמליל (‭*.txt‬);;כל הקבצים (*.*)</translation>
+        <translation>קבצי תמליל (txt.*);;כל הקבצים (*.*)</translation>
     </message>
     <message>
         <location filename="../psi/src/historydlg.cpp" line="324"/>
@@ -5451,7 +5451,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="905"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>יישום זה עושה שימוש במערכת GStreamer %1, מערכת מסגרת עבודה מולטימדית (multimedia framework) מקיפה, חוצת-פלטפורמות הזמינה בקוד-פתוח.  לפרטים נוספים, באתר ‭&lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;‬</translation>
+        <translation>יישום זה עושה שימוש במערכת GStreamer %1, מערכת מסגרת עבודה מולטימדית (multimedia framework) מקיפה, חוצת-פלטפורמות הזמינה בקוד-פתוח.  לפרטים נוספים, באתר &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;&amp;lrm;</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="917"/>
@@ -6328,7 +6328,7 @@ Details: %1</source>
         <location filename="../psi/src/options/opt_sound.ui" line="321"/>
         <location filename="../psi/src/options/opt_sound.ui" line="370"/>
         <source>Enter a filename or !beep for a system beep</source>
-        <translation>הזן שם קובץ או ‎!beep עבור ביפ מערכת</translation>
+        <translation>הזן שם קובץ או beep! עבור ביפ מערכת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_sound.ui" line="97"/>
@@ -9551,7 +9551,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psioptions.cpp" line="213"/>
         <source>Auto Status (idle)</source>
-        <translation>‫מצב אוטומטי (עצל)‬</translation>
+        <translation>מצב אוטומטי (עצל)‏</translation>
     </message>
 </context>
 <context>
@@ -9889,7 +9889,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="906"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation>אזהרה: ‭%1‬ הינה מסויגת ותוסר בעתיד</translation>
+        <translation>אזהרה: ‎%1 הינה מסויגת ותוסר בעתיד</translation>
     </message>
     <message>
         <location filename="../psi/src/groupchatdlg.cpp" line="909"/>
@@ -10601,7 +10601,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/userlist.cpp" line="541"/>
         <source>JID: %1</source>
-        <translation>מזהה Jabber&amp;#8207;: %1</translation>
+        <translation>&amp;rlm;JID&amp;rlm;: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/userlist.cpp" line="543"/>
@@ -10976,7 +10976,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/vcardphotodlg.cpp" line="51"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
-        <translation>קובץ PNG ‫(‭*.png‬);;קובץ JPEG ‫(‭*.jpeg‬);;קובץ BMP ‫(‭*.bmp‬);;קובץ PPM ‫(‭*.ppm‬);;כל הקבצים (*)</translation>
+        <translation>קובץ PNG ‏(png.*);;קובץ JPEG ‏(jpeg.*);;קובץ BMP ‏(bmp.*);;קובץ PPM ‏(ppm.*);;כל הקבצים (*)</translation>
     </message>
 </context>
 <context>
@@ -11233,12 +11233,12 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;/ul&gt;</source>
         <translation>באפשרותך לעשות שימוש בקיצורי דרך שימושיים רבים בעת הקלדת הודעות שיחה:&lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;‏Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
-&lt;li&gt;‏Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
-&lt;li&gt;‏Ctrl+H כדי להציג דו שיח הודעת שיחה&lt;/li&gt;
-&lt;li&gt;‏Alt+S כדי לשלוח הודעה&lt;/li&gt;
-&lt;li&gt;‏Ctrl+U כדי לטהר מאגר עריכה&lt;/li&gt;
-&lt;li&gt;‏Ctrl+PgUp/PgDn כדי לגולל תצוגת שיחה&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Ctrl+H כדי להציג דו שיח הודעת שיחה&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Alt+S כדי לשלוח הודעה&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Ctrl+U כדי לטהר מאגר עריכה&lt;/li&gt;
+&lt;li&gt;&amp;rlm;Ctrl+PgUp/PgDn כדי לגולל תצוגת שיחה&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -11254,12 +11254,12 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</source>
         <translation>באפשרותך להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
 &lt;ul&gt;
-&lt;li&gt;&quot;‏‭/clear‬&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
-&lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; ‭/me‬&quot; &apos;‭/me‬&apos; מוחלפת בכינויך&lt;/li&gt;
+&lt;li&gt;&quot;&amp;rlm;&amp;lrm;/clear&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
+&lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; &amp;lrm;/me&quot; &apos;&amp;lrm;/me&apos; מוחלפת בכינויך&lt;/li&gt;
 &lt;/ul&gt;
 ואלו עובדות רק בדו שיח של שיחת קבוצה:
 &lt;ul&gt;
-&lt;li&gt;&quot;&amp;lt;שם_כינוי_חדש&amp;gt; ‭/nick‬&quot; כדי לשנות את שם כינויך&lt;/li&gt;
+&lt;li&gt;&quot;&amp;lt;שם_כינוי_חדש&amp;gt; &amp;lrm;/nick&quot; כדי לשנות את שם כינויך&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -11285,12 +11285,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="94"/>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>הידעת כי התכנית Psi הינה לקוח XMPP מן הבודדים שמעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  באפשרותך להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני ידידייך, ולהזדהות בתור &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
+        <translation>הידעת כי התכנית Psi הינה לקוח XMPP מן הבודדים אשר מעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  באפשרותך להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני ידידייך, ולהזדהות בתור &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="96"/>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות צלמיות&quot; הניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
+        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות צלמיות&quot; אשר ניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="98"/>
