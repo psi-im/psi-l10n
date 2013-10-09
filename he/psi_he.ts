@@ -15,7 +15,7 @@
     <message>
         <location filename="../psi/src/ahcformdlg.ui" line="14"/>
         <source>Form</source>
-        <translation>תבנית</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../psi/src/ahcformdlg.cpp" line="65"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../psi/src/ahcommanddlg.ui" line="14"/>
         <source>Form</source>
-        <translation>תבנית</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../psi/src/ahcommanddlg.ui" line="20"/>
@@ -1551,7 +1551,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="138"/>
         <source>Accept call?</source>
-        <translation>קבל שיחה?</translation>
+        <translation>לקבל שיחה?</translation>
     </message>
     <message>
         <location filename="../psi/src/avcall/calldlg.cpp" line="160"/>
@@ -1763,7 +1763,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="13"/>
         <source>Form</source>
-        <translation>תבנית</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../psi/src/chatdlg.ui" line="103"/>
@@ -2300,7 +2300,7 @@ Proceed?</source>
 Proceed?</source>
         <translation>אזהרה!  פעולה זו תסיר את כל אישי הקשר אשר קשורים עם קבוצה זו!
 
-האם להמשיך?</translation>
+להמשיך?</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1161"/>
@@ -2421,7 +2421,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1469"/>
         <source>Enter the new group name:</source>
-        <translation>הזן את שם הקבוצה החדשה:</translation>
+        <translation>הזן את שם הקבוצה החדש:</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1498"/>
@@ -2457,7 +2457,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1606"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>נשלחה הזמנה לשיחת קבוצה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>נשלחה הזמנת שיחת קבוצה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1737"/>
@@ -5963,7 +5963,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_avcall.ui" line="13"/>
         <source>Form</source>
-        <translation>תבנית</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_avcall.ui" line="19"/>
@@ -9336,7 +9336,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="561"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>נשלחה הזמנה לשיחת קבוצה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>נשלחה הזמנת שיחת קבוצה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="577"/>
@@ -10680,7 +10680,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="220"/>
         <source>Fetching registration form for %1 ...</source>
-        <translation>מושך כעת תבנית רישום עבור %1 ...</translation>
+        <translation>מושך כעת טופס רישום עבור %1 ...</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="268"/>
@@ -10707,14 +10707,14 @@ Proceed?</source>
         <location filename="../psi/src/registrationdlg.cpp" line="368"/>
         <source>Unable to retrieve registration form.
 Reason: %1</source>
-        <translation>אין אפשרות לאחזר תבנית רישום.
+        <translation>אין אפשרות לאחזר טופס רישום.
 סיבה: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/registrationdlg.cpp" line="372"/>
         <source>Error submitting registration form.
 Reason: %1</source>
-        <translation>שגיאה בשליחת תבנית רישום.
+        <translation>שגיאה בשליחת טופס רישום.
 סיבה: %1</translation>
     </message>
 </context>
@@ -10775,7 +10775,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/search.ui" line="72"/>
         <source>form</source>
-        <translation>תבנית</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <location filename="../psi/src/search.ui" line="84"/>
@@ -10853,7 +10853,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/searchdlg.cpp" line="248"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;מושך כעת תבנית חיפוש עבור %1 ...&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;מושך כעת טופס חיפוש עבור %1 ...&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/searchdlg.cpp" line="381"/>
@@ -10875,7 +10875,7 @@ Reason: %1</source>
         <location filename="../psi/src/searchdlg.cpp" line="434"/>
         <source>Unable to retrieve search form.
 Reason: %1</source>
-        <translation>אין אפשרות לאחזר תבנית חיפוש.
+        <translation>אין אפשרות לאחזר טופס חיפוש.
 סיבה: %1</translation>
     </message>
     <message>
