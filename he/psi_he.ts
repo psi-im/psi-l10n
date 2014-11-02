@@ -5033,7 +5033,7 @@ available</source>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="263"/>
         <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation>psi/arrowLeft</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="286"/>
@@ -5043,7 +5043,7 @@ available</source>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="307"/>
         <source>psi/arrowLeft</source>
-        <translation></translation>
+        <translation>psi/arrowRight</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_lookfeel_toolbars.ui" line="335"/>
@@ -11172,7 +11172,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tip.ui" line="218"/>
         <source>psi/arrowLeft</source>
-        <translation></translation>
+        <translation>psi/arrowRight</translation>
     </message>
     <message>
         <location filename="../psi/src/tip.ui" line="225"/>
@@ -11187,7 +11187,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/tip.ui" line="231"/>
         <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation>psi/arrowLeft</translation>
     </message>
     <message>
         <location filename="../psi/src/tip.ui" line="238"/>
