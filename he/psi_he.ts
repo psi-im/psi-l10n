@@ -9094,7 +9094,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicon.cpp" line="1719"/>
         <source>Use existing account</source>
-        <translation>השתמש בחשבון חדש</translation>
+        <translation>השתמש בחשבון קיים</translation>
     </message>
 </context>
 <context>
