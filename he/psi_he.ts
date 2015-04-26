@@ -263,7 +263,7 @@ Orgad Shaneh &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
         <translation>&lt;qt&gt;אנא בחר &lt;b&gt;שם&lt;/b&gt; ידידותי אשר ביכולתו של Psi להפנות אל חשבון זה.&lt;br&gt;
 &lt;br&gt;
-הקלק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים אז יש להשאיר את את תיבה זו ריקה.</translation>
+הקלק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים, עליך להשאיר את תיבה זו ריקה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadd.ui" line="73"/>
