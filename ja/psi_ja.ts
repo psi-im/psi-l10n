@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ja">
 <context>
@@ -11,20 +11,20 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="obsolete">チャットボックスを消去しますか？（メッセージ履歴は変更されません。）</translation>
+        <translation>チャットボックスを消去しますか？（メッセージ履歴は変更されません。）</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -47,11 +47,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../psi/src/ahcformdlg.ui" line="14"/>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
 </context>
 <context>
@@ -90,19 +90,19 @@
     </message>
     <message>
         <source>&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</source>
-        <translation type="obsolete">&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/about.ui" line="70"/>
         <source>About</source>
-        <translation>その他</translation>
+        <translation>情報</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2009 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="obsolete">Jabber上級者向けに設計されたクロスプラットフォームなJabberクライアント
+        <translation>Jabber上級者向けに設計されたクロスプラットフォームなJabberクライアント
 &lt;br&gt;
 Copyright © 2001-2009 The Psi Team.&lt;br&gt;
 </translation>
@@ -115,7 +115,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi/src/about.ui" line="165"/>
         <source>Thanks To</source>
-        <translation>感謝</translation>
+        <translation>謝辞</translation>
     </message>
     <message>
         <location filename="../../psi/src/about.ui" line="181"/>
@@ -129,14 +129,14 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
 This is unfinished software.  It has been released so that interested users can try it out and perhaps follow its development.  It is not guaranteed to be bugfree, although it is quite stable in my experience.&lt;br&gt;&lt;br&gt;
-One day it will be finished.  Until then, don&apos;t count on every Jabber feature to work.  If you want to assist me in making this program better, feel free to email me bugreports/patches/wishes.&lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate planned features that are not in the program yet.&lt;br&gt;&lt;br&gt;Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt;***ウォーニング!***&lt;h3&gt;
+One day it will be finished.  Until then, don't count on every Jabber feature to work.  If you want to assist me in making this program better, feel free to email me bugreports/patches/wishes.&lt;br&gt;&lt;br&gt;
+Note: quite a few options/features appear "grayed out".  They indicate planned features that are not in the program yet.&lt;br&gt;&lt;br&gt;Now that this is out of the way, enjoy Psi!</source>
+        <translation>&lt;h3&gt;***ウォーニング!***&lt;h3&gt;
 このソフトはまだ未完成です。　このソフトは興味のあるユーザーが試したり、　開発の進歩を見たりするためのリリースです。　このソフトはバグがない保証はありません。&lt;br&gt;&lt;br&gt;
 このソフトが完成するまでJabberのフィーチャー全部が動くとはかぎりません。　お手伝いしたい方は、いつでも　バグ、パッチ、リクエストなどのE-mailをいつでもください。&lt;br&gt;&lt;br&gt;
 Note: フィーチャーの中でえらべないものがいくつかありますが、　これらの物は今後このプログラムに足される予定のあるものです。&lt;br&gt;&lt;br&gt;Psiをおたのしみください!</translation>
@@ -151,18 +151,18 @@ Note: フィーチャーの中でえらべないものがいくつかありま�
 &lt;br&gt;
 Copyright (C) 2001 - 2003 by Justin Karneges&lt;br&gt;
 </source>
-        <translation type="obsolete">Jabber パワーユーザー用のクロスプラットフォームJabberクライアント&lt;br&gt;
+        <translation>Jabber パワーユーザー用のクロスプラットフォームJabberクライアント&lt;br&gt;
 &lt;br&gt;
 Copyright (C) 2001 - 2003 by Justin Karneges&lt;br&gt;
 </translation>
     </message>
     <message>
         <source>Author, Lead Developer</source>
-        <translation type="obsolete">作者、　リードディベレッパー</translation>
+        <translation>作者、　リードディベレッパー</translation>
     </message>
     <message>
         <source>Widget developer, GUI design and some core things</source>
-        <translation type="obsolete">Widget ディベレッパー、GUIデェザイナーとその他</translation>
+        <translation>Widget ディベレッパー、GUIデェザイナーとその他</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="85"/>
@@ -176,24 +176,24 @@ Copyright (C) 2001 - 2003 by Justin Karneges&lt;br&gt;
         <translation>グラフィック</translation>
     </message>
     <message>
-        <source>&lt;div align=&quot;center&quot;&gt;http://psi.affinix.com&lt;/div&gt;</source>
-        <translation type="obsolete">&lt;div align=&quot;center&quot;&gt;http://psi.affinix.com&lt;/div&gt;</translation>
+        <source>&lt;div align="center"&gt;http://psi.affinix.com&lt;/div&gt;</source>
+        <translation>&lt;div align="center"&gt;http://psi.affinix.com&lt;/div&gt;</translation>
     </message>
     <message>
         <source>http://psi.affinix.com</source>
-        <translation type="obsolete">http://psi.affinix.com</translation>
+        <translation>http://psi.affinix.com</translation>
     </message>
     <message>
         <source>MacOS X Port</source>
-        <translation type="obsolete">MacOS　X　ポート</translation>
+        <translation>MacOS　X　ポート</translation>
     </message>
     <message>
         <source>Miscellaneous developer</source>
-        <translation type="obsolete">その他のディベレッパー</translation>
+        <translation>その他のディベレッパー</translation>
     </message>
     <message>
         <source>End User Documentation</source>
-        <translation type="obsolete">エンドユーザードキュメンテーション</translation>
+        <translation>エンドユーザードキュメンテーション</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="82"/>
@@ -206,25 +206,25 @@ Copyright (C) 2001 - 2003 by Justin Karneges&lt;br&gt;
         <translation>オリジナルMac移植</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:noone@nowhere.com&quot;&gt;nowhere@nowhere.com&lt;/a&gt; &lt;note text=&quot;replace with your email&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://blah.com&quot;&gt;http://blah.com&lt;/a&gt; &lt;note text=&quot;write your site URL here&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;jabber:blah@jabber.org&quot;&gt;blah@jabber.org &lt;note text=&quot;write your JID here&quot;&gt;&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator &lt;note text=&quot;write description for the work, you&apos;ve done&quot;&gt;&lt;br&gt;
+        <source>I. M. Anonymous &lt;note text="replace with your real name"&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="mailto:noone@nowhere.com"&gt;nowhere@nowhere.com&lt;/a&gt; &lt;note text="replace with your email"&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="http://blah.com"&gt;http://blah.com&lt;/a&gt; &lt;note text="write your site URL here"&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Jabber: &lt;a href="jabber:blah@jabber.org"&gt;blah@jabber.org &lt;note text="write your JID here"&gt;&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator &lt;note text="write description for the work, you've done"&gt;&lt;br&gt;
 &lt;br&gt;
-&lt;note text=&quot;you can add as many people here as you want&quot;&gt;
+&lt;note text="you can add as many people here as you want"&gt;
 
-&lt;note text=&quot;and translate following text&quot;&gt;
-Join the translation team today! Go to &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
+&lt;note text="and translate following text"&gt;
+Join the translation team today! Go to &lt;a href="http://psi.affinix.com/forums/index.php?act=SF&amp;f=3"&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
 </source>
         <comment>This page is a special place for translators, to write some info about them. Write information about your translation team, some hints are in &lt;note&gt; tags to help you. Keep up the good work :-).</comment>
-        <translation type="obsolete">Akito Nozaki&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt; href=&quot;mailto:akito@homelesshackers.org&quot;&gt;akito@homelesshackers.org&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://homelesshackers.org/&quot;&gt;http://homelesshackers.org/&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;jabber:akito@andbit.net&quot;&gt;akito@andbit.net&lt;/a&gt;&lt;br&gt;
+        <translation>Akito Nozaki&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt; href="mailto:akito@homelesshackers.org"&gt;akito@homelesshackers.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="http://homelesshackers.org/"&gt;http://homelesshackers.org/&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Jabber: &lt;a href="jabber:akito@andbit.net"&gt;akito@andbit.net&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Psi 日本語通訳
 
-通訳のお手伝いお願いします！&lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt;で今後の翻訳じょうきょうをたしかめてください!
+通訳のお手伝いお願いします！&lt;a href="http://psi.affinix.com/forums/index.php?act=SF&amp;f=3"&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt;で今後の翻訳じょうきょうをたしかめてください!
 </translation>
     </message>
     <message>
@@ -232,7 +232,7 @@ Join the translation team today! Go to &lt;a href=&quot;http://psi.affinix.com/f
 &lt;br&gt;
 Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
 </source>
-        <translation type="obsolete">Jabber パワーユーザー用のクロスプラットフォームJabberクライアント&lt;br&gt;
+        <translation>Jabber パワーユーザー用のクロスプラットフォームJabberクライアント&lt;br&gt;
 &lt;br&gt;
 Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
 </translation>
@@ -241,12 +241,12 @@ Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
         <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
 This is unfinished software. It has been released so that interested users can try it out and perhaps follow its development. It is not guaranteed to be bugfree, although many people consider it quite stable.
 &lt;br&gt;&lt;br&gt;
-One day it will be finished. Until then, don&apos;t count on every Jabber feature to work. If you want to help make Psi better, offer your services on our forum or mailing list.
+One day it will be finished. Until then, don't count on every Jabber feature to work. If you want to help make Psi better, offer your services on our forum or mailing list.
 &lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;. They indicate planned features that are not in the program yet.
+Note: quite a few options/features appear "grayed out". They indicate planned features that are not in the program yet.
 &lt;br&gt;&lt;br&gt;
 Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt;ウォーニング***&lt;/h3&gt;
+        <translation>&lt;h3&gt;ウォーニング***&lt;/h3&gt;
 このソフトは未完成ソフトです。このソフトは興味のあるユーザーや開発状態などを見るためのものです。多くの人が使っていますが、バグない保証はありません。
 &lt;br&gt;&lt;br&gt;
 いつか完成します。　それまではJabberの全フィーチャー・オプションが動くとは限りません。もし、Psiをよりいいソフトにしたい方は、　フォーラムやメーリングリストなどポーストしてください。
@@ -267,7 +267,7 @@ Psiをお楽しみください!</translation>
     </message>
     <message>
         <source>Lead Developer</source>
-        <translation type="obsolete">開発リーダー</translation>
+        <translation>開発リーダー</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="100"/>
@@ -290,7 +290,10 @@ Psiをお楽しみください!</translation>
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>クロスプラットフォームなXMPPクライアント&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
+</translation>
     </message>
     <message>
         <location filename="../../psi/src/about.ui" line="122"/>
@@ -305,17 +308,17 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Lead Developer and Past Maintainer</source>
-        <translation type="obsolete">開発リーダーと過去のメンテナ</translation>
+        <translation>開発リーダーと過去のメンテナ</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="51"/>
         <source>Past Lead Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>過去の開発リーダー及びメンテナ</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="54"/>
         <source>Past Lead Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>過去の開発リーダー</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="57"/>
@@ -352,12 +355,12 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <location filename="../../psi/src/aboutdlg.cpp" line="123"/>
         <location filename="../../psi/src/aboutdlg.cpp" line="126"/>
         <source>Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation>スポンサー</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="129"/>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"></translation>
+        <translation>スポンサー(Summer of Code)</translation>
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="134"/>
@@ -366,30 +369,38 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <location filename="../../psi/src/aboutdlg.cpp" line="145"/>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+        <source>I. M. Anonymous &lt;note text="replace with your real name"&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="http://me.com"&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href="xmpp:me@me.com"&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="mailto:me@me.com"&gt;me@me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+&lt;a href="http://forum.psi-im.org/forum/14"&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>濱野　司(HAMANO Tsukasa)&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="http://www.xmpp.jp/"&gt;http://www.xmpp.jp/&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href="xmpp:hamano@xmpp.jp"&gt;hamano@xmpp.jp&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;E-Mail: &lt;a href="mailto:hamano@cuspy.org"&gt;hamano@cuspy.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;翻訳者&lt;br&gt;
+&lt;br&gt;
+誤訳・訳の改善などあればこちらまで:&lt;br&gt;
+&lt;a href="http://github.com/hamano/psi-translations"&gt;
+http://github.com/hamano/psi-translations&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+        <source>I. M. Anonymous &lt;note text="replace with your real name"&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="http://me.com"&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Jabber: &lt;a href="xmpp:me@me.com"&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href="mailto:me@me.com"&gt;me@me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+&lt;a href="http://forum.psi-im.org/forum/14"&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="obsolete">Tsukasa Hamano &lt;note text=&quot;濱野　司&quot;&gt;&lt;br&gt;￼
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:hamano@xmpp.jp&quot;&gt;hamano@xmpp.jp&lt;/a&gt;&lt;br&gt;￼
-&amp;nbsp;&amp;nbsp;E-Mail: &lt;a href=&quot;mailto:hamano@cuspy.org&quot;&gt;hamano@cuspy.org&lt;/a&gt;&lt;br&gt;
+        <translation>Tsukasa Hamano &lt;note text="濱野　司"&gt;&lt;br&gt;￼
+&amp;nbsp;&amp;nbsp;Jabber: &lt;a href="xmpp:hamano@xmpp.jp"&gt;hamano@xmpp.jp&lt;/a&gt;&lt;br&gt;￼
+&amp;nbsp;&amp;nbsp;E-Mail: &lt;a href="mailto:hamano@cuspy.org"&gt;hamano@cuspy.org&lt;/a&gt;&lt;br&gt;
 ￼&amp;nbsp;&amp;nbsp;翻訳者&lt;br&gt;￼&lt;br&gt;￼
 翻訳チームに参加してください!</translation>
     </message>
@@ -405,7 +416,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation type="obsolete">&lt;qt&gt;Psiでこのアカウントを参照する為の分かりやすい&lt;b&gt;名前&lt;/b&gt;を入力してください。&lt;br&gt;
+        <translation>&lt;qt&gt;Psiでこのアカウントを参照する為の分かりやすい&lt;b&gt;名前&lt;/b&gt;を入力してください。&lt;br&gt;
 &lt;br&gt;
 リモートサーバーにアカウントを作成する場合は&lt;b&gt;新しいアカウントを登録&lt;/b&gt;のチェックボックスをクリックしてください。既にJabberアカウントがある場合はチェックを外してください。</translation>
     </message>
@@ -414,7 +425,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;アカウントに分かりやすい&lt;b&gt;名前&lt;/b&gt;を付けてください。&lt;br&gt;
+&lt;br&gt;
+リモートサーバーに新しいアカウントを作成したい場合は&lt;b&gt;新しいアカウントを登録&lt;/b&gt;をチェックし、
+既にXMPPアカウントを持っている場合はチェックを外してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountadd.ui" line="73"/>
@@ -451,16 +465,16 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountAddDlg</name>
     <message>
         <source>Add Account</source>
-        <translation type="obsolete">アカウントをたす</translation>
+        <translation>アカウントをたす</translation>
     </message>
     <message>
-        <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="obsolete">Jabberアカウントを持っておらず、登録を行いたい場合はここをチェックしてください。このオプションは匿名登録が許可されているサーバーでしかききません。</translation>
+        <source>Check this option if you don't yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
+        <translation>Jabberアカウントを持っておらず、登録を行いたい場合はここをチェックしてください。このオプションは匿名登録が許可されているサーバーでしかききません。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountadddlg.cpp" line="43"/>
-        <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <source>Check this option if you don't yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
+        <translation>このオプションはサーバーが匿名登録が許可している場合のみ動作します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountadddlg.cpp" line="47"/>
@@ -472,35 +486,35 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountAddUI</name>
     <message>
         <source>Form3</source>
-        <translation type="obsolete">フォーム3</translation>
+        <translation>フォーム3</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation type="obsolete">&lt;qt&gt;Psiがこのアカウントをどうよぶかフレンドリーな&lt;b&gt;名前&lt;/b&gt;をえらんでください。&lt;br&gt;
+        <translation>&lt;qt&gt;Psiがこのアカウントをどうよぶかフレンドリーな&lt;b&gt;名前&lt;/b&gt;をえらんでください。&lt;br&gt;
 &lt;br&gt;
 サーバーにアカウントを作る場合は&lt;b&gt;新しいアカウントのレジスター&lt;/b&gt;のチェックボックスをクリックしてください。　サーバーにアカウントのある場合はチェックしないでください。</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Register new account</source>
-        <translation type="obsolete">新しいアカウントのレジスター</translation>
+        <translation>新しいアカウントのレジスター</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>Add Account</source>
-        <translation type="obsolete">アカウントをたす</translation>
+        <translation>アカウントをたす</translation>
     </message>
 </context>
 <context>
@@ -508,29 +522,29 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi/src/accountloginpassword.cpp" line="44"/>
         <source>Please enter the password for %1:</source>
-        <translation type="unfinished">%1 の為のパスワードを入力してください:</translation>
+        <translation>%1 のパスワードを入力してください:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountloginpassword.cpp" line="46"/>
         <source>Please enter your password:</source>
-        <translation type="unfinished">パスワードを入力してください:</translation>
+        <translation>パスワードを入力してください:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountloginpassword.cpp" line="52"/>
         <source>Need Password</source>
-        <translation type="unfinished">パスワードが必要です</translation>
+        <translation>パスワードが必要です</translation>
     </message>
 </context>
 <context>
     <name>AccountManage</name>
     <message>
         <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabberアカウント</translation>
+        <translation>Jabberアカウント</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmanage.ui" line="14"/>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアカウント</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmanage.ui" line="44"/>
@@ -574,18 +588,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
     <message>
         <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabberアカウント</translation>
+        <translation>Jabberアカウント</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmanagedlg.cpp" line="363"/>
@@ -595,19 +609,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Unable to remove the account, as it is currently active.</source>
-        <translation type="obsolete">このアカウントは現在使われているので、アカウントを削除出来ませんでした。</translation>
+        <translation>このアカウントは現在使われているので、アカウントを削除出来ませんでした。</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmanagedlg.cpp" line="281"/>
@@ -622,67 +636,67 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi/src/accountmanagedlg.cpp" line="368"/>
         <source>Please disconnect before removing the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを削除する前に通信を切断してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmanagedlg.cpp" line="370"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished">切断(&amp;D)</translation>
+        <translation>切断(&amp;D)</translation>
     </message>
     <message>
         <source>Unable to disable the account, as it is currently active.</source>
-        <translation type="obsolete">このアカウントは現在使われているので、アカウントの消去ができませんでした。</translation>
+        <translation>このアカウントは現在使われているので、アカウントの消去ができませんでした。</translation>
     </message>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation type="obsolete">このアカウントは現在エベントがあるので、アカウントの消去ができませんでした。</translation>
+        <translation>このアカウントは現在エベントがあるので、アカウントの消去ができませんでした。</translation>
     </message>
 </context>
 <context>
     <name>AccountManageUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="obsolete">サーバー</translation>
+        <translation>サーバー</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="obsolete">変更</translation>
+        <translation>変更</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">消去</translation>
+        <translation>消去</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="obsolete">変更 (&amp;M)</translation>
+        <translation>変更 (&amp;M)</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="obsolete">消去(&amp;O)</translation>
+        <translation>消去(&amp;O)</translation>
     </message>
     <message>
         <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabberアカウント</translation>
+        <translation>Jabberアカウント</translation>
     </message>
 </context>
 <context>
@@ -710,12 +724,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
+        <translation>Jabber ID:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="83"/>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="103"/>
@@ -786,7 +800,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="321"/>
         <source>Select &amp;Key...</source>
-        <translation>鍵の選択 (&amp;K)... </translation>
+        <translation>鍵の選択 (&amp;K)...</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="328"/>
@@ -845,7 +859,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="571"/>
-        <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
+        <source>Send "keep-alive" packets (to prevent timeouts)</source>
         <translation>「keep-alive」パケットを送信(タイムアウトを防ぐ為)</translation>
     </message>
     <message>
@@ -873,32 +887,32 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="859"/>
         <source>Data Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>データ転送</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="865"/>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>内部通信(低速)</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="880"/>
         <source>Proxy:</source>
-        <translation type="unfinished">プロキシ:</translation>
+        <translation>プロキシ:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="895"/>
         <source>STUN/TURN</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="940"/>
         <location filename="../../psi/src/accountmodify.ui" line="1004"/>
         <source>Username:</source>
-        <translation type="unfinished">ユーザー名:</translation>
+        <translation>ユーザー名:</translation>
     </message>
     <message>
         <source>Probe legacy SSL port</source>
-        <translation type="obsolete">古いSSLポートを調べる</translation>
+        <translation>古いSSLポートを調べる</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="682"/>
@@ -918,7 +932,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="790"/>
         <source>Misc.</source>
-        <translation>その他.</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="796"/>
@@ -937,11 +951,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Data Transfer Proxy:</source>
-        <translation type="obsolete">データ転送プロキシ:</translation>
+        <translation>データ転送プロキシ:</translation>
     </message>
     <message>
         <source>STUN Host:</source>
-        <translation type="obsolete">STUNホスト:</translation>
+        <translation>STUNホスト:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="986"/>
@@ -950,7 +964,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>User:</source>
-        <translation type="obsolete">ユーザー:</translation>
+        <translation>ユーザー:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodify.ui" line="1027"/>
@@ -959,30 +973,30 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="obsolete">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="obsolete">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
         <source>Account Properties</source>
-        <translation type="obsolete">アカウント設定</translation>
+        <translation>アカウント設定</translation>
     </message>
     <message>
         <source>OpenSSL error</source>
-        <translation type="obsolete">OpenSSLエラー</translation>
+        <translation>OpenSSLエラー</translation>
     </message>
     <message>
         <source>Sorry, but you must have &lt;b&gt;OpenSSL v0.9.6b&lt;/b&gt; or compatible installed to use this feature.</source>
-        <translation type="obsolete">このフィーチャーを使用するには&lt;B&gt;OpenSSL v0.9.6b&lt;/B&gt;か互換性のあるバージョンが必要です。</translation>
+        <translation>この機能を使用するには&lt;b&gt;OpenSSL v0.9.6b&lt;/b&gt;か互換性のあるバージョンが必要です。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="395"/>
@@ -993,15 +1007,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please disconnect from this account before trying to modify it.</source>
-        <translation type="obsolete">変更する前にサーバーからの接続を切断して下さい。</translation>
+        <translation>変更する前にサーバーからの接続を切断して下さい。</translation>
     </message>
     <message>
         <source>You must specify a name for the account before you may save it.</source>
-        <translation type="obsolete">アカウントに名前をつけてから保存してください。</translation>
+        <translation>アカウントに名前をつけてから保存してください。</translation>
     </message>
     <message>
         <source>There is already an account with this name.  Please select a different name.</source>
-        <translation type="obsolete">既にこのアカウント名が存在します。別のアカウント名を選んで下さい。</translation>
+        <translation>既にこのアカウント名が存在します。別のアカウント名を選んで下さい。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="540"/>
@@ -1018,27 +1032,28 @@ allow anonymous users to sign up for accounts on your system?  Probably not.
 For now though (Spring 2002), most hosts (like jabber.com and jabber.org) allow
 anonymous signups.  Check jabberview.com for a nice list of free hosts.
 
-Click on &quot;Yes&quot; to attempt to register an account.
+Click on "Yes" to attempt to register an account.
 </source>
-        <translation type="obsolete">指定したサーバーに新しいアカウントを制作使用とします。
+        <translation>指定したサーバーに新しいアカウントを制作使用とします。
 
 アカウント制作は匿名でできない場合もあるので、
 その場合はjabberview.comでフリーサーバーのリストを
 チェックしてください。
 
-新しいアカウントの登録をするには［はい］を押して下さい。</translation>
+新しいアカウントの登録をするには［はい］を押して下さい。
+</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>You must specify a password for the new account.</source>
-        <translation type="obsolete">アカウント制作にパスワードが必要です。</translation>
+        <translation>アカウント制作にパスワードが必要です。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="403"/>
@@ -1047,7 +1062,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="obsolete">通常、Psiは&lt;i&gt;ダイジェスト&lt;/i&gt;認証方式を使用してログインを行います。強制的にプレーンテキスト認証を使用してログインする場合はこのチェックボックスをクリックしてください。このオプションはあなたの接続を潜在的に攻撃から受けやすくする為、通常のログイン手続きで問題が発生した場合のみ使用してください。</translation>
+        <translation>通常、Psiは&lt;i&gt;ダイジェスト&lt;/i&gt;認証方式を使用してログインを行います。強制的にプレーンテキスト認証を使用してログインする場合はこのチェックボックスをクリックしてください。このオプションはあなたの接続を潜在的に攻撃から受けやすくする為、通常のログイン手続きで問題が発生した場合のみ使用してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="206"/>
@@ -1066,24 +1081,24 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="221"/>
-        <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>いわゆる &quot;Keep-alive&quot;パケットを定期的に送信します。これは一定の無通信状態が続いた際に(たとえばISPによって)自動的に接続が切られる場合に便利です。</translation>
+        <source>Sends so called "Keep-alive" packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
+        <translation>いわゆる "Keep-alive"パケットを定期的に送信します。これは一定の無通信状態が続いた際に(たとえばISPによって)自動的に接続が切られる場合に便利です。</translation>
     </message>
     <message>
-        <source>Check this option if you want Psi to remember your Jabber account password. Don&apos;t use this feature if you want maximum security and don&apos;t want to be compromised even if someone would break in your system and steal your configuration files.</source>
-        <translation type="obsolete">PSIにパスワードを覚えていてほしい場わいはここをチェックしてください。　セキュリティが気になる方はこのオプションを使わないでください。</translation>
+        <source>Check this option if you want Psi to remember your Jabber account password. Don't use this feature if you want maximum security and don't want to be compromised even if someone would break in your system and steal your configuration files.</source>
+        <translation>PSIにパスワードを覚えていてほしい場わいはここをチェックしてください。　セキュリティが気になる方はこのオプションを使わないでください。</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="obsolete">このオプションはJabberアカウントのホストが接続したいホストと異なる場合に手動でホストを指定する時に使用します。このオプションは外部のサーバーにアカウントを登録しているが、ローカルマシンにプロキシの様な経路を持っている場合に便利なオプションです。</translation>
+        <translation>このオプションはJabberアカウントのホストが接続したいホストと異なる場合に手動でホストを指定する時に使用します。このオプションは外部のサーバーにアカウントを登録しているが、ローカルマシンにプロキシの様な経路を持っている場合に便利なオプションです。</translation>
     </message>
     <message>
-        <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="obsolete">あなたは一つのアカウントで複数のクライアントからJabberサーバーに接続することが出来ます。それぞれのログインはこのフィールドで指定する&quot;リソース&quot;名で区別されます。</translation>
+        <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a "resource" name, which you can specify in this field.</source>
+        <translation>あなたは一つのアカウントで複数のクライアントからJabberサーバーに接続することが出来ます。それぞれのログインはこのフィールドで指定する"リソース"名で区別されます。</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="obsolete">&lt;p&gt;あなたは一つのアカウントで複数のクライアントからJabberサーバーに接続することが出来ます。その様な状況で、最も優先度(このフィールドで指定する)の高いクライアントが全てのイベントを受信するでしょう。&lt;/p&gt;&lt;p&gt;例えば、あなたの職場がインターネットに常時接続しており、自宅にダイアルアップ回線を持っていたとします、あなたは職場でJabberクライアントを低い優先度で常時実行し、自宅から同じアカウントで高い優先度を使用することで一時的に職場の低い優先度のクライアントを&quot;無効化&quot;する事が出来ます。&lt;/p&gt;</translation>
+        <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary "disable" the lower priority client at work.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;あなたは一つのアカウントで複数のクライアントからJabberサーバーに接続することが出来ます。その様な状況で、最も優先度(このフィールドで指定する)の高いクライアントが全てのイベントを受信するでしょう。&lt;/p&gt;&lt;p&gt;例えば、あなたの職場がインターネットに常時接続しており、自宅にダイアルアップ回線を持っていたとします、あなたは職場でJabberクライアントを低い優先度で常時実行し、自宅から同じアカウントで高い優先度を使用することで一時的に職場の低い優先度のクライアントを"無効化"する事が出来ます。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="541"/>
@@ -1098,32 +1113,32 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="227"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPサーバーとSSLで暗号化した接続を使用する為のオプションです。このオプションを使用する為には、サーバーがサポートしており、クライアントにQCA-OpenSSLプラグインがインストールされていることが必要です。詳細な情報は、Psiのホームページを確認してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="233"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPサーバがサポートしてる場合に通信データを圧縮する為のオプションです。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="236"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation>このオプションはXMPPアカウントのホストが接続したいホストと異なる場合に手動でホストを指定する時に使用します。このオプションは外部のサーバーにアカウントを登録しているが、ローカルマシンにプロキシの様な経路を持っている場合に便利なオプションです。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="242"/>
-        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a "resource" name, which you can specify in this field.</source>
+        <translation>あなたは一つのアカウントで複数のクライアントからXMPPサーバーに接続することが出来ます。それぞれのログインはこのフィールドで指定する「リソース」名で区別されます。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="246"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>このオプションは認証に使用するユーザー(とレルム)を設定します。これはログインに使用するXMPPアドレスを上書きします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="250"/>
-        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary "disable" the lower priority client at work.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;あなたは一つのアカウントで複数のクライアントからXMPPサーバーに接続することが出来ます。その様な状況で、最も優先度(このフィールドで指定する)の高いクライアントが全てのイベントを受信するでしょう。&lt;/p&gt;&lt;p&gt;例えば、あなたの職場がインターネットに常時接続しており、自宅にダイアルアップ回線を持っていたとします、あなたは職場でXMPPクライアントを低い優先度で常時実行し、自宅から同じアカウントで高い優先度を使用することで一時的に職場の低い優先度のクライアントを"無効化"する事が出来ます。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="430"/>
@@ -1137,7 +1152,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="obsolete">&lt;i&gt;Jabber ID&lt;/i&gt;は&lt;i&gt;user@host&lt;/i&gt;の様な形式で指定します。</translation>
+        <translation>&lt;i&gt;Jabber ID&lt;/i&gt;は&lt;i&gt;user@host&lt;/i&gt;の様な形式で指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="104"/>
@@ -1194,7 +1209,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="199"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiは通常&lt;i&gt;ダイジェスト&lt;/i&gt;認証方式を使用してログインを行います。強制的にプレーンテキスト認証を使用してログインする場合はこのチェックボックスをクリックしてください。このオプションは潜在的に脆弱であるため、通常のログイン手続きで問題が発生する場合のみ使用してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="210"/>
@@ -1204,19 +1219,19 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="574"/>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックするコンタクトのXMPPアドレスを入力してください:</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QCA-OpenSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="obsolete">JabberサーバーとSSLで暗号化した接続を使用する為のオプションです。このオプションを使用する為には、サーバーがサポートしており、クライアントにQCA-OpenSSLプラグインがインストールされていることが必要です。詳細な情報は、Psiのホームページを確認してください。</translation>
+        <translation>JabberサーバーとSSLで暗号化した接続を使用する為のオプションです。このオプションを使用する為には、サーバーがサポートしており、クライアントにQCA-OpenSSLプラグインがインストールされていることが必要です。詳細な情報は、Psiのホームページを確認してください。</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the Jabber server, if the server supports it.</source>
-        <translation type="obsolete">サポートされていればJabberサーバーと圧縮された接続を使用する為のオプションです。</translation>
+        <translation>サポートされていればJabberサーバーと圧縮された接続を使用する為のオプションです。</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
-        <translation type="obsolete">このオプションは認証に使用するユーザー(とレルム)を設定します。これはログインに使用するJabberIDを上書きします。</translation>
+        <translation>このオプションは認証に使用するユーザー(とレルム)を設定します。これはログインに使用するJabberIDを上書きします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="270"/>
@@ -1236,7 +1251,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="475"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;XMPPアドレス&lt;/i&gt; は &lt;i&gt;user@host&lt;/i&gt;というフォーマットで指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="543"/>
@@ -1255,7 +1270,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>Enter the Jabber ID of the contact to block:</source>
-        <translation type="obsolete">ブロックするコンタクトのabber IDを入力してください:</translation>
+        <translation>ブロックするコンタクトのabber IDを入力してください:</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountmodifydlg.cpp" line="606"/>
@@ -1277,172 +1292,171 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <name>AccountModifyUI</name>
     <message>
         <source>Form2</source>
-        <translation type="obsolete">フォーム2</translation>
+        <translation>フォーム2</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="obsolete">アカウント</translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="obsolete">ホスト:</translation>
+        <translation>ホスト:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="obsolete">ポート:</translation>
+        <translation>ポート:</translation>
     </message>
     <message>
         <source>Use SSL encryption</source>
-        <translation type="obsolete">SSL暗号化を使用</translation>
+        <translation>SSL暗号化を使用</translation>
     </message>
     <message>
         <source>Save Password:</source>
-        <translation type="obsolete">パスワードを保存:</translation>
+        <translation>パスワードを保存:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="obsolete">ユーザー名:</translation>
+        <translation>ユーザー名:</translation>
     </message>
     <message>
         <source>Use plaintext login</source>
-        <translation type="obsolete">テキストログインを使用</translation>
+        <translation>テキストログインを使用</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">登録する</translation>
+        <translation>登録する</translation>
     </message>
     <message>
         <source>Unregister</source>
-        <translation type="obsolete">登録を解除</translation>
+        <translation>登録を解除</translation>
     </message>
     <message>
         <source>Resource</source>
-        <translation type="obsolete">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <source>Resource:</source>
-        <translation type="obsolete">リソース:</translation>
+        <translation>リソース:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="obsolete">重要度</translation>
+        <translation>重要度:</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation type="obsolete">スタート時に接続</translation>
+        <translation>スタート時に接続</translation>
     </message>
     <message>
         <source>Log message history</source>
-        <translation type="obsolete">メッセージの履歴の保存</translation>
+        <translation>メッセージの履歴の保存</translation>
     </message>
     <message>
-        <source>Send &quot;Keep-alive&quot; packets (for NAT timeouts)</source>
-        <translation type="obsolete">生存パケットを送信(NATタイムアウト用)</translation>
+        <source>Send "Keep-alive" packets (for NAT timeouts)</source>
+        <translation>生存パケットを送信(NATタイムアウト用)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="obsolete">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="obsolete">Proxy</translation>
+        <translation>Proxy</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="obsolete">デテール</translation>
+        <translation>デテール</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="obsolete">パーソナルインフォメーション</translation>
+        <translation>パーソナルインフォメーション</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;あなたの個人情報はサーバーのVCardに保存されており、ほかのユーザーが見れるようになっています&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;あなたの個人情報はサーバーのVCardに保存されており、ほかのユーザーが見れるようになっています&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation type="obsolete">個人情報のエディット(&amp;D)...
-</translation>
+        <translation>個人情報のエディット(&amp;D)...</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="obsolete">パスワード</translation>
+        <translation>パスワード</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Click the button below to change your password on the server.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;パスワードを変更する場合は下のボタンをクリックしてください&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;パスワードを変更する場合は下のボタンをクリックしてください&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Change &amp;Password...</source>
-        <translation type="obsolete">パスワードの変更 (&amp;P)...</translation>
+        <translation>パスワードの変更 (&amp;P)...</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="obsolete">パーソナルオプション</translation>
+        <translation>パーソナルオプション</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation type="obsolete">回線が切れた場あい、自動的に接続する</translation>
+        <translation>回線が切れた場あい、自動的に接続する</translation>
     </message>
     <message>
         <source>Ignore SSL warnings</source>
-        <translation type="obsolete">SSLウォーニングをむしする</translation>
+        <translation>SSLウォーニングをむしする</translation>
     </message>
     <message>
         <source>Save Passphrase:</source>
-        <translation type="obsolete">パスフレーズの保存:</translation>
+        <translation>パスフレーズの保存:</translation>
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
+        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="obsolete">キーをえらぶ (&amp;K)... </translation>
+        <translation>キーを選択 (&amp;K)...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation type="obsolete">使わない</translation>
+        <translation>使わない</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="obsolete">コネクション</translation>
+        <translation>コネクション</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">アドバンス</translation>
+        <translation>アドバンス</translation>
     </message>
     <message>
         <source>Use Plaintext Login</source>
-        <translation type="obsolete">テキストログインを使用</translation>
+        <translation>テキストログインを使用</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">手動でホストサーバー/ポートをえらぶ:</translation>
+        <translation>手動でホストサーバー/ポートをえらぶ:</translation>
     </message>
     <message>
         <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">SSL暗号化を使用（セーバーへ）</translation>
+        <translation>SSL暗号化を使用（セーバーへ）</translation>
     </message>
     <message>
         <source>Account Properties</source>
-        <translation type="obsolete">アカウント設定</translation>
+        <translation>アカウント設定</translation>
     </message>
 </context>
 <context>
@@ -1494,7 +1508,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>Probe legacy SSL port</source>
-        <translation type="obsolete">古いSSLポートを調べる</translation>
+        <translation>古いSSLポートを調べる</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountreg.ui" line="192"/>
@@ -1521,7 +1535,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     <name>AccountRegDlg</name>
     <message>
         <source>Register Account</source>
-        <translation type="obsolete">アカウントのレジスター</translation>
+        <translation>アカウントのレジスター</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="107"/>
@@ -1558,11 +1572,11 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>You must fill out the fields properly before you can register.</source>
-        <translation type="obsolete">フィールドを正しく入力してからレジスターしてください。</translation>
+        <translation>フィールドを正しく入力してからレジスターしてください。</translation>
     </message>
     <message>
         <source>Password and confirmation do not match.  Please enter them again.</source>
-        <translation type="obsolete">パスワードのコンフォメーションが会いませんでした。　もういちど入力してください。</translation>
+        <translation>パスワードのコンフォメーションが会いませんでした。　もういちど入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="289"/>
@@ -1571,7 +1585,7 @@ Click on &quot;Yes&quot; to attempt to register an account.
     </message>
     <message>
         <source>The account was registered successfully.</source>
-        <translation type="obsolete">アカウント登録が完了しました。</translation>
+        <translation>アカウント登録が完了しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="297"/>
@@ -1584,27 +1598,27 @@ Reason: %1</source>
         <source>SSL not supported.
 Reason:
 %1</source>
-        <translation type="obsolete">SSLのサポートがありません。
+        <translation>SSLのサポートがありません。
 理由:
 %1</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="obsolete">無視</translation>
+        <translation>無視</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server:
 %1</source>
-        <translation type="obsolete">Jabberサーバーとのコミュニケーションにエラーがしょうじました:
+        <translation>Jabberサーバーとのコミュニケーションにエラーがしょうじました:
 %1</translation>
     </message>
     <message>
         <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: サーバーのオーセンチケーション</translation>
+        <translation>%1: サーバーのオーセンチケーション</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="63"/>
@@ -1639,7 +1653,7 @@ Reason:
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="171"/>
         <source>Reason: </source>
-        <translation>理由:</translation>
+        <translation>理由: </translation>
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="192"/>
@@ -1658,109 +1672,109 @@ Reason:
     </message>
     <message>
         <location filename="../../psi/src/accountregdlg.cpp" line="289"/>
-        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <source>You have successfully registered your account with XMPP address '%1'</source>
+        <translation>XMPPアドレス「%1」の登録に成功しました</translation>
     </message>
     <message>
-        <source>You have succesfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="obsolete">Jabber ID &apos;%1&apos; の登録に成功しました</translation>
+        <source>You have succesfully registered your account with Jabber ID '%1'</source>
+        <translation>Jabber ID '%1' の登録に成功しました</translation>
     </message>
 </context>
 <context>
     <name>AccountRegUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="obsolete">ホスト:</translation>
+        <translation>ホスト:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="obsolete">ポート:</translation>
+        <translation>ポート:</translation>
     </message>
     <message>
         <source>Use SSL encryption</source>
-        <translation type="obsolete">SSL暗号化を使用</translation>
+        <translation>SSL暗号化を使用</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="obsolete">ユーザー名:</translation>
+        <translation>ユーザー名:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation type="obsolete">登録(&amp;R)</translation>
+        <translation>登録(&amp;R)</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="obsolete">アカウント</translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="obsolete">Proxy</translation>
+        <translation>Proxy</translation>
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
+        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">アドバンス</translation>
+        <translation>アドバンス</translation>
     </message>
     <message>
         <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">SSL暗号化を使用（セーバーへ）</translation>
+        <translation>SSL暗号化を使用（セーバーへ）</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">手動でホストサーバー/ポートをえらぶ:</translation>
+        <translation>手動でホストサーバー/ポートをえらぶ:</translation>
     </message>
     <message>
         <source>Register Account</source>
-        <translation type="obsolete">アカウントのレジスター</translation>
+        <translation>アカウントのレジスター</translation>
     </message>
 </context>
 <context>
     <name>AccountRegisterDlg</name>
     <message>
         <source>Account Registration</source>
-        <translation type="obsolete">アカウント登録</translation>
+        <translation>アカウント登録</translation>
     </message>
     <message>
         <source>Registering account...</source>
-        <translation type="obsolete">アカウント登録中...</translation>
+        <translation>アカウント登録中...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="obsolete">成功</translation>
+        <translation>成功</translation>
     </message>
     <message>
         <source>The account was registered successfully.</source>
-        <translation type="obsolete">アカウント登録が完了しました。</translation>
+        <translation>アカウント登録が完了しました。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation type="obsolete">アカウント登録中にエラーが起きました。
+        <translation>アカウント登録中にエラーが起きました。
 エラーメッセージ：%1</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server.
 Reason: %1</source>
-        <translation type="obsolete">Jabberサーバーとの接続を確立中にエラーが起きました。
+        <translation>Jabberサーバーとの接続を確立中にエラーが起きました。
 エラーメッセージ：%1</translation>
     </message>
 </context>
@@ -1775,12 +1789,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/accountremove.ui" line="26"/>
         <source>Remove account from Psi only.</source>
-        <translation>Psiのみからアカウントを削除します。</translation>
+        <translation>Psiのアカウントを削除します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>アカウントを削除し、サーバーから登録解除します。</translation>
+        <translation>Psiのアカウントを削除し、サーバー上のアカウントも削除します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/accountremove.ui" line="42"/>
@@ -1789,11 +1803,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="obsolete">削除(&amp;R)</translation>
+        <translation>削除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -1862,18 +1876,18 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>AccountRemoveUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1922,15 +1936,15 @@ Reason: %1</source>
     <name>AddUrlUI</name>
     <message>
         <source>URL:</source>
-        <translation type="obsolete">URL：</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -1945,7 +1959,7 @@ Reason: %1</source>
 &lt;br&gt;
 To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
 &lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;&lt;b&gt;Jabber&lt;/b&gt;ユーザーを追加する為に、Jabber ID(と任意でニックネームとグループ)を入力し、&lt;i&gt;追加&lt;/i&gt;ボタンを押してください。&lt;br&gt;
+        <translation>&lt;qt&gt;&lt;b&gt;Jabber&lt;/b&gt;ユーザーを追加する為に、Jabber ID(と任意でニックネームとグループ)を入力し、&lt;i&gt;追加&lt;/i&gt;ボタンを押してください。&lt;br&gt;
 &lt;br&gt;
 
 非
@@ -1959,7 +1973,7 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="111"/>
@@ -1973,7 +1987,7 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Get Jabber ID</source>
-        <translation type="obsolete">Jabber IDを取得</translation>
+        <translation>Jabber IDを取得</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="181"/>
@@ -1997,31 +2011,35 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
+        <translation>Jabber ID:</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="38"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;To add a &lt;span style=" font-weight:600;"&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=" font-style:italic;"&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=" font-weight:600;"&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=" font-style:italic;"&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=" font-style:italic;"&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600;"&gt;XMPP&lt;/span&gt;ユーザーを追加するには、XMPPアドレスを入力して(and optional nickname and group)下部にある&lt;span style=" font-style:italic;"&gt;追加&lt;/span&gt;ボタンを押してください。&lt;br /&gt;&lt;br /&gt;&lt;span style=" font-weight:600;"&gt;XMPPでない&lt;/span&gt;サービスのコンタクトを追加する場合は、まず最初にあなたがサービスに登録する必要があります(メインメニューからサービスディスカバリーを見てください)、そして上部の一覧からサービスを選択してください。&lt;span style=" font-style:italic;"&gt;Service ID変換&lt;/span&gt;ボックスの指示に従い、&lt;span style=" font-style:italic;"&gt;XMPPアドレスを取得&lt;/span&gt;ボタンを押してコンタクトのXMPPアドレスを生成してください。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="76"/>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="147"/>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアドレスの取得</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="224"/>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduser.ui" line="240"/>
@@ -2058,7 +2076,7 @@ p, li { white-space: pre-wrap; }
     <name>AddUserDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="obsolete">ユーザーの追加</translation>
+        <translation>ユーザーの追加</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="115"/>
@@ -2069,7 +2087,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="120"/>
         <source>Hidden</source>
-        <translation type="unfinished">伏在</translation>
+        <translation>不可視</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="169"/>
@@ -2080,28 +2098,31 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="169"/>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
+        <translation>追加するユーザーのXMPPアドレスを入力して下さい。</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="173"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>不正なXMPPアドレスが入力されました!
+正しいXMPPアドレスを入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="285"/>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+There was an error getting the Service ID translation information from "%1".&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation>&lt;qt&gt;
+"%1"でのサービスID変換情報の取得中にエラーが発生しました。
+&lt;br&gt;理由: %2&lt;br&gt;&lt;br&gt;このサービスはこの機能がサポートされていないかもしれません。この場合XMPPアドレスを手動で入力する必要が有ります。例:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[AIMトランスポートのXMPPアドレス]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQトランスポートのXMPPアドレス]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSNトランスポートのXMPPアドレス]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[YahooトランスポートのXMPPアドレス]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation type="obsolete">追加するユーザーのJabber IDを入力して下さい。</translation>
+        <translation>追加するユーザーのJabber IDを入力して下さい。</translation>
     </message>
     <message>
-        <source>The Jabber ID you entered does not contain a &apos;@&apos; symbol.
-Make sure you enter a fully qualified Jabber ID in the form &quot;user@hostname&quot;.</source>
-        <translation type="obsolete">入力されたJabber IDに&apos;@&apos;マークが見つかりませんでした。
+        <source>The Jabber ID you entered does not contain a '@' symbol.
+Make sure you enter a fully qualified Jabber ID in the form "user@hostname".</source>
+        <translation>入力されたJabber IDに'@'マークが見つかりませんでした。
 Jabber IDの正しいフォーマット（user@hostname）か確認して再入力して下さい。</translation>
     </message>
     <message>
@@ -2111,25 +2132,26 @@ Jabber IDの正しいフォーマット（user@hostname）か確認して再入�
     </message>
     <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information. The &quot;%1&quot; service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;
+There was an error getting the Service ID translation information. The "%1" service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;
 &lt;br&gt;
 &amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
 &amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;
 </source>
-        <translation type="obsolete">&lt;qt&gt;
-指定のネットワーク用のIDの検出に失敗しました。&quot;%1&quot;はこの機能が搭載されてません。手動でJabber IDを入力して下さい。例：&lt;br&gt;
+        <translation>&lt;qt&gt;
+指定のネットワーク用のIDの検出に失敗しました。"%1"はこの機能が搭載されてません。手動でJabber IDを入力して下さい。例：&lt;br&gt;
 &lt;br&gt;
 &amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
 &amp;nbsp;&amp;nbsp;aoluser@[AIMトランスポート用のJabber ID]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;1234567@[ICQトランスポート用のJabber ID]&lt;br&gt;
-&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSNトランスポート用のJabber ID]&lt;br&gt;</translation>
+&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSNトランスポート用のJabber ID]&lt;br&gt;
+</translation>
     </message>
     <message>
         <source>The Jabber ID you entered is not valid!
 Make sure you enter a fully qualified Jabber ID.</source>
-        <translation type="obsolete">不正なJabber IDが入力されました!
+        <translation>不正なJabber IDが入力されました!
 正しいJabber IDを入力してください。</translation>
     </message>
     <message>
@@ -2140,85 +2162,85 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../../psi/src/adduserdlg.cpp" line="185"/>
         <source>Added %1 to your roster.</source>
-        <translation>%1 を名簿に追加しました。</translation>
+        <translation>%1 をコンタクトリストに追加しました。</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;
-&quot;%1&quot;からのサービスID変換情報の取得中にエラーが発生しました。&lt;br&gt;理由: %2&lt;br&gt;&lt;br&gt;このサービスはサポートされていないかもしれません。この場合、あなたはJabber IDを手動で入力する必要が有ります。例:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[AIMトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSNトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[YahooトランスポートのJabber ID]&lt;br&gt;&lt;/qt&gt;</translation>
+There was an error getting the Service ID translation information from "%1".&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation>&lt;qt&gt;
+"%1"からのサービスID変換情報の取得中にエラーが発生しました。&lt;br&gt;理由: %2&lt;br&gt;&lt;br&gt;このサービスはサポートされていないかもしれません。この場合、あなたはJabber IDを手動で入力する必要が有ります。例:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[AIMトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSNトランスポートのJabber ID]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[YahooトランスポートのJabber ID]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
     <name>AddUserUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
 &lt;br&gt;
 To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Manage Services from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
 &lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;&lt;b&gt;Jabber&lt;/b&gt;ユーザーを追加するにはJabber IDを入力して、[追加]ボタンを押して下さい。
+        <translation>&lt;qt&gt;&lt;b&gt;Jabber&lt;/b&gt;ユーザーを追加するにはJabber IDを入力して、[追加]ボタンを押して下さい。
 &lt;br&gt;
 Jabber以外のユーザーを追加するにはそのIMシステムのアカウントが[エージェント管理]で登録されているのを確認して、上のドロップダウンから選択し、&lt;i&gt;IMシステムのIDの検出&lt;/i&gt;の指示に従い下さい。最後に&lt;i&gt;Jabber IDの検出&lt;/i&gt;ボタンを押すとJabber IDを自動検出します。&lt;br&gt;
 &lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
-        <translation type="obsolete">IMシステム:</translation>
+        <translation>IMシステム:</translation>
     </message>
     <message>
         <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
+        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
-        <translation type="obsolete">IMシステムのIDの検出</translation>
+        <translation>IMシステムのIDの検出</translation>
     </message>
     <message>
         <source>No description</source>
-        <translation type="obsolete">詳細無し</translation>
+        <translation>詳細無し</translation>
     </message>
     <message>
         <source>Get Jabber ID</source>
-        <translation type="obsolete">Jabber IDの検出</translation>
+        <translation>Jabber IDの検出</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">グループ</translation>
+        <translation>グループ</translation>
     </message>
     <message>
         <source>Nickname (optional)</source>
-        <translation type="obsolete">別名（オプショナル）</translation>
+        <translation>別名（オプショナル）</translation>
     </message>
     <message>
         <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
+        <translation>Jabber ID</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>Close window after adding</source>
-        <translation type="obsolete">たしたあとにウィンドーを閉じる</translation>
+        <translation>たしたあとにウィンドーを閉じる</translation>
     </message>
     <message>
         <source>Add User</source>
-        <translation type="obsolete">ユーザーの追加</translation>
+        <translation>ユーザーの追加</translation>
     </message>
 </context>
 <context>
     <name>AttachView</name>
     <message>
         <source>Attachments</source>
-        <translation type="obsolete">添付</translation>
+        <translation>添付</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="381"/>
@@ -2245,30 +2267,30 @@ Jabber以外のユーザーを追加するにはそのIMシステムのアカウ
     <name>AuthEvent</name>
     <message>
         <source>This user wants to subscribe to your presence.</source>
-        <translation type="obsolete">このユーザーはあなたのステータスの購読を要求しています。</translation>
+        <translation>このユーザーはあなたのステータスの購読を要求しています。</translation>
     </message>
     <message>
         <source>You are now authorized.</source>
-        <translation type="obsolete">あなたは認証されていません。</translation>
+        <translation>あなたは認証されていません。</translation>
     </message>
     <message>
         <source>Your authorization has been removed!</source>
-        <translation type="obsolete">あなたの認証は削除されました!</translation>
+        <translation>あなたの認証は削除されました!</translation>
     </message>
     <message>
         <location filename="../../psi/src/psievent.cpp" line="432"/>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1はあなたのプレゼンスを購読を要求しています。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psievent.cpp" line="434"/>
         <source>%1 authorized you to view his status.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1はあなたがステータスを参照することを承認しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psievent.cpp" line="436"/>
         <source>%1 removed your authorization to view his status!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1はステータス参照の承認を削除しました!</translation>
     </message>
 </context>
 <context>
@@ -2389,49 +2411,49 @@ Jabber以外のユーザーを追加するにはそのIMシステムのアカウ
     <name>BrowserDlg::Private</name>
     <message>
         <source>Refresh</source>
-        <translation type="obsolete">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="obsolete">更新(&amp;R)</translation>
+        <translation>更新(&amp;R)</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">登録する</translation>
+        <translation>登録する</translation>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation type="obsolete">登録(&amp;R)</translation>
+        <translation>登録(&amp;R)</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="obsolete">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="obsolete">検索(&amp;S)</translation>
+        <translation>検索(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>BrowserItem</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
 </context>
 <context>
     <name>BrowserUI</name>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>JID</source>
-        <translation type="obsolete">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -2681,11 +2703,11 @@ Jabber以外のユーザーを追加するにはそのIMシステムのアカウ
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="obsolete">適用(&amp;A)</translation>
+        <translation>適用(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -2735,30 +2757,30 @@ Reason: %1</source>
     <name>ChangePasswordUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>ChatDlg</name>
     <message>
         <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
+        <translation>Jabber ID</translation>
     </message>
     <message>
         <source>Clear chat window</source>
-        <translation type="obsolete">チャットボックスの消去</translation>
+        <translation>チャットボックスの消去</translation>
     </message>
     <message>
         <source>User info</source>
-        <translation type="obsolete">ユーザーの情報</translation>
+        <translation>ユーザーの情報</translation>
     </message>
     <message>
         <source>Message history</source>
-        <translation type="obsolete">メッセージの履歴</translation>
+        <translation>メッセージの履歴</translation>
     </message>
     <message>
         <location filename="../../psi/src/chatdlg.cpp" line="235"/>
@@ -2786,7 +2808,7 @@ Do you still want to close the window?</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="obsolete">チャットボックスを消去しますか？（メッセージ履歴は変更されません。）</translation>
+        <translation>チャットボックスを消去しますか？（メッセージ履歴は変更されません。）</translation>
     </message>
     <message>
         <location filename="../../psi/src/chatdlg.cpp" line="453"/>
@@ -2795,19 +2817,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="obsolete">URL：</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation type="obsolete">説明：</translation>
+        <translation>説明：</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../../psi/src/chatdlg.cpp" line="796"/>
@@ -2897,7 +2919,7 @@ Do you still want to close the window?</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="obsolete">提示されたメカニズム:</translation>
+        <translation>提示されたメカニズム: </translation>
     </message>
 </context>
 <context>
@@ -2905,97 +2927,97 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="69"/>
         <source>&amp;Status</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータス(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="72"/>
         <source>Mood</source>
-        <translation type="unfinished">気分</translation>
+        <translation>気分</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="75"/>
         <source>Set Avatar</source>
-        <translation type="unfinished">アバターの設定</translation>
+        <translation>アバターの登録</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="78"/>
         <source>Unset Avatar</source>
-        <translation type="unfinished">アバターの解除</translation>
+        <translation>アバターの解除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="81"/>
         <source>Manage...</source>
-        <translation type="unfinished">管理...</translation>
+        <translation>管理...</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="84"/>
         <source>&amp;Add a Contact</source>
-        <translation type="unfinished">コンタクトの追加(&amp;A)</translation>
+        <translation>コンタクトを追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="87"/>
         <source>Service &amp;Discovery</source>
-        <translation type="unfinished">サービスディスカバリ(&amp;D)</translation>
+        <translation>サービスディスカバリ(&amp;D)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="90"/>
         <source>New &amp;Blank Message</source>
-        <translation type="unfinished">新規メッセージ(&amp;B)</translation>
+        <translation>新規メッセージ(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="93"/>
         <source>&amp;XML Console</source>
-        <translation type="unfinished">XMLコンソール(&amp;X)</translation>
+        <translation>XMLコンソール(&amp;X)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="96"/>
         <source>&amp;Modify Account...</source>
-        <translation type="unfinished">アカウントの変更(&amp;M)...</translation>
+        <translation>アカウントの設定(&amp;M)...</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="99"/>
         <source>Online Users</source>
-        <translation type="unfinished">オンラインユーザー</translation>
+        <translation>オンラインユーザー</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="102"/>
         <source>Send Server Message</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーメッセージを送信</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="105"/>
         <source>Set MOTD</source>
-        <translation type="unfinished">MOTDの設定</translation>
+        <translation>MOTDの設定</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="108"/>
         <source>Update MOTD</source>
-        <translation type="unfinished">MOTDの更新</translation>
+        <translation>MOTDの更新</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="111"/>
         <source>Delete MOTD</source>
-        <translation type="unfinished">MOTDの削除</translation>
+        <translation>MOTDの削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="116"/>
         <source>Avatar</source>
-        <translation type="unfinished">アバター</translation>
+        <translation>アバター</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="119"/>
         <source>Bookmarks</source>
-        <translation type="unfinished">ブックマーク</translation>
+        <translation>ブックマーク</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="129"/>
         <source>&amp;Admin</source>
-        <translation type="unfinished">管理(&amp;A)</translation>
+        <translation>管理(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistaccountmenu.cpp" line="166"/>
         <source>Join %1</source>
-        <translation type="unfinished">参加 %1</translation>
+        <translation>%1 に参加</translation>
     </message>
 </context>
 <context>
@@ -3003,32 +3025,32 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="57"/>
         <source>Re&amp;name</source>
-        <translation type="unfinished">名前の変更(&amp;N)</translation>
+        <translation>名前の変更(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="60"/>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished">グループとコンタクトの削除</translation>
+        <translation>グループとコンタクトの削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="62"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">削除(&amp;R)</translation>
+        <translation>削除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="67"/>
         <source>Remove Group</source>
-        <translation type="unfinished">グループの削除</translation>
+        <translation>グループの削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="70"/>
         <source>Send Message to Group</source>
-        <translation type="unfinished">グループにメッセージを送信</translation>
+        <translation>グループにメッセージを送信</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistgroupmenu.cpp" line="74"/>
         <source>&amp;Add group...</source>
-        <translation type="unfinished"></translation>
+        <translation>グループの追加...(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -3036,12 +3058,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactlistmodel.cpp" line="603"/>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistmodel.cpp" line="603"/>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="unfinished"></translation>
+        <source>You can't set a blank group name.</source>
+        <translation>空のグループ名を設定することは出来ません。</translation>
     </message>
 </context>
 <context>
@@ -3049,22 +3071,22 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactlistspecialgroup.cpp" line="34"/>
         <source>General</source>
-        <translation type="unfinished">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistspecialgroup.cpp" line="38"/>
         <source>Not in List</source>
-        <translation type="unfinished"></translation>
+        <translation>リスト外</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistspecialgroup.cpp" line="42"/>
         <source>Agents/Transports</source>
-        <translation type="unfinished">トランスポートエージェント</translation>
+        <translation>エージェント/トランスポート</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistspecialgroup.cpp" line="46"/>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>プライベートメッセージ</translation>
     </message>
 </context>
 <context>
@@ -3072,94 +3094,90 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="63"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンタクトリストから&lt;br&gt;%1&lt;br&gt;を完全に削除します。</translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi/src/contactlistutil.cpp" line="86"/>
         <source>and %n contacts </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>%n コンタクト </numerusform>
+        </translation></message>
     <message numerus="yes">
         <location filename="../../psi/src/contactlistutil.cpp" line="91"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>コンタクトリストから &lt;br&gt;%1&lt;br&gt;%2 と %n グループを完全に削除します。</numerusform>
+        </translation></message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="100"/>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and "%3" group from your contact list.</source>
+        <translation>コンタクトリストから &lt;br&gt;%1&lt;br&gt;%2 と "%3" グループを完全に削除します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="108"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンタクトリストから &lt;br&gt;%1&lt;br&gt;%2 を完全に削除します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="118"/>
-        <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="unfinished"></translation>
+        <source>This is a system group and can't be removed. Permanently remove all its contacts from your contact list?</source>
+        <translation>これはシステムグループですので削除できません。全てのコンタクトリストを削除しますか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="120"/>
         <source>Clear Group</source>
-        <translation type="unfinished"></translation>
+        <translation>グループをクリア</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="123"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンタクトリストから&lt;br&gt;%1&lt;br&gt;グループとその中のアドレスを完全に削除します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="140"/>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンタクトリストから %1 を完全に削除します。メッセージの受信を拒否することも可能です。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="143"/>
         <location filename="../../psi/src/contactlistutil.cpp" line="153"/>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="144"/>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="149"/>
-        <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="unfinished"></translation>
+        <source>This will remove %1 from "%2" group. You could also remove it from all groups.</source>
+        <translation>%1 を "%2" グループから削除します。全てのグループからも削除されます。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="154"/>
         <source>Delete From All Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>全てのグループから削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="169"/>
         <location filename="../../psi/src/contactlistutil.cpp" line="183"/>
         <source>Deleting contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>コンタクトを削除しています</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactlistutil.cpp" line="260"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
 </context>
 <context>
     <name>ContactProfile</name>
     <message>
         <source>Online</source>
-        <translation type="obsolete">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="264"/>
@@ -3168,7 +3186,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Need Authorization</source>
-        <translation type="obsolete">承認待ち</translation>
+        <translation>承認待ち</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="266"/>
@@ -3178,11 +3196,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add/Authorize to contact list</source>
-        <translation type="obsolete">名簿に追加・承認</translation>
+        <translation>名簿に追加・承認</translation>
     </message>
     <message>
         <source>Send &amp;URL</source>
-        <translation type="obsolete">&amp;URLの転送</translation>
+        <translation>&amp;URLの転送</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1320"/>
@@ -3191,7 +3209,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Create new...</source>
-        <translation type="obsolete">新規に作成(&amp;C)...</translation>
+        <translation>新規に作成(&amp;C)...</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1350"/>
@@ -3200,23 +3218,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>(Re)send &amp;authorization to</source>
-        <translation type="obsolete">（再）承認する(&amp;A)</translation>
+        <translation>（再）承認する(&amp;A)</translation>
     </message>
     <message>
         <source>Rerequest authorization from</source>
-        <translation type="obsolete">再度承認の要求</translation>
+        <translation>再度承認の要求</translation>
     </message>
     <message>
         <source>Log off</source>
-        <translation type="obsolete">ログオフ</translation>
+        <translation>ログオフ</translation>
     </message>
     <message>
         <source>Check &amp;Status</source>
-        <translation type="obsolete">ステータスの確認(&amp;S)</translation>
+        <translation>ステータスの確認(&amp;S)</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">ユーザーの情報(&amp;I)</translation>
+        <translation>ユーザーの情報(&amp;I)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1452"/>
@@ -3226,7 +3244,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authorization sent to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt;の承認をしました。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;の承認をしました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1469"/>
@@ -3235,7 +3253,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Enter the new Group name:</source>
-        <translation type="obsolete">新規グループ名を入力して下さい：</translation>
+        <translation>新規グループ名を入力して下さい：</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1498"/>
@@ -3245,7 +3263,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1499"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt;を名簿に追加しました。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;をコンタクトリストに追加しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1506"/>
@@ -3254,19 +3272,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Send message to group</source>
-        <translation type="obsolete">グループにメッセージ</translation>
+        <translation>グループにメッセージ</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="obsolete">名前の変更(&amp;N)</translation>
+        <translation>名前の変更(&amp;N)</translation>
     </message>
     <message>
         <source>Remove group</source>
-        <translation type="obsolete">グループの消去</translation>
+        <translation>グループの消去</translation>
     </message>
     <message>
         <source>Remove group and contacts</source>
-        <translation type="obsolete">グループとグループ内の名簿の消去</translation>
+        <translation>グループとグループ内の名簿の消去</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1083"/>
@@ -3284,7 +3302,7 @@ Do you still want to close the window?</source>
 to be associated with no group (affects both online and offline contacts).
 
 Proceed?</source>
-        <translation type="obsolete">グループの消去をするとオンライン・オフラインの
+        <translation>グループの消去をするとオンライン・オフラインの
 グループ内の名簿は無グループ状態になります。
 
 続けますか?</translation>
@@ -3316,7 +3334,7 @@ Proceed?</source>
 both online and offline contacts)!
 
 Proceed?</source>
-        <translation type="obsolete">警告：グループのとグループ内の名簿を消去します。
+        <translation>警告：グループのとグループ内の名簿を消去します。
 
 
 続けますか?</translation>
@@ -3340,8 +3358,8 @@ Proceed?</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <source>You can&apos;t set a blank nickname.</source>
-        <translation type="obsolete">空白の名前は入力できません。</translation>
+        <source>You can't set a blank nickname.</source>
+        <translation>空白の名前は入力できません。</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1795"/>
@@ -3361,7 +3379,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Modify Account...</source>
-        <translation type="obsolete">アカウントの変更…</translation>
+        <translation>アカウントの変更…</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="992"/>
@@ -3423,7 +3441,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Link Test</source>
-        <translation type="obsolete">リンクテスト</translation>
+        <translation>リンクテスト</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1605"/>
@@ -3442,11 +3460,11 @@ Proceed?</source>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation type="obsolete">新規メッセージ(&amp;B)</translation>
+        <translation>新規メッセージ(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation type="obsolete">名簿に追加(&amp;A)</translation>
+        <translation>名簿に追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="986"/>
@@ -3466,7 +3484,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="930"/>
         <source>Send Server Message</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="954"/>
@@ -3623,7 +3641,7 @@ Proceed?</source>
     <name>ContactView</name>
     <message>
         <source>Send &amp;message</source>
-        <translation type="obsolete">メッセージ(&amp;M)</translation>
+        <translation>メッセージ(&amp;M)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="2037"/>
@@ -3632,12 +3650,12 @@ Proceed?</source>
     </message>
     <message>
         <source>Open &amp;chat window</source>
-        <translation type="obsolete">チャットボックスを開く(&amp;C)</translation>
+        <translation>チャットボックスを開く(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="2049"/>
         <source>&amp;History</source>
-        <translation>メッセージの履歴(&amp;H)</translation>
+        <translation>メッセージ履歴(&amp;H)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="2051"/>
@@ -3646,7 +3664,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Receive incoming event</source>
-        <translation type="obsolete">イベントを受信(&amp;R)</translation>
+        <translation>イベントを受信(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="2055"/>
@@ -3655,23 +3673,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="obsolete">承認</translation>
+        <translation>承認</translation>
     </message>
     <message>
         <source>Resource(s)</source>
-        <translation type="obsolete">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <source>Last Status</source>
-        <translation type="obsolete">ステータス状況</translation>
+        <translation>ステータス状況</translation>
     </message>
     <message>
         <source>Listening to</source>
-        <translation type="obsolete">鑑賞中</translation>
+        <translation>鑑賞中</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="../../psi/src/contactview.cpp" line="1067"/>
@@ -3739,7 +3757,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>ここにツールバーを配置</translation>
     </message>
     <message>
@@ -3928,7 +3946,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Jabber Service</source>
-        <translation type="obsolete">Jabberサービス</translation>
+        <translation>Jabberサービス</translation>
     </message>
     <message>
         <location filename="../../psi/src/discodlg.cpp" line="430"/>
@@ -3943,7 +3961,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi/src/discodlg.cpp" line="531"/>
         <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPサービス</translation>
     </message>
     <message>
         <location filename="../../psi/src/discodlg.cpp" line="556"/>
@@ -3952,7 +3970,7 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../../psi/src/discodlg.cpp" line="690"/>
-        <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
+        <source>There was an error getting item's info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>&lt;b&gt;%1&lt;/b&gt;の項目の情報を取得中にエラーが発生しました。&lt;br&gt;理由: %2</translation>
     </message>
 </context>
@@ -4004,42 +4022,42 @@ Proceed?</source>
     <name>DiscoUI</name>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>JID</source>
-        <translation type="obsolete">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation type="obsolete">移動中のエラー</translation>
+        <translation>移動中のエラー</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="obsolete">キングがチェックされている為、この駒を動かすことが出来ません</translation>
+        <translation>キングがチェックされている為、この駒を動かすことが出来ません</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation type="obsolete">キャスリング</translation>
+        <translation>キャスリング</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation type="obsolete">キャスリングしますか?</translation>
+        <translation>キャスリングしますか?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="obsolete">はい</translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="obsolete">いいえ</translation>
+        <translation>いいえ</translation>
     </message>
 </context>
 <context>
@@ -4059,15 +4077,15 @@ Proceed?</source>
     <name>EventDlg</name>
     <message>
         <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
+        <translation>Jabber ID</translation>
     </message>
     <message>
         <source>&lt;&lt; Multi</source>
-        <translation type="obsolete">&lt;&lt;マルチ</translation>
+        <translation>&lt;&lt;マルチ</translation>
     </message>
     <message>
-        <source>Switch to Multi mode.  List each recipient in the &quot;To&quot; field.</source>
-        <translation type="obsolete">マルチモードに変更。宛先を全て入力して下さい。</translation>
+        <source>Switch to Multi mode.  List each recipient in the "To" field.</source>
+        <translation>マルチモードに変更。宛先を全て入力して下さい。</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="728"/>
@@ -4076,19 +4094,19 @@ Proceed?</source>
     </message>
     <message>
         <source>&lt;&lt; Single</source>
-        <translation type="obsolete">&lt;&lt;シングル</translation>
+        <translation>&lt;&lt;シングル</translation>
     </message>
     <message>
         <source>Switch to Single mode</source>
-        <translation type="obsolete">シングルモードに変更</translation>
+        <translation>シングルモードに変更</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="obsolete">時間</translation>
+        <translation>時間</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="obsolete">種類</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="750"/>
@@ -4102,23 +4120,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="obsolete">用件</translation>
+        <translation>用件</translation>
     </message>
     <message>
         <source>Attached URL</source>
-        <translation type="obsolete">URLアタッチメント</translation>
+        <translation>URLアタッチメント</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="obsolete">URL：</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <source>Go!</source>
-        <translation type="obsolete">開く</translation>
+        <translation>開く</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation type="obsolete">説明：</translation>
+        <translation>説明：</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="910"/>
@@ -4162,23 +4180,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>Multi</source>
-        <translation type="obsolete">マルチ</translation>
+        <translation>マルチ</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="obsolete">シングル</translation>
+        <translation>シングル</translation>
     </message>
     <message>
         <source>+Subj</source>
-        <translation type="obsolete">+用件</translation>
+        <translation>+用件</translation>
     </message>
     <message>
         <source>+URL</source>
-        <translation type="obsolete">+URL</translation>
+        <translation>+URL</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="923"/>
@@ -4229,7 +4247,7 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="1923"/>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
+        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled "Add/Auth" to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
         <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから購読の要求がありました。「追加・承認」ボタンを押して購読を承認して下さい。このユーザーがまだコンタクトリストに無ければ追加されます。</translation>
     </message>
     <message>
@@ -4249,7 +4267,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="771"/>
@@ -4308,8 +4326,8 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="1636"/>
-        <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
-        <translation>&apos;*&apos;でマークされているフィールドの値を埋めてください。</translation>
+        <source>Please complete all required fields (marked with a '*').</source>
+        <translation>'*'でマークされているフィールドの値を埋めてください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="1804"/>
@@ -4370,7 +4388,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../../psi/src/eventdlg.cpp" line="2004"/>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
+        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled "Add/Auth" to authorize the modification.</source>
         <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから名簿変更の要求がありました(%1)。「追加・承認」ボタンを押して変更を承認して下さい。</translation>
     </message>
 </context>
@@ -4386,7 +4404,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>FancyPopup</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
 </context>
 <context>
@@ -4401,50 +4419,50 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="obsolete">エラー: 機能クラスの使い方が間違っています</translation>
+        <translation>エラー: 機能クラスの使い方が間違っています</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">なし</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">登録</translation>
+        <translation>登録</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="obsolete">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">グループチャット</translation>
+        <translation>グループチャット</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="obsolete">ゲートウェイ</translation>
+        <translation>ゲートウェイ</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="obsolete">サービスディスカバリ</translation>
+        <translation>サービスディスカバリ</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation type="obsolete">VCard</translation>
+        <translation>VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="obsolete">コマンド実行</translation>
+        <translation>コマンド実行</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="obsolete">名簿に追加</translation>
+        <translation>名簿に追加</translation>
     </message>
 </context>
 <context>
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation type="obsolete">何の駒をセットしますか?</translation>
+        <translation>何の駒をセットしますか?</translation>
     </message>
 </context>
 <context>
@@ -4461,7 +4479,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../../psi/src/filetransdlg.cpp" line="563"/>
         <location filename="../../psi/src/filetransdlg.cpp" line="650"/>
         <source>Identity: </source>
-        <translation>識別子:</translation>
+        <translation>識別子: </translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="581"/>
@@ -4499,7 +4517,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="672"/>
         <source>Receive File</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="621"/>
@@ -4562,12 +4580,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation type="obsolete">指定されたJabber IDが間違ってます。正しく入力してください。</translation>
+        <translation>指定されたJabber IDが間違ってます。正しく入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="809"/>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>不正なXMPPアドレスです。正しく入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="815"/>
@@ -4625,7 +4643,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>データ転送の相手と接続出来ませんでした。</translation>
     </message>
@@ -4634,7 +4652,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>データ転送プロキシで有効化に失敗したか、接続に失敗したかのどちらかです。
 
@@ -4805,7 +4823,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1651"/>
         <source>Transfer Manager</source>
-        <translation>転送マネージャ</translation>
+        <translation>ファイル転送</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1667"/>
@@ -4839,11 +4857,11 @@ Reason: %3</source>
     <name>FileTransUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="obsolete">宛先</translation>
+        <translation>宛先</translation>
     </message>
 </context>
 <context>
@@ -4856,7 +4874,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1408"/>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルのあるフォルダを開く(&amp;O)</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="1409"/>
@@ -4868,12 +4886,12 @@ Reason: %3</source>
     <name>FileTransferHandler</name>
     <message>
         <source>Quering proxy...</source>
-        <translation type="obsolete">プロキシに問い合わせ中...</translation>
+        <translation>プロキシに問い合わせ中...</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="284"/>
         <source>Querying proxy...</source>
-        <translation type="unfinished"></translation>
+        <translation>プロキシーに問い合わせ中...</translation>
     </message>
     <message>
         <location filename="../../psi/src/filetransdlg.cpp" line="290"/>
@@ -4946,16 +4964,16 @@ Reason: %3</source>
     <message>
         <location filename="../../psi/src/fileutil.cpp" line="108"/>
         <source>Choose a file</source>
-        <translation>ファイルの選択</translation>
+        <translation>ファイルを選択</translation>
     </message>
     <message>
         <location filename="../../psi/src/fileutil.cpp" line="109"/>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</source>
-        <translation type="obsolete">画像ファイル (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
+        <translation>画像ファイル (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
     </message>
 </context>
 <context>
@@ -4977,8 +4995,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1866"/>
         <source>Find:</source>
-        <translation>探索:
-</translation>
+        <translation>探索:</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1881"/>
@@ -4992,42 +5009,42 @@ Reason: %3</source>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1907"/>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation>&apos;%1&apos;　は見つかりませんでした。</translation>
+        <source>Search string '%1' not found.</source>
+        <translation>'%1'　は見つかりませんでした。</translation>
     </message>
 </context>
 <context>
     <name>GCJoinDlg</name>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
 </context>
 <context>
     <name>GCJoinUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="obsolete">ホスト:</translation>
+        <translation>ホスト:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -5096,11 +5113,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="684"/>
@@ -5145,7 +5162,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="852"/>
         <source> by %1</source>
-        <translation>%1 によって</translation>
+        <translation> %1 によって</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="856"/>
@@ -5157,7 +5174,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="923"/>
         <source>Error: Cannot parse command: </source>
-        <translation>エラー: コマンドをパース出来ません:</translation>
+        <translation>エラー: コマンドをパース出来ません: </translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1169"/>
@@ -5224,8 +5241,8 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1319"/>
-        <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation>代替の会場 &apos;%1&apos; に参加しますか?</translation>
+        <source>Do you want to join the alternate venue '%1'?</source>
+        <translation>代替の会場 '%1' に参加しますか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="1320"/>
@@ -5363,15 +5380,15 @@ Reason: %1</source>
     <name>GCUserView</name>
     <message>
         <source>Send &amp;message</source>
-        <translation type="obsolete">メッセージ(&amp;M)</translation>
+        <translation>メッセージ(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;chat window</source>
-        <translation type="obsolete">チャットボックスを開く(&amp;C)</translation>
+        <translation>チャットボックスを開く(&amp;C)</translation>
     </message>
     <message>
         <source>Check &amp;Status</source>
-        <translation type="obsolete">ステータスの確認(&amp;S)</translation>
+        <translation>ステータスの確認(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi/src/gcuserview.cpp" line="520"/>
@@ -5450,145 +5467,145 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation type="obsolete">白</translation>
+        <translation>白</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="obsolete">黒</translation>
+        <translation>黒</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation type="obsolete">ゲーム - </translation>
+        <translation>ゲーム -</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation type="obsolete">ゲームチャット</translation>
+        <translation>ゲームチャット</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="obsolete">履歴</translation>
+        <translation>履歴</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation type="obsolete">ホストを検索中</translation>
+        <translation>ホストを検索中</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation type="obsolete">新しい接続を受け付けました</translation>
+        <translation>新しい接続を受け付けました</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation type="obsolete">ホストが見つかりませんでした</translation>
+        <translation>ホストが見つかりませんでした</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation type="obsolete">ホストに接続しました</translation>
+        <translation>ホストに接続しました</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation type="obsolete">ソケットエラ...</translation>
+        <translation>ソケットエラ...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation type="obsolete">ソケットエラー番号があります</translation>
+        <translation>ソケットエラー番号があります</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation type="obsolete">ゲーム -</translation>
+        <translation>ゲーム -</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation type="obsolete">受け付けました - </translation>
+        <translation>受け付けました -</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation type="obsolete">あなたの移動...</translation>
+        <translation>あなたの移動...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation type="obsolete">移動を待ってます...</translation>
+        <translation>移動を待ってます...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation type="obsolete">ゲーム終了</translation>
+        <translation>ゲーム終了</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="obsolete">ゲームを終了しますか? あなたは負けになります</translation>
+        <translation>ゲームを終了しますか? あなたは負けになります</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation type="obsolete">はい、終了します</translation>
+        <translation>はい、終了します</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation type="obsolete">いいえ、続けます</translation>
+        <translation>いいえ、続けます</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="obsolete">B</translation>
+        <translation>B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation type="obsolete">K</translation>
+        <translation>K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="obsolete">C</translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation type="obsolete">Q</translation>
+        <translation>Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="obsolete">エラー!</translation>
+        <translation>エラー!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation type="obsolete">検索エラー</translation>
+        <translation>検索エラー</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation type="obsolete">ホスト</translation>
+        <translation>ホスト</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation type="obsolete">見つかりません。</translation>
+        <translation>見つかりません。</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="obsolete">画像を保存</translation>
+        <translation>画像を保存</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation type="obsolete">画像を保存しますか?</translation>
+        <translation>画像を保存しますか?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation type="obsolete">はい、保存します</translation>
+        <translation>はい、保存します</translation>
     </message>
     <message>
-        <source>No, don&apos;t save</source>
-        <translation type="obsolete">いいえ、保存しません</translation>
+        <source>No, don't save</source>
+        <translation>いいえ、保存しません</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation type="obsolete">ゲームオーバー</translation>
+        <translation>ゲームオーバー</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation type="obsolete">あなたのゲームスコア</translation>
+        <translation>あなたのゲームスコア</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation type="obsolete">チェックメイトされました。このゲームはあなたの負けです。</translation>
+        <translation>チェックメイトされました。このゲームはあなたの負けです。</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation type="obsolete">ステイルメイトになりました</translation>
+        <translation>ステイルメイトになりました</translation>
     </message>
 </context>
 <context>
@@ -5626,8 +5643,8 @@ You lost the game.</source>
     <message>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="65"/>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="68"/>
-        <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>ハイライトリストに追加するために、ここに新しい単語を入力し &quot;単語を追加&quot; を押してください</translation>
+        <source>Type a new word here and press "Add Word" for it to be added to the highlight list</source>
+        <translation>ハイライトリストに追加するために、ここに新しい単語を入力し "単語を追加" を押してください</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="99"/>
@@ -5677,11 +5694,11 @@ You lost the game.</source>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="193"/>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="196"/>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"></translation>
+        <translation>カラーコードを入力するか、右のパレットから選択してください</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">ここで色コードを入力するか右のパレットから選択してください</translation>
+        <translation>ここで色コードを入力するか右のパレットから選択してください</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_general_groupchat.ui" line="244"/>
@@ -5704,11 +5721,11 @@ You lost the game.</source>
     <name>GeneralGroupchatUI</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">追加</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">消去</translation>
+        <translation>消去</translation>
     </message>
 </context>
 <context>
@@ -5736,34 +5753,34 @@ You lost the game.</source>
     <name>GrepShortcutKeyDlg</name>
     <message>
         <source>Set Keys</source>
-        <translation type="obsolete">キーの設定</translation>
+        <translation>キーの設定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">グループチャット</translation>
+        <translation>グループチャット</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
-        <translation type="obsolete">グループチャットサーバー:</translation>
+        <translation>グループチャットサーバー:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="obsolete">ブラウズ(&amp;B)</translation>
+        <translation>ブラウズ(&amp;B)</translation>
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
-        <translation type="obsolete">グループチャット名を手動で指定:</translation>
+        <translation>グループチャット名を手動で指定:</translation>
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation type="obsolete">グループチャットで表示する名前:</translation>
+        <translation>グループチャットで表示する名前:</translation>
     </message>
 </context>
 <context>
@@ -5795,27 +5812,27 @@ You lost the game.</source>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="68"/>
         <source>&amp;None</source>
-        <translation type="unfinished">なし(&amp;N)</translation>
+        <translation>なし(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="87"/>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>不可視(&amp;H)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="90"/>
         <source>&amp;Create New...</source>
-        <translation type="unfinished">新規作成(&amp;C)...</translation>
+        <translation>新規作成(&amp;C)...</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="128"/>
         <source>Create New Group</source>
-        <translation type="unfinished">新規グループ</translation>
+        <translation>新規グループ</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="129"/>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">新規グループ名を入力:</translation>
+        <translation>新規グループ名を入力:</translation>
     </message>
 </context>
 <context>
@@ -5823,70 +5840,70 @@ You lost the game.</source>
     <message>
         <location filename="../../psi/src/history.ui" line="159"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">更新(&amp;R)</translation>
+        <translation>更新(&amp;R)</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="obsolete">検索する文字列：</translation>
+        <translation>検索する文字列：</translation>
     </message>
     <message>
         <source>&amp;Go</source>
-        <translation type="obsolete">検索(&amp;G)</translation>
+        <translation>検索(&amp;G)</translation>
     </message>
     <message>
         <source>Show Last 50</source>
-        <translation type="obsolete">５０件</translation>
+        <translation>５０件</translation>
     </message>
     <message>
         <source>Show Last 100</source>
-        <translation type="obsolete">１００件</translation>
+        <translation>１００件</translation>
     </message>
     <message>
         <source>Show Last 500</source>
-        <translation type="obsolete">５００件</translation>
+        <translation>５００件</translation>
     </message>
     <message>
         <source>Show all</source>
-        <translation type="obsolete">全て表示</translation>
+        <translation>全て表示</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="obsolete">種類</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation type="obsolete">送受信</translation>
+        <translation>送受信</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="obsolete">日付</translation>
+        <translation>日付</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">内容</translation>
+        <translation>内容</translation>
     </message>
     <message>
         <source>&amp;Latest</source>
-        <translation type="obsolete">最新(&amp;L)</translation>
+        <translation>最新(&amp;L)</translation>
     </message>
     <message>
         <location filename="../../psi/src/history.ui" line="29"/>
         <source>HistoryDlg</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/history.ui" line="156"/>
         <source>Refresh history</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴を更新</translation>
     </message>
     <message>
         <location filename="../../psi/src/history.ui" line="177"/>
         <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
+        <translation>最古(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi/src/history.ui" line="187"/>
@@ -5901,27 +5918,27 @@ You lost the game.</source>
     <message>
         <location filename="../../psi/src/history.ui" line="229"/>
         <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
+        <translation>最新(&amp;L)</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="obsolete">検索文字 &apos;%1&apos; は見つかりませんでした。</translation>
+        <source>Search string '%1' not found.</source>
+        <translation>検索文字 '%1' は見つかりませんでした。</translation>
     </message>
     <message>
         <source>Already at beginning of message history.</source>
-        <translation type="obsolete">既にメッセージ履歴の保存は始まっています。</translation>
+        <translation>既にメッセージ履歴の保存は始まっています。</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="obsolete">エクスポート(&amp;E)...</translation>
+        <translation>エクスポート(&amp;E)...</translation>
     </message>
     <message>
         <source>Er&amp;ase All</source>
-        <translation type="obsolete">全削除(&amp;a)</translation>
+        <translation>全削除(&amp;a)</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="318"/>
@@ -5935,31 +5952,31 @@ You lost the game.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Confirm erase all</source>
-        <translation type="obsolete">全消去の確認</translation>
+        <translation>全消去の確認</translation>
     </message>
     <message>
         <source>This will erase all message history for this contact!
 Are you sure you want to do this?</source>
-        <translation type="obsolete">これはこのコンタクトの全てのメッセージ履歴を消去します!
+        <translation>これはこのコンタクトの全てのメッセージ履歴を消去します!
 本当によろしいですか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="291"/>
         <source>Remove history</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴の削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="292"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>本当に「%1」の履歴を削除してもよろしいですか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="324"/>
@@ -5974,56 +5991,56 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="398"/>
         <source>&amp;Open chat</source>
-        <translation type="unfinished"></translation>
+        <translation>チャットを開く(&amp;O)</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="399"/>
         <source>&amp;Export history</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴のエクスポート(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi/src/historydlg.cpp" line="400"/>
         <source>&amp;Delete history</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴の削除(&amp;D)</translation>
     </message>
     <message>
         <source>Unable to delete history file.</source>
-        <translation type="obsolete">履歴ファイルを削除出来ません。</translation>
+        <translation>履歴ファイルを削除出来ません。</translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Open</source>
-        <translation type="obsolete">開く</translation>
+        <translation>開く</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">コピー</translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="obsolete">種類</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation type="obsolete">原文</translation>
+        <translation>原文</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="obsolete">日付</translation>
+        <translation>日付</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">内容</translation>
+        <translation>内容</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="obsolete">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="obsolete">受信</translation>
+        <translation>受信</translation>
     </message>
 </context>
 <context>
@@ -6031,69 +6048,85 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="14"/>
         <source>Import Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>インポートウィザード</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="24"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600;"&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-weight:600;"&gt;データとインポート設定&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="42"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=" font-size:medium; font-weight:600; color:#1a1a1a;"&gt;(Recommended)&lt;/span&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;既存のプロファイルを新しいPsiのディレクトリにコピーします。古いプロファイルは削除されません。あとで手動で削除してください。&lt;br/&gt;&lt;/span&gt;&lt;span style=" font-size:medium; font-weight:600; color:#1a1a1a;"&gt;(Recommended)&lt;/span&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="49"/>
         <source>Import Psi profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiプロファイルをインポート</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="59"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;既存のプロファイルを新しいディレクトリに移動します。古いプロファイルは移行が完了したら自動的に削除されます。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="66"/>
         <source>Import Psi profile and remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiプロファイルをインポートし、古いぷとファイルを削除する</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="73"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=" font-size:medium; font-weight:600; color:#1a1a1a;"&gt;(Not recommended)&lt;/span&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;Psiプロファイルを作成します。古いプロファイルは削除されませんがこれを選択することはできません。&lt;br/&gt;&lt;/span&gt;&lt;span style=" font-size:medium; font-weight:600; color:#1a1a1a;"&gt;(Not recommended)&lt;/span&gt;&lt;span style=" font-size:medium; color:#1a1a1a;"&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/homedirmigration.ui" line="80"/>
         <source>Create new profile</source>
-        <translation type="unfinished"></translation>
+        <translation>新規プロファイルを作成</translation>
     </message>
 </context>
 <context>
     <name>HostPortEdit</name>
     <message>
         <source>Host:</source>
-        <translation type="obsolete">ホスト:</translation>
+        <translation>ホスト:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="obsolete">ポート:</translation>
+        <translation>ポート:</translation>
     </message>
 </context>
 <context>
@@ -6235,12 +6268,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Done</source>
-        <translation type="obsolete">完了(&amp;D)</translation>
+        <translation>完了(&amp;D)</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/ui_isdetails.ui" line="42"/>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <source>&lt;a href="http://psi-im.org"&gt;psi-im.org&lt;/a&gt;</source>
+        <translation>&lt;a href="http://psi-im.org"&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/ui_isdetails.ui" line="130"/>
@@ -6255,8 +6288,8 @@ p, li { white-space: pre-wrap; }
     <name>IconsetDisplayItem</name>
     <message>
         <location filename="../../psi/src/widgets/iconwidget.cpp" line="448"/>
-        <source>Name: &apos;%1&apos;</source>
-        <translation>名前: &apos;%1&apos;</translation>
+        <source>Name: '%1'</source>
+        <translation>名前: '%1'</translation>
     </message>
 </context>
 <context>
@@ -6382,19 +6415,19 @@ p, li { white-space: pre-wrap; }
     <name>IconsetRosterUI</name>
     <message>
         <source>Default</source>
-        <translation type="obsolete">デフォルト</translation>
+        <translation>デフォルト</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="obsolete">削除(&amp;D)</translation>
+        <translation>削除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -6617,18 +6650,18 @@ p, li { white-space: pre-wrap; }
         <location filename="../../psi/src/infodlg.cpp" line="161"/>
         <location filename="../../psi/src/infodlg.cpp" line="162"/>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>WEBブラウザで開く</translation>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="192"/>
         <source>No date</source>
-        <translation type="unfinished"></translation>
+        <translation>日付なし</translation>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="198"/>
         <location filename="../../psi/src/infodlg.cpp" line="199"/>
         <source>Edit birthday</source>
-        <translation type="unfinished"></translation>
+        <translation>誕生日を編集</translation>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="273"/>
@@ -6649,7 +6682,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="273"/>
-        <source>Don&apos;t close</source>
+        <source>Don't close</source>
         <translation>削除しない</translation>
     </message>
     <message>
@@ -6661,12 +6694,12 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="325"/>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <source>Unable to retrieve your account information.  Perhaps you haven't entered any yet.</source>
         <translation>アカウント情報を検出できませんでした。未入力の可能性があります。</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.</source>
-        <translation type="obsolete">アカウント情報を検出できませんでした。</translation>
+        <translation>アカウント情報を検出できませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="320"/>
@@ -6680,7 +6713,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to publish your account information.</source>
-        <translation type="obsolete">アカウント情報が更新できませんでした。</translation>
+        <translation>アカウント情報が更新できませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/src/infodlg.cpp" line="327"/>
@@ -6712,233 +6745,233 @@ available</source>
     <name>InfoUI</name>
     <message>
         <source>InfoDialog1</source>
-        <translation type="obsolete">情報ダイアログ1</translation>
+        <translation>情報ダイアログ1</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="obsolete">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <source>Birthday</source>
-        <translation type="obsolete">生年月日</translation>
+        <translation>生年月日</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="obsolete">ホームページ</translation>
+        <translation>ホームページ</translation>
     </message>
     <message>
         <source>Full Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Phone #</source>
-        <translation type="obsolete">電話番号</translation>
+        <translation>電話番号</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="obsolete">メールアドレス</translation>
+        <translation>メールアドレス</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="obsolete">別名</translation>
+        <translation>別名</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="obsolete">所在地</translation>
+        <translation>所在地</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="obsolete">国</translation>
+        <translation>国</translation>
     </message>
     <message>
         <source>Postal Code</source>
-        <translation type="obsolete">郵便番号</translation>
+        <translation>郵便番号</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="obsolete">県・州</translation>
+        <translation>県・州</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="obsolete">市</translation>
+        <translation>市</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="obsolete">住所</translation>
+        <translation>住所</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="obsolete">仕事</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="obsolete">会社・団体名</translation>
+        <translation>会社・団体名</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="obsolete">位</translation>
+        <translation>位</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="obsolete">部</translation>
+        <translation>部</translation>
     </message>
     <message>
         <source>Role</source>
-        <translation type="obsolete">役</translation>
+        <translation>役</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">その他</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="obsolete">登録(&amp;P)</translation>
+        <translation>登録(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="obsolete">情報検出(&amp;R)</translation>
+        <translation>情報検出(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>JLTestDlg</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
 </context>
 <context>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="obsolete">VCardは無効です</translation>
+        <translation>VCardは無効です</translation>
     </message>
 </context>
 <context>
     <name>JabClient</name>
     <message>
         <source>Connecting...</source>
-        <translation type="obsolete">接続中...</translation>
+        <translation>接続中...</translation>
     </message>
     <message>
         <source>Registering...</source>
-        <translation type="obsolete">登録中...</translation>
+        <translation>登録中...</translation>
     </message>
     <message>
         <source>Requesting roster...</source>
-        <translation type="obsolete">名簿を受信中...</translation>
+        <translation>名簿を受信中...</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="obsolete">承認中...</translation>
+        <translation>承認中...</translation>
     </message>
     <message>
         <source>Updating Roster...</source>
-        <translation type="obsolete">名簿の更新中...</translation>
+        <translation>名簿の更新中...</translation>
     </message>
     <message>
         <source>Connected.</source>
-        <translation type="obsolete">接続中</translation>
+        <translation>接続完了。</translation>
     </message>
     <message>
         <source>Requests pending.</source>
-        <translation type="obsolete">待機中</translation>
+        <translation>待機中。</translation>
     </message>
     <message>
         <source>Not connected.</source>
-        <translation type="obsolete">未接続</translation>
+        <translation>未接続。</translation>
     </message>
 </context>
 <context>
     <name>JabSession</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation type="obsolete">ログインに失敗しました。アカウント情報が正しく入力されているか確認してください。</translation>
+        <translation>ログインに失敗しました。アカウント情報が正しく入力されているか確認してください。</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation type="obsolete">パスワードが必要です</translation>
+        <translation>パスワードが必要です</translation>
     </message>
     <message>
         <source>Please enter the password for &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt;のパスワードを入力して下さい。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;のパスワードを入力して下さい</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
-        <translation type="obsolete">Auto Status (idle)</translation>
+        <translation>Auto Status (idle)</translation>
     </message>
 </context>
 <context>
     <name>Jabber</name>
     <message>
         <source>Unable to resolve hostname</source>
-        <translation type="obsolete">ホストを検出できませんでした。</translation>
+        <translation>ホストを検出できませんでした</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="obsolete">接続を拒否されました。</translation>
+        <translation>接続を切断されました</translation>
     </message>
     <message>
         <source>Connection timeout</source>
-        <translation type="obsolete">接続がタイムアウトしました。</translation>
+        <translation>接続がタイムアウトしました</translation>
     </message>
     <message>
         <source>Unable to establish stream handshake</source>
-        <translation type="obsolete">ストリーム握手を確立できませんでした。</translation>
+        <translation>ストリーム握手を確立できませんでした</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="obsolete">接続中...</translation>
+        <translation>接続中...</translation>
     </message>
     <message>
         <source>Registering...</source>
-        <translation type="obsolete">登録中...</translation>
+        <translation>登録中...</translation>
     </message>
     <message>
         <source>Requesting roster...</source>
-        <translation type="obsolete">名簿を受信中...</translation>
+        <translation>名簿を受信中...</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="obsolete">承認中...</translation>
+        <translation>承認中...</translation>
     </message>
     <message>
         <source>Updating Roster...</source>
-        <translation type="obsolete">名簿の更新中...</translation>
+        <translation>名簿の更新中...</translation>
     </message>
     <message>
         <source>Awaiting response...</source>
-        <translation type="obsolete">応答待機中...</translation>
+        <translation>応答待機中...</translation>
     </message>
     <message>
         <source>Connected.</source>
-        <translation type="obsolete">接続中</translation>
+        <translation>接続完了。</translation>
     </message>
     <message>
         <source>Requests pending.</source>
-        <translation type="obsolete">待機中</translation>
+        <translation>待機中。</translation>
     </message>
     <message>
         <source>Not connected.</source>
-        <translation type="obsolete">未接続</translation>
+        <translation>未接続。</translation>
     </message>
 </context>
 <context>
     <name>LogWindow</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -7004,17 +7037,17 @@ available</source>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="217"/>
         <source>psi/arrowUp</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="245"/>
         <source>psi/arrowDown</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="263"/>
         <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="286"/>
@@ -7024,7 +7057,7 @@ available</source>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="307"/>
         <source>psi/arrowLeft</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_lookfeel_toolbars.ui" line="335"/>
@@ -7036,19 +7069,19 @@ available</source>
     <name>LookFeelToolbarsUI</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="obsolete">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="obsolete">削除(&amp;D)</translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation>名称</translation>
     </message>
 </context>
 <context>
@@ -7114,7 +7147,7 @@ available</source>
     <message>
         <location filename="../../psi/src/mucconfig.ui" line="206"/>
         <source>Destroy Room</source>
-        <translation>解散したルーム</translation>
+        <translation>チャットルームを解散する</translation>
     </message>
     <message>
         <location filename="../../psi/src/mucconfig.ui" line="256"/>
@@ -7362,7 +7395,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/mucmanager.cpp" line="574"/>
         <source>Failed to perform operation: </source>
-        <translation>操作の実行に失敗しました:</translation>
+        <translation>操作の実行に失敗しました: </translation>
     </message>
 </context>
 <context>
@@ -7402,87 +7435,87 @@ Reason: %1</source>
     <name>MainWin</name>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="obsolete">オフライン名簿を表示</translation>
+        <translation>オフライン名簿を表示</translation>
     </message>
     <message>
         <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">不在名簿を表示</translation>
+        <translation>不在名簿を表示</translation>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation type="obsolete">エージェント・トランスポートを表示</translation>
+        <translation>エージェント・トランスポートを表示</translation>
     </message>
     <message>
         <source>Connection is encrypted</source>
-        <translation type="obsolete">接続は暗号化されています</translation>
+        <translation>接続は暗号化されています</translation>
     </message>
     <message>
         <source>Connection is not encrypted</source>
-        <translation type="obsolete">接続は暗号化されていません</translation>
+        <translation>接続は暗号化されていません</translation>
     </message>
     <message>
         <source>&amp;ReadMe</source>
-        <translation type="obsolete">リードミー(&amp;R)</translation>
+        <translation>リードミー(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Hints</source>
-        <translation type="obsolete">ヒント(&amp;H)</translation>
+        <translation>ヒント(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;License</source>
-        <translation type="obsolete">ライセンス(&amp;L)</translation>
+        <translation>ライセンス(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Warning</source>
-        <translation type="obsolete">警告(&amp;W)</translation>
+        <translation>警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="obsolete">バージョン情報(&amp;A)</translation>
+        <translation>バージョン情報(&amp;A)</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="obsolete">QT情報(&amp;Q)</translation>
+        <translation>QT情報(&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation type="obsolete">名簿に追加(&amp;A)</translation>
+        <translation>名簿に追加(&amp;A)</translation>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation type="obsolete">新規メッセージ(&amp;B)</translation>
+        <translation>新規メッセージ(&amp;B)</translation>
     </message>
     <message>
         <source>Manage &amp;services</source>
-        <translation type="obsolete">エージェント管理(&amp;S)</translation>
+        <translation>エージェント管理(&amp;S)</translation>
     </message>
     <message>
         <source>File sharing</source>
-        <translation type="obsolete">ファイル共有</translation>
+        <translation>ファイル共有</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="obsolete">アカウント設定</translation>
+        <translation>アカウント設定</translation>
     </message>
     <message>
         <source>Personal &amp;info</source>
-        <translation type="obsolete">あなたの情報(&amp;I)</translation>
+        <translation>あなたの情報(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="obsolete">オプション(&amp;O)</translation>
+        <translation>オプション(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Log window</source>
-        <translation type="obsolete">デバッグ履歴(&amp;L)</translation>
+        <translation>デバッグ履歴(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Change profile</source>
-        <translation type="obsolete">プロフィール変更(&amp;C)</translation>
+        <translation>プロフィール変更(&amp;C)</translation>
     </message>
     <message>
         <source>Play &amp;sounds</source>
-        <translation type="obsolete">サウンド効果(&amp;S)</translation>
+        <translation>サウンド効果(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="756"/>
@@ -7491,7 +7524,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="obsolete">終了(&amp;Q)</translation>
+        <translation>終了(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="993"/>
@@ -7510,47 +7543,47 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="obsolete">ステータス変更(&amp;S)</translation>
+        <translation>ステータス変更(&amp;S)</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>You are currently logged in.  Are you sure you want to close Psi?</source>
-        <translation type="obsolete">まだ接続中です。Psiを終了してもよろしいですか？</translation>
+        <translation>まだ接続中です。Psiを終了してもよろしいですか？</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Resource: %1</source>
-        <translation type="obsolete">リソース：%1</translation>
+        <translation>リソース：%1</translation>
     </message>
     <message>
         <source>Other(s): %1</source>
-        <translation type="obsolete">他のリソース：%1</translation>
+        <translation>他のリソース：%1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>%1 event(s) received</source>
-        <translation type="obsolete">%1個のメッセージを受信しました。</translation>
+        <translation>%1個のメッセージを受信しました</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">その他</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="obsolete">ライセンス</translation>
+        <translation>ライセンス</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="841"/>
@@ -7565,7 +7598,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="1300"/>
         <source>1 event received</source>
-        <translation>1個のメッセージを受信しました</translation>
+        <translation>1通のメッセージを受信しました</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="1303"/>
@@ -7574,27 +7607,27 @@ Reason: %1</source>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="obsolete">QT情報</translation>
+        <translation>QT情報</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">不在</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">侵害厳禁</translation>
+        <translation>侵害厳禁</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="377"/>
@@ -7603,7 +7636,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="obsolete">パーソナルオプション</translation>
+        <translation>パーソナルオプション</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="343"/>
@@ -7639,8 +7672,8 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="905"/>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>このアプリケーションはオープンソースでクロスプラットフォームな包括的マルチメディアフレームワーク GStreamer %1を使用しています。詳細な情報はこちらを参照してください &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href="http://www.gstreamer.net/"&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
+        <translation>このアプリケーションはオープンソースでクロスプラットフォームな包括的マルチメディアフレームワーク GStreamer %1を使用しています。詳細な情報はこちらを参照してください &lt;a href="http://www.gstreamer.net/"&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/mainwin.cpp" line="917"/>
@@ -7662,42 +7695,42 @@ Reason: %1</source>
     <name>MainWin::Private</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="obsolete">診断</translation>
+        <translation>診断</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation type="obsolete">新規</translation>
+        <translation>新規</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="obsolete">画像を保存</translation>
+        <translation>画像を保存</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="obsolete">終了</translation>
+        <translation>終了</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation type="obsolete">ゲームについて</translation>
+        <translation>ゲームについて</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="obsolete">ゲーム</translation>
+        <translation>ゲーム</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">ヘルプ</translation>
+        <translation>ヘルプ</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="obsolete">準備</translation>
+        <translation>準備</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="obsolete">アバウト</translation>
+        <translation>アバウト</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7706,7 +7739,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="obsolete">2人でプレイするネットワークチェスゲームです。
+        <translation>2人でプレイするネットワークチェスゲームです。
 サーバーとクライアントは同じプログラムです。
 GPLなのであなたはソースコードを変更し、再配布することが出来ます。
 
@@ -7724,11 +7757,12 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <location filename="../../psi/src/miniclient.cpp" line="252"/>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPサーバーとの通信中にエラーが発生しました。
+詳細: %1</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/miniclient.cpp" line="234"/>
@@ -7739,7 +7773,7 @@ Details: %1</source>
     <message>
         <source>There was an error communicating with the Jabber server.
 Details: %1</source>
-        <translation type="obsolete">Jabberサーバーとの通信中にエラーが発生しました。
+        <translation>Jabberサーバーとの通信中にエラーが発生しました。
 詳細: %1</translation>
     </message>
     <message>
@@ -7789,64 +7823,64 @@ Details: %1</source>
     <name>MsgMle</name>
     <message>
         <source>Open mail composer</source>
-        <translation type="obsolete">メール作成プログラムを起動</translation>
+        <translation>メール作成プログラムを起動</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="obsolete">ウェブブラウザを起動</translation>
+        <translation>ウェブブラウザを起動</translation>
     </message>
     <message>
         <source>Copy location</source>
-        <translation type="obsolete">ショートカットのコピー</translation>
+        <translation>ショートカットのコピー</translation>
     </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
-        <translation type="obsolete">フラット</translation>
+        <translation>フラット</translation>
     </message>
 </context>
 <context>
     <name>OfferMainDlg</name>
     <message>
         <source>File Sharing</source>
-        <translation type="obsolete">ファイル共有</translation>
+        <translation>ファイル共有</translation>
     </message>
 </context>
 <context>
     <name>OfferMainUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="obsolete">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">サイズ</translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <source>Who</source>
-        <translation type="obsolete">誰</translation>
+        <translation>誰</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
-        <translation type="obsolete">ファイルの追加(&amp;A)</translation>
+        <translation>ファイルの追加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;De-offer</source>
-        <translation type="obsolete">ファイルリストから削除(&amp;D)</translation>
+        <translation>ファイルリストから削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -7858,13 +7892,13 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="25"/>
-        <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation>&quot;コンタクトが入力中...&quot;のイベントを有効にする</translation>
+        <source>Enable "Contact is typing ..." events</source>
+        <translation>"コンタクトが入力中..."のイベントを有効にする</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="32"/>
-        <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
-        <translation>&quot;不活性&quot;なイベントを有効にする(会話の終了・中止)</translation>
+        <source>Enable "Inactivity" events (end/suspend conversation)</source>
+        <translation>"不活性"なイベントを有効にする(会話の終了・中止)</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="39"/>
@@ -7878,7 +7912,7 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="53"/>
-        <source>Use contacts&apos; message formatting</source>
+        <source>Use contacts' message formatting</source>
         <translation>コンタクトのメッセージ整形を使用</translation>
     </message>
     <message>
@@ -7898,12 +7932,12 @@ Details: %1</source>
     </message>
     <message>
         <source>Jabber ID completion</source>
-        <translation type="obsolete">完全なJabber ID</translation>
+        <translation>完全なJabber ID</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="81"/>
         <source>XMPP address completion</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアドレス補完</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="88"/>
@@ -7932,8 +7966,8 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="123"/>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;見だし&quot;イベントを無視(例えばMSNの警告など)</translation>
+        <source>Ignore "Headline" events (e.g. MSN alerts)</source>
+        <translation>"見だし"イベントを無視(例えばMSNの警告など)</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.ui" line="138"/>
@@ -7965,31 +7999,31 @@ Details: %1</source>
     <name>OptAdvancedUI</name>
     <message>
         <source>Single-click triggers default action</source>
-        <translation type="obsolete">シングルクリックでデフォルト行為</translation>
+        <translation>シングルクリックでデフォルト行為</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">名簿中ユーザーのログオン時に名簿をアニメーションする</translation>
+        <translation>名簿中ユーザーのログオン時に名簿をアニメーションする</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">イベント受信時に名簿をスクロール</translation>
+        <translation>イベント受信時に名簿をスクロール</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">&quot;見だし&quot;イベントの無視（MSNの警告など）</translation>
+        <source>Ignore "Headline" events (e.g. MSN alerts)</source>
+        <translation>"見だし"イベントの無視（MSNの警告など）</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">イベント受信時にウィンドウを表示:</translation>
+        <translation>イベント受信時にウィンドウを表示:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="obsolete">全てメッセージ</translation>
+        <translation>全てメッセージ</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="obsolete">全てチャット</translation>
+        <translation>全てチャット</translation>
     </message>
 </context>
 <context>
@@ -8007,37 +8041,37 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="73"/>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="unfinished">メインウィンドウでのアカウント名の背景色を指定します。</translation>
+        <translation>メインウィンドウ内でのアカウント名の背景色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="109"/>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="unfinished">メインウィンドウでのグループ名の背景色を指定します。</translation>
+        <translation>メインウィンドウ内でのグループ名の背景色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="119"/>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="unfinished">ニックネームのアニメーション色を指定します。</translation>
+        <translation>ニックネームのアニメーション色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="186"/>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="unfinished">ニックネームのアニメーション背景色を指定します。</translation>
+        <translation>ニックネームのアニメーション背景色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="215"/>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished">チャットと履歴ウィンドウの送信メッセージの色を指定します。</translation>
+        <translation>チャットと履歴ウィンドウの送信メッセージの色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="244"/>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished">チャットと履歴ウィンドウの受信メッセージの色を指定します。</translation>
+        <translation>チャットと履歴ウィンドウの受信メッセージの色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="273"/>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished">チャットウィンドウ内の告知メッセージ(ステータス変更やオフラインメッセージ)の色を指定します。</translation>
+        <translation>チャットウィンドウ内の告知メッセージ(ステータス変更やオフラインメッセージ)の色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="302"/>
@@ -8062,7 +8096,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="406"/>
         <source>Specifies the background color for the main window.</source>
-        <translation type="unfinished">メインウィンドウの背景色を指定します。</translation>
+        <translation>メインウィンドウの背景色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="409"/>
@@ -8145,7 +8179,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="528"/>
         <source>Roster:</source>
-        <translation>名簿:</translation>
+        <translation>コンタクトリスト:</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.ui" line="535"/>
@@ -8201,51 +8235,51 @@ Details: %1</source>
     <name>OptAppearanceUI</name>
     <message>
         <source>Colors</source>
-        <translation type="obsolete">色</translation>
+        <translation>色</translation>
     </message>
     <message>
         <source>Group Background</source>
-        <translation type="obsolete">背景のグループ化</translation>
+        <translation>背景のグループ化</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">不在</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">侵害厳禁</translation>
+        <translation>侵害厳禁</translation>
     </message>
     <message>
         <source>List Background</source>
-        <translation type="obsolete">背景の閲覧</translation>
+        <translation>背景の閲覧</translation>
     </message>
     <message>
         <source>Group Foreground</source>
-        <translation type="obsolete">前景のグループ化</translation>
+        <translation>前景のグループ化</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="obsolete">フォント</translation>
+        <translation>フォント</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation type="obsolete">選択</translation>
+        <translation>選択</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">名簿</translation>
+        <translation>名簿</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="obsolete">メッセージ</translation>
+        <translation>メッセージ</translation>
     </message>
 </context>
 <context>
@@ -8267,7 +8301,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Remember window sizes</source>
-        <translation type="obsolete">ウィンドウサイズを記憶する</translation>
+        <translation>ウィンドウサイズを記憶する</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="36"/>
@@ -8291,8 +8325,8 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="81"/>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>&quot;ダブルクリック&quot;スタイルを使用する(ICQの様に)</translation>
+        <source>Use "double-click" style (like ICQ)</source>
+        <translation>"ダブルクリック"スタイルを使用する(ICQの様に)</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="88"/>
@@ -8301,8 +8335,8 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="95"/>
-        <source>Make roster window a &quot;tool window&quot;</source>
-        <translation>&quot;ツールウィンドウ&quot;に名簿ウィンドウを作成</translation>
+        <source>Make roster window a "tool window"</source>
+        <translation>"ツールウィンドウ"に名簿ウィンドウを作成</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="105"/>
@@ -8317,7 +8351,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="130"/>
         <source>99999; </source>
-        <translation>99999;</translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="146"/>
@@ -8332,46 +8366,46 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_application.ui" line="200"/>
         <source>Proxy Settings</source>
-        <translation type="unfinished">プロキシ設定</translation>
+        <translation>プロキシの設定</translation>
     </message>
 </context>
 <context>
     <name>OptApplicationUI</name>
     <message>
         <source>Remember Window Sizes</source>
-        <translation type="obsolete">ウィンドウの大きさの保存</translation>
+        <translation>ウィンドウの大きさの保存</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">左クリックでメニュー</translation>
+        <translation>左クリックでメニュー</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="obsolete">リンクの送信</translation>
+        <translation>リンクの送信</translation>
     </message>
     <message>
         <source>Open With:</source>
-        <translation type="obsolete">起動するプログラム:</translation>
+        <translation>起動するプログラム:</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <source>Mailer</source>
-        <translation type="obsolete">メールプログラム</translation>
+        <translation>メールプログラム</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="obsolete">ネットブラウザ</translation>
+        <translation>ネットブラウザ</translation>
     </message>
     <message>
         <source>Enable Docklet</source>
-        <translation type="obsolete">ドックレット起動</translation>
+        <translation>ドックレット起動</translation>
     </message>
     <message>
-        <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">ダブルクリックスタイル（Mirabilis ICQ）</translation>
+        <source>Use "Double-click" style (like Mirabilis ICQ)</source>
+        <translation>ダブルクリックスタイル（Mirabilis ICQ）</translation>
     </message>
 </context>
 <context>
@@ -8462,7 +8496,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="127"/>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt-[0-9] によるタブショートカットを有効にする</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.ui" line="134"/>
@@ -8509,31 +8543,31 @@ Details: %1</source>
     <name>OptChatUI</name>
     <message>
         <source>Default Action</source>
-        <translation type="obsolete">デフォルトの行動</translation>
+        <translation>デフォルトの行動</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="obsolete">メッセージ</translation>
+        <translation>メッセージ</translation>
     </message>
     <message>
         <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">チャットボックスの中身の消去(チャットの終了)</translation>
+        <translation>チャットボックスの中身の消去(チャットの終了)</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた時</translation>
+        <translation>チャットウィンドウを閉じた時</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた一時間後</translation>
+        <translation>チャットウィンドウを閉じた一時間後</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた一日後</translation>
+        <translation>チャットウィンドウを閉じた一日後</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="obsolete">消去しない</translation>
+        <translation>消去しない</translation>
     </message>
 </context>
 <context>
@@ -8631,7 +8665,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_events.ui" line="198"/>
         <source>Enable Growl notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Growl通知を有効にする</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_events.ui" line="208"/>
@@ -8678,19 +8712,19 @@ Details: %1</source>
     <name>OptEventsUI</name>
     <message>
         <source>Alerts</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">点滅しない</translation>
+        <translation>点滅しない</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation type="obsolete">点滅する</translation>
+        <translation>点滅する</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="obsolete">アニメーション</translation>
+        <translation>アニメーション</translation>
     </message>
 </context>
 <context>
@@ -8849,7 +8883,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_sound.ui" line="363"/>
         <source>Receive MUC message</source>
-        <translation type="unfinished"></translation>
+        <translation>グループチャットのメッセージを受信する</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_sound.ui" line="417"/>
@@ -8861,39 +8895,39 @@ Details: %1</source>
     <name>OptSoundUI</name>
     <message>
         <source>Player:</source>
-        <translation type="obsolete">サウンドプレイヤー:</translation>
+        <translation>サウンドプレイヤー:</translation>
     </message>
     <message>
         <source>Receive Online Status:</source>
-        <translation type="obsolete">オンラインステータスの受信:</translation>
+        <translation>オンラインステータスの受信:</translation>
     </message>
     <message>
         <source>Receive Message:</source>
-        <translation type="obsolete">メッセージの受信:</translation>
+        <translation>メッセージの受信:</translation>
     </message>
     <message>
         <source>Send Message:</source>
-        <translation type="obsolete">メッセージの送信:</translation>
+        <translation>メッセージの送信:</translation>
     </message>
     <message>
         <source>System Message:</source>
-        <translation type="obsolete">システムメッセージ:</translation>
+        <translation>システムメッセージ:</translation>
     </message>
     <message>
         <source>Receive Next Chat:</source>
-        <translation type="obsolete">次のチャットの受信:</translation>
+        <translation>次のチャットの受信:</translation>
     </message>
     <message>
         <source>Receive First Chat:</source>
-        <translation type="obsolete">最初のチャットの受信:</translation>
+        <translation>最初のチャットの受信:</translation>
     </message>
     <message>
         <source>Receive Offline Status:</source>
-        <translation type="obsolete">オフラインステータスの受信:</translation>
+        <translation>オフラインステータスの受信:</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="obsolete">デフォルトにリセット</translation>
+        <translation>デフォルトにリセット</translation>
     </message>
 </context>
 <context>
@@ -8921,7 +8955,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_status.ui" line="55"/>
         <source>Auto status</source>
-        <translation type="unfinished"></translation>
+        <translation>自動ステータス</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.ui" line="82"/>
@@ -8947,7 +8981,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Auto status message:</source>
-        <translation type="obsolete">自動ステータスメッセージ:</translation>
+        <translation>自動ステータスメッセージ:</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.ui" line="183"/>
@@ -8983,7 +9017,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/options/opt_status.ui" line="146"/>
         <source>Status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータスメッセージ:</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.ui" line="292"/>
@@ -8994,44 +9028,44 @@ Details: %1</source>
 <context>
     <name>OptStatusUI</name>
     <message>
-        <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">「オンライン」を選ぶ際にステータスメッセージを入力</translation>
+        <source>Prompt for status message when choosing "Online"</source>
+        <translation>「オンライン」を選ぶ際にステータスメッセージを入力</translation>
     </message>
     <message>
         <source>Minutes</source>
-        <translation type="obsolete">分</translation>
+        <translation>分</translation>
     </message>
     <message>
         <source>Auto Offline After:</source>
-        <translation type="obsolete">自動ログオフ時間:</translation>
+        <translation>自動ログオフ時間:</translation>
     </message>
     <message>
         <source>Auto XA After:</source>
-        <translation type="obsolete">自動不在延長時間:</translation>
+        <translation>自動不在延長時間:</translation>
     </message>
     <message>
         <source>Auto Away After:</source>
-        <translation type="obsolete">自動不在時間:</translation>
+        <translation>自動不在時間:</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新規</translation>
+        <translation>新規</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="obsolete">内容:</translation>
+        <translation>内容:</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
 </context>
 <context>
@@ -9044,16 +9078,16 @@ Details: %1</source>
     <message>
         <location filename="../../psi/src/optioneditor.ui" line="53"/>
         <source>Type:</source>
-        <translation type="unfinished">種類:</translation>
+        <translation>種類:</translation>
     </message>
     <message>
         <source>Typ:</source>
-        <translation type="obsolete">種類:</translation>
+        <translation>種類:</translation>
     </message>
     <message>
         <location filename="../../psi/src/optioneditor.ui" line="66"/>
         <source>Value: </source>
-        <translation>値:</translation>
+        <translation>値: </translation>
     </message>
     <message>
         <location filename="../../psi/src/psioptionseditor.cpp" line="52"/>
@@ -9069,79 +9103,79 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/psioptionseditor.cpp" line="77"/>
-        <source>Can&apos;t edit this type of setting, sorry.</source>
+        <source>Can't edit this type of setting, sorry.</source>
         <translation>この設定の種類を編集できません、ごめんなさい。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psioptionseditor.cpp" line="90"/>
         <source>Please enter option name.
 
-Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
+Option names may not be empty, end in '.' or contain '..'.</source>
         <translation>オプション名を入力してください。
 
-オプション名は空でなく、&apos;.&apos;で終わるか&apos;..&apos;を含まなければなりません。</translation>
+オプション名は空でなく、'.'で終わるか'..'を含まなければなりません。</translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Options</source>
-        <translation type="obsolete">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>New Status Preset</source>
-        <translation type="obsolete">新規ステータスメッセージ</translation>
+        <translation>新規ステータスメッセージ</translation>
     </message>
     <message>
         <source>Please enter a name for the new status preset:</source>
-        <translation type="obsolete">新規ステータスメッセージに名前を付けてください：</translation>
+        <translation>新規ステータスメッセージに名前を付けてください：</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
-        <source>Can&apos;t create a blank preset!</source>
-        <translation type="obsolete">空白のステータスメッセージは入力できません。</translation>
+        <source>Can't create a blank preset!</source>
+        <translation>空白のステータスメッセージは入力できません!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="obsolete">既にその名前のステータスメッセージが存在します。</translation>
+        <translation>既にその名前のステータスメッセージが存在します!</translation>
     </message>
     <message>
         <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Windowsデフォルトブラウザー/メール</translation>
+        <translation>Windowsデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">KDEデフォルトブラウザー/メール</translation>
+        <translation>KDEデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">MacOSデフォルトブラウザー/メール</translation>
+        <translation>MacOSデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <source>Windows Sound</source>
-        <translation type="obsolete">Windowsのサウンド</translation>
+        <translation>Windowsのサウンド</translation>
     </message>
     <message>
         <source>MacOS Sound</source>
-        <translation type="obsolete">MacOSのサウンド</translation>
+        <translation>MacOSのサウンド</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">アドバンス</translation>
+        <translation>アドバンス</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.cpp" line="64"/>
-        <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
+        <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you'd rather invoke with a single-click.</source>
         <translation>通常、コンタクトをダブルクリックするとデフォルトの動作を呼び出します。シングルクリックで呼び出したい場合にこれをチェックします。</translation>
     </message>
     <message>
@@ -9166,7 +9200,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.cpp" line="83"/>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you're using SMS transport.</source>
         <translation>Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
     </message>
     <message>
@@ -9186,13 +9220,13 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.cpp" line="91"/>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>例えばMSNのシステムニュースやアナウンスなどの全ての&quot;見出し&quot;イベントを無視します。</translation>
+        <source>Makes Psi ignore all incoming "headline" events, like system-wide news on MSN, announcements, etc.</source>
+        <translation>例えばMSNのシステムニュースやアナウンスなどの全ての"見出し"イベントを無視します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.cpp" line="50"/>
-        <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation>例えば&apos;コンタクトが入力中&apos;などのメッセージイベントの送信と要求を有効にします...</translation>
+        <source>Enables the sending and requesting of message events such as 'Contact is Typing', ...</source>
+        <translation>例えば'コンタクトが入力中'などのメッセージイベントの送信と要求を有効にします...</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_advanced.cpp" line="26"/>
@@ -9239,7 +9273,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.cpp" line="78"/>
-        <source>Psi&apos;s appearance</source>
+        <source>Psi's appearance</source>
         <translation>Psiの外観</translation>
     </message>
 </context>
@@ -9292,8 +9326,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.cpp" line="213"/>
-        <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation>メインウィドウでユーザーが &quot;%1&quot; の時のテキストの色を指定します。</translation>
+        <source>Specifies the text color for a contact name in the main window when that user is "%1".</source>
+        <translation>メインウィドウでユーザーが "%1" の時のテキストの色を指定します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_appearance.cpp" line="221"/>
@@ -9322,35 +9356,35 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="obsolete">メインウィンドウでのアカウント名の背景色を指定します。</translation>
+        <translation>メインウィンドウでのアカウント名の背景色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">メインウィンドウでのグループ名の背景色を指定します。</translation>
+        <translation>メインウィンドウでのグループ名の背景色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">メインウィンドウの背景色を指定します。</translation>
+        <translation>メインウィンドウの背景色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">ニックネームのアニメーション色を指定します。</translation>
+        <translation>ニックネームのアニメーション色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">ニックネームのアニメーション背景色を指定します。</translation>
+        <translation>ニックネームのアニメーション背景色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="obsolete">チャットと履歴ウィンドウの送信メッセージの色を指定します。</translation>
+        <translation>チャットと履歴ウィンドウの送信メッセージの色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="obsolete">チャットと履歴ウィンドウの受信メッセージの色を指定します。</translation>
+        <translation>チャットと履歴ウィンドウの受信メッセージの色を指定します。</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="obsolete">チャットウィンドウ内の告知メッセージ(ステータス変更やオフラインメッセージ)の色を指定します。</translation>
+        <translation>チャットウィンドウ内の告知メッセージ(ステータス変更やオフラインメッセージ)の色を指定します。</translation>
     </message>
 </context>
 <context>
@@ -9385,11 +9419,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation type="obsolete">チャットやメッセージのウィンドウサイズや位置を記憶するようにします。無効にした場合、ウィンドウのサイズや位置はデフォルトの場所に現れます。</translation>
+        <translation>チャットやメッセージのウィンドウサイズや位置を記憶するようにします。無効にした場合、ウィンドウのサイズや位置はデフォルトの場所に現れます。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.cpp" line="47"/>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you'd rather use a left-click.</source>
         <translation>通常、コンタクトをマウスで右クリックする事でコンテキストメニューを表示します。左クリックを使用したい場合じゃこのオプションをチェックします。</translation>
     </message>
     <message>
@@ -9415,7 +9449,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../../psi/src/options/opt_application.cpp" line="164"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.cpp" line="167"/>
@@ -9424,19 +9458,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Windowsデフォルトブラウザー/メール</translation>
+        <translation>Windowsデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">KDEデフォルトブラウザー/メール</translation>
+        <translation>KDEデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">MacOSデフォルトブラウザー/メール</translation>
+        <translation>MacOSデフォルトブラウザー/メール</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_application.cpp" line="45"/>
@@ -9507,27 +9541,27 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="81"/>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;チャットウィンドウを閉じた後、どれ位の期間チャットのログを保存するかを制御します。&lt;P&gt;</translation>
+        <translation>&lt;P&gt;チャットウィンドウを閉じた後、どれ位の期間チャットのログを保存するかを制御します。&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="84"/>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;このオプションはメモリ内のチャットログを保存しません&lt;P&gt;</translation>
+        <translation>&lt;P&gt;このオプションはメモリ内のチャットログを保存しません&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="86"/>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;このオプションはチャットログを保存し、1時間以上のログを削除します。&lt;P&gt;</translation>
+        <translation>&lt;P&gt;このオプションはチャットログを保存し、1時間以上のログを削除します。&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="88"/>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;このオプションはチャットログを保存し、1日以上のログを削除します。&lt;P&gt;</translation>
+        <translation>&lt;P&gt;このオプションはチャットログを保存し、1日以上のログを削除します。&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="90"/>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;このオプションはチャットログを永久に保存します。&lt;P&gt;</translation>
+        <translation>&lt;P&gt;このオプションはチャットログを永久に保存します。&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_chat.cpp" line="78"/>
@@ -9585,7 +9619,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../../psi/src/options/opt_events.cpp" line="69"/>
         <source>Makes Psi automatically accept all authorization requests from &lt;b&gt;anyone&lt;/b&gt;.</source>
-        <translation>Psiは誰からの承認リクエストでも自動的に承認するようにします。</translation>
+        <translation>Psiは&lt;b&gt;誰からの&lt;/b&gt;承認リクエストでも自動的に承認するようにします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_events.cpp" line="44"/>
@@ -9630,8 +9664,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_iconset.cpp" line="503"/>
-        <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;顔文字アイコンは感情や考えを伝える為に使用される短い文字列です。&lt;/P&gt;&lt;P&gt;Psiで一般的な顔文字アイコンを画像で置き換えたい場合はこれを有効にします。&lt;/P&gt;&lt;P&gt;例えば、&lt;B&gt;:-)&lt;/B&gt;は&lt;icon name=&quot;psi/smile&quot;&gt;に置き換えられます。&lt;/P&gt;</translation>
+        <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name="psi/smile"&gt;&lt;/P&gt;</source>
+        <translation>&lt;P&gt;顔文字アイコンは感情や考えを伝える為に使用される短い文字列です。&lt;/P&gt;&lt;P&gt;Psiで一般的な顔文字アイコンを画像で置き換えたい場合はこれを有効にします。&lt;/P&gt;&lt;P&gt;例えば、&lt;B&gt;:-)&lt;/B&gt;は&lt;icon name="psi/smile"&gt;に置き換えられます。&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -9749,8 +9783,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_sound.cpp" line="123"/>
-        <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>このオプションを有効にすると、あなたのステータスが&quot;離席&quot;か&quot;不在&quot;になった時にアラート音を再生します。</translation>
+        <source>Enable this option if you wish to hear sound alerts when your status is "away" or "extended away".</source>
+        <translation>このオプションを有効にすると、あなたのステータスが"離席"か"不在"になった時にアラート音を再生します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_sound.cpp" line="125"/>
@@ -9764,7 +9798,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>MacOS Sound</source>
-        <translation type="obsolete">MacOSのサウンド</translation>
+        <translation>MacOSのサウンド</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_sound.cpp" line="202"/>
@@ -9796,17 +9830,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="48"/>
-        <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>指定した時間コンピューターの無操作が続いた場合、自動的にステータスを &quot;離席&quot; にします。</translation>
+        <source>Makes Psi automatically set your status to "away" if your computer is idle for the specified amount of time.</source>
+        <translation>指定した時間コンピューターの無操作が続いた場合、自動的にステータスを "離席" にします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="52"/>
-        <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>指定した時間コンピューターの無操作が続いた場合、自動的にステータスを &quot;不在&quot; にします。</translation>
+        <source>Makes Psi automatically set your status to "extended away" if your computer is idle for the specified amount of time.</source>
+        <translation>指定した時間コンピューターの無操作が続いた場合、自動的にステータスを "不在" にします。</translation>
     </message>
     <message>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="obsolete">指定した時間コンピューターの無操作が続いた場合、自動的にステータスを &quot;オフライン&quot; にします。これは Jabberサーバーから切断します。</translation>
+        <source>Makes Psi automatically set your status to "offline" if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
+        <translation>指定した時間コンピューターの無操作が続いた場合、自動的にステータスを "オフライン" にします。これは Jabberサーバーから切断します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="68"/>
@@ -9815,8 +9849,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="71"/>
-        <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"></translation>
+        <source>Specifies priority of auto-away status. If empty, Psi will use account's default priority.</source>
+        <translation>自動離席時の優先度を指定します。指定しなかった場合はアカウントのデフォルト優先度を利用します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="83"/>
@@ -9840,12 +9874,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="99"/>
-        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to "online".  Check this option if you want to have this prompt.</source>
+        <translation>XMPPでは全てのステータス種別に対して拡張ステータスメッセージを設定できます。通常Psiはステータスメッセージを「オンライン」に設定した場合は拡張メッセージを設定しません。これを設定したい場合はこのオプションを有効にします。</translation>
     </message>
     <message>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="obsolete">Jabberでは全てのステータス種別に対して拡張ステータスメッセージを設定できます。通常Psiはステータスメッセージを &quot;オンライン&quot; に設定した時の拡張メッセージを促しません。これを促したい場合、このオプションを有効にします。</translation>
+        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to "online".  Check this option if you want to have this prompt.</source>
+        <translation>Jabberでは全てのステータス種別に対して拡張ステータスメッセージを設定できます。通常Psiはステータスメッセージを "オンライン" に設定した時の拡張メッセージを促しません。これを促したい場合、このオプションを有効にします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="267"/>
@@ -9865,7 +9899,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="275"/>
-        <source>Can&apos;t create a blank preset!</source>
+        <source>Can't create a blank preset!</source>
         <translation>空のプリセットは作成出来ません!</translation>
     </message>
     <message>
@@ -9880,8 +9914,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="56"/>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
-        <translation type="unfinished"></translation>
+        <source>Makes Psi automatically set your status to "offline" if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation>指定した時間コンピューターの無操作が続いた場合、ステータスを自動的に「オフライン」にします。これはXMPPサーバーとの接続を切断します。</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/opt_status.cpp" line="95"/>
@@ -9947,351 +9981,351 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsUI</name>
     <message>
         <source>OptionsUI</source>
-        <translation type="obsolete">オプションUI</translation>
+        <translation>オプションUI</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="obsolete">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">名簿</translation>
+        <translation>名簿</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">左クリックでメニュー</translation>
+        <translation>左クリックでメニュー</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
-        <translation type="obsolete">シングルクリックでデフォルト行為</translation>
+        <translation>シングルクリックでデフォルト行為</translation>
     </message>
     <message>
         <source>Default Action:</source>
-        <translation type="obsolete">デフォルト行為</translation>
+        <translation>デフォルト行為</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="obsolete">メッセージ</translation>
+        <translation>メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="obsolete">チャット</translation>
+        <translation>チャット</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="obsolete">リンクの送信</translation>
+        <translation>リンクの送信</translation>
     </message>
     <message>
         <source>Open With:</source>
-        <translation type="obsolete">起動するプログラム:</translation>
+        <translation>起動するプログラム:</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <source>Mailer</source>
-        <translation type="obsolete">メールプログラム</translation>
+        <translation>メールプログラム</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="obsolete">ネットブラウザ</translation>
+        <translation>ネットブラウザ</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="obsolete">その他</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>Always on top</source>
-        <translation type="obsolete">いつも最上層</translation>
+        <translation>いつも最上層</translation>
     </message>
     <message>
         <source>Remember Window Sizes</source>
-        <translation type="obsolete">ウィンドウの大きさの保存</translation>
+        <translation>ウィンドウの大きさの保存</translation>
     </message>
     <message>
         <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">チャットボックスの中身の消去(チャットの終了)</translation>
+        <translation>チャットボックスの中身の消去(チャットの終了)</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた時</translation>
+        <translation>チャットウィンドウを閉じた時</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた一時間後</translation>
+        <translation>チャットウィンドウを閉じた一時間後</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation type="obsolete">チャットウィンドウを閉じた一日後</translation>
+        <translation>チャットウィンドウを閉じた一日後</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="obsolete">消去しない</translation>
+        <translation>消去しない</translation>
     </message>
     <message>
         <source>Docking</source>
-        <translation type="obsolete">ドッキング</translation>
+        <translation>ドッキング</translation>
     </message>
     <message>
         <source>Enable Docklet</source>
-        <translation type="obsolete">ドックレット起動</translation>
+        <translation>ドックレット起動</translation>
     </message>
     <message>
-        <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">ダブルクリックスタイル（Mirabilis ICQ）</translation>
+        <source>Use "Double-click" style (like Mirabilis ICQ)</source>
+        <translation>ダブルクリックスタイル（Mirabilis ICQ）</translation>
     </message>
     <message>
         <source>Events</source>
-        <translation type="obsolete">イベント</translation>
+        <translation>イベント</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="obsolete">受信</translation>
+        <translation>受信</translation>
     </message>
     <message>
         <source>Autopopup New Messages</source>
-        <translation type="obsolete">新しく受信したメッセージを自動的に開く</translation>
+        <translation>新しく受信したメッセージを自動的に開く</translation>
     </message>
     <message>
         <source>Autopopup New Chats</source>
-        <translation type="obsolete">新しく受信したチャットを自動的に開く</translation>
+        <translation>新しく受信したチャットを自動的に開く</translation>
     </message>
     <message>
         <source>Raise Window On New Event</source>
-        <translation type="obsolete">イベント受信時にウィンドウを表示</translation>
+        <translation>イベント受信時にウィンドウを表示</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">イベント受信時にウィンドウを表示:</translation>
+        <translation>イベント受信時にウィンドウを表示:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="obsolete">全てメッセージ</translation>
+        <translation>全てメッセージ</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="obsolete">全てチャット</translation>
+        <translation>全てチャット</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="obsolete">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <source>Treat outgoing messages and chats as:</source>
-        <translation type="obsolete">送信メッセージとチャットの扱い方:</translation>
+        <translation>送信メッセージとチャットの扱い方:</translation>
     </message>
     <message>
         <source>Alerts</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">点滅しない</translation>
+        <translation>点滅しない</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation type="obsolete">点滅する</translation>
+        <translation>点滅する</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="obsolete">アニメーション</translation>
+        <translation>アニメーション</translation>
     </message>
     <message>
         <source>Filtering</source>
-        <translation type="obsolete">フィルタ</translation>
+        <translation>フィルタ</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">&quot;見だし&quot;イベントの無視（MSNの警告など）</translation>
+        <source>Ignore "Headline" events (e.g. MSN alerts)</source>
+        <translation>"見だし"イベントの無視（MSNの警告など）</translation>
     </message>
     <message>
         <source>Presence</source>
-        <translation type="obsolete">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>Auto Status</source>
-        <translation type="obsolete">自動ステータス変更</translation>
+        <translation>自動ステータス変更</translation>
     </message>
     <message>
         <source>Minutes</source>
-        <translation type="obsolete">分</translation>
+        <translation>分</translation>
     </message>
     <message>
         <source>Auto XA After:</source>
-        <translation type="obsolete">自動不在延長時間:</translation>
+        <translation>自動不在延長時間:</translation>
     </message>
     <message>
         <source>Auto Offline After:</source>
-        <translation type="obsolete">自動ログオフ時間:</translation>
+        <translation>自動ログオフ時間:</translation>
     </message>
     <message>
         <source>Auto Away After:</source>
-        <translation type="obsolete">自動不在時間:</translation>
+        <translation>自動不在時間:</translation>
     </message>
     <message>
-        <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">「オンライン」を選ぶ際にステータスメッセージを入力</translation>
+        <source>Prompt for status message when choosing "Online"</source>
+        <translation>「オンライン」を選ぶ際にステータスメッセージを入力</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">名簿中ユーザーのログオン時に名簿をアニメーションする</translation>
+        <translation>名簿中ユーザーのログオン時に名簿をアニメーションする</translation>
     </message>
     <message>
         <source>Status Presets</source>
-        <translation type="obsolete">ステータスメッセージ</translation>
+        <translation>ステータスメッセージ</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新規</translation>
+        <translation>新規</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Content:</source>
-        <translation type="obsolete">内容:</translation>
+        <translation>内容:</translation>
     </message>
     <message>
         <source>Look and Feel</source>
-        <translation type="obsolete">デザイン</translation>
+        <translation>デザイン</translation>
     </message>
     <message>
         <source>Scheme</source>
-        <translation type="obsolete">配色セット</translation>
+        <translation>配色セット</translation>
     </message>
     <message>
         <source>Psi (Default)</source>
-        <translation type="obsolete">PSI（初期設定）</translation>
+        <translation>PSI（初期設定）</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">名前を付けて保存</translation>
+        <translation>名前を付けて保存</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="obsolete">色</translation>
+        <translation>色</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="obsolete">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="obsolete">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="obsolete">不在</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation type="obsolete">侵害厳禁</translation>
+        <translation>侵害厳禁</translation>
     </message>
     <message>
         <source>Group Foreground</source>
-        <translation type="obsolete">前景のグループ化</translation>
+        <translation>前景のグループ化</translation>
     </message>
     <message>
         <source>Group Background</source>
-        <translation type="obsolete">背景のグループ化</translation>
+        <translation>背景のグループ化</translation>
     </message>
     <message>
         <source>List Background</source>
-        <translation type="obsolete">背景の閲覧</translation>
+        <translation>背景の閲覧</translation>
     </message>
     <message>
         <source>Skins</source>
-        <translation type="obsolete">スキン</translation>
+        <translation>スキン</translation>
     </message>
     <message>
         <source>Window Backgrounds</source>
-        <translation type="obsolete">ウィンドウの背景</translation>
+        <translation>ウィンドウの背景</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation type="obsolete">選択</translation>
+        <translation>選択</translation>
     </message>
     <message>
         <source>Icon Set</source>
-        <translation type="obsolete">アイコンセット</translation>
+        <translation>アイコンセット</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="obsolete">フォント</translation>
+        <translation>フォント</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="obsolete">サウンド</translation>
+        <translation>サウンド</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="obsolete">サウンド設定</translation>
+        <translation>サウンド設定</translation>
     </message>
     <message>
-        <source>Don&apos;t play sounds when Away</source>
-        <translation type="obsolete">不在中はサウンドを再生しない</translation>
+        <source>Don't play sounds when Away</source>
+        <translation>不在中はサウンドを再生しない</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="obsolete">サウンドプレイヤー:</translation>
+        <translation>サウンドプレイヤー:</translation>
     </message>
     <message>
         <source>Sound Events</source>
-        <translation type="obsolete">サウンドイベント</translation>
+        <translation>サウンドイベント</translation>
     </message>
     <message>
         <source>Receive Online Status:</source>
-        <translation type="obsolete">オンラインステータスの受信:</translation>
+        <translation>オンラインステータスの受信:</translation>
     </message>
     <message>
         <source>Receive Offline Status:</source>
-        <translation type="obsolete">オフラインステータスの受信:</translation>
+        <translation>オフラインステータスの受信:</translation>
     </message>
     <message>
         <source>Send Message:</source>
-        <translation type="obsolete">メッセージの送信:</translation>
+        <translation>メッセージの送信:</translation>
     </message>
     <message>
         <source>Receive Message:</source>
-        <translation type="obsolete">メッセージの受信:</translation>
+        <translation>メッセージの受信:</translation>
     </message>
     <message>
         <source>Receive First Chat:</source>
-        <translation type="obsolete">最初のチャットの受信:</translation>
+        <translation>最初のチャットの受信:</translation>
     </message>
     <message>
         <source>Receive Next Chat:</source>
-        <translation type="obsolete">次のチャットの受信:</translation>
+        <translation>次のチャットの受信:</translation>
     </message>
     <message>
         <source>System Message:</source>
-        <translation type="obsolete">システムメッセージ:</translation>
+        <translation>システムメッセージ:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="obsolete">適用</translation>
+        <translation>適用</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">イベント受信時に名簿をスクロール</translation>
+        <translation>イベント受信時に名簿をスクロール</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="obsolete">デフォルトにリセット</translation>
+        <translation>デフォルトにリセット</translation>
     </message>
     <message>
         <location filename="../../psi/src/options/ui_options.ui" line="14"/>
@@ -10300,62 +10334,62 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="obsolete">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="obsolete">適用(&amp;A)</translation>
+        <translation>適用(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="obsolete">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
     <name>PGPKey</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Please select the key to use for security:</source>
-        <translation type="obsolete">セキュリティを使用する為に鍵を選択してください:</translation>
+        <translation>セキュリティを使用する為に鍵を選択してください:</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="obsolete">鍵ID</translation>
+        <translation>鍵ID</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="obsolete">ユーザーID</translation>
+        <translation>ユーザーID</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="obsolete">診断(&amp;D)</translation>
+        <translation>診断(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="../../psi/src/pgpkey.ui" line="30"/>
@@ -10400,15 +10434,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>PGPKeyUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -10473,33 +10507,33 @@ Please enter your passphrase below:</source>
     <name>PassphraseUI</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PositionToolbarUI</name>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>Privacy</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacy.ui" line="17"/>
@@ -10509,7 +10543,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi/src/privacy/privacy.ui" line="56"/>
         <source>Default List (all sessions):</source>
-        <translation>デフォルトリスと(すべてのセッション):</translation>
+        <translation>デフォルトリス卜(すべてのセッション):</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacy.ui" line="63"/>
@@ -10578,7 +10612,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
 </context>
 <context>
@@ -10726,7 +10760,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="obsolete">新規プロファイル(&amp;N)</translation>
+        <translation>新規プロファイル(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/profilemanage.ui" line="30"/>
@@ -10751,22 +10785,22 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi/src/profilemanage.ui" line="50"/>
         <source>psi/remove</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="obsolete">削除(&amp;D)</translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Manage Profiles</source>
-        <translation type="obsolete">プロフィール管理</translation>
+        <translation>プロフィール管理</translation>
     </message>
     <message>
         <location filename="../../psi/src/profiledlg.cpp" line="238"/>
@@ -10813,7 +10847,9 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;念の為、最後にもう一度確認します。このプロファイルを削除すると以下のファイルは削除されます。&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+続けますか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/profiledlg.cpp" line="293"/>
@@ -10832,14 +10868,14 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../../psi/src/profiledlg.cpp" line="275"/>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;本当にプロファイル &quot;&lt;b&gt;%1&lt;/b&gt;&quot;  を削除してもよろしいですか? これは設定と関連付けられたプロファイルのメッセージ履歴が全て削除します!&lt;/qt&gt;</translation>
+        <source>&lt;qt&gt;Are you sure you want to delete the "&lt;b&gt;%1&lt;/b&gt;" profile?  This will delete all of the profile's message history as well as associated settings!&lt;/qt&gt;</source>
+        <translation>&lt;qt&gt;本当にプロファイル "&lt;b&gt;%1&lt;/b&gt;"  を削除してもよろしいですか? これは設定と関連付けられたプロファイルのメッセージ履歴が全て削除します!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="obsolete">&lt;qt&gt;念の為、本当にこれを実行してよいか最後に尋ねます。以下のフォルダは削除されます!&lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;念の為、本当にこれを実行してよいか最後に尋ねます。以下のフォルダは削除されます!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 続けますか?</translation>
     </message>
@@ -10848,27 +10884,27 @@ Proceed?</source>
     <name>ProfileManageUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="obsolete">新規プロフィール(&amp;N)</translation>
+        <translation>新規プロフィール(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="obsolete">プロフィール名の変更(&amp;R)</translation>
+        <translation>プロフィール名の変更(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="obsolete">削除(&amp;D)</translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>Manage Profiles</source>
-        <translation type="obsolete">プロフィール管理</translation>
+        <translation>プロフィール管理</translation>
     </message>
 </context>
 <context>
@@ -10884,12 +10920,12 @@ Proceed?</source>
 &lt;br&gt;
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you'd like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name="psi/smile"&gt;.</source>
         <translation>&lt;i&gt;プロファイル名&lt;/i&gt;は出来るだけ単純にしてください。それは一つの単語からなる文字列か数字のみにするべきです。&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;デフォルトの動作&lt;/i&gt;はコンタクトの一覧をダブルクリックした時に起こる動作です。これらの選択は &lt;b&gt;メッセージ&lt;/b&gt;(ICQスタイル)と&lt;b&gt;チャット&lt;/b&gt;(AIMスタイル)です。これは後からでもオプションメニューで変更出来ます。&lt;br&gt;
 &lt;br&gt;
-&lt;b&gt;:-)&lt;/b&gt;の様なテキストを&lt;icon name=&quot;psi/smile&quot;&gt;という様な画像で置き換える場合&lt;i&gt;顔文字を有効にする&lt;/i&gt;チェックボックスを有効にします。</translation>
+&lt;b&gt;:-)&lt;/b&gt;の様なテキストを&lt;icon name="psi/smile"&gt;という様な画像で置き換える場合&lt;i&gt;顔文字を有効にする&lt;/i&gt;チェックボックスを有効にします。</translation>
     </message>
     <message>
         <location filename="../../psi/src/profilenew.ui" line="75"/>
@@ -10960,39 +10996,39 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileNewUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Keep your &lt;i&gt;Profile Name&lt;/i&gt; simple.  It should be a single word comprised of only letters or numbers.&lt;br&gt;
 &lt;br&gt;
 The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a contact in your list.  The choices are &lt;b&gt;Message&lt;/b&gt; (ICQ style) and &lt;b&gt;Chat&lt;/b&gt; (AIM style).  You can change this later from the Options menu.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;&lt;i&gt;プロフィール名&lt;/i&gt;は簡単なものを使用して下さい。英数字のみ入力可能です。&lt;br&gt;
+        <translation>&lt;qt&gt;&lt;i&gt;プロフィール名&lt;/i&gt;は簡単なものを使用して下さい。英数字のみ入力可能です。&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;デフォルトの行動&lt;/i&gt;は名簿中のユーザーをダブルクリックしたときに行う行動です。&lt;b&gt;メッセージ&lt;/b&gt;（ICQらしきメッセージ）と&lt;b&gt;チャット&lt;/b&gt;（AIMらしきチャット)から選択できます。これは後にオプションメニューで変更できます。&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="obsolete">プロフィール名:</translation>
+        <translation>プロフィール名:</translation>
     </message>
     <message>
         <source>Default Action</source>
-        <translation type="obsolete">デフォルトの行動</translation>
+        <translation>デフォルトの行動</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="obsolete">メッセージ</translation>
+        <translation>メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="obsolete">チャット</translation>
+        <translation>チャット</translation>
     </message>
     <message>
         <source>Cl&amp;ose</source>
-        <translation type="obsolete">閉じる(&amp;O)</translation>
+        <translation>閉じる(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="obsolete">作成(&amp;C)</translation>
+        <translation>作成(&amp;C)</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;/qt&gt;
@@ -11000,17 +11036,19 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
 &lt;qt&gt;The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;/qt&gt;
 
 </source>
-        <translation type="obsolete">&lt;qt&gt;&lt;i&gt;プロフィール名&lt;/i&gt;は簡単なものを使用して下さい。英数字のみ入力可能です。&lt;/qt&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;&lt;i&gt;プロフィール名&lt;/i&gt;は簡単なものを使用して下さい。英数字のみ入力可能です。&lt;/qt&gt;&lt;br&gt;
 &lt;br&gt;
-&lt;qt&gt;&lt;i&gt;デフォルトの行動&lt;/i&gt;は名簿中のユーザーをダブルクリックしたときに行う行動です。&lt;b&gt;メッセージ&lt;/b&gt;（ICQらしきメッセージ）と&lt;b&gt;チャット&lt;/b&gt;（AIMらしきチャット)から選択できます。これは後にオプションメニューで変更できます。&lt;/qt&gt;</translation>
+&lt;qt&gt;&lt;i&gt;デフォルトの行動&lt;/i&gt;は名簿中のユーザーをダブルクリックしたときに行う行動です。&lt;b&gt;メッセージ&lt;/b&gt;（ICQらしきメッセージ）と&lt;b&gt;チャット&lt;/b&gt;（AIMらしきチャット)から選択できます。これは後にオプションメニューで変更できます。&lt;/qt&gt;
+
+</translation>
     </message>
     <message>
         <source>New Profile</source>
-        <translation type="obsolete">新規プロフィール</translation>
+        <translation>新規プロフィール</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -11059,7 +11097,7 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <message>
         <location filename="../../psi/src/profileopen.ui" line="162"/>
         <source>psi/quit</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/profileopen.ui" line="185"/>
@@ -11069,7 +11107,7 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <message>
         <location filename="../../psi/src/profileopen.ui" line="188"/>
         <source>psi/profile</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/profileopen.ui" line="195"/>
@@ -11079,14 +11117,14 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <message>
         <location filename="../../psi/src/profileopen.ui" line="198"/>
         <source>psi/logo_16</source>
-        <translation></translation>
+        <translation/>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
         <source>Open Profile</source>
-        <translation type="obsolete">プロフィールを開く</translation>
+        <translation>プロフィールを開く</translation>
     </message>
     <message>
         <location filename="../../psi/src/profiledlg.cpp" line="115"/>
@@ -11108,39 +11146,39 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <name>ProfileOpenUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Image goes here</source>
-        <translation type="obsolete">画像</translation>
+        <translation>画像</translation>
     </message>
     <message>
         <source>Open Profile</source>
-        <translation type="obsolete">プロフィールを開く</translation>
+        <translation>プロフィールを開く</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="obsolete">プロフィール:</translation>
+        <translation>プロフィール:</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation type="obsolete">スタート時に開く(&amp;A)</translation>
+        <translation>スタート時に開く(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="obsolete">終了(&amp;Q)</translation>
+        <translation>終了(&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation type="obsolete">プロフィール(&amp;P)...</translation>
+        <translation>プロフィール(&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="obsolete">開く(&amp;O)</translation>
+        <translation>開く(&amp;O)</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="obsolete">言語:</translation>
+        <translation>言語:</translation>
     </message>
 </context>
 <context>
@@ -11168,7 +11206,7 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <message>
         <location filename="../../psi/src/proxy.ui" line="47"/>
         <source>psi/remove</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/proxy.ui" line="93"/>
@@ -11202,11 +11240,11 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">プロパティ</translation>
+        <translation>プロパティ</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名前:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="../../psi/src/proxy.ui" line="62"/>
@@ -11215,15 +11253,15 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     </message>
     <message>
         <source>proxyedit</source>
-        <translation type="obsolete">プロキシ編集</translation>
+        <translation>プロキシ編集</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="obsolete">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -11282,66 +11320,66 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <name>ProxyEdit</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Use authentication</source>
-        <translation type="obsolete">認証を使用する</translation>
+        <translation>認証を使用する</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="obsolete">ユーザー名:</translation>
+        <translation>ユーザー名:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="obsolete">パスワード:</translation>
+        <translation>パスワード:</translation>
     </message>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation type="obsolete">プロキシサーバーのホスト名とポートを入力してください。</translation>
+        <translation>プロキシサーバーのホスト名とポートを入力してください。</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
-        <translation type="obsolete">必要であればネットワーク管理者と相談してください。</translation>
+        <translation>必要であればネットワーク管理者と相談してください。</translation>
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">プロキシサーバーのユーザー名を入力してください、プロキシサーバーを必要としない場合はこのフィールドを空白にします。</translation>
+        <translation>プロキシサーバーのユーザー名を入力してください、プロキシサーバーを必要としない場合はこのフィールドを空白にします。</translation>
     </message>
     <message>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">プロキシサーバーのパスワードを入力してください、プロキシサーバーを必要としない場合はこのフィールドを空白にします。</translation>
+        <translation>プロキシサーバーのパスワードを入力してください、プロキシサーバーを必要としない場合はこのフィールドを空白にします。</translation>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation type="obsolete">ポーリングURL:</translation>
+        <translation>ポーリングURL:</translation>
     </message>
 </context>
 <context>
     <name>ProxyUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="obsolete">新規プロフィール(&amp;N)</translation>
+        <translation>新規プロフィール(&amp;N)</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="obsolete">消去(&amp;O)</translation>
+        <translation>消去(&amp;O)</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="obsolete">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="obsolete">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -11355,7 +11393,7 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="2022"/>
@@ -11369,11 +11407,11 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     </message>
     <message>
         <source>Need Password</source>
-        <translation type="obsolete">パスワードが必要です</translation>
+        <translation>パスワードが必要です</translation>
     </message>
     <message>
         <source>Please enter the password for &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt;のパスワードを入力して下さい。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;のパスワードを入力して下さい。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="3098"/>
@@ -11382,15 +11420,15 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     </message>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation type="obsolete">%1 の為のパスワードを入力してください:</translation>
+        <translation>%1 の為のパスワードを入力してください:</translation>
     </message>
     <message>
         <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: サーバーのオーセンチケーション</translation>
+        <translation>%1: サーバーのオーセンチケーション</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="5924"/>
@@ -11425,12 +11463,12 @@ The &lt;i&gt;Default Action&lt;/i&gt; is what happens when you double click a co
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1554"/>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>機能は削除されました</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1555"/>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <source>This account was configured to use the "Probe legacy SSL port" feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
+        <translation>このアカウントは「古いSSLポートを調べる」機能が設定されていますが、この機能はサポートされなくなりました。非常に古いXMPPサーバーを利用している場合を除きこの変更は影響ありません。もし接続に問題がある場合アカウントの設定を見直すかXMPPサーバーの管理者に問い合わせてください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="1884"/>
@@ -11695,7 +11733,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation type="obsolete">パスワードを入力してください:</translation>
+        <translation>パスワードを入力してください:</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiaccount.cpp" line="5501"/>
@@ -11739,11 +11777,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">不在名簿を表示</translation>
+        <translation>不在名簿を表示</translation>
     </message>
     <message>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation type="obsolete">名簿内の離席・不在・妨害禁止ステータスのコンタクトの可視を切り替える</translation>
+        <translation>名簿内の離席・不在・妨害禁止ステータスのコンタクトの可視を切り替える</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="137"/>
@@ -11807,7 +11845,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Add a contact</source>
-        <translation type="obsolete">名簿に追加(&amp;A)</translation>
+        <translation>名簿に追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="191"/>
@@ -11831,7 +11869,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>New &amp;blank message</source>
-        <translation type="obsolete">新規メッセージ(&amp;B)</translation>
+        <translation>新規メッセージ(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="213"/>
@@ -11880,11 +11918,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Change profile</source>
-        <translation type="obsolete">プロフィール変更(&amp;C)</translation>
+        <translation>プロフィール変更(&amp;C)</translation>
     </message>
     <message>
         <source>Play &amp;sounds</source>
-        <translation type="obsolete">サウンド効果(&amp;S)</translation>
+        <translation>サウンド効果(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="223"/>
@@ -11910,19 +11948,19 @@ Reason: %1.</source>
         <location filename="../../psi/src/psiactionlist.cpp" line="229"/>
         <location filename="../../psi/src/psiactionlist.cpp" line="326"/>
         <source>Tip of the Day</source>
-        <translation>今日の技</translation>
+        <translation>今日のヒント</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="229"/>
         <location filename="../../psi/src/psiactionlist.cpp" line="326"/>
         <source>&amp;Tip of the Day</source>
-        <translation>今日の技(&amp;T)</translation>
+        <translation>今日のヒント(&amp;T)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="230"/>
         <location filename="../../psi/src/psiactionlist.cpp" line="327"/>
         <source>See many useful tips</source>
-        <translation>便利な技を見る</translation>
+        <translation>便利なヒントを見る</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="233"/>
@@ -11941,8 +11979,8 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="277"/>
-        <source>Changes your global status to &apos;%1&apos;</source>
-        <translation>グローバルステータスを &apos;%1&apos; に変更</translation>
+        <source>Changes your global status to '%1'</source>
+        <translation>グローバルステータスを '%1' に変更</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="281"/>
@@ -11962,7 +12000,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="292"/>
         <source>XA</source>
-        <translation>不在</translation>
+        <translation>応答不能</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="295"/>
@@ -12011,7 +12049,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Away/XA/DnD Contacts</source>
-        <translation type="obsolete">離席/不在/妨害禁止 のコンタクトを表示</translation>
+        <translation>離席/不在/妨害禁止 のコンタクトを表示</translation>
     </message>
     <message>
         <location filename="../../psi/src/psiactionlist.cpp" line="136"/>
@@ -12261,11 +12299,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="obsolete">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="obsolete">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="555"/>
@@ -12296,7 +12334,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="646"/>
         <source>Error: Can not parse command: </source>
-        <translation>エラー: コマンドを解析できません:</translation>
+        <translation>エラー: コマンドを解析できません: </translation>
     </message>
     <message>
         <location filename="../../psi/src/psichatdlg.cpp" line="665"/>
@@ -12364,9 +12402,9 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="39"/>
-        <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation>ステータスを設定します。ステータスは `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos; のいずれかです。</translation>
+        <source>Set status. STATUS must be one of `online', `chat', `away', `xa', `dnd', `offline'.</source>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <translation>ステータスを設定します。ステータスは `online', `chat', `away', `xa', `dnd', `offline' のいずれかです。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="42"/>
@@ -12403,11 +12441,11 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi/src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi - クロスプラットホームXMPPクライアント</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation type="obsolete">Psi - Jabber上級者の為のクロスプラットフォームなJabberクライアント</translation>
+        <translation>Psi - Jabber上級者の為のクロスプラットフォームなJabberクライアント</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicli.h" line="63"/>
@@ -12447,11 +12485,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>I am away from my computer.  Please leave a message.</source>
-        <translation type="obsolete">現在コンピューターから離れています。伝言を残して下さい。</translation>
+        <translation>現在コンピューターから離れています。伝言を残して下さい。</translation>
     </message>
     <message>
-        <source>Unable to load the &quot;%1&quot; iconset.</source>
-        <translation type="obsolete">&quot;%1&quot;のアイコンセットをロードできませんでした。</translation>
+        <source>Unable to load the "%1" iconset.</source>
+        <translation>"%1"のアイコンセットをロードできませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1275"/>
@@ -12481,7 +12519,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../../psi/src/psicon.cpp" line="1318"/>
-        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
+        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you'll change your mind.</source>
         <translation>&lt;i&gt;全ての&lt;/i&gt;ツールバー&lt;i&gt;と&lt;/i&gt;メニューバーを無効にすることは出来ません。あなたの気が変わらずにこれを行うと、有効に戻すことが出来なくなります。</translation>
     </message>
     <message>
@@ -12537,28 +12575,28 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi/src/psicontact.cpp" line="388"/>
         <source>General</source>
-        <translation type="unfinished">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontact.cpp" line="393"/>
         <source>Not in list</source>
-        <translation type="unfinished">リスト外</translation>
+        <translation>リスト外</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontact.cpp" line="398"/>
         <location filename="../../psi/src/userlist.cpp" line="343"/>
         <source>Hidden</source>
-        <translation type="unfinished">伏在</translation>
+        <translation>隠れた</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontact.cpp" line="739"/>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像の選択</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontact.cpp" line="739"/>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished">全てのファイル(*.png *.jpg *.gif)</translation>
+        <translation>全てのファイル(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -12566,7 +12604,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi/src/psicontactlistviewdelegate.cpp" line="149"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation/>
     </message>
 </context>
 <context>
@@ -12574,322 +12612,322 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="261"/>
         <source>Re&amp;name</source>
-        <translation type="unfinished">名前の変更(&amp;N)</translation>
+        <translation>名前の変更(&amp;n)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="265"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">削除(&amp;R)</translation>
+        <translation>削除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="270"/>
         <source>&amp;Chat</source>
-        <translation type="unfinished">チャット(&amp;C)</translation>
+        <translation>チャット(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="273"/>
         <location filename="../../psi/src/psicontactmenu.cpp" line="370"/>
         <source>&amp;History</source>
-        <translation type="unfinished">メッセージの履歴(&amp;H)</translation>
+        <translation>メッセージ履歴(&amp;H)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="276"/>
         <source>Pro&amp;file</source>
-        <translation type="unfinished"></translation>
+        <translation>プロファイル(&amp;f)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="279"/>
         <source>&amp;Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>写真(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="282"/>
         <source>Send &amp;E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Eメール送信(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="285"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="288"/>
         <source>A&amp;uth</source>
-        <translation type="unfinished"></translation>
+        <translation>認証(&amp;u)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="291"/>
         <location filename="../../psi/src/psicontactmenu.cpp" line="466"/>
         <source>&amp;Block</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="294"/>
         <source>Disable mood notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>気分の通知を無効化</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="312"/>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished">コンタクトリストに追加/認証</translation>
+        <translation>コンタクトリストに追加/認証</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="315"/>
         <source>&amp;Receive Incoming Event</source>
-        <translation type="unfinished">イベントを受信(&amp;R)</translation>
+        <translation>イベントを受信(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="319"/>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージを送信(&amp;M)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="323"/>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">チャットウィンドウを開く(&amp;C)</translation>
+        <translation>チャットウィンドウを開く(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="327"/>
         <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished">ホワイトボードを開く(&amp;W)</translation>
+        <translation>ホワイトボードを開く(&amp;W)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="330"/>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>音声通話</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="333"/>
         <source>Send &amp;File</source>
-        <translation type="unfinished">ファイル送信(&amp;F)</translation>
+        <translation>ファイル送信(&amp;F)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="336"/>
         <source>&amp;Log on</source>
-        <translation type="unfinished">ログオン(&amp;L)</translation>
+        <translation>ログオン(&amp;L)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="340"/>
         <source>Log Off</source>
-        <translation type="unfinished">ログオフ</translation>
+        <translation>ログオフ</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="343"/>
         <source>Resend Authorization To</source>
-        <translation type="unfinished">認証を再送信</translation>
+        <translation>承認を再送</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="346"/>
         <source>Rerequest Authorization From</source>
-        <translation type="unfinished">認証の再要求</translation>
+        <translation>承認の再要求</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="349"/>
         <source>Remove Authorization From</source>
-        <translation type="unfinished">認証を削除</translation>
+        <translation>承認を削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="352"/>
         <source>&amp;Assign Custom Picture</source>
-        <translation type="unfinished">カスタム画像を割り当て(&amp;A)</translation>
+        <translation>カスタム画像を登録(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="356"/>
         <source>&amp;Clear Custom Picture</source>
-        <translation type="unfinished">カスタム画像を消去(&amp;C)</translation>
+        <translation>カスタム画像を消去(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="360"/>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">OpenPGP鍵を指定(&amp;P)</translation>
+        <translation>OpenPGP鍵を登録(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="363"/>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">OpenPGP鍵を解除(&amp;P)</translation>
+        <translation>OpenPGP鍵を解除(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="366"/>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー情報(&amp;I)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="375"/>
         <source>Invite To</source>
-        <translation type="unfinished">招待</translation>
+        <translation>招待</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="379"/>
         <source>&amp;Group</source>
-        <translation type="unfinished">グループ(&amp;G)</translation>
+        <translation>グループ(&amp;G)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="382"/>
         <source>Send Message To</source>
-        <translation type="unfinished">メッセージを送信</translation>
+        <translation>メッセージを送信</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="385"/>
         <source>Open Chat To</source>
-        <translation type="unfinished">チャットを開く</translation>
+        <translation>チャットを開く</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="388"/>
         <source>Open a Whiteboard To</source>
-        <translation type="unfinished">ホワイトボードを開く</translation>
+        <translation>ホワイトボードを開く</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="391"/>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">コマンド実行(&amp;x)</translation>
+        <translation>コマンド実行(&amp;x)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="394"/>
         <source>Active Chats</source>
-        <translation type="unfinished">有効なチャット</translation>
+        <translation>開いているチャット</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="419"/>
         <source>Authorization</source>
-        <translation type="unfinished">承認</translation>
+        <translation>承認</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="425"/>
         <source>&amp;Picture</source>
-        <translation type="unfinished">画像(&amp;P)</translation>
+        <translation>画像(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="466"/>
         <source>&amp;Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック解除(&amp;U)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="560"/>
         <source>Invitation</source>
-        <translation type="unfinished">招待</translation>
+        <translation>招待</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="561"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt;にグループチャットの招待を送る。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;をグループチャットに招待しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="577"/>
         <source>Add</source>
-        <translation type="unfinished">追加</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="578"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt;を名簿に追加しました。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;をコンタクトリストに追加しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="644"/>
         <location filename="../../psi/src/psicontactmenu.cpp" line="653"/>
         <source>Authorize</source>
-        <translation type="unfinished">承認する</translation>
+        <translation>承認</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="645"/>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt;に承認を送信。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;に承認を送信しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="654"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt;に承認の再要求を送りました。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;に承認を再要求しました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="662"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="663"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt;からの承認を削除してもよろしいですか?</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;からの承認を削除してもよろしいですか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="664"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="664"/>
         <source>&amp;No</source>
-        <translation type="unfinished">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="674"/>
         <source>Choose an Image</source>
-        <translation type="unfinished">画像選択</translation>
+        <translation>画像を選択</translation>
     </message>
     <message>
         <location filename="../../psi/src/psicontactmenu.cpp" line="674"/>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished">全てのファイル(*.png *.jpg *.gif)</translation>
+        <translation>全てのファイル(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="obsolete">グループチャットに参加出来ません。理由: %1</translation>
+        <translation>グループチャットに参加出来ません。理由: %1</translation>
     </message>
     <message>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation type="obsolete">グループチャットに作成出来ません。理由: %1</translation>
+        <translation>グループチャットに作成出来ません。理由: %1</translation>
     </message>
     <message>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="obsolete">グループチャットに解散出来ません。理由: %1</translation>
+        <translation>グループチャットを解散出来ません。理由: %1</translation>
     </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow::Private</name>
     <message>
         <source>Destroy</source>
-        <translation type="obsolete">解散</translation>
+        <translation>解散</translation>
     </message>
     <message>
         <source>Create Groupchat</source>
-        <translation type="obsolete">グループチャットの作成</translation>
+        <translation>グループチャットの作成</translation>
     </message>
     <message>
         <source>Choose a name for the groupchat you want to create</source>
-        <translation type="obsolete">作成したいグループチャットの名前を選択してください</translation>
+        <translation>作成したいグループチャットの名前を選択してください</translation>
     </message>
 </context>
 <context>
     <name>PsiMain</name>
     <message>
         <source>Old settings</source>
-        <translation type="obsolete">設定のインポート</translation>
+        <translation>設定のインポート</translation>
     </message>
     <message>
         <source>Old settings/history from a version of Psi prior to 0.8.5 have been detected.
-These will be imported into the &quot;Default&quot; profile.  Ok?</source>
-        <translation type="obsolete">Psiバージョン0.8.5以前の設定・履歴を検出しました。
+These will be imported into the "Default" profile.  Ok?</source>
+        <translation>Psiバージョン0.8.5以前の設定・履歴を検出しました。
 デフォルトのプロフィールにインポートしますか?</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="obsolete">インポートする</translation>
+        <translation>インポートする</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="obsolete">インポートしない</translation>
+        <translation>インポートしない</translation>
     </message>
     <message>
         <source>There was an error creating a profile based on the old settings</source>
-        <translation type="obsolete">プロフィールのインポート中にエラーが起きました。</translation>
+        <translation>プロフィールのインポート中にエラーが起きました。</translation>
     </message>
     <message>
         <location filename="../../psi/src/main.cpp" line="200"/>
@@ -12909,9 +12947,9 @@ These will be imported into the &quot;Default&quot; profile.  Ok?</source>
     </message>
     <message>
         <location filename="../../psi/src/main.cpp" line="244"/>
-        <source>The &quot;%1&quot; profile is already in use.
+        <source>The "%1" profile is already in use.
 Would you like to activate that session now?</source>
-        <translation>プロファイル &quot;%1&quot; は既に使用中です。
+        <translation>プロファイル "%1" は既に使用中です。
 今セッションを有効にしてもよろしいですか?</translation>
     </message>
     <message>
@@ -12944,7 +12982,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../../psi/src/psioptions.cpp" line="149"/>
-        <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
+        <source>I'm in the shower.  You'll have to wait for me to get out.</source>
         <translation>うっふ～ん、いまシャワー中よ。出るまで待ってね（^^；。</translation>
     </message>
     <message>
@@ -12974,7 +13012,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../../psi/src/psioptions.cpp" line="161"/>
-        <source>Can&apos;t chat.  Gotta work.</source>
+        <source>Can't chat.  Gotta work.</source>
         <translation>仕事で多忙です。後にして下さい。</translation>
     </message>
     <message>
@@ -13004,7 +13042,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../../psi/src/psioptions.cpp" line="173"/>
-        <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
+        <source>I'm not available right now and that's all you need to know.</source>
         <translation>今都合が悪いです、その理由をあなたが知る必要はありません。</translation>
     </message>
     <message>
@@ -13169,38 +13207,38 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi/src/psirosterwidget.cpp" line="252"/>
         <source>Remove Group</source>
-        <translation type="unfinished">グループの削除</translation>
+        <translation>グループの削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/psirosterwidget.cpp" line="253"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">グループ内の全てのコンタクトを切り離します。
+        <translation>グループ内の全てのコンタクトを解除します。
 
 続けますか?</translation>
     </message>
     <message>
         <location filename="../../psi/src/psirosterwidget.cpp" line="256"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished">はい(&amp;Y)</translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <location filename="../../psi/src/psirosterwidget.cpp" line="256"/>
         <source>&amp;No</source>
-        <translation type="unfinished">いいえ(&amp;N)</translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
 </context>
 <context>
     <name>PsiToolBar</name>
     <message>
         <source>Configure&amp; Toolbar...</source>
-        <translation type="obsolete">設定&amp;ツールバー...</translation>
+        <translation>設定&amp;ツールバー...</translation>
     </message>
     <message>
         <location filename="../../psi/src/psitoolbar.cpp" line="67"/>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールバーの設定(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -13282,83 +13320,83 @@ Proceed?</source>
     </message>
     <message>
         <source>Away from desk</source>
-        <translation type="obsolete">不在中</translation>
+        <translation>不在中</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation type="obsolete">現在コンピューターから離れています。伝言を残して下さい。</translation>
+        <translation>現在コンピューターから離れています。伝言を残して下さい。</translation>
     </message>
     <message>
         <source>Showering</source>
-        <translation type="obsolete">シャワー中</translation>
+        <translation>シャワー中</translation>
     </message>
     <message>
-        <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation type="obsolete">うっふ～ん、いまシャワー中よ。出るまで待ってね（^^；</translation>
+        <source>I'm in the shower.  You'll have to wait for me to get out.</source>
+        <translation>うっふ～ん、いまシャワー中よ。出るまで待ってね（^^；</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="obsolete">食事中</translation>
+        <translation>食事中</translation>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation type="obsolete">食い物捜索中</translation>
+        <translation>食い物捜索中</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="obsolete">睡眠中</translation>
+        <translation>睡眠中</translation>
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation type="obsolete">熟睡中！！起こすな！</translation>
+        <translation>熟睡中！！起こすな！</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="obsolete">仕事中</translation>
+        <translation>仕事中</translation>
     </message>
     <message>
-        <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="obsolete">仕事で多忙です。後にして下さい。</translation>
+        <source>Can't chat.  Gotta work.</source>
+        <translation>仕事で多忙です。後にして下さい。</translation>
     </message>
     <message>
         <source>Air</source>
-        <translation type="obsolete">散歩</translation>
+        <translation>散歩</translation>
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
-        <translation type="obsolete">いま渋谷で散歩中です…色々無駄遣いしてから帰ります。</translation>
+        <translation>いま渋谷で散歩中です…色々無駄遣いしてから帰ります。</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="obsolete">映画</translation>
+        <translation>映画</translation>
     </message>
     <message>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation type="obsolete">映画を見に行ってきます。よろしいですか？</translation>
+        <translation>映画を見に行ってきます。よろしいですか？</translation>
     </message>
     <message>
         <source>Secret</source>
-        <translation type="obsolete">秘密</translation>
+        <translation>秘密</translation>
     </message>
     <message>
-        <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation type="obsolete">外出中ってのは親に秘密だよ！</translation>
+        <source>I'm not available right now and that's all you need to know.</source>
+        <translation>外出中ってのは親に秘密だよ！</translation>
     </message>
     <message>
         <source>Out for the night</source>
-        <translation type="obsolete">外出中</translation>
+        <translation>外出中</translation>
     </message>
     <message>
         <source>Out for the night.</source>
-        <translation type="obsolete">今夜は遅くなるから伝言ぷ・り・い・ず★</translation>
+        <translation>今夜は遅くなるから伝言ぷ・り・い・ず★</translation>
     </message>
     <message>
         <source>Greece</source>
-        <translation type="obsolete">外国</translation>
+        <translation>外国</translation>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="obsolete">どっか行ってしまいました。ま、いつか帰ってくるよ。</translation>
+        <translation>どっか行ってしまいました。ま、いつか帰ってくるよ。</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacydlg.cpp" line="266"/>
@@ -13368,10 +13406,11 @@ Proceed?</source>
     </message>
     <message>
         <source>There were problems loading the images / icon set.  Be sure you have correctly installed Psi by
-running the install script (&quot;./install&quot;) after unpacking.  See the README for more details.
+running the install script ("./install") after unpacking.  See the README for more details.
 </source>
-        <translation type="obsolete">画像データをロードする際にエラーがありました。
-Psiを正しくインストールしたかREADMEファイルを参照して確認して下さい。</translation>
+        <translation>画像データをロードする際にエラーがありました。
+Psiを正しくインストールしたかREADMEファイルを参照して確認して下さい。
+</translation>
     </message>
     <message>
         <location filename="../../psi/src/common.cpp" line="172"/>
@@ -13403,50 +13442,51 @@ Psiを正しくインストールしたかREADMEファイルを参照して確�
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
 This is unfinished software.  It has been released so that interested users can try it out and perhaps follow its development.  It is not guaranteed to be bugfree, although it is quite stable in my experience.&lt;br&gt;&lt;br&gt;
-One day it will be finished.  Until then, don&apos;t count on every Jabber feature to work.  If you want to assist me in making this program better, feel free to email me bugreports/patches/wishes.&lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate planned features that are not in the program yet.&lt;br&gt;&lt;br&gt;Now that this is out of the way, enjoy Psi!
+One day it will be finished.  Until then, don't count on every Jabber feature to work.  If you want to assist me in making this program better, feel free to email me bugreports/patches/wishes.&lt;br&gt;&lt;br&gt;
+Note: quite a few options/features appear "grayed out".  They indicate planned features that are not in the program yet.&lt;br&gt;&lt;br&gt;Now that this is out of the way, enjoy Psi!
 </source>
-        <translation type="obsolete">&lt;h3&gt;＊＊警告＊＊&lt;/h3&gt;
-このソフトウェアは未完了ソフトです。皆さんによりよいプログラムをと頑張っています。多分バグは少ないと思います。&lt;br&gt;&lt;br&gt;
-あと、いつかは完了させますけどそれまではJabberの全てのフィーチャーが搭載されて無いかもしないけどそういう点はご了承下さい（^^；バグレポート・パッチ・リクエストなどをお送り下さい。&lt;br&gt;&lt;br&gt;
-※：搭載されてないオプションなどは作動不能（メニュー内でグレー）にしてあります。これはそのうち追加する機能です。&lt;br&gt;&lt;br&gt;それでは皆さんPsiをよろしく！</translation>
+        <translation>&lt;h3&gt;＊＊警告＊＊&lt;/h3&gt;
+このソフトウェアは開発中のソフトウェアです。皆さんによりよいプログラムをと頑張っています。多分バグは少ないと思います。&lt;br&gt;&lt;br&gt;
+あと、いつかは完了させますけどそれまではJabberの全ての機能が搭載されて無いかもしないけどそういう点はご了承下さい。バグレポート・パッチ・リクエストなどを歓迎します。&lt;br&gt;&lt;br&gt;
+注意: 搭載されてないオプションなどは作動不能（メニュー内でグレー）にしてあります。これはそのうち追加する機能です。&lt;br&gt;&lt;br&gt;それでは皆さんPsiをよろしく！
+</translation>
     </message>
     <message>
         <source>URL error</source>
-        <translation type="obsolete">ショートカットのエラー</translation>
+        <translation>ショートカットのエラー</translation>
     </message>
     <message>
         <source>Unable to open the URL. You have not selected a mailer (see Options).</source>
-        <translation type="obsolete">メールプログラムが選択されてないのでショートカットを開けませんでした。（オプション参照）</translation>
+        <translation>メールプログラムが選択されてないのでショートカットを開けませんでした。（オプション参照）</translation>
     </message>
     <message>
         <source>Unable to open the URL. You have not selected a browser (see Options).</source>
-        <translation type="obsolete">ウェブブラウザが選択されてないのでショートカットを開けませんでした。（オプション参照）</translation>
+        <translation>ウェブブラウザが選択されてないのでショートカットを開けませんでした。（オプション参照）</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that your custom browser/mailer exists (see Options).</source>
-        <translation type="obsolete">ショートカットを開けませんでした。メールプログラム・ウェブブラウザが見つかりませんでした。（オプション参照）</translation>
+        <translation>ショートカットを開けませんでした。メールプログラム・ウェブブラウザが見つかりませんでした。（オプション参照）</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that you have a web browser installed.</source>
-        <translation type="obsolete">ショートカットを開けませんでした。ウェブブラウザが正しくインストールされているか確認して下さい。</translation>
+        <translation>ショートカットを開けませんでした。ウェブブラウザが正しくインストールされているか確認して下さい。</translation>
     </message>
     <message>
         <source>Unable to open the URL. Ensure that you have KDE installed.</source>
-        <translation type="obsolete">ショートカットを開けませんでした。KDEが正しくインストールされているか確認して下さい。</translation>
+        <translation>ショートカットを開けませんでした。KDEが正しくインストールされているか確認して下さい。</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="obsolete">システム</translation>
+        <translation>システム</translation>
     </message>
     <message>
         <source>Auth Request</source>
-        <translation type="obsolete">承認要求</translation>
+        <translation>承認要求</translation>
     </message>
     <message>
         <location filename="../../psi/src/rc.cpp" line="68"/>
@@ -13455,23 +13495,23 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <source>Headline</source>
-        <translation type="obsolete">見だし</translation>
+        <translation>見だし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">メッセージ</translation>
+        <translation>メッセージ</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="obsolete">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="obsolete">受信</translation>
+        <translation>受信</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
-        <translation type="obsolete">Auto Status (idle)</translation>
+        <translation>Auto Status (idle)</translation>
     </message>
     <message>
         <location filename="../../psi/src/userlist.cpp" line="452"/>
@@ -13619,13 +13659,13 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="909"/>
-        <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation>ショートカットを &apos;クイックコマンドモードに変更&apos; に設定してください、このこのショートカットを使用し、&apos;%1&apos;を入力してください。</translation>
+        <source>Please set a shortcut for 'Change to quick command mode', use that shortcut and enter '%1'.</source>
+        <translation>ショートカットを 'クイックコマンドモードに変更' に設定してください、このこのショートカットを使用し、'%1'を入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/groupchatdlg.cpp" line="911"/>
-        <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation>%1の代わりに&apos;%2&apos;を入力してください。</translation>
+        <source>Please instead press %1 and enter '%2'.</source>
+        <translation>%1の代わりに'%2'を入力してください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/moodcatalog.cpp" line="58"/>
@@ -14109,18 +14149,18 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="72"/>
-        <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation>JIDが &apos;%1&apos; の場合 %2 %3</translation>
+        <source>If JID is '%1' then %2 %3</source>
+        <translation>JIDが '%1' の場合 %2 %3</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="75"/>
-        <source>If Group is &apos;%1&apos; then %2 %3</source>
-        <translation>グループが &apos;%1&apos; の場合 %2 %3</translation>
+        <source>If Group is '%1' then %2 %3</source>
+        <translation>グループが '%1' の場合 %2 %3</translation>
     </message>
     <message>
         <location filename="../../psi/src/privacy/privacylistitem.cpp" line="78"/>
-        <source>If Subscription is &apos;%1&apos; then %2 %3</source>
-        <translation>購読が &apos;%1&apos; の場合 %2 %3</translation>
+        <source>If Subscription is '%1' then %2 %3</source>
+        <translation>購読が '%1' の場合 %2 %3</translation>
     </message>
     <message>
         <location filename="../../psi/src/psigrowlnotifier.cpp" line="66"/>
@@ -14282,60 +14322,61 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <source>No certificate presented.</source>
-        <translation type="obsolete">証明書が提示されていません。</translation>
+        <translation>証明書が提示されていません。</translation>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation type="obsolete">ホスト名が一致しません。</translation>
+        <translation>ホスト名が一致しません。</translation>
     </message>
     <message>
         <source>Invalid Certificate.</source>
-        <translation type="obsolete">無効な証明書です。</translation>
+        <translation>無効な証明書です。</translation>
     </message>
     <message>
         <source>General validation error.</source>
-        <translation type="obsolete">一般的な検証エラー。</translation>
+        <translation>一般的な検証エラー。</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="obsolete">ファイルを選択</translation>
+        <translation>ファイルを選択</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="obsolete">ファイルを選択</translation>
+        <translation>ファイルを選択</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="obsolete">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation type="obsolete">ソケットエラー</translation>
+        <translation>ソケットエラー</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation type="obsolete">サーバーソケットを作成出来ません!</translation>
+        <translation>サーバーソケットを作成出来ません!</translation>
     </message>
     <message>
         <location filename="../../psi/src/applicationinfo.cpp" line="269"/>
         <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>変換エラー</translation>
     </message>
     <message>
         <location filename="../../psi/src/applicationinfo.cpp" line="269"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>古いバージョンの設定データが見つかりましたが現在のバージョンで動作するように変換できませんでした。
+パーミッションとPsiが動作していないことを確認し再試行してみてください。</translation>
     </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
     <message>
         <source>Service Registration</source>
-        <translation type="obsolete">エージェント登録</translation>
+        <translation>エージェント登録</translation>
     </message>
     <message>
-        <source>Registration for &quot;%1&quot;</source>
-        <translation type="obsolete">&quot;%1&quot;用の登録</translation>
+        <source>Registration for "%1"</source>
+        <translation>"%1"用の登録</translation>
     </message>
     <message>
         <location filename="../../psi/src/registrationdlg.cpp" line="182"/>
@@ -14354,16 +14395,16 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <source>Registration was successful.</source>
-        <translation type="obsolete">登録が完了しました。</translation>
+        <translation>登録が完了しました。</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="obsolete">失敗</translation>
+        <translation>失敗</translation>
     </message>
     <message>
         <source>Registration failed.  Reason:
-&quot;%1&quot;</source>
-        <translation type="obsolete">登録に失敗しました。エラーメッセージ：&quot;%1&quot;</translation>
+"%1"</source>
+        <translation>登録に失敗しました。エラーメッセージ："%1"</translation>
     </message>
     <message>
         <location filename="../../psi/src/registrationdlg.cpp" line="157"/>
@@ -14397,8 +14438,8 @@ Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate
     </message>
     <message>
         <location filename="../../psi/src/registrationdlg.cpp" line="268"/>
-        <source>&lt;b&gt;Registration for &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;&quot;%1&quot;の登録フォーム:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <source>&lt;b&gt;Registration for "%1":&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
+        <translation>&lt;b&gt;"%1"の登録フォーム:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/registrationdlg.cpp" line="362"/>
@@ -14430,19 +14471,19 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/removeconfirmationmessagebox.cpp" line="71"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../psi/src/removeconfirmationmessagebox.cpp" line="84"/>
         <location filename="../../psi/src/removeconfirmationmessagebox.cpp" line="228"/>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../../psi/src/removeconfirmationmessagebox.cpp" line="85"/>
         <location filename="../../psi/src/removeconfirmationmessagebox.cpp" line="98"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -14458,11 +14499,11 @@ Reason: %1</source>
     <name>RoomModel</name>
     <message>
         <source>Auto-join</source>
-        <translation type="obsolete">自動参加</translation>
+        <translation>自動参加</translation>
     </message>
     <message>
         <source>Groupchat name</source>
-        <translation type="obsolete">グループチャット名</translation>
+        <translation>グループチャット名</translation>
     </message>
 </context>
 <context>
@@ -14470,33 +14511,33 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/psievent.cpp" line="582"/>
         <source>This user wants to modify your roster.</source>
-        <translation>このユーザーはあなたに名簿の変更を求めています。</translation>
+        <translation>このユーザーはあなたにコンタクトリストの変更を求めています。</translation>
     </message>
 </context>
 <context>
     <name>SSLCertDlg</name>
     <message>
         <source>Organization:</source>
-        <translation type="obsolete">オーガナイゼーション</translation>
+        <translation>オーガナイゼーション</translation>
     </message>
     <message>
         <source>Organizational unit:</source>
-        <translation type="obsolete">オーガナイゼーションユニット</translation>
+        <translation>オーガナイゼーションユニット</translation>
     </message>
 </context>
 <context>
     <name>SSLCertUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Serial Number:</source>
-        <translation type="obsolete">シリアル番号</translation>
+        <translation>シリアル番号</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -14504,7 +14545,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/search.ui" line="16"/>
         <source>Search: %1</source>
-        <translation>検索：&quot;%1&quot;</translation>
+        <translation>検索："%1"</translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="39"/>
@@ -14529,7 +14570,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/search.ui" line="87"/>
         <source>psi/search</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="113"/>
@@ -14539,7 +14580,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/search.ui" line="116"/>
         <source>psi/stop</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="160"/>
@@ -14564,11 +14605,11 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/search.ui" line="204"/>
         <source>XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPPアドレス</translation>
     </message>
     <message>
         <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
+        <translation>Jabber ID</translation>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="239"/>
@@ -14588,7 +14629,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/search.ui" line="252"/>
         <source>psi/vCard</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/search.ui" line="299"/>
@@ -14600,7 +14641,7 @@ Reason: %1</source>
     <name>SearchDlg</name>
     <message>
         <source>Search: %1</source>
-        <translation type="obsolete">検索：&quot;%1&quot;</translation>
+        <translation>検索："%1"</translation>
     </message>
     <message>
         <location filename="../../psi/src/searchdlg.cpp" line="434"/>
@@ -14610,11 +14651,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>There was an error retrieving search results.</source>
-        <translation type="obsolete">検索中にエラーが起きました。</translation>
+        <translation>検索中にエラーが起きました。</translation>
     </message>
     <message>
         <source>Add User</source>
-        <translation type="obsolete">ユーザーの追加</translation>
+        <translation>ユーザーの追加</translation>
     </message>
     <message>
         <location filename="../../psi/src/searchdlg.cpp" line="248"/>
@@ -14667,86 +14708,86 @@ Reason: %1</source>
     <name>SearchUI</name>
     <message>
         <source>SearchUI</source>
-        <translation type="obsolete">検索UI</translation>
+        <translation>検索UI</translation>
     </message>
     <message>
         <source>Search Fields</source>
-        <translation type="obsolete">検索のカテゴリ</translation>
+        <translation>検索のカテゴリ</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="obsolete">検索(&amp;S)</translation>
+        <translation>検索(&amp;S)</translation>
     </message>
     <message>
         <source>St&amp;op</source>
-        <translation type="obsolete">一時停止(&amp;O)</translation>
+        <translation>一時停止(&amp;O)</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="obsolete">別名</translation>
+        <translation>別名</translation>
     </message>
     <message>
         <source>First Name</source>
-        <translation type="obsolete">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation type="obsolete">姓</translation>
+        <translation>姓</translation>
     </message>
     <message>
         <source>E-Mail Address</source>
-        <translation type="obsolete">メールアドレス</translation>
+        <translation>メールアドレス</translation>
     </message>
     <message>
         <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
+        <translation>Jabber ID</translation>
     </message>
     <message>
         <source>&amp;Add Contact</source>
-        <translation type="obsolete">名簿に追加(&amp;A)</translation>
+        <translation>名簿に追加(&amp;A)</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">ユーザーの情報(&amp;I)ユーザーの情報(&amp;I)</translation>
+        <translation>ユーザーの情報(&amp;I)ユーザーの情報(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>Search: %1</source>
-        <translation type="obsolete">検索：&quot;%1&quot;</translation>
+        <translation>検索："%1"</translation>
     </message>
 </context>
 <context>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation type="obsolete">新しいゲーム - </translation>
+        <translation>新しいゲーム...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation type="obsolete">プレイする - </translation>
+        <translation>プレイする - </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation type="obsolete">ゲームを選択してください</translation>
+        <translation>ゲームを選択してください</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation type="obsolete">白のゲーム</translation>
+        <translation>白のゲーム</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation type="obsolete">黒のゲーム</translation>
+        <translation>黒のゲーム</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="obsolete">開始!</translation>
+        <translation>開始!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -14776,8 +14817,8 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/serverlistquerier.cpp" line="87"/>
-        <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>プロトコル &apos;%1&apos; へのリダイレクトはサポートされていません</translation>
+        <source>Redirect to protocol '%1' not supported</source>
+        <translation>プロトコル '%1' へのリダイレクトはサポートされていません</translation>
     </message>
     <message>
         <location filename="../../psi/src/serverlistquerier.cpp" line="92"/>
@@ -14794,193 +14835,193 @@ Reason: %1</source>
     <name>ServicesDlg</name>
     <message>
         <source>Manage Services</source>
-        <translation type="obsolete">エージェント管理</translation>
+        <translation>エージェント管理</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>You must be connected to the server to manage services.  Please login first.</source>
-        <translation type="obsolete">エージェント管理をするにはサーバーと接続しないといけません。まずログインしてください。</translation>
+        <translation>エージェント管理をするにはサーバーと接続しないといけません。まずログインしてください。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>There was an error retrieving the list of services.</source>
-        <translation type="obsolete">エージェントのリストを検出中にエラーが起きました。</translation>
+        <translation>エージェントのリストを検出中にエラーが起きました。</translation>
     </message>
     <message>
         <source>There was an error retrieving the registration form for the %1 service.</source>
-        <translation type="obsolete">&quot;%1&quot;の登録事項の検出中にエラーが起きました。</translation>
+        <translation>"%1"の登録事項の検出中にエラーが起きました。</translation>
     </message>
     <message>
         <source>There was an error retrieving the search form for the %1 service.</source>
-        <translation type="obsolete">&quot;%1&quot;の検索事項の検出中にエラーが起きました。</translation>
+        <translation>"%1"の検索事項の検出中にエラーが起きました。</translation>
     </message>
 </context>
 <context>
     <name>ServicesUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="obsolete">登録する</translation>
+        <translation>登録する</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="obsolete">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="obsolete">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation type="obsolete">登録(&amp;R)</translation>
+        <translation>登録(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="obsolete">検索(&amp;S)</translation>
+        <translation>検索(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>Shortcuts</name>
     <message>
         <source>Shortcuts in the chat dialog</source>
-        <translation type="obsolete">チャットダイアログのショートカット</translation>
+        <translation>チャットダイアログのショートカット</translation>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation type="obsolete">次のタブに切り替え</translation>
+        <translation>次のタブに切り替え</translation>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation type="obsolete">前のタブに切り替え</translation>
+        <translation>前のタブに切り替え</translation>
     </message>
     <message>
         <source>Find text</source>
-        <translation type="obsolete">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Sends the message</source>
-        <translation type="obsolete">メッセージの送信</translation>
+        <translation>メッセージの送信</translation>
     </message>
     <message>
         <source>Clear the text</source>
-        <translation type="obsolete">テキストの消去</translation>
+        <translation>テキストの消去</translation>
     </message>
     <message>
         <source>Change to quick command mode</source>
-        <translation type="obsolete">クイックコマンドモードに変更</translation>
+        <translation>クイックコマンドモードに変更</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
-        <translation type="obsolete">コンタクトリスとのショートカット</translation>
+        <translation>コンタクトリスとのショートカット</translation>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation type="obsolete">選択したコンタクトのカスタムアバターを割り当て</translation>
+        <translation>選択したコンタクトのカスタムアバターを割り当て</translation>
     </message>
     <message>
         <source>Remove custom avatar from the selected contact</source>
-        <translation type="obsolete">選択したコンタクトのカスタムアバターを削除</translation>
+        <translation>選択したコンタクトのカスタムアバターを削除</translation>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation type="obsolete">選択したコンタクトを削除</translation>
+        <translation>選択したコンタクトを削除</translation>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
-        <translation type="obsolete">選択したコンタクトのチャットを開く</translation>
+        <translation>選択したコンタクトのチャットを開く</translation>
     </message>
     <message>
         <source>Send a message to the selected contact</source>
-        <translation type="obsolete">選択したコンタクトにメッセージを送信</translation>
+        <translation>選択したコンタクトにメッセージを送信</translation>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation type="obsolete">イベントを受信</translation>
+        <translation>イベントを受信</translation>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation type="obsolete">選択したコンタクトの名前変更</translation>
+        <translation>選択したコンタクトの名前変更</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation type="obsolete">選択したトランスポートにログオン</translation>
+        <translation>選択したトランスポートにログオン</translation>
     </message>
     <message>
         <source>Common actions</source>
-        <translation type="obsolete">共通動作</translation>
+        <translation>共通動作</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="obsolete">上にスクロール</translation>
+        <translation>上にスクロール</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="obsolete">下にスクロール</translation>
+        <translation>下にスクロール</translation>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation type="obsolete">現在のウィンドウ・タブを閉じる</translation>
+        <translation>現在のウィンドウ・タブを閉じる</translation>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation type="obsolete">メッセージ履歴を開く</translation>
+        <translation>メッセージ履歴を開く</translation>
     </message>
     <message>
         <source>Show the user info of the contact</source>
-        <translation type="obsolete">コンタクトのユーザー情報を表示</translation>
+        <translation>コンタクトのユーザー情報を表示</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="obsolete">外部アプリケーションのショートカットが有効</translation>
+        <translation>外部アプリケーションのショートカットが有効</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation type="obsolete">アプリケーションの表示・非表示</translation>
+        <translation>アプリケーションの表示・非表示</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation type="obsolete">アプリケーションを前面に表示</translation>
+        <translation>アプリケーションを前面に表示</translation>
     </message>
     <message>
         <source>Send new message</source>
-        <translation type="obsolete">新規メッセージの送信</translation>
+        <translation>新規メッセージの送信</translation>
     </message>
     <message>
         <source>Shortcuts in the message dialog</source>
-        <translation type="obsolete">メッセージダイアログへのショートカット</translation>
+        <translation>メッセージダイアログへのショートカット</translation>
     </message>
     <message>
         <source>Send the message</source>
-        <translation type="obsolete">メッセージの送信</translation>
+        <translation>メッセージの送信</translation>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
-        <translation type="obsolete">ステータスダイアグへのショートカット</translation>
+        <translation>ステータスダイアグへのショートカット</translation>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation type="obsolete">ステータスメッセージの設定</translation>
+        <translation>ステータスメッセージの設定</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="obsolete">サービスディスカバリダイアログへのショートカット</translation>
+        <translation>サービスディスカバリダイアログへのショートカット</translation>
     </message>
 </context>
 <context>
@@ -15043,179 +15084,179 @@ Reason: %1</source>
     <name>Stanza::Error::Private</name>
     <message>
         <source>Bad request</source>
-        <translation type="obsolete">不正なリクエスト</translation>
+        <translation>不正なリクエスト</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="obsolete">送信者が不正なXMLを送信したか、処理を継続できません。</translation>
+        <translation>送信者が不正なXMLを送信したか、処理を継続できません。</translation>
     </message>
     <message>
         <source>Conflict</source>
-        <translation type="obsolete">競合</translation>
+        <translation>競合</translation>
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="obsolete">アクセス権限が在りませんでした。既にリソースが存在しているか同名か同じアドレスのセッションが存在します。</translation>
+        <translation>アクセス権限が在りませんでした。既にリソースが存在しているか同名か同じアドレスのセッションが存在します。</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="obsolete">機能が実装されていません</translation>
+        <translation>機能が実装されていません</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="obsolete">要求された機能は宛先のクライアントもしくはサーバーで実装されていない為、処理を継続できません。</translation>
+        <translation>要求された機能は宛先のクライアントもしくはサーバーで実装されていない為、処理を継続できません。</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation type="obsolete">禁止されています</translation>
+        <translation>禁止されています</translation>
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="obsolete">要求されたエントリは処理されませんでした。動作が機能するためには権限を必要とします。</translation>
+        <translation>要求されたエントリは処理されませんでした。動作が機能するためには権限を必要とします。</translation>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="obsolete">完了</translation>
+        <translation>完了</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="obsolete">宛先かサーバーは長い間このアドレスと接続されていません。</translation>
+        <translation>宛先かサーバーは長い間このアドレスと接続されていません。</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="obsolete">内部サーバーエラー</translation>
+        <translation>内部サーバーエラー</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="obsolete">サーバーはスタンザを処理できませんでした、理由は設定ミスか未定義の内部エラーによるものです。</translation>
+        <translation>サーバーはスタンザを処理できませんでした、理由は設定ミスか未定義の内部エラーによるものです。</translation>
     </message>
     <message>
         <source>Item not found</source>
-        <translation type="obsolete">項目が見つかりません</translation>
+        <translation>項目が見つかりません</translation>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="obsolete">リクエストされたJID、項目は見つかりませんでした。</translation>
+        <translation>リクエストされたJID、項目は見つかりませんでした。</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation type="obsolete">JIDは不正です</translation>
+        <translation>JIDは不正です</translation>
     </message>
     <message>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="obsolete">送信中の実体はXMPPアドレス(例、属性の値)あるいはアスペクト(例、リソース識別子)はアドレッシングスキーマで定義される構文に準拠していません。</translation>
+        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the 'to' attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation>送信中の実体はXMPPアドレス(例、属性の値)あるいはアスペクト(例、リソース識別子)はアドレッシングスキーマで定義される構文に準拠していません。</translation>
     </message>
     <message>
         <source>Not acceptable</source>
-        <translation type="obsolete">受け入れられません</translation>
+        <translation>受け入れられません</translation>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="obsolete">宛先かサーバーは要求を理解しましたが定義された基準を満たさなかった為処理を拒否します(例、メッセージ内の単語の許可に関するローカルポリシー)。</translation>
+        <translation>宛先かサーバーは要求を理解しましたが定義された基準を満たさなかった為処理を拒否します(例、メッセージ内の単語の許可に関するローカルポリシー)。</translation>
     </message>
     <message>
         <source>Not allowed</source>
-        <translation type="obsolete">許可されませんでした</translation>
+        <translation>許可されませんでした</translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="obsolete">宛先かサーバーはこの動作を実行するための実体を許可していません。</translation>
+        <translation>宛先かサーバーはこの動作を実行するための実体を許可していません。</translation>
     </message>
     <message>
         <source>Not authorized</source>
-        <translation type="obsolete">承認されませんでした</translation>
+        <translation>承認されませんでした</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="obsolete">動作の実行が許可される前に正規な証明書を提供しなければ成りません、あるいは不正な証明書が提供されました。</translation>
+        <translation>動作の実行が許可される前に正規な証明書を提供しなければ成りません、あるいは不正な証明書が提供されました。</translation>
     </message>
     <message>
         <source>Payment required</source>
-        <translation type="obsolete">支払いが要求されました</translation>
+        <translation>支払いが要求されました</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="obsolete">支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
-        <translation type="obsolete">宛先に到達出来ません</translation>
+        <translation>宛先に到達出来ません</translation>
     </message>
     <message>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="obsolete">目的の宛先は一時的に無効です。</translation>
+        <translation>目的の宛先は一時的に無効です。</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="obsolete">リダイレクト</translation>
+        <translation>リダイレクト</translation>
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="obsolete">他のエンティティの実体であるため、宛先かサーバーは一時的に要求をリダイレクトしています。</translation>
+        <translation>他のエンティティの実体であるため、宛先かサーバーは一時的に要求をリダイレクトしています。</translation>
     </message>
     <message>
         <source>Registration required</source>
-        <translation type="obsolete">登録が要求されました</translation>
+        <translation>登録が要求されました</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="obsolete">登録が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>登録が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <source>Remote server not found</source>
-        <translation type="obsolete">リモートサーバーが見つかりません</translation>
+        <translation>リモートサーバーが見つかりません</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="obsolete">リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。</translation>
+        <translation>リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
-        <translation type="obsolete">リモートサーバーがタイムアウトしました</translation>
+        <translation>リモートサーバーがタイムアウトしました</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="obsolete">リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。(もしくは要求されたリクエストは)一定時間内に到達出来ませんでした。</translation>
+        <translation>リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。(もしくは要求されたリクエストは)一定時間内に到達出来ませんでした。</translation>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation type="obsolete">リソース制限</translation>
+        <translation>リソース制限</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="obsolete">サーバーか宛先は要求されたサービスに必要なリソースが足りていません。</translation>
+        <translation>サーバーか宛先は要求されたサービスに必要なリソースが足りていません。</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="obsolete">サービスは利用出来ません</translation>
+        <translation>サービスは利用出来ません</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="obsolete">サーバーか宛先は要求されたサービスを現在提供していません。</translation>
+        <translation>サーバーか宛先は要求されたサービスを現在提供していません。</translation>
     </message>
     <message>
         <source>Subscription required</source>
-        <translation type="obsolete">購読を要求されました</translation>
+        <translation>購読を要求されました</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="obsolete">購読が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>購読が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <source>Undefined condition</source>
-        <translation type="obsolete">状態が定義されていません</translation>
+        <translation>状態が定義されていません</translation>
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="obsolete">エラー条件はこれらの中のリストに挙げる条件の内の一つではありせん。</translation>
+        <translation>エラー条件はこれらの中のリストに挙げる条件の内の一つではありせん。</translation>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation type="obsolete">予期しない要求</translation>
+        <translation>予期しない要求</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="obsolete">宛先かサーバーは要求を理解できましたが、これは予期されていませんでした(例: 規定外の要求)。</translation>
+        <translation>宛先かサーバーは要求を理解できましたが、これは予期されていませんでした(例: 規定外の要求)。</translation>
     </message>
 </context>
 <context>
@@ -15247,7 +15288,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set Status</source>
-        <translation type="obsolete">ステータス変更</translation>
+        <translation>ステータス変更</translation>
     </message>
     <message>
         <location filename="../../psi/src/statusdlg.cpp" line="108"/>
@@ -15282,7 +15323,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi/src/statusdlg.cpp" line="227"/>
-        <source>Can&apos;t create a blank preset!</source>
+        <source>Can't create a blank preset!</source>
         <translation>空のプリセットは作成出来ません!</translation>
     </message>
     <message>
@@ -15306,22 +15347,22 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/statusdlg.cpp" line="72"/>
         <source>Status for %1</source>
-        <translation>&quot;%1&quot;のステータス状況</translation>
+        <translation>"%1"のステータス状況</translation>
     </message>
 </context>
 <context>
     <name>Stream</name>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="obsolete">接続を拒否されました。</translation>
+        <translation>接続を拒否されました。</translation>
     </message>
 </context>
 <context>
@@ -15374,29 +15415,29 @@ Reason: %1</source>
     <message>
         <location filename="../../psi/src/tabs/tabdlg.cpp" line="518"/>
         <source> is composing</source>
-        <translation>は入力中です</translation>
+        <translation> は入力中です</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="obsolete">切断されました</translation>
+        <translation>切断されました</translation>
     </message>
 </context>
 <context>
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>
-        <translation type="obsolete">XMPPテスト</translation>
+        <translation>XMPPテスト</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="obsolete">接続(&amp;C)</translation>
+        <translation>接続(&amp;C)</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="obsolete">%1 について</translation>
+        <translation>%1 について</translation>
     </message>
     <message>
         <source>%1 v1.0
@@ -15408,7 +15449,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="obsolete">%1 v1.0
+        <translation>%1 v1.0
 
 Iris XMPPライブラリのデモユーティリティ.
 
@@ -15420,196 +15461,196 @@ Copyright (C) 2003 Justin Karneges</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="obsolete">接続を行うための完全JIDを入力してください。</translation>
+        <translation>接続を行うための完全JIDを入力してください。</translation>
     </message>
     <message>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="obsolete">プロキシの為に ホスト:ポート を指定する必要があります。</translation>
+        <translation>プロキシの為に ホスト:ポート を指定する必要があります。</translation>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="obsolete">少なくとも httpポールで使用するURLを入力する必要があります。</translation>
+        <translation>少なくとも httpポールで使用するURLを入力する必要があります。</translation>
     </message>
     <message>
-        <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="obsolete">プロキシのホストを &apos;ホスト:ポート&apos;の形式で入力してください。</translation>
+        <source>Please enter the proxy host in the form 'host:port'.</source>
+        <translation>プロキシのホストを 'ホスト:ポート'の形式で入力してください。</translation>
     </message>
     <message>
-        <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="obsolete">ホストを &apos;ホスト:ポート&apos;の形式で入力してください。</translation>
+        <source>Please enter the host in the form 'host:port'.</source>
+        <translation>ホストを 'ホスト:ポート'の形式で入力してください。</translation>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="obsolete">エラー: SSF Min が SSF Max より大きいです。</translation>
+        <translation>エラー: SSF Min が SSF Max より大きいです。</translation>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="obsolete">エラー: TLSが無効です。 全てのTLSオプションが無効です。</translation>
+        <translation>エラー: TLSが無効です。 全てのTLSオプションが無効です。</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="obsolete">切断(&amp;D)</translation>
+        <translation>切断(&amp;D)</translation>
     </message>
     <message>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="obsolete">不正なXML入力 (%1,%2): %3
+        <translation>不正なXML入力 (%1,%2): %3
 再度正しく入力してください。</translation>
     </message>
     <message>
-        <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="obsolete">不正なスタンザ &apos;%1&apos;。 &apos;message&apos;, &apos;presence&apos;,&apos;iq&apos; のいずれかである必要があります</translation>
+        <source>Bad Stanza '%1'.  Must be 'message', 'presence', or 'iq'</source>
+        <translation>不正なスタンザ '%1'。 'message', 'presence','iq' のいずれかである必要があります</translation>
     </message>
     <message>
         <source>You must enter at least one stanza!</source>
-        <translation type="obsolete">最低限のスタンザを入力する必要があります!</translation>
+        <translation>最低限のスタンザを入力する必要があります!</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="obsolete">パスワード</translation>
+        <translation>パスワード</translation>
     </message>
     <message>
         <source>Enter the password for %1</source>
-        <translation type="obsolete">%1 のパスワードを入力してください</translation>
+        <translation>%1 のパスワードを入力してください</translation>
     </message>
 </context>
 <context>
     <name>TestUI</name>
     <message>
         <source>Form1</source>
-        <translation type="obsolete">フォーム1</translation>
+        <translation>フォーム1</translation>
     </message>
     <message>
         <source>Core</source>
-        <translation type="obsolete">コア</translation>
+        <translation>コア</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="obsolete">サーバー</translation>
+        <translation>サーバー</translation>
     </message>
     <message>
         <source>Full JID:</source>
-        <translation type="obsolete">完全JID:</translation>
+        <translation>完全JID:</translation>
     </message>
     <message>
         <source>User (if needed):</source>
-        <translation type="obsolete">ユーザー名(必要な場合):</translation>
+        <translation>ユーザー名(必要な場合):</translation>
     </message>
     <message>
         <source>Pass:</source>
-        <translation type="obsolete">パスワード:</translation>
+        <translation>パスワード:</translation>
     </message>
     <message>
         <source>SSL</source>
-        <translation type="obsolete">SSL</translation>
+        <translation>SSL</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">なし</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <source>HTTP(S)</source>
-        <translation type="obsolete">HTTP(S)</translation>
+        <translation>HTTP(S)</translation>
     </message>
     <message>
         <source>SOCKS5</source>
-        <translation type="obsolete">SOCKS5</translation>
+        <translation>SOCKS5</translation>
     </message>
     <message>
         <source>HTTP Polling</source>
-        <translation type="obsolete">HTTPポーリング</translation>
+        <translation>HTTPポーリング</translation>
     </message>
     <message>
         <source>Host:Port:</source>
-        <translation type="obsolete">ホスト:ポート:</translation>
+        <translation>ホスト:ポート:</translation>
     </message>
     <message>
         <source>Legacy SSL probe</source>
-        <translation type="obsolete">古いSSLポートを調べる</translation>
+        <translation>古いSSLポートを調べる</translation>
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="obsolete">プロキシ:</translation>
+        <translation>プロキシ:</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="obsolete">プロキシ設定</translation>
+        <translation>プロキシ設定</translation>
     </message>
     <message>
         <source>User/Pass:</source>
-        <translation type="obsolete">ユーザー/パスワード:</translation>
+        <translation>ユーザー/パスワード:</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="obsolete">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation type="obsolete">ポーリングURL:</translation>
+        <translation>ポーリングURL:</translation>
     </message>
     <message>
         <source>Security Settings</source>
-        <translation type="obsolete">セキュリティ設定</translation>
+        <translation>セキュリティ設定</translation>
     </message>
     <message>
         <source>Allow plaintext login</source>
-        <translation type="obsolete">プレーンテキストログインを許可</translation>
+        <translation>プレーンテキストログインを許可</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation type="obsolete">相互認証を要求する</translation>
+        <translation>相互認証を要求する</translation>
     </message>
     <message>
         <source>SASL SSF min/max:</source>
-        <translation type="obsolete">SASL SSF min/max:</translation>
+        <translation>SASL SSF min/max:</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="obsolete">接続(&amp;C)</translation>
+        <translation>接続(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="obsolete">情報(&amp;A)</translation>
+        <translation>情報(&amp;A)</translation>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="obsolete">クイックXML &gt;&gt;</translation>
+        <translation>クイックXML &gt;&gt;</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="obsolete">宛先:</translation>
+        <translation>宛先:</translation>
     </message>
     <message>
         <source>&amp;IM Session</source>
-        <translation type="obsolete">IMセッション(&amp;IM)</translation>
+        <translation>IMセッション(&amp;IM)</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="obsolete">メッセージ(&amp;M)</translation>
+        <translation>メッセージ(&amp;M)</translation>
     </message>
     <message>
         <source>IQ &amp;Version</source>
-        <translation type="obsolete">IQバージョン(&amp;IQ)</translation>
+        <translation>IQバージョン(&amp;IQ)</translation>
     </message>
     <message>
         <source>IM</source>
-        <translation type="obsolete">IM</translation>
+        <translation>IM</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="obsolete">送信(&amp;S)</translation>
+        <translation>送信(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="obsolete">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
 </context>
 <context>
@@ -15617,17 +15658,17 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi/src/tip.ui" line="16"/>
         <source>Useful Tips</source>
-        <translation>便利な技</translation>
+        <translation>ヒント</translation>
     </message>
     <message>
         <location filename="../../psi/src/tip.ui" line="59"/>
         <source>psi/logo_128</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/tip.ui" line="189"/>
         <source>Show tips at startup</source>
-        <translation>起動時に技を表示</translation>
+        <translation>起動時にヒントを表示</translation>
     </message>
     <message>
         <location filename="../../psi/src/tip.ui" line="212"/>
@@ -15642,7 +15683,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi/src/tip.ui" line="218"/>
         <source>psi/arrowLeft</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/tip.ui" line="225"/>
@@ -15657,7 +15698,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi/src/tip.ui" line="231"/>
         <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../psi/src/tip.ui" line="238"/>
@@ -15676,14 +15717,14 @@ Please correct and try again.</source>
         <location filename="../../psi/src/tipdlg.cpp" line="63"/>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href="http://psi-im.org"&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href="http://forum.psi-im.org/"&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align="right"&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>こんにちは! Psiをダウンロードしてくれてありがとう!
 私たちは皆さんにPsiを楽しんで使ってもらえるように、私たちも楽しみながら開発をしています!
-&lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href=&quot;http://psi-im.org&quot;&gt;Psiホームページ&lt;/a&gt;。
-&lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psiフォーラム&lt;/a&gt;。
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psiチームより&lt;/i&gt;&lt;/div&gt;</translation>
+&lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href="http://psi-im.org"&gt;Psiホームページ&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href="http://forum.psi-im.org/"&gt;Psiフォーラム&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;&lt;div align="right"&gt;&lt;i&gt;Psiチームより&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="67"/>
@@ -15708,141 +15749,144 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <location filename="../../psi/src/tipdlg.cpp" line="77"/>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;"/clear" to clear chat view&lt;/li&gt;
+&lt;li&gt;"/me &amp;lt;message&amp;gt;" '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
+&lt;li&gt;"/nick &amp;lt;new_nickname&amp;gt;" to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
         <translation>チャットダイアログ・グループチャットダイアログでは、3つの特別なコマンドを使用できます:
 &lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; でチャットウィンドウを消去します&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;メッセージ&amp;gt;&quot; &apos;/me&apos; はあなたのニックネームで置き換えられます&lt;/li&gt;
+&lt;li&gt;"/clear" でチャットウィンドウを消去します&lt;/li&gt;
+&lt;li&gt;"/me &amp;lt;メッセージ&amp;gt;" '/me' はあなたのニックネームで置き換えられます&lt;/li&gt;
 &lt;/ul&gt;
 そしてこれはグループチャットダイアログでのみ動作します:
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;新しいニックネーム&amp;gt;&quot; あなたのニックネームを変更します&lt;/li&gt;
+&lt;li&gt;"/nick &amp;lt;新しいニックネーム&amp;gt;" あなたのニックネームを変更します&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="86"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiに複数のXMPPアカウントを登録できる事を知っていますか? Psiはあなたの個人的なアカウントと仕事用のアカウント別ける事が出来ます。あなたが上級者で最新のXMPP機能を持った不安定なサーバーをテストしたい場合も、2つのクライアントを起動することなく安定したサーバーに接続することが出来ます。これはアカウントの設定画面で追加をクリックするだけです。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="88"/>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the "transport-specific icons" option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name="psi/smile"&gt;</source>
+        <translation>AIMやICQなどの外部のIMネットワークとチャットしていますか? その場合「トランス用アイコン」オプションションを有効にしてみてください。これはあなたの仲間が何処のネットワークを使用しているかを一目で見ることが出来ます。そして、彼らをXMPPに切り替えるように誘う事が出来ます。&lt;icon name="psi/smile"&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="94"/>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as "mrcool@jabber.org" to your friends, and "John.J.Smith_the_fourth@mycompany.com" to business associates.</source>
+        <translation>Psiは一つのクライアントで複数のサーバーに同時に接続できる事を知っていますか? あなたは友人に「mrcool@jabber.org」というアドレスを連絡しつつ、仕事仲間に「John.J.Smith_the_fourth@mycompany.com」というアドレスを知らせることが出来ます。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="100"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>異なるIMネットワークのコンタクトを追加する為にはXMPPサーバーから対応するエージェントを追加する必要があります。Psiメニュー -&gt; サービスディスカバリーを見てください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="104"/>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+Note: Some server may disable transport registration to users from different servers, but that's not common yet.</source>
+        <translation>トランスポートやチャットルームを探していますか?
+Psiメニュー -&gt; サービスディスカバリでXMPPサーバーのドメイン名を入力するとサポートしているサービスの一覧を確認できます。
+&lt;br&gt;&lt;br&gt;
+注意: サーバーは外部のサーバーからのトランスポートの登録を出来ないようにしているかもしれません。</translation>
     </message>
     <message>
         <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="obsolete">Psiに複数のJabberアカウントを登録できる事を知っていますか? Psiはあなたの個人的なアカウントと仕事用のアカウント別ける事が出来ます。あなたが上級者で最新のJabber機能を持った不安定なサーバーをテストしたい場合も、2つのクライアントを起動することなく安定したサーバーに接続することが出来ます。これはアカウントの設定画面で追加をクリックするだけです。</translation>
+        <translation>Psiに複数のJabberアカウントを登録できる事を知っていますか? Psiはあなたの個人的なアカウントと仕事用のアカウント別ける事が出来ます。あなたが上級者で最新のJabber機能を持った不安定なサーバーをテストしたい場合も、2つのクライアントを起動することなく安定したサーバーに接続することが出来ます。これはアカウントの設定画面で追加をクリックするだけです。</translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="obsolete">AIMやICQなどの外部のIMネットワークでチャットしていますか? その場合 &quot;トランスポート仕様アイコン&quot; オプションを有効にしてみてください。これはあなたの仲間が何処のネットワークを使用しているかを一目で見ることが出来ます。そして、彼をJabberに切り替えるように誘う事が出来ます。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the "transport-specific icons" option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name="psi/smile"&gt;</source>
+        <translation>AIMやICQなどの外部のIMネットワークでチャットしていますか? その場合 "トランスポート仕様アイコン" オプションを有効にしてみてください。これはあなたの仲間が何処のネットワークを使用しているかを一目で見ることが出来ます。そして、彼をJabberに切り替えるように誘う事が出来ます。&lt;icon name="psi/smile"&gt;</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="90"/>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>アカウント設定ダイアログのチェックボックスでアカウントを有効・無効化出来る事を知っていますか? これは滅多に使用しないアカウントを無効化して名簿を整理するのに役立つかもしれません。</translation>
+        <translation>アカウント設定ダイアログのチェックボックスでアカウントを有効・無効化出来る事を知っていますか? これは滅多に使用しないアカウントを無効化してコンタクトリストを整理するのに役立つかもしれません。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="92"/>
-        <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
+        <source>Don't like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it's available through toolbars' context menu.  You can even make a toolbar that floats!</source>
         <translation>ボタンの場所が気に入らないですか? ステータスを離席に変更するショートカットが欲しいですか? ツールバーウィンドウ設定を見てください、これはツールバーのコンテキストメニューを見渡せます。さらにツールバーを移動する事も出来ます!</translation>
     </message>
     <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="obsolete">Psiは一つのクライアントで複数のサーバーに同時に接続できる事を知っていますか? あなたは友人に &quot;mrcool@jabber.org&quot; として知らせつつ、仕事仲間に &quot;John.J.Smith_the_fourth@mycompany.com&quot; として知らせることが出来ます。</translation>
+        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as "mrcool@jabber.org" to your friends, and "John.J.Smith_the_fourth@mycompany.com" to business associates.</source>
+        <translation>Psiは一つのクライアントで複数のサーバーに同時に接続できる事を知っていますか? あなたは友人に "mrcool@jabber.org" として知らせつつ、仕事仲間に "John.J.Smith_the_fourth@mycompany.com" として知らせることが出来ます。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="96"/>
-        <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Gadu-Gadu や Trillian から変換したカッコいい顔文字が欲しいと思いますか? 大丈夫、私たちは既に変換しています! &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; を見てください、たくさんの &quot;アイコンセット&quot; はPsiをあなたの好きなように見せられるように追加する事が出来ます!</translation>
+        <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href="http://jisp.netflint.net"&gt;http://jisp.netflint.net&lt;/a&gt; for tons of "Iconsets" that can be added to Psi to make it look the way you like!</source>
+        <translation>Gadu-Gadu や Trillian から変換したカッコいい顔文字が欲しいと思いますか? 大丈夫、私たちは既に変換しています! &lt;a href="http://jisp.netflint.net"&gt;http://jisp.netflint.net&lt;/a&gt; を見てください、たくさんの "アイコンセット" はPsiをあなたの好きなように見せられるように追加する事が出来ます!</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="98"/>
-        <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Psiでは多くのオブジェクトをミドルクリックして&quot;デフォルト動作を実行&quot;出来る事を知っていますか?(ミドルクリックは3ボタンマウスにあります)コンタクト上でミドルクリックを試してみてください。</translation>
+        <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will "perform the default action" on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
+        <translation>Psiでは多くのオブジェクトをミドルクリックして"デフォルト動作を実行"出来る事を知っていますか?(ミドルクリックは3ボタンマウスにあります)コンタクト上でミドルクリックを試してみてください。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="obsolete">異なるIMネットワークのコンタクトを追加する為にはJabberサーバーから対応するエージェントを追加する必要があります。 Psiメニュー -&gt; サービスディスカバリーを見てください。</translation>
+        <translation>異なるIMネットワークのコンタクトを追加する為にはJabberサーバーから対応するエージェントを追加する必要があります。 Psiメニュー -&gt; サービスディスカバリーを見てください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="102"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>名簿内のサーバー名を右クリックして幾つかの機能を実行することが出来ます。ステータスを変更したり、アカウント設定を変更したり、権限があれば管理設定を行うことも出来ます。</translation>
+        <translation>コンタクトリスト内のサーバー名を右クリックして幾つかの機能を実行することが出来ます。ステータスを変更したり、アカウント設定を変更したり、権限があれば管理設定を行うことも出来ます。</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="obsolete">あなたの使用しているサーバーが提供していないトランスポートやチャットルームを探していますか? メニュー -&gt; サービスディスカバリーのアドレスフィールドに任意のJabberサーバーのドメインを入力してください。
+Note: Some server may disable transport registration to users from different servers, but that's not common yet.</source>
+        <translation>あなたの使用しているサーバーが提供していないトランスポートやチャットルームを探していますか? メニュー -&gt; サービスディスカバリーのアドレスフィールドに任意のJabberサーバーのドメインを入力してください。
 &lt;br&gt;&lt;br&gt;
 注意: 幾つかのサーバーは異なるサーバーからのトランスポート登録を禁止しているかもしれません、ただしこれはまだ一般的ではありません。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="106"/>
-        <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
+        <source>If you're chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you'll realise how powerful it is.</source>
         <translation>頻繁にグループチャットを使用している場合、ニックネームの補完はとても重要な機能です。最も便利なショートカットは &lt;tt&gt;タブ-タブ&lt;/tt&gt; です。これはあなたが最後に名指しした人のニックネームを新しい行か、後の行に挿入します。続けて &lt;tt&gt;Tab&lt;/tt&gt; を押すことでルーム内の全ての人のニックネームをループさせる事が出来ます。&lt;br/&gt;&lt;br/&gt;もっと複雑なシナリオ: &lt;tt&gt;mblsha&lt;/tt&gt; と &lt;tt&gt;Monster&lt;/tt&gt; と &lt;tt&gt;mbl-revolution&lt;/tt&gt; が同じチャットルームに居たとします。そこで &lt;tt&gt;m&lt;/tt&gt; と入力して &lt;tt&gt;Tab&lt;/tt&gt; を押しても目立った動作は起きないでしょう。何故ならば &lt;tt&gt;m&lt;/tt&gt; で始まるニックネームが複数存在するからです、あなたは &lt;tt&gt;タブ&lt;/tt&gt; を押しつづけることで全ての &lt;tt&gt;m&lt;/tt&gt; から始まる全てのニックネームをループしたり、補完がユニークになるまで文字を入力することが出来ます。この時 &lt;tt&gt;b&lt;/tt&gt; を入力して &lt;tt&gt;Tab&lt;/tt&gt; を入力すると &lt;tt&gt;mbl&lt;/tt&gt; を補完する事が出来ます。この機能は使えば使うほど好きになり、依存してしまうでしょう。ニックネーム補完を誰かに使ってみて、この機能がどれくらい強力か実感してみください。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="110"/>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>これは最後の技です。
-&lt;br&gt;&lt;br&gt;あなた自身の&quot;今日の技&quot;を貢献したい場合、&lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psiフォーラム&lt;/a&gt;に投稿してください(もしくは開発者にメールしてください)、そうすれば次期リリースに統合され私たちは幸せです。</translation>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own "tip of the day", please publish it on the &lt;a href="http://forum.psi-im.org"&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we'll be happy to integrate it for the next release.</source>
+        <translation>これは最後のヒントです。
+&lt;br&gt;&lt;br&gt;あなた自身の「今日のヒント」を貢献したい場合、&lt;a href="http://forum.psi-im.org"&gt;Psiフォーラム&lt;/a&gt;に投稿してください(もしくは開発者にメールしてください)、そうすれば次期リリースに統合され、みんなが幸せになるでしょう。</translation>
     </message>
     <message>
         <location filename="../../psi/src/tipdlg.cpp" line="159"/>
         <source>Contributed by</source>
-        <translation>貢献 - </translation>
+        <translation>貢献 -</translation>
     </message>
 </context>
 <context>
     <name>TipUI</name>
     <message>
         <source>&amp;Next</source>
-        <translation type="obsolete">次(&amp;N)</translation>
+        <translation>次(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>ToolbarDlg</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="obsolete">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="obsolete">キャンセル(&amp;C)</translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
 </context>
 <context>
@@ -15888,7 +15932,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi/src/widgets/urlobject.cpp" line="73"/>
         <source>Chat with</source>
-        <translation>チャット - </translation>
+        <translation>チャット -</translation>
     </message>
     <message>
         <location filename="../../psi/src/widgets/urlobject.cpp" line="77"/>
@@ -16292,7 +16336,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/stream.cpp" line="783"/>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">提示されたメカニズム:</translation>
+        <translation>提示されたメカニズム: </translation>
     </message>
 </context>
 <context>
@@ -16300,52 +16344,52 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="181"/>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="unfinished">エラー: 機能クラスの使い方が間違っています</translation>
+        <translation>エラー: Featuresクラスの使い方が間違っています</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="182"/>
         <source>None</source>
-        <translation type="unfinished">なし</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="183"/>
         <source>Register</source>
-        <translation type="unfinished">登録する</translation>
+        <translation>登録</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="184"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="185"/>
         <source>Groupchat</source>
-        <translation type="unfinished">グループチャット</translation>
+        <translation>グループチャット</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="186"/>
         <source>Gateway</source>
-        <translation type="unfinished">ゲートウェイ</translation>
+        <translation>ゲートウェイ</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="187"/>
         <source>Service Discovery</source>
-        <translation type="unfinished">サービスディスカバリ</translation>
+        <translation>サービスディスカバリ</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="188"/>
         <source>VCard</source>
-        <translation type="unfinished">VCard</translation>
+        <translation>VCard</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="189"/>
         <source>Execute command</source>
-        <translation type="unfinished">コマンド実行</translation>
+        <translation>コマンド実行</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="192"/>
         <source>Add to roster</source>
-        <translation type="unfinished">名簿に追加</translation>
+        <translation>コンタクトリストに追加</translation>
     </message>
 </context>
 <context>
@@ -16353,7 +16397,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1083"/>
         <source>No VCard available</source>
-        <translation type="unfinished">VCardは無効です</translation>
+        <translation>有効なVCardがありません</translation>
     </message>
 </context>
 <context>
@@ -16361,222 +16405,222 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>Bad request</source>
-        <translation type="unfinished">不正なリクエスト</translation>
+        <translation>不正なリクエスト</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished">送信者が不正なXMLを送信したか、処理を継続できません。</translation>
+        <translation>XMLが不正のため、処理を継続できません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Conflict</source>
-        <translation type="unfinished">競合</translation>
+        <translation>競合しました</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished">アクセス権限が在りませんでした。既にリソースが存在しているか同名か同じアドレスのセッションが存在します。</translation>
+        <translation>アクセス権限がありません。既に同名のリソースが存在しているか、同じアドレスのセッションが存在します。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>Feature not implemented</source>
-        <translation type="unfinished">機能が実装されていません</translation>
+        <translation>機能が実装されていません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished">要求された機能は宛先のクライアントもしくはサーバーで実装されていない為、処理を継続できません。</translation>
+        <translation>要求された機能は宛先のクライアントもしくはサーバーで実装されていない為、処理を継続できません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>Forbidden</source>
-        <translation type="unfinished">禁止されています</translation>
+        <translation>禁止されています</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished">要求されたエントリは処理されませんでした。動作が機能するためには権限を必要とします。</translation>
+        <translation>要求されたエントリは処理されませんでした。動作が機能するためには権限を必要とします。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>Gone</source>
-        <translation type="unfinished">完了</translation>
+        <translation>ありません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished">宛先かサーバーは長い間このアドレスと接続されていません。</translation>
+        <translation>この宛先はこのアドレスと接続されていません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>Internal server error</source>
-        <translation type="unfinished">内部サーバーエラー</translation>
+        <translation>内部サーバーエラー</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished">サーバーはスタンザを処理できませんでした、理由は設定ミスか未定義の内部エラーによるものです。</translation>
+        <translation>サーバーはスタンザを処理できませんでした、理由は設定ミスか未定義の内部エラーによるものです。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>Item not found</source>
-        <translation type="unfinished">項目が見つかりません</translation>
+        <translation>項目が見つかりません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished">リクエストされたJID、項目は見つかりませんでした。</translation>
+        <translation>リクエストされたJID、項目は見つかりませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>JID malformed</source>
-        <translation type="unfinished">JIDは不正です</translation>
+        <translation>JIDが不正です</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished">送信中の実体はXMPPアドレス(例、属性の値)あるいはアスペクト(例、リソース識別子)はアドレッシングスキーマで定義される構文に準拠していません。</translation>
+        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the 'to' attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation>送信中の実体はXMPPアドレス(例、属性の値)あるいはアスペクト(例、リソース識別子)はアドレッシングスキーマで定義される構文に準拠していません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>Not acceptable</source>
-        <translation type="unfinished">受け入れられません</translation>
+        <translation>受け入れられません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished">宛先かサーバーは要求を理解しましたが定義された基準を満たさなかった為処理を拒否します(例、メッセージ内の単語の許可に関するローカルポリシー)。</translation>
+        <translation>宛先かサーバーは要求を理解しましたが定義された基準を満たさなかった為処理を拒否します(例、メッセージ内の単語の許可に関するローカルポリシー)。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>Not allowed</source>
-        <translation type="unfinished">許可されませんでした</translation>
+        <translation>許可されませんでした</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished">宛先かサーバーはこの動作を実行するための実体を許可していません。</translation>
+        <translation>宛先かサーバーはこの動作を実行するための実体を許可していません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>Not authorized</source>
-        <translation type="unfinished"></translation>
+        <translation>許可されていません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished">動作の実行が許可される前に正規な証明書を提供しなければ成りません、あるいは不正な証明書が提供されました。</translation>
+        <translation>送信者は正しいクレデンシャルを提示する必要があります、あるいは不正なクレデンシャルが提供されました。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>Payment required</source>
-        <translation type="unfinished">支払いが要求されました</translation>
+        <translation>支払いが要求されました</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="unfinished">支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>Recipient unavailable</source>
-        <translation type="unfinished">宛先に到達出来ません</translation>
+        <translation>宛先に到達出来ません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished">目的の宛先は一時的に無効です。</translation>
+        <translation>宛先は一時的に無効です。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Redirect</source>
-        <translation type="unfinished">リダイレクト</translation>
+        <translation>リダイレクト</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished">他のエンティティの実体であるため、宛先かサーバーは一時的に要求をリダイレクトしています。</translation>
+        <translation>他のエンティティの実体であるため、宛先かサーバーは一時的に要求をリダイレクトしています。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>Registration required</source>
-        <translation type="unfinished">登録が要求されました</translation>
+        <translation>登録が要求されました</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished">登録が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>登録が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>Remote server not found</source>
-        <translation type="unfinished">リモートサーバーが見つかりません</translation>
+        <translation>リモートサーバーが見つかりません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished">リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。</translation>
+        <translation>リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>Remote server timeout</source>
-        <translation type="unfinished">リモートサーバーがタイムアウトしました</translation>
+        <translation>リモートサーバーがタイムアウトしました</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished">リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。(もしくは要求されたリクエストは)一定時間内に到達出来ませんでした。</translation>
+        <translation>リモートサーバーかサービスに宛先として指定されたJIDが存在しませんでした。(もしくは要求されたリクエストは)一定時間内に到達出来ませんでした。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>Resource constraint</source>
-        <translation type="unfinished">リソース制限</translation>
+        <translation>リソース制限</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished">サーバーか宛先は要求されたサービスに必要なリソースが足りていません。</translation>
+        <translation>サーバーか宛先は要求されたサービスに必要なリソースが足りていません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>Service unavailable</source>
-        <translation type="unfinished">サービスは利用出来ません</translation>
+        <translation>サービスは利用出来ません</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished">サーバーか宛先は要求されたサービスを現在提供していません。</translation>
+        <translation>サーバーか宛先は要求されたサービスを現在提供していません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="268"/>
         <source>Subscription required</source>
-        <translation type="unfinished">購読を要求されました</translation>
+        <translation>購読を要求されました</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="268"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished">購読が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation>購読が要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="269"/>
         <source>Undefined condition</source>
-        <translation type="unfinished">状態が定義されていません</translation>
+        <translation>未定義の状態</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="269"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished">エラー条件はこれらの中のリストに挙げる条件の内の一つではありせん。</translation>
+        <translation>エラー条件はこれらの中のリストに挙げる条件の内の一つではありせん。</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
         <source>Unexpected request</source>
-        <translation type="unfinished">予期しない要求</translation>
+        <translation>予期しない要求</translation>
     </message>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="270"/>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished">宛先かサーバーは要求を理解できましたが、これは予期されていませんでした(例: 規定外の要求)。</translation>
+        <translation>宛先かサーバーは要求を理解できましたが、これは予期されていませんでした(例: 規定外の要求)。</translation>
     </message>
 </context>
 <context>
@@ -16584,14 +16628,14 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>切断しました</translation>
     </message>
 </context>
 <context>
     <name>XmlConsole</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">閉じる(&amp;C)</translation>
+        <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi/src/xmlconsole.cpp" line="87"/>
@@ -16642,81 +16686,81 @@ Do you still want to close the window?</source>
     <name>jabcon</name>
     <message>
         <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation type="obsolete">アイコンセットがロードできませんでした。Psiを正しくインストールしたか確認して下さい。</translation>
+        <translation>アイコンセットがロードできませんでした。Psiを正しくインストールしたか確認して下さい。</translation>
     </message>
     <message>
         <source>There was an error communicating with the Jabber server.
 Reason: %1</source>
-        <translation type="obsolete">Jabberサーバーとの接続を確立中にエラーが起きました。
+        <translation>Jabberサーバーとの接続を確立中にエラーが起きました。
 エラーメッセージ：%1</translation>
     </message>
     <message>
         <source>Authorization failed.
 Reason: %1</source>
-        <translation type="obsolete">承認に失敗しました。
+        <translation>承認に失敗しました。
 エラーメッセージ：%1</translation>
     </message>
     <message>
         <source>Failed to create the new account.
-The server gave this reason: &quot;%1&quot;</source>
-        <translation type="obsolete">新規アカウント作成に失敗しました。
+The server gave this reason: "%1"</source>
+        <translation>新規アカウント作成に失敗しました。
 エラーメッセージ：%1</translation>
     </message>
     <message>
         <source>You have been disconnected from the Jabber server.</source>
-        <translation type="obsolete">Jabberサーバーとの接続が切断されました。</translation>
+        <translation>Jabberサーバーとの接続が切断されました。</translation>
     </message>
     <message>
         <source>An unknown error occurred.
 Type: %1
 Reason: %2</source>
-        <translation type="obsolete">不明なエラーが起きました。
+        <translation>不明なエラーが起きました。
 エラーメッセージ：%1
 理由：%2</translation>
     </message>
     <message>
         <source>&lt;big&gt;[Error Message]&lt;/big&gt;&lt;br&gt;%1</source>
-        <translation type="obsolete">&lt;big&gt;[エラーメッセージ]&lt;/big&gt;&lt;br&gt;%1</translation>
+        <translation>&lt;big&gt;[エラーメッセージ]&lt;/big&gt;&lt;br&gt;%1</translation>
     </message>
     <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation type="obsolete">&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから承認の要求がありました。承認するには「名簿に追加・承認」ボタンを押して下さい。このユーザーが名簿にまだいない場合、追加されます。</translation>
+        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled "Add/Auth" to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
+        <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから承認の要求がありました。承認するには「名簿に追加・承認」ボタンを押して下さい。このユーザーが名簿にまだいない場合、追加されます。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="obsolete">&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;承認されました。</translation>
+        <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;承認されました。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="obsolete">&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;承認を解除されました。</translation>
+        <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;承認を解除されました。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.</source>
-        <translation type="obsolete">&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから承認の要求がありました。</translation>
+        <translation>&lt;big&gt;[システムメッセージ]&lt;/big&gt;&lt;br&gt;このユーザーから承認の要求がありました。</translation>
     </message>
     <message>
         <source>I am away from my computer.  Please leave a message.</source>
-        <translation type="obsolete">現在コンピューターから離れています。伝言を残して下さい。</translation>
+        <translation>現在コンピューターから離れています。伝言を残して下さい。</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
-        <translation type="obsolete">それを行うにはサーバーに接続しなければいけません。</translation>
+        <translation>それを行うにはサーバーに接続しなければいけません。</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation type="obsolete">プロフィールを変更する前にサーバーから切断してください。</translation>
+        <translation>プロフィールを変更する前にサーバーから切断してください。</translation>
     </message>
     <message>
-        <source>Unable to load the &quot;%1&quot; iconset.</source>
-        <translation type="obsolete">&quot;%1&quot;のアイコンセットをロードできませんでした。</translation>
+        <source>Unable to load the "%1" iconset.</source>
+        <translation>"%1"のアイコンセットをロードできませんでした。</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">警告</translation>
+        <translation>警告</translation>
     </message>
 </context>
 </TS>
