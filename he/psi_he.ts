@@ -9234,7 +9234,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="333"/>
         <source>Send &amp;File</source>
-        <translation>פתח &amp;קובץ</translation>
+        <translation>שלח &amp;קובץ</translation>
     </message>
     <message>
         <location filename="../psi/src/psicontactmenu.cpp" line="336"/>
