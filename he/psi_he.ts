@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="he_IL">
+<TS version="2.0" language="he_IL">
 <context>
     <name>@default</name>
     <message>
@@ -69,7 +69,7 @@
         <source>About</source>
         <translation>אודות</translation>
     </message>
-    <message>
+    <message utf8="true">
         <location filename="../psi/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -114,7 +114,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="48"/>
         <source>Current Maintainer and Original Author</source>
-        <translation>מתחזק נוכחי ומלחין מקורי</translation>
+        <translation>מתחזק נוכחי ומחבר מקורי</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="51"/>
@@ -157,7 +157,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="85"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>Crystal צלמיות רבות הינן לקוחות מתוך סדרת הצלמיות שלו</translation>
+        <translation>Crystal סמלים רבים לקוחים מתוך סדרת הסמלים שלו</translation>
     </message>
     <message>
         <location filename="../psi/src/aboutdlg.cpp" line="88"/>
@@ -237,7 +237,7 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &lt;br&gt;
 Orgad Shaneh &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:orgads@gmail.com&quot;&gt;orgads@gmail.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;מתרגם ,RTL תיקונים לממשק&lt;br&gt;
+&amp;nbsp;&amp;nbsp;מבקר תרגום, מתרגם ,RTL תיקונים לממשק&lt;br&gt;
 
 &lt;p align=center&gt;-= מנשר =-&lt;/p&gt;
 
@@ -263,7 +263,7 @@ Orgad Shaneh &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
         <translation>&lt;qt&gt;אנא בחר &lt;b&gt;שם&lt;/b&gt; ידידותי אשר ביכולתו של Psi להפנות לחשבון זה.&lt;br&gt;
 &lt;br&gt;
-הקלק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים, עליך להשאיר את תיבה זו ריקה.</translation>
+לחץ על תיבת הסימון &lt;b&gt;רשום חשבון חדש&lt;/b&gt; אם ברצונך כי Psi ינסה ויצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים, עליך להשאיר את תיבה זו ריקה.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadd.ui" line="73"/>
@@ -273,7 +273,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountadd.ui" line="85"/>
         <source>Register new account</source>
-        <translation>רישום חשבון חדש</translation>
+        <translation>רשום חשבון חדש</translation>
     </message>
     <message>
         <location filename="../psi/src/accountadd.ui" line="139"/>
@@ -930,7 +930,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="276"/>
         <source>&amp;Next</source>
-        <translation>ה&amp;בא</translation>
+        <translation>&amp;הבא</translation>
     </message>
 </context>
 <context>
@@ -1317,7 +1317,7 @@ Make sure you enter a fully qualified XMPP address.</source>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-אירעה שגיאה בהשגת מידע תרגום של זהות השירות מתוך &quot;%1&quot;.&lt;br&gt;סיבה: %2&lt;br&gt;&lt;br&gt;אפשרי כי השירות לא תומך בתכונה זו.  במקרה שכזה עליך להזין כתובת XMPP באופן ידני עבור האיש קשר אשר ברצונך להוסיף.  דוגמאות:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[כתובת XMPP של מוביל AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[כתובת XMPP של מוביל ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[כתובת XMPP של מוביל MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[כתובת XMPP של מוביל Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+אירעה שגיאה בהשגת מידע תרגום של זהות השירות מתוך &quot;%1&quot;.&lt;br&gt;סיבה: %2&lt;br&gt;&lt;br&gt;אפשרי כי השירות לא תומך בתכונה זו.  במקרה שכזה עליך להזין כתובת XMPP באופן ידני עבור האיש קשר אשר ברצונך להוסיף.  דוגמאות:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[כתובת XMPP של טרנספורט AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[כתובת XMPP של טרנספורט ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[כתובת XMPP של טרנספורט MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[כתובת XMPP של טרנספורט Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../psi/src/Certificates/CertificateDisplay.ui" line="59"/>
         <source>Valid From:</source>
-        <translation>תקפה מן:</translation>
+        <translation>תקפה מאז:</translation>
     </message>
     <message>
         <location filename="../psi/src/Certificates/CertificateDisplay.ui" line="76"/>
@@ -1925,12 +1925,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="93"/>
         <source>&amp;XML Console</source>
-        <translation>&amp;מסוף XML</translation>
+        <translation>מסוף &amp;XML</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="96"/>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;התאמת חשבון...</translation>
+        <translation>התאמת &amp;חשבון...</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="99"/>
@@ -1970,7 +1970,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="129"/>
         <source>&amp;Admin</source>
-        <translation>&amp;הנהלה</translation>
+        <translation>&amp;ניהול</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistaccountmenu.cpp" line="166"/>
@@ -2039,7 +2039,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistspecialgroup.cpp" line="42"/>
         <source>Agents/Transports</source>
-        <translation>סוכנים/מובילים</translation>
+        <translation>סוכנים/טרנספורטים</translation>
     </message>
     <message>
         <location filename="../psi/src/contactlistspecialgroup.cpp" line="46"/>
@@ -2151,7 +2151,7 @@ Do you still want to close the window?</source>
         <location filename="../psi/src/contactview.cpp" line="266"/>
         <location filename="../psi/src/psi_profiles.cpp" line="399"/>
         <source>Agents/Transports</source>
-        <translation>סוכנים/מובילים</translation>
+        <translation>סוכנים/טרנספורטים</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="268"/>
@@ -2241,7 +2241,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="986"/>
         <source>&amp;XML Console</source>
-        <translation>&amp;מסוף XML</translation>
+        <translation>מסוף &amp;XML</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="988"/>
@@ -4480,7 +4480,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/widgets/iconselect.cpp" line="272"/>
         <source>No icons available</source>
-        <translation>אין צלמיות זמינות</translation>
+        <translation>אין סמלים זמינים</translation>
     </message>
 </context>
 <context>
@@ -4488,7 +4488,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/ui_isdetails.ui" line="26"/>
         <source>Iconset Details: %1</source>
-        <translation>פרטי מערך צלמית: %1</translation>
+        <translation>פרטי מערך סמל: %1</translation>
     </message>
     <message>
         <location filename="../psi/src/options/ui_isdetails.ui" line="42"/>
@@ -4557,7 +4557,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_emo.ui" line="38"/>
         <source>Emoticon iconsets</source>
-        <translation>מערכי צלמיות רגשונים</translation>
+        <translation>מערכי סמלי רגשונים</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_emo.ui" line="53"/>
@@ -4590,7 +4590,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="41"/>
         <source>Default roster iconset:</source>
-        <translation>מערך צלמיות שגרתי של רשימה:</translation>
+        <translation>מערך סמלים שגרתי של רשימה:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="48"/>
@@ -4607,7 +4607,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="87"/>
         <source>Use transport specific icons for contacts</source>
-        <translation>השתמש בצלמיות מוביל סגוליות עבור אנשי קשר</translation>
+        <translation>השתמש בסמלים לפי טרנספורט עבור אנשי קשר</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="123"/>
@@ -4618,12 +4618,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="128"/>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="303"/>
         <source>Iconset</source>
-        <translation>מערך צלמיות</translation>
+        <translation>מערך סמלים</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="193"/>
         <source>Service iconsets:</source>
-        <translation>מערכי צלמיות שירות:</translation>
+        <translation>מערכי סמלי שירות:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="201"/>
@@ -4633,7 +4633,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="237"/>
         <source>Iconset:</source>
-        <translation>מערך צלמיות:</translation>
+        <translation>מערך סמלים:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="244"/>
@@ -4658,7 +4658,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_roster.ui" line="313"/>
         <source>Custom iconsets:</source>
-        <translation>מערכי צלמיות מותאמים:</translation>
+        <translation>מערכי סמלים מותאמים:</translation>
     </message>
 </context>
 <context>
@@ -4671,7 +4671,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../psi/src/options/opt_iconset_system.ui" line="28"/>
         <source>System iconset:</source>
-        <translation>מערך צלמיות מערכת:</translation>
+        <translation>מערך סמלי מערכת:</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset_system.ui" line="42"/>
@@ -5263,7 +5263,7 @@ available</source>
     <message>
         <location filename="../psi/src/mucjoindlg.cpp" line="44"/>
         <source>&amp;Join</source>
-        <translation>ה&amp;צטרף</translation>
+        <translation>&amp;הצטרף</translation>
     </message>
     <message>
         <location filename="../psi/src/mucjoindlg.cpp" line="59"/>
@@ -5605,7 +5605,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="60"/>
         <source>Single-click triggers default action</source>
-        <translation>הקלקה-בודדת מפעילה פעולה שגרתית</translation>
+        <translation>לחיצה-בודדת מפעילה פעולה שגרתית</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.ui" line="67"/>
@@ -5923,7 +5923,7 @@ Details: %1</source>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="81"/>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>השתמש בסגנון של &quot;הקלקה-כפולה&quot; (כמו ICQ)</translation>
+        <translation>השתמש בסגנון של &quot;לחיצה-כפולה&quot; (כמו ICQ)</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.ui" line="88"/>
@@ -6579,7 +6579,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="64"/>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>באופן רגיל, הקלקה-כפולה על איש קשר תפעיל את הפעולה השגרתית.  ניתן לסמן את אפשרות זו אם מוטב עבורך להפעילה בעזרת הקלקה-בודדת.</translation>
+        <translation>באופן רגיל, לחיצה-כפולה על איש קשר תפעיל את הפעולה השגרתית.  ניתן לסמן את אפשרות זו אם מוטב עבורך להפעילה בעזרת לחיצה-בודדת.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="67"/>
@@ -6604,7 +6604,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="83"/>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש במוביל של SMS.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש בטרנספורט SMS.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_advanced.cpp" line="85"/>
@@ -6756,7 +6756,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="47"/>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>באופן רגיל, הקלקה-ימנית עם העכבר על איש קשר תשפעל תפריט-הקשר.  ניתן לסמן את אפשרות זו אם מוטב לך לעשות שימוש בהקלקה-שמאלית.</translation>
+        <translation>באופן רגיל, לחיצה-ימנית עם העכבר על איש קשר תשפעל תפריט-הקשר.  ניתן לסמן את אפשרות זו אם מוטב לך לעשות שימוש בלחיצה-שמאלית.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="50"/>
@@ -6766,17 +6766,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="54"/>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יעשה שימוש בצלמית רציפון, ידוע גם כן בתור סמל מגש מערכת.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יעשה שימוש בסמל רציפון, מוכר גם בתור סמל מגש מערכת.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="56"/>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>באופן רגיל, הקלקה-בודדת על צלמית הרציפון של Psi מביאה את החלון הראשי לרקע הקדמי.  ניתן לסמן את אפשרות זו אם ברצונך לעשות שימוש בהקלקה-כפולה במקום.</translation>
+        <translation>באופן רגיל, לחיצה-בודדת על סמל הרציפון של Psi מביאה את החלון הראשי לרקע הקדמי.  ניתן לסמן את אפשרות זו אם ברצונך לעשות שימוש בלחיצה-כפולה במקום.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="59"/>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>התחלת Psi רק עם צלמית הרציפון נראית.</translation>
+        <translation>התחלת Psi רק עם סמל הרציפון נראה.</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_application.cpp" line="61"/>
@@ -6935,7 +6935,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="57"/>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
-        <translation>באיזה סוג של הנפשה על psi להשתמש עבור צלמיות של אירועים נכנסים בחלון הראשי?</translation>
+        <translation>באיזה סוג של הנפשה על psi להשתמש עבור סמלים של אירועים נכנסים בחלון הראשי?</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_events.cpp" line="69"/>
@@ -6971,12 +6971,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="477"/>
         <source>Select your emoticon iconsets</source>
-        <translation>בחר את מערך צלמיות הרגשונים שלך</translation>
+        <translation>בחר מערך סמלי רגשונים שלך</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="503"/>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;רגשונים הינם רצפים קצרים של תווים בהם נעשה שימוש כדי להעביר רגשון או רעיון.&lt;/P&gt;&lt;P&gt;ניתן לאפשר את אפשרות זו אם ברצונך מן Psi להחליף רגשונים מצויים עם תמונה תרשימית.&lt;/P&gt;&lt;P&gt;לדוגמא, &lt;B&gt;:-)&lt;/B&gt; יוחלף עם &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;רגשונים הינם רצפים קצרים של תווים בהם נעשה שימוש כדי להעביר רגשון או רעיון.&lt;/P&gt;&lt;P&gt;ניתן לאפשר את אפשרות זו אם ברצונך כי Psi יחליף רגשונים מצויים עם תמונה תרשימית.&lt;/P&gt;&lt;P&gt;לדוגמא, &lt;B&gt;:-)&lt;/B&gt; יוחלף עם &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -6984,23 +6984,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="655"/>
         <source>Roster Icons</source>
-        <translation>צלמיות רשימה</translation>
+        <translation>סמלי רשימה</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="655"/>
         <source>Select iconsets for your roster</source>
-        <translation>בחר מערך צלמיות עבור רשימתך</translation>
+        <translation>בחר מערך סמלים עבור רשימתך</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="689"/>
         <source>Transport</source>
-        <translation>מוביל</translation>
+        <translation>טרנספורט</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="710"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
         <translatorcomment>האלו</translatorcomment>
-        <translation>משתמשת בצלמיות של מוביל לאנשי קשר, אשר עושים שימוש במובילים נתונים.</translation>
+        <translation>משתמשת בסמלים של טרנספורט לאנשי קשר, אשר משתמשים בטרנספורט נתונים.</translation>
     </message>
 </context>
 <context>
@@ -7008,12 +7008,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="337"/>
         <source>System Icons</source>
-        <translation>צלמיות מערכת</translation>
+        <translation>סמלי מערכת</translation>
     </message>
     <message>
         <location filename="../psi/src/options/opt_iconset.cpp" line="337"/>
         <source>Select the system iconset</source>
-        <translation>בחר את מערך צלמיות המערכת</translation>
+        <translation>בחר את מערך סמלי המערכת</translation>
     </message>
 </context>
 <context>
@@ -8370,12 +8370,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="139"/>
         <source>Show Agents/Transports</source>
-        <translation>הצג סוכנים/מובילים</translation>
+        <translation>הצג סוכנים/טרנספורטים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="140"/>
         <source>Toggles visibility of agents/transports in roster</source>
-        <translation>החלפת ראות של סוכנים/מובילים ברשימה</translation>
+        <translation>החלפת ראות של סוכנים/טרנספורטים ברשימה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="142"/>
@@ -8466,7 +8466,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="213"/>
         <source>Join &amp;Groupchat</source>
-        <translation>שיחת &amp;קבוצה</translation>
+        <translation>הצטרף לשיחת &amp;קבוצה</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="214"/>
@@ -8506,7 +8506,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="220"/>
         <source>&amp;Change Profile</source>
-        <translation>&amp;שנה דיוקן</translation>
+        <translation>שנה &amp;דיוקן</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="222"/>
@@ -8516,7 +8516,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="222"/>
         <source>Play &amp;Sounds</source>
-        <translation>נגן &amp;צלילים</translation>
+        <translation>&amp;נגן צלילים</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="223"/>
@@ -8564,7 +8564,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="233"/>
         <source>Trans&amp;fer Manager</source>
-        <translation>מנהל ה&amp;עברות</translation>
+        <translation>&amp;מנהל העברות</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="234"/>
@@ -8584,7 +8584,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="257"/>
         <source>Publish &amp;Tune</source>
-        <translation>פרסם &amp;לחן</translation>
+        <translation>&amp;פרסם לחן</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="258"/>
@@ -8803,7 +8803,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="308"/>
         <source>Select Icon</source>
-        <translation>בחר צלמית</translation>
+        <translation>בחר סמל</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="312"/>
@@ -9019,7 +9019,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psicon.cpp" line="494"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>אין אפשרות לטעון חוג צלמיות!  אנא ודא כי היישום Psi מותקן כראוי.</translation>
+        <translation>אין אפשרות לטעון מערך סמלים!  אנא ודא כי היישום Psi מותקן כראוי.</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="800"/>
@@ -9683,7 +9683,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../psi/src/psirosterwidget.cpp" line="252"/>
         <source>Remove Group</source>
-        <translation>הסר קבוצה</translation>
+        <translation>הסרת קבוצה</translation>
     </message>
     <message>
         <location filename="../psi/src/psirosterwidget.cpp" line="253"/>
@@ -9808,12 +9808,12 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/Certificates/CertificateErrorDialog.cpp" line="23"/>
         <source>&amp;Trust this certificate</source>
-        <translation>&amp;בטח בתעודה זו</translation>
+        <translation>ב&amp;טח בתעודה זו</translation>
     </message>
     <message>
         <location filename="../psi/src/Certificates/CertificateErrorDialog.cpp" line="25"/>
         <source>&amp;Trust this domain</source>
-        <translation>&amp;בטח במתחם זה</translation>
+        <translation>ב&amp;טח במתחם זה</translation>
     </message>
     <message>
         <location filename="../psi/src/Certificates/CertificateHelpers.cpp" line="141"/>
@@ -11220,14 +11220,14 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>שלום! תודה לכם על שהורדתם את Psi!
 אנו תקוה כי תהיה לכם את האפשרות להפיק הנאה מן יישום זה כפי שאנחנו נהננו להכינו!
-&lt;br&gt;&lt;br&gt;היה וברצונכם להוריד שפת תרגום, מערך צלמיות או גרסא חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;היה וברצונכם להוריד שפת תרגום, מערך סמלים או גרסא חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;במידה ומצאתם תקלה או אם ברצונכם לשוחח עם משתמשי Psi אחרים, ניתן לבקר &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;בפורומים של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;נבחרת Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="67"/>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>באפשרותכם לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
+        <translation>באפשרותכם לבחור רגשונים ומערכי סמלים רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="68"/>
@@ -11279,7 +11279,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="88"/>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>האם אתם משוחחים ברשתות מסרים מידיים צד-שלישי כגון AIM וגם ICQ?  נסו את האפשרות &quot;צלמיות מוביל סגוליות&quot;.  זו תתיר לך להבחין במהירות באיזו רשת חבריכם משתמשים.  באותה העת אתם מוזמנים לשכנע אותם להחליף לרשת התקשורת XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation>האם אתם משוחחים ברשתות מסרים מידיים צד-שלישי כגון AIM וגם ICQ?  נסו לאפשר &quot;סמלים לפי טרנספורט&quot;.  זה יאפשר לכם להבחין במהירות באיזו רשת חבריכם משתמשים.  באותה העת אתם מוזמנים לשכנע אותם להחליף לרשת התקשורת XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="90"/>
@@ -11299,12 +11299,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="96"/>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות צלמיות&quot; אשר ניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
+        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות סמלים&quot; אשר ניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="98"/>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>הידעתם כי הקלקה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) תבצע את &quot;הפעולה השגרתית&quot; על אובייקטים רבים בתוך Psi?  נסו הקלקה-אמצעית על איש קשר או חלון קופץ.</translation>
+        <translation>הידעתם כי לחיצה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) תבצע את &quot;הפעולה השגרתית&quot; על אובייקטים רבים בתוך Psi?  נסו לחיצה-אמצעית על איש קשר או חלון קופץ.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="100"/>
@@ -11314,16 +11314,16 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="102"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>באפשרותכם לעשות שימוש בהקלקה ימנית על שרת ברשימתכם כדי לבצע מספר פעולות שונות.  באפשרותכם לשנות מצב, להתאים הגדרות חשבון, לבצע פעולות מנהליות (במידה ויש לכם הרשאות), ועוד.</translation>
+        <translation>באפשרותכם לעשות שימוש בלחיצה ימנית על שרת ברשימתכם כדי לבצע מספר פעולות שונות.  באפשרותכם לשנות מצב, להתאים הגדרות חשבון, לבצע פעולות מנהליות (במידה ויש לכם הרשאות), ועוד.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="104"/>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>מחפשים אחר מוביל או חדר שיחה, אך השרת שלכם לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
+        <translation>מחפשים אחר טרנספורט או חדר שיחה, אך השרת שלכם לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
 &lt;br&gt;&lt;br&gt;
-הערה: שרתים מסוימים עשויים לנטרל רישום מוביל עבור משתמשים מתוך שרתים אחרים, אבל זה לא שכיח עדיין.</translation>
+הערה: שרתים מסוימים עשויים לנטרל רישום טרנספורט עבור משתמשים מתוך שרתים אחרים, אבל זה לא שכיח עדיין.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="106"/>
