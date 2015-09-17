@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="he_IL">
+<TS version="2.1" language="he_IL">
 <context>
     <name>@default</name>
     <message>
@@ -69,7 +69,7 @@
         <source>About</source>
         <translation>אודות</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../psi/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -700,17 +700,17 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="165"/>
         <source>Baseline</source>
-        <translation type="unfinished"></translation>
+        <translation>קו בסיס</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="166"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>גבוה</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="167"/>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation>גבוה ביותר</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="199"/>
@@ -2131,7 +2131,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/src/contactlistutil.cpp" line="260"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2357,7 +2357,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1320"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ללא</translation>
     </message>
     <message>
         <location filename="../psi/src/contactview.cpp" line="1349"/>
@@ -2584,7 +2584,7 @@ Proceed?</source>
         <location filename="../psi/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
         <comment>Don&apos;t translate this string</comment>
-        <translation type="unfinished"></translation>
+        <translation>סרגל הכלים ימוקם כאן</translation>
     </message>
     <message>
         <location filename="../psi/src/disco.ui" line="51"/>
@@ -3434,7 +3434,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1320"/>
         <source>%1h%2m%3s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:%2:%3</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="1323"/>
@@ -8471,12 +8471,12 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="214"/>
         <source>Account Setup</source>
-        <translation>הבניית חשבון</translation>
+        <translation>התקנת חשבון</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="214"/>
         <source>Acc&amp;ount Setup</source>
-        <translation>הבניית &amp;חשבון</translation>
+        <translation>התקנת &amp;חשבון</translation>
     </message>
     <message>
         <location filename="../psi/src/psiactionlist.cpp" line="216"/>
@@ -8866,7 +8866,7 @@ Reason: %1.</source>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="581"/>
         <source>-- Attached URL(s) --</source>
-        <translation type="unfinished">-- קישור(ים) מצורפים --</translation>
+        <translation>-- קישור(ים) מצורפים --</translation>
     </message>
     <message>
         <location filename="../psi/src/psichatdlg.cpp" line="584"/>
@@ -9087,7 +9087,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicon.cpp" line="1717"/>
         <source>Account setup</source>
-        <translation>הבניית חשבון</translation>
+        <translation>התקנת חשבון</translation>
     </message>
     <message>
         <location filename="../psi/src/psicon.cpp" line="1717"/>
@@ -9139,7 +9139,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../psi/src/psicontactlistviewdelegate.cpp" line="149"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11274,7 +11274,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="86"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>הידעתם כי באפשרותכם לרשום חשבונות XMPP מרובים בעזרת Psi? אם אתם מעוניינים להפריד את עבודתכם מתוך חשבונכם האישי, אתם יכולים.  אם אתם משתמשם מיומנים שרוצים לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, באפשרותכם לעשות כן -- ללא הרצת לקוח שני כדי להתחבר לשרת הקבוע שלכם.  פשוט הקליקו על הוסף בתוך מרקע הבניית חשבון.</translation>
+        <translation>הידעתם כי באפשרותכם לרשום חשבונות XMPP מרובים בעזרת Psi? אם אתם מעוניינים להפריד את עבודתכם מתוך חשבונכם האישי, אתם יכולים.  אם אתם משתמשם מיומנים שרוצים לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, באפשרותכם לעשות כן -- ללא הרצת לקוח שני כדי להתחבר לשרת הקבוע שלכם.  פשוט הקליקו על הוסף בתוך מסך התקנת חשבון.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="88"/>
@@ -11284,7 +11284,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="90"/>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>הידעתם כי באפשרותכם לעשות שימוש בתיבות סימון בדו שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו אתם משתמשים לעתים נדירות, כך שזה לא יסרבל את רשימתכם.</translation>
+        <translation>הידעתם כי באפשרותכם לעשות שימוש בתיבות סימון בדו שיח התקנת חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו אתם משתמשים לעתים נדירות, כך שזה לא יסרבל את רשימתכם.</translation>
     </message>
     <message>
         <location filename="../psi/src/tipdlg.cpp" line="92"/>
@@ -11803,7 +11803,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>ללא</translation>
     </message>
     <message>
         <location filename="../psi/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="183"/>
