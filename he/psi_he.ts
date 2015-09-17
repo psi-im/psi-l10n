@@ -2584,7 +2584,7 @@ Proceed?</source>
         <location filename="../psi/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
         <comment>Don&apos;t translate this string</comment>
-        <translation>סרגל הכלים ימוקם כאן</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../psi/src/disco.ui" line="51"/>
