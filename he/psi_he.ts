@@ -7251,7 +7251,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../psi/src/options/opt_tree.cpp" line="29"/>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation>לצומת לבך: עורך זה ישנה את האפשרויות באופן ישיר. לחיצה על ביטול לא תחזיר את שינויים אלו.</translation>
+        <translation>לתשומת לבך: עורך זה ישנה את האפשרויות באופן ישיר. לחיצה על ביטול לא תחזיר את שינויים אלו.</translation>
     </message>
 </context>
 <context>
