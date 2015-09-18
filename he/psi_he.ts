@@ -634,7 +634,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodify.ui" line="880"/>
         <source>Proxy:</source>
-        <translation>ציר:</translation>
+        <translation>מתווך:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodify.ui" line="895"/>
@@ -755,7 +755,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="236"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation>השתמש באפשרות זו לתצורה ידנית של מארח XMPP אם זה אינו זהה למארח אליו הינך מתחבר.  אפשרות זו שימושית בעיקר אם יש לך סוג מסוים של נתב ציר (proxy) במכונה המקומית שלך (דהיינו התחברות אל localhost), אך חשבונך הינו רשום על שרת חיצוני.</translation>
+        <translation>השתמש באפשרות זו לתצורה ידנית של מארח XMPP אם זה אינו זהה למארח אליו הינך מתחבר.  אפשרות זו שימושית בעיקר אם יש לך סוג מסוים של ניתוב דרך מתווך (proxy) במכונה המקומית שלך (דהיינו התחברות אל localhost), אך חשבונך הינו רשום על שרת חיצוני.</translation>
     </message>
     <message>
         <location filename="../psi/src/accountmodifydlg.cpp" line="242"/>
@@ -915,7 +915,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../psi/src/accountreg.ui" line="192"/>
         <source>Proxy:</source>
-        <translation>ציר:</translation>
+        <translation>מתווך:</translation>
     </message>
     <message>
         <location filename="../psi/src/accountreg.ui" line="199"/>
@@ -3303,7 +3303,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
 
 ודא כי הגדרות מסירת נתונים הינן מתאימות.  באם הינך מאחורי
 נתב NAT או חומת אש אז עליך לפתוח את הפורט המתאים
-מטיפוס TCP או לציין ציר מסירת נתונים בהגדרות חשבונך.</translation>
+מטיפוס TCP או לציין מתווך להעברת נתונים בהגדרות חשבונך.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="946"/>
@@ -3312,9 +3312,9 @@ or specify a Data Transfer Proxy in your account settings.</source>
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>כשל בהתחברות אל, או בשפעול, ציר מסירת נתונים.
+        <translation>כשל בהתחברות אל, או בשפעול, מתווך להעברת נתונים.
 
-זה אומר ששירות ציר אינו מתפקד או שזה אינו בר
+זה אומר ששירות מתווך אינו מתפקד או שזה אינו בר
 השגה.  אם הינך מאחורי חומת אש, אז עליך לוודא
 כי חיבורי TCP יוצאים הינם מותרים.</translation>
     </message>
@@ -3532,17 +3532,17 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="284"/>
         <source>Querying proxy...</source>
-        <translation>כעת מתשאל ציר...</translation>
+        <translation>כעת מתשאל מתווך...</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="290"/>
         <source>Proxy query successful.</source>
-        <translation>שאילתת ציר צלחה.</translation>
+        <translation>שאילתת מתווך הצליחה.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="292"/>
         <source>Proxy query failed!</source>
-        <translation>שאילתת ציר נכשלה!</translation>
+        <translation>שאילתת מתווך נכשלה!</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="297"/>
@@ -3562,7 +3562,7 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="312"/>
         <source>Connecting to proxy...</source>
-        <translation>כעת מתחבר לציר...</translation>
+        <translation>כעת מתחבר למתווך...</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="317"/>
@@ -3582,7 +3582,7 @@ Reason: %3</source>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="451"/>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation>אין אפשרות להתחבר לציר לצורך מסירת נתונים.</translation>
+        <translation>אין אפשרות להתחבר למתווך לצורך מסירת נתונים.</translation>
     </message>
     <message>
         <location filename="../psi/src/filetransdlg.cpp" line="453"/>
@@ -7881,7 +7881,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/proxy.ui" line="14"/>
         <source>Proxy Profiles</source>
-        <translation>דיוקני ציר</translation>
+        <translation>דיוקני מתווך</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.ui" line="34"/>
@@ -7958,7 +7958,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/proxy.cpp" line="315"/>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>הזן את שם המארח ופורט של שרת הציר שלך.</translation>
+        <translation>הזן את שם המארח ופורט של השרת המתווך שלך.</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.cpp" line="316"/>
@@ -7971,17 +7971,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../psi/src/proxy.cpp" line="319"/>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזן שם התחברות שרת ציר (שם משתמש) או הנח את שדה זה ריק במידה ושרת הציר לא מצריכו.</translation>
+        <translation>הזן שם התחברות שרת מתווך (שם משתמש) או הנח את שדה זה ריק במידה והשרת המתווך לא דורש הזדהות.</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.cpp" line="323"/>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזן סיסמת שרת ציר או הנח את שדה זה ריק במידה ושרת הציר לא מצריכה.</translation>
+        <translation>הזן סיסמת שרת מתווך או הנח את שדה זה ריק במידה והשרת המתווך לא דורש סיסמה.</translation>
     </message>
     <message>
         <location filename="../psi/src/proxy.cpp" line="327"/>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>אם קיים צורך בשרת ציר כדי להתחבר, ניתן לבחור טיפוס ציר כאן.</translation>
+        <translation>אם קיים צורך בשרת מתווך כדי להתחבר, ניתן לבחור טיפוס מתווך כאן.</translation>
     </message>
 </context>
 <context>
@@ -8128,17 +8128,17 @@ Do you want to log out ?</source>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1940"/>
         <source>Error connecting to proxy</source>
-        <translation>שגיאה בהתחברות לציר</translation>
+        <translation>שגיאה בהתחברות למתווך</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1942"/>
         <source>Error during proxy negotiation</source>
-        <translation>שגיאה במהלך הסדרת ציר</translation>
+        <translation>שגיאה במהלך הסדרת מתווך</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1944"/>
         <source>Proxy authentication failed</source>
-        <translation>אימות ציר נכשל</translation>
+        <translation>אימות מתווך נכשל</translation>
     </message>
     <message>
         <location filename="../psi/src/psiaccount.cpp" line="1949"/>
@@ -10414,7 +10414,7 @@ Proceed?</source>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="685"/>
         <source>%1 Proxy</source>
-        <translation>%1 ציר</translation>
+        <translation>%1 מתווך</translation>
     </message>
     <message>
         <location filename="../psi/src/psi_profiles.cpp" line="1109"/>
