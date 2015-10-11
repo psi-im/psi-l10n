@@ -5479,7 +5479,7 @@ Reason: %1</source>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="993"/>
         <source>Receive next event</source>
-        <translation>קבלת אירוע בא</translation>
+        <translation>קבל את האירוע הבא</translation>
     </message>
     <message>
         <location filename="../psi/src/mainwin.cpp" line="998"/>
