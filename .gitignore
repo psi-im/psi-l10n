@@ -1,1 +1,4 @@
-/dist
+psi-translations-*
+translations.pro
+out/
+tmp/
