@@ -115,9 +115,12 @@ case "${1}" in
     cp -a "${PSIPLUS_L10N_DIR}/AUTHORS" "${CUR_DIR}/"
     cp -a "${PSIPLUS_L10N_DIR}/COPYING" "${CUR_DIR}/"
 
-    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi+|Psi|" {} \;
-    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi-plus|Psi|" {} \;
-    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|psi-plus|psi|" {} \;
+    find "${CUR_DIR}/translations/" -type f -exec sed -i "s|Psi+|Psi|g" {} \;
+    find "${CUR_DIR}/translations/" -type f -exec sed -i "s|psi-plus|psi|g" {} \;
+
+    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi+|Psi|g" {} \;
+    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi-plus|Psi|g" {} \;
+    find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|psi-plus|psi|g" {} \;
 
     cd "${CUR_DIR}" || exit 1
     git status || exit 1
@@ -210,8 +213,8 @@ case "${1}" in
 "tr_sync")
     # Syncing of Guthub repos.
 
-    "${0}" tr > /dev/null || exit 1
-    "${0}" tr_up > /dev/null || exit 1
+    "${0}" tr || exit 1
+    "${0}" tr_up || exit 1
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
         "${0}" cm || exit 1
@@ -231,6 +234,8 @@ case "${1}" in
     echo "  ./update-translations.sh tr_up"
     echo "  ./update-translations.sh cm"
     echo "  ./update-translations.sh push"
+    echo "  or"
+    echo "  ./update-translations.sh tr_sync"
 
 ;;
 esac
