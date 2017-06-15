@@ -6,33 +6,40 @@
 # Updated: 2017-06-16
 # Version: N/A
 
+set -e
+
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="${CUR_DIR}/.."
 export PSI_DIR="${MAIN_DIR}/psi"
 export PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
 
-cd "${CUR_DIR}" || exit 1
+cd "${CUR_DIR}"
 
 case "${1}" in
 "up")
     # Pulling changes from GitHub repo.
 
-    git pull --all || exit 1
+    git pull --all
 
 ;;
 "cm")
     # Creating correct git commit.
 
-    git commit -a -m 'Sync translations with Psi+ project.' || exit 1
+    git commit -a -m 'Sync translations with Psi+ project.'
 
 ;;
 "tag")
     # Creating correct git tag.
 
-    cd "${PSI_DIR}" || exit 1
-    CUR_TAG="$(git tag -l  | sort -V | tail -n1)"
+    PSI_TAG="1.0.1"
+    DEF_COMMIT=2812a0af876f47b9001fcd3a4af9ad89e2ccb1ea
 
-    cd "${CUR_DIR}" || exit 1
+    PSI_HASH="$(cd ${PSI_DIR} && git show -s --pretty='format:%h')"
+    PSI_NUM="$(cd ${PSI_DIR} && git rev-list --count ${DEF_COMMIT}..HEAD)"
+
+    CUR_TAG="${PSI_TAG}.${PSI_NUM}-${PSI_HASH}"
+
+    cd "${CUR_DIR}"
     echo "git tag \"${CUR_TAG}\""
     git tag "${CUR_TAG}"
 
@@ -44,8 +51,8 @@ case "${1}" in
 "push")
     # Pushing changes into GitHub repo.
 
-    git push || exit 1
-    git push --tags || exit 1
+    git push
+    git push --tags
 
 ;;
 "make")
@@ -59,7 +66,7 @@ case "${1}" in
     lrelease ./translations.pro
 
     mkdir -p out
-    mv translations/*.qm out/ || exit 1
+    mv translations/*.qm out/
 
 ;;
 "install")
@@ -71,7 +78,7 @@ case "${1}" in
     fi
 
     mkdir -p /usr/share/psi/translations/
-    cp out/*.qm /usr/share/psi/translations/ || exit 1
+    cp out/*.qm /usr/share/psi/translations/
 
 ;;
 "tarball")
@@ -80,10 +87,10 @@ case "${1}" in
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
     rm -rf psi-translations-*
-    mkdir psi-translations-${CUR_TAG} || exit 1
-    cp out/*.qm psi-translations-${CUR_TAG} || exit 1
+    mkdir psi-translations-${CUR_TAG}
+    cp out/*.qm psi-translations-${CUR_TAG}
 
-    tar -cJf psi-translations-${CUR_TAG}.tar.xz psi-translations-${CUR_TAG} || exit 1
+    tar -cJf psi-translations-${CUR_TAG}.tar.xz psi-translations-${CUR_TAG}
     echo "Tarball with precompiled translation files is ready for upload:"
     [ ! -z "$(which realpath)" ] && echo "$(realpath ${CUR_DIR}/psi-translations-${CUR_TAG}.tar.xz)"
     echo "https://sourceforge.net/projects/psi/files/Translations/"
@@ -93,19 +100,19 @@ case "${1}" in
     # Pulling updates from Psi+ project.
 
     # Test Internet connection:
-    host github.com > /dev/null || exit 1
+    host github.com > /dev/null
 
-    git status || exit 1
+    git status
 
     if [ -d "${PSIPLUS_L10N_DIR}" ]; then
         echo "Updating ${PSIPLUS_L10N_DIR}"
         cd "${PSIPLUS_L10N_DIR}"
-        git pull --all --prune || exit 1
+        git pull --all --prune
         echo;
     else
         echo "Creating ${PSIPLUS_L10N_DIR}"
         cd "${MAIN_DIR}"
-        git clone https://github.com/psi-plus/psi-plus-l10n.git || exit 1
+        git clone https://github.com/psi-plus/psi-plus-l10n.git
         echo;
     fi
 
@@ -122,29 +129,29 @@ case "${1}" in
     find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi-plus|Psi|g" {} \;
     find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|psi-plus|psi|g" {} \;
 
-    cd "${CUR_DIR}" || exit 1
-    git status || exit 1
+    cd "${CUR_DIR}"
+    git status
 
 ;;
 "tr_up")
     # Full update of localization files.
 
-    git status || exit 1
+    git status
 
     if [ -d "${PSI_DIR}" ]; then
         echo "Updating ${PSI_DIR}"
         cd "${PSI_DIR}"
-        git pull --all --prune || exit 1
-        git submodule init || exit 1
-        git submodule update || exit 1
+        git pull --all --prune
+        git submodule init
+        git submodule update
         echo;
     else
         echo "Creating ${PSI_DIR}"
         cd "${MAIN_DIR}"
-        git clone https://github.com/psi-im/psi.git || exit 1
-        cd "${PSI_DIR}" || exit 1
-        git submodule init || exit 1
-        git submodule update || exit 1
+        git clone https://github.com/psi-im/psi.git
+        cd "${PSI_DIR}"
+        git submodule init
+        git submodule update
         echo;
     fi
 
@@ -183,42 +190,42 @@ case "${1}" in
 
     cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
 
-    git status || exit 1
+    git status
 
 ;;
 "tr_fu")
     # Fast update of localization files.
 
-    git status || exit 1
+    git status
 
     lupdate -verbose ./translations.pro
 
     cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
 
-    git status || exit 1
+    git status
 
 ;;
 "tr_cl")
     # Cleaning update of localization files.
 
-    git status || exit 1
+    git status
 
     lupdate -verbose -no-obsolete ./translations.pro
 
     cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
 
-    git status || exit 1
+    git status
 
 ;;
 "tr_sync")
     # Syncing of Guthub repos.
 
-    "${0}" tr || exit 1
-    "${0}" tr_up || exit 1
+    "${0}" tr
+    "${0}" tr_up
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
-        "${0}" cm || exit 1
-        "${0}" push || exit 1
+        "${0}" cm
+        "${0}" push
     fi
     echo ;
 ;;
