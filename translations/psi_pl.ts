@@ -73,8 +73,8 @@
         <translation>Licencja</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">o Psi+</translation>
+        <source>About Psi</source>
+        <translation>o Psi</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -197,18 +197,6 @@
         <translation>Wtyczka zabezpieczeń: %1</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -224,11 +212,19 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="unfinished">O Psi</translation>
+        <source>psi/logo_48</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1666,8 +1662,8 @@ Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
         <translation type="vanished">email:</translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi+.</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
+        <translation type="vanished">Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi.</translation>
     </message>
 </context>
 <context>
@@ -2068,8 +2064,8 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi+ Cleaner</source>
-        <translation type="vanished">Czyściciel Psi+</translation>
+        <source>Psi Cleaner</source>
+        <translation type="vanished">Czyściciel Psi</translation>
     </message>
     <message>
         <source>History</source>
@@ -3190,8 +3186,8 @@ Kontynuować?</translation>
         <translation type="vanished">email:</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation type="vanished">Ten dodatek stworzono aby ułatwić pobieranie i instalowanie zestawów ikon i innych zasobów dla Psi+</translation>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
+        <translation type="vanished">Ten dodatek stworzono aby ułatwić pobieranie i instalowanie zestawów ikon i innych zasobów dla Psi</translation>
     </message>
 </context>
 <context>
@@ -4260,8 +4256,8 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
         <translation type="vanished">Włącz przy logowaniu konsolę XML</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4272,11 +4268,11 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
         <translation type="vanished">email:</translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="vanished">Ten dodatek zaprojektowano, aby ułatwić konfigurację niektórych zaawansowanych opcji Psi+
+        <translation type="vanished">Ten dodatek zaprojektowano, aby ułatwić konfigurację niektórych zaawansowanych opcji Psi
 Ten dodatek umożliwia dostęp do zaawansowanych opcji programu, które nie mają graficznego interfejsu użytkownika
 
 Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uwagi i zrozumienia wpływy na działanie, przy wykonywaniu zmian.</translation>
@@ -5987,9 +5983,9 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
         <translation type="vanished">email:</translation>
     </message>
     <message>
-        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+        <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="vanished">Ten dodatek jest przeznaczony do usuwania historii wybranych kontaktów, kiedy program Psi+ jest zamknięty.
+        <translation type="vanished">Ten dodatek jest przeznaczony do usuwania historii wybranych kontaktów, kiedy program Psi jest zamknięty.
 Można zaznaczyć lub odznaczyć kontakt do usunięcia historii z poziomu menu kontekstowego kontaktu lub za pomocą opcji dodatku.</translation>
     </message>
 </context>
@@ -6015,6 +6011,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Import Psi profile</source>
         <translation>Importuj profil Psi</translation>
     </message>
@@ -6031,24 +6035,16 @@ p, li { white-space: pre-wrap; }
         <translation>Importuj i usuń profil Psi</translation>
     </message>
     <message>
-        <source>Create new profile</source>
-        <translation>Utwórz nowy profil</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new profile</source>
+        <translation>Utwórz nowy profil</translation>
     </message>
 </context>
 <context>
@@ -11166,6 +11162,22 @@ Przyczyna: %1.</translation>
         <translation>&amp;Strona domowa</translation>
     </message>
     <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">Forum Psi (Online)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Report a Bug (Online)</source>
         <translation>Zgłoś błąd (wymaga dostępu do internetu)</translation>
     </message>
@@ -11283,22 +11295,6 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Forum Psi (Online)</translation>
-    </message>
-    <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12044,16 +12040,16 @@ Czy chcesz teraz aktywować sesję?</translation>
         <translation>Czy na pewno usunąć wszystkie ustawienia zaczynające się od %1?</translation>
     </message>
     <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Really reset options %1 to default value?</source>
         <translation>Naprawdę zresetować opcje %1 do wartości domyślnej?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Naprawdę zresetować wszystkie opcje zaczynające się od %1. do wartości domyślnych?</translation>
+    </message>
+    <message>
+        <source>Psi+: Option Editor</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14430,10 +14426,10 @@ Przyczyna: %1</translation>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation type="vanished">Ta wtyczka jest implementacją XEP-0049: Prywatny napęd XML
 Wtyczka jest w pełni kompatybilna z notatkami zapisanymi za pomocą komunikatora Miranda.
-Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością dostępu do nich z dowolnego miejsca za pomocą komunikatora Psi+ lub Miranda.</translation>
+Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością dostępu do nich z dowolnego miejsca za pomocą komunikatora Psi lub Miranda.</translation>
     </message>
 </context>
 <context>
