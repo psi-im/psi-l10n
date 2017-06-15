@@ -1,28 +1,19 @@
-Psi Translations
-----------------
+This is the special repository with translations for the Psi project:
+  http://psi-im.org/
 
-Each subdirectory is a language code (XX). Inside each should be:
+Homepage: https://github.com/psi-im/psi-l10n
 
-  psi_XX.ts - translation of Psi
-  psi_XX.html - downloading instructions for the website
+These translations are prepared by our translators for Psi+ project and
+semi-automatically adapted for Psi project.
 
-Optionally, a Qt translation can be included:
+If you want to fix one or two words in some translation, you may just write
+about them here: https://github.com/psi-plus/psi-plus-l10n/issues
+But for more amount of changes please join to our translators team:
+  https://www.transifex.com/tehnick/psi-plus/
 
-  qt_XX.ts - translation of qt
+If you find typos in the program sources you may report bug here:
+  https://github.com/psi-im/psi/issues
 
-However, Qt itself already has most translations so you should not store this
-file here unless Qt does not support the language at all and you need
-somewhere to put it. Otherwise, try to work with qt-project.org. When a Psi
-release is produced, the latest translations from Qt will be obtained, but any
-present in this repo will override what comes with Qt.
-
-Please do not commit .qm files to the repo.
-
-If you want to make a brand new translation, the psi_xx.ts file can be copied
-and used as a blank slate.
-
-To compile ALL the language packs:
-
-  QTDIR=/path/to/qt ./build.sh
-
-This will create a directory 'dist' containing all the .qm files.
+Useful links:
+  https://github.com/psi-plus/psi-plus-l10n
+  https://sourceforge.net/projects/psi/files/Translations/
