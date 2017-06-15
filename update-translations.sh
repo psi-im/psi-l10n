@@ -132,11 +132,16 @@ case "${1}" in
         echo "Updating ${PSI_DIR}"
         cd "${PSI_DIR}"
         git pull --all --prune || exit 1
+        git submodule init || exit 1
+        git submodule update || exit 1
         echo;
     else
         echo "Creating ${PSI_DIR}"
         cd "${MAIN_DIR}"
         git clone https://github.com/psi-im/psi.git || exit 1
+        cd "${PSI_DIR}" || exit 1
+        git submodule init || exit 1
+        git submodule update || exit 1
         echo;
     fi
 
