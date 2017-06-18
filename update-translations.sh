@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2017-06-16
+# Updated: 2017-06-18
 # Version: N/A
 
 set -e
@@ -11,6 +11,7 @@ set -e
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="${CUR_DIR}/.."
 export PSI_DIR="${MAIN_DIR}/psi"
+export PLUGINS_DIR="${MAIN_DIR}/plugins"
 export PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
 
 cd "${CUR_DIR}"
@@ -122,9 +123,7 @@ case "${1}" in
     cp -a "${PSIPLUS_L10N_DIR}/AUTHORS" "${CUR_DIR}/"
     cp -a "${PSIPLUS_L10N_DIR}/COPYING" "${CUR_DIR}/"
 
-    find "${CUR_DIR}/translations/" -type f -exec sed -i "s|Psi+|Psi|g" {} \;
-    find "${CUR_DIR}/translations/" -type f -exec sed -i "s|psi-plus|psi|g" {} \;
-
+    # find "${CUR_DIR}/translations/" -type f -exec sed -i "s|Psi+|Psi|g" {} \;
     find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi+|Psi|g" {} \;
     find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|Psi-plus|Psi|g" {} \;
     find "${CUR_DIR}/desktop-file/" -type f -exec sed -i "s|psi-plus|psi|g" {} \;
@@ -155,11 +154,27 @@ case "${1}" in
         echo;
     fi
 
+    if [ -d "${PLUGINS_DIR}" ]; then
+        echo "Updating ${PLUGINS_DIR}"
+        cd "${PLUGINS_DIR}"
+        git pull --all --prune
+        echo;
+    else
+        echo "Creating ${PLUGINS_DIR}"
+        cd "${MAIN_DIR}"
+        git clone https://github.com/psi-im/plugins.git
+        echo;
+    fi
+
     # beginning of magical hack
     cd "${CUR_DIR}"
     rm -fr tmp
     mkdir tmp
     cd tmp/
+
+    mkdir src
+    mkdir src/plugins
+    cp -a "${PLUGINS_DIR}"/* "src/plugins/"
 
     cd "${PSI_DIR}/src"
     python ../admin/update_options_ts.py ../options/default.xml > \
@@ -225,7 +240,6 @@ case "${1}" in
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
         "${0}" cm
-        "${0}" push
     fi
     echo ;
 ;;
@@ -243,6 +257,7 @@ case "${1}" in
     echo "  ./update-translations.sh push"
     echo "  or"
     echo "  ./update-translations.sh tr_sync"
+    echo "  ./update-translations.sh push"
 
 ;;
 esac
