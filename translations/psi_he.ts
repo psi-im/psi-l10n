@@ -69,8 +69,8 @@
         <translation>רשיון</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation>אודות Psi‫+</translation>
+        <source>About Psi+</source>
+        <translation type="vanished">אודות Psi‫+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -205,6 +205,18 @@
         <translation>תוסף אבטחה: %1</translation>
     </message>
     <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -220,19 +232,11 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished"></translation>
+        <source>About Psi</source>
+        <translation type="unfinished">אודות Psi</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <source>psi/logo_48</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -995,6 +999,15 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>ActionsList</name>
+    <message>
+        <source> Enable Off the Record Chat.
+When checked, the server will not
+save the history for this contact.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
@@ -1042,32 +1055,56 @@ Reason: %1</source>
 <context>
     <name>AddKeyDlg</name>
     <message>
+        <source>Generate a new key pair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration date: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>RSA and RSA (default)</source>
-        <translation type="vanished">RSA וגם RSA (ברירת מחדל)</translation>
+        <translation>RSA וגם RSA (ברירת מחדל)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="vanished">DSA וגם Elgamal</translation>
+        <translation>DSA וגם Elgamal</translation>
+    </message>
+    <message>
+        <source>DSA (sign only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RSA (sign only)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="vanished">שם מלא: </translation>
+        <translation>שם מלא: </translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="vanished">מימרת סיסמה: </translation>
+        <translation>מימרת סיסמה: </translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">כתובת דוא״ל: </translation>
+        <translation>כתובת דוא״ל: </translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="vanished">טיפוס מפתח: </translation>
+        <translation>טיפוס מפתח: </translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="vanished">חזרה: </translation>
+        <translation>חזרה: </translation>
     </message>
 </context>
 <context>
@@ -1242,35 +1279,40 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="vanished"> שולחת אליך הודעת הקשב!</translation>
+        <translation> שולחת אליך הודעת הקשב!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="vanished">שליחת הקשב</translation>
+        <translation>שליחת הקשב</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="vanished">תוסף הקשב</translation>
+        <translation>תוסף הקשב</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="vanished">שלחת הודעת הקשב אל %1</translation>
+        <translation>שלחת הודעת הקשב אל %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to send and receive special messages such as Attentions.
+To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1292,67 +1334,106 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="vanished">אפשר</translation>
+        <translation>אפשר</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">נטרל</translation>
+        <translation>נטרל</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">נטרל אם חלון שיחה הינו פעיל</translation>
+        <translation>נטרל אם חלון שיחה הינו פעיל</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="vanished">נטרל אם איש קשר אינו מן רשימתך</translation>
+        <translation>נטרל אם איש קשר אינו מן רשימתך</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">מקוון</translation>
+        <translation>מקוון</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="vanished">נעדר</translation>
+        <translation>נעדר</translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="vanished">נא לא להפריע</translation>
+        <translation>נא לא להפריע</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="vanished">לא זמין</translation>
+        <translation>לא זמין</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">שיחה</translation>
+        <translation>שיחה</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="vanished">בלתי נראה</translation>
+        <translation>בלתי נראה</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="vanished">אפשר אם המצב הוא:</translation>
+        <translation>אפשר אם המצב הוא:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="vanished">הודעת מענה אוטומטי:</translation>
+        <translation>הודעת מענה אוטומטי:</translation>
+    </message>
+    <message>
+        <source>for JIDs and conferences:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also specify a part of JID
+(without any additional symbols)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable for your accounts (specify your JIDs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="vanished">פעמים (‪-1‬=אינספור)</translation>
+        <translation>פעמים (‪-1‬=אינספור)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
+* set a text message for auto-answer
+* exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
+* disable the auto-responder for some of your accounts
+* set the number of sent auto messages
+* set the time interval after which the number of auto messages counter will be reset
+* disable the auto-responder for the active tab
+* disable the auto-responder for contacts that are not in your roster
+The list of exceptions for jids has two operating modes:
+* auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
+* auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1407,45 +1488,58 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="vanished">קובץ ריק</translation>
+        <translation>קובץ ריק</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">אווטאר</translation>
+        <translation>אווטאר</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="vanished">שמירת תמונה</translation>
+        <translation>שמירת תמונה</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="vanished">שמירת אווטאר</translation>
+        <translation>שמירת אווטאר</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">תמונות ‪(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>תמונות ‪(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="obsolete">בחירת קובץ צליל</translation>
+        <translation type="unfinished">בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל (wav.*)</translation>
+        <translation>צליל (wav.*)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play battleship with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1623,12 +1717,16 @@ There was an error getting the Service ID translation information from &quot;%1&
 <context>
     <name>CaptchaDialog</name>
     <message>
+        <source>CAPTCHA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Loading data...</source>
-        <translation type="vanished">מטעין כעת נתונים...</translation>
+        <translation>מטעין כעת נתונים...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="vanished">הודעה מקורית</translation>
+        <translation>הודעה מקורית</translation>
     </message>
 </context>
 <context>
@@ -1642,23 +1740,23 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">תוסף Captcha: ‏CAPTCHA מתוך %1</translation>
+        <translation>תוסף Captcha: ‏CAPTCHA מתוך %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">שגיאה! תמונה לא ניתנת להטענה.</translation>
+        <translation>שגיאה! תמונה לא ניתנת להטענה.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
-        <translation type="vanished">תוסף זה נועד להעביר captcha ישירות מתוך Psi‪+‬.</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation>תוסף זה נועד להעביר captcha ישירות מתוך Psi‪+‬.</translation>
     </message>
 </context>
 <context>
@@ -1932,339 +2030,389 @@ Do you still want to close the window?</source>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="vanished">תוסף שחמט</translation>
+        <translation>תוסף שחמט</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="vanished">שחמט!</translation>
+        <translation>שחמט!</translation>
+    </message>
+    <message>
+        <source>You are already playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="vanished">המשחק נדחה</translation>
+        <translation>המשחק נדחה</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">הפסדת.</translation>
+        <translation>הפסדת.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">ניצחת!</translation>
+        <translation>ניצחת!</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="vanished">תיקו!</translation>
+        <translation>תיקו!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">שגיאה לא מוכרת!</translation>
+        <translation>שגיאה לא מוכרת!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="vanished">תוסף שחמט: הזמנה מאת %1</translation>
+        <translation>תוסף שחמט: הזמנה מאת %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל (wav.*)</translation>
+        <translation>צליל (wav.*)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play chess with your friends.
+The plugin is compatible with a similar plugin for Tkabber.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="vanished">לוח שחמט</translation>
+        <translation>לוח שחמט</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="vanished">תורות:</translation>
+        <translation>תורות:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="vanished">    לבן    שחור
+        <translation>    לבן    שחור
 </translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">טען משחק</translation>
+        <translation>טען משחק</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">שמור משחק</translation>
+        <translation>שמור משחק</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">יציאה</translation>
+        <translation>יציאה</translation>
+    </message>
+    <message>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="vanished">אפשר צליל</translation>
+        <translation>אפשר צליל</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">קובץ</translation>
+        <translation>קובץ</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">משחק</translation>
+        <translation>משחק</translation>
+    </message>
+    <message>
+        <source>*.chs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>  White     Black
 </source>
-        <translation type="vanished">  לבן     שחור
+        <translation>  לבן     שחור
 </translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi Cleaner</source>
-        <translation type="vanished">מנקה Psi‎</translation>
+        <source>Psi+ Cleaner</source>
+        <translation>מנקה Psi+‎</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">היסטוריה</translation>
+        <translation>היסטוריה</translation>
+    </message>
+    <message>
+        <source>vCards</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">אווטארים</translation>
+        <translation>אווטארים</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">סינון:</translation>
+        <translation>סינון:</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="vanished">בחר את כל הקבצים</translation>
+        <translation>בחר את כל הקבצים</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="vanished">בטל בחירה של כל הקבצים</translation>
+        <translation>בטל בחירה של כל הקבצים</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source> files selected</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="vanished">מחק קבצים נבחרים</translation>
+        <translation>מחק קבצים נבחרים</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">מחק בחירה</translation>
+        <translation>מחק בחירה</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="vanished">סגור את מנקה Psi</translation>
+        <translation>סגור את מנקה Psi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="vanished">בחר &amp;דיוקן</translation>
+        <translation>בחר &amp;דיוקן</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="vanished">י&amp;ציאה</translation>
+        <translation>י&amp;ציאה</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="vanished">טהר מטמון &amp;Juick</translation>
+        <translation>טהר מטמון &amp;Juick</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="vanished">טהר מטמון ימי הול&amp;דת</translation>
+        <translation>טהר מטמון ימי הול&amp;דת</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="vanished">&amp;קובץ</translation>
+        <translation>&amp;קובץ</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="vanished">&amp;פעולות</translation>
+        <translation>&amp;פעולות</translation>
     </message>
     <message>
         <source>History files: </source>
-        <translation type="vanished">קבצי היסטוריה: </translation>
+        <translation>קבצי היסטוריה: </translation>
+    </message>
+    <message>
+        <source>vCards: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="vanished">אווטארים:</translation>
+        <translation>אווטארים:</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="vanished">טהר היסטוריה</translation>
+        <translation>טהר היסטוריה</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="vanished">טהר vCards</translation>
+        <translation>טהר vCards</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="vanished">טהר אווטארים</translation>
+        <translation>טהר אווטארים</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="vanished">טהר אפשרויות</translation>
+        <translation>טהר אפשרויות</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="vanished">לא נתמכת עדיין!</translation>
+        <translation>לא נתמכת עדיין!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="vanished">בחירת דיוקן</translation>
+        <translation>בחירת דיוקן</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="vanished">דיוקן:</translation>
+        <translation>דיוקן:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="vanished">טהר מטמון Juick</translation>
+        <translation>טהר מטמון Juick</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="vanished">מטמון Juick טוהר בהצלחה</translation>
+        <translation>מטמון Juick טוהר בהצלחה</translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="vanished">משהו לא בסדר!</translation>
+        <translation>משהו לא בסדר!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="vanished">מטמון לא נמצא!</translation>
+        <translation>מטמון לא נמצא!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="vanished">טהר מטמון ימי הולדת</translation>
+        <translation>טהר מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">טהר מטמון ימי הולדת</translation>
+        <translation>טהר מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="vanished">מטמון ימי הולדת טוהר בהצלחה</translation>
+        <translation>מטמון ימי הולדת טוהר בהצלחה</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="vanished">שגר מנקה</translation>
+        <translation>שגר מנקה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
+You can preview items before deleting them from your hard drive.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">אווטאר</translation>
+        <translation>אווטאר</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">מידה</translation>
+        <translation>מידה</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">תאריך יצירה</translation>
+        <translation>תאריך יצירה</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="vanished">כינוי</translation>
+        <translation>כינוי</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="vanished">מתחם</translation>
+        <translation>מתחם</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">גודל</translation>
+        <translation>גודל</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">תאריך יצירה</translation>
+        <translation>תאריך יצירה</translation>
     </message>
 </context>
 <context>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="vanished">ערכים</translation>
+        <translation>ערכים</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">מן</translation>
+        <translation>מן</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="vanished">סמן</translation>
+        <translation>סמן</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">בטל סימון</translation>
+        <translation>בטל סימון</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="obsolete">הפוך</translation>
+        <translation type="unfinished">הפוך</translation>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>The plugin is intended for substitution of the client version, his name and operating system type.
+You can specify the version of the client and OS or to select them from the preset list.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has requested your version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2278,27 +2426,38 @@ Do you still want to close the window?</source>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="vanished">ביכולתך למצוא את הרשומות שלך כאן:</translation>
+        <translation>ביכולתך למצוא את הרשומות שלך כאן:</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="vanished">רשומות:</translation>
+        <translation>רשומות:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">צפה ברשומות</translation>
+        <translation>צפה ברשומות</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Groupchat History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
+
+Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -3120,11 +3279,15 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3142,7 +3305,7 @@ Proceed?</source>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="vanished">אף פעם</translation>
+        <translation>אף פעם</translation>
     </message>
 </context>
 <context>
@@ -3419,99 +3582,136 @@ Proceed?</source>
 <context>
     <name>EditItemDlg</name>
     <message>
+        <source>Watch For...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JID*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text**</source>
-        <translation type="vanished">תמליל**</translation>
+        <translation>תמליל**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="vanished">*ביטויים רגולרים ניתנים לשימוש</translation>
+        <translation>*ביטויים רגולרים ניתנים לשימוש</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="vanished">**רשימה של מילים ניתנת לשימוש.
+        <translation>**רשימה של מילים ניתנת לשימוש.
   כל מילה יכולה לעשות שימוש בביטוי רגולרי</translation>
     </message>
     <message>
+        <source>Use for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chats</source>
-        <translation type="vanished">שיחות</translation>
+        <translation>שיחות</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">שיחות קבוצה</translation>
+        <translation>שיחות קבוצה</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="vanished">השמע צליל תמיד</translation>
+        <translation>השמע צליל תמיד</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">צליל:</translation>
+        <translation>צליל:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
+        <source>Edit Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Title:</source>
-        <translation type="vanished">כותרת:</translation>
+        <translation>כותרת:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="vanished">תגיות:</translation>
+        <translation>תגיות:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="vanished">הגדרות שרת</translation>
+        <translation>הגדרות שרת</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">שם:</translation>
+        <translation>שם:</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="vanished">‏Url:</translation>
+        <translation>‏Url:</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="vanished">שם משתמש*:</translation>
+        <translation>שם משתמש*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="vanished">סיסמה*:</translation>
+        <translation>סיסמה*:</translation>
+    </message>
+    <message>
+        <source>PostData**:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="vanished">פלט קובץ**:</translation>
+        <translation>פלט קובץ**:</translation>
+    </message>
+    <message>
+        <source>RegExp**:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="vanished">*עבור שרתי FTP בלבד</translation>
+        <translation>*עבור שרתי FTP בלבד</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="vanished">**עבור שרתי HTTP בלבד</translation>
+        <translation>**עבור שרתי HTTP בלבד</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="vanished">השתמש בשרת ציר</translation>
+        <translation>השתמש בשרת ציר</translation>
     </message>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
+        <translation type="unfinished">מחברים: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3724,328 +3924,540 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="vanished">פינג %1</translation>
+        <translation>פינג %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="vanished">פונג מן %1 כעבור %2 שניות</translation>
+        <translation>פונג מן %1 כעבור %2 שניות</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="vanished">תכונה לא מיושמת</translation>
+        <translation>תכונה לא מיושמת</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="vanished">%1 פעילות אחרונה</translation>
+        <translation>%1 פעילות אחרונה</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="vanished">%1 פעילות אחרונה ארעה לפני %2</translation>
+        <translation>%1 פעילות אחרונה ארעה לפני %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="vanished">%1 לא מקוון מלפני %2</translation>
+        <translation>%1 לא מקוון מלפני %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="vanished">%1 זמן פעילות %2</translation>
+        <translation>%1 זמן פעילות %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="vanished">%1 מקוון כעת!</translation>
+        <translation>%1 מקוון כעת!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">שגיאה לא מוכרת!</translation>
+        <translation>שגיאה לא מוכרת!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="vanished">שירות לא זמין</translation>
+        <translation>שירות לא זמין</translation>
+    </message>
+    <message>
+        <source>You are not authorized to retrieve Last Activity information</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="vanished">%1 זמן</translation>
+        <translation>%1 זמן</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="vanished">%1 זמן %2</translation>
+        <translation>%1 זמן %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="vanished">פעולות מורחבות</translation>
+        <translation>פעולות מורחבות</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="vanished">העתק JID</translation>
+        <translation>העתק JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="vanished">העתק כינוי</translation>
+        <translation>העתק כינוי</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="vanished">העתק הודעת מצב</translation>
+        <translation>העתק הודעת מצב</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="vanished">פינג</translation>
+        <translation>פינג</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="vanished">פעילות אחרונה</translation>
+        <translation>פעילות אחרונה</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="vanished">זמן ישות</translation>
+        <translation>זמן ישות</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="vanished">תוסף זה מוסיף מספר פקודות נוספות לתוך תפריט הקשר של אישי קשר.</translation>
+        <translation>תוסף זה מוסיף מספר פקודות נוספות לתוך תפריט הקשר של אישי קשר.</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="vanished">שיחה</translation>
+        <translation>שיחה</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="vanished">לשוניות</translation>
+        <translation>לשוניות</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="vanished">רשימה</translation>
+        <translation>רשימה</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="vanished">תפריט</translation>
+        <translation>תפריט</translation>
+    </message>
+    <message>
+        <source>Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">שונות</translation>
+        <translation>שונות</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="vanished">שאל לווידוא לפני טיהור חלון שיחה</translation>
+        <translation>שאל לווידוא לפני טיהור חלון שיחה</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="vanished">אפשר צלמיות בשיחה</translation>
+        <translation>אפשר צלמיות בשיחה</translation>
+    </message>
+    <message>
+        <source>Scaled message icons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="vanished">הצג אווטאר</translation>
+        <translation>הצג אווטאר</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation type="vanished">אפשר &quot;סגנון אמירה&quot;</translation>
+        <translation>אפשר &quot;סגנון אמירה&quot;</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="vanished">הסתר לחצן &quot;שליחה&quot;</translation>
+        <translation>הסתר לחצן &quot;שליחה&quot;</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="vanished">ממדי אווטאר:</translation>
+        <translation>ממדי אווטאר:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="vanished">מצב JID משתמט:</translation>
+        <translation>מצב JID משתמט:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
+        <translation>הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="vanished">גלול אוטומטית רשומת שיחה כאשר הודעה חדשה נשלחה</translation>
+        <translation>גלול אוטומטית רשומת שיחה כאשר הודעה חדשה נשלחה</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="vanished">הצג שינויי מצב</translation>
+        <translation>הצג שינויי מצב</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="vanished">הצג עדיפות מצב</translation>
+        <translation>הצג עדיפות מצב</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="vanished">כותרת חלון שיחה:</translation>
+        <translation>כותרת חלון שיחה:</translation>
+    </message>
+    <message>
+        <source>Default JID mode ignore list:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">כללי</translation>
+        <translation>כללי</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="vanished">הצג כניסות</translation>
+        <translation>הצג כניסות</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="vanished">הצג כניסות ראשוניות</translation>
+        <translation>הצג כניסות ראשוניות</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="vanished">הצג מצב עם עדיפות</translation>
+        <translation>הצג מצב עם עדיפות</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="vanished">הצג שינויי תפקיד וסינוף</translation>
+        <translation>הצג שינויי תפקיד וסינוף</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="vanished">הסכמה אוטומטית של תצורת החדר</translation>
+        <translation>הסכמה אוטומטית של תצורת החדר</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="vanished">הסכמה אוטומטית של תצורת החדר המשתמטת כאשר חדר חדש נוצר</translation>
+        <translation>הסכמה אוטומטית של תצורת החדר המשתמטת כאשר חדר חדש נוצר</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="vanished">פתיחה אוטומטית של דו־שיח התצורה כאשר חדר חדש נוצר</translation>
+        <translation>פתיחה אוטומטית של דו־שיח התצורה כאשר חדר חדש נוצר</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="vanished">פתיחה אוטומטית של דו־שיח התצורה כאשר חדר חדש נוצר.
+        <translation>פתיחה אוטומטית של דו־שיח התצורה כאשר חדר חדש נוצר.
 לאפשרות זו יש השפעה אם accept-defaults הינו false.</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">שיחת קבוצה</translation>
+        <translation type="unfinished">שיחת קבוצה</translation>
+    </message>
+    <message>
+        <source>Enable autojoin for bookmarked groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide groupchat on auto-join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable HTML rendering in groupchat chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat leave status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="vanished">הצג קבוצות</translation>
+        <translation>הצג קבוצות</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="vanished">השתמש בכותרות קבוצה רזות</translation>
+        <translation>השתמש בכותרות קבוצה רזות</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="vanished">הצג צלמיות מצב</translation>
+        <translation>הצג צלמיות מצב</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="vanished">הצג צלמיות סינוף</translation>
+        <translation>הצג צלמיות סינוף</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="vanished">הצג צלמית לקוח</translation>
+        <translation>הצג צלמית לקוח</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="vanished">הצג אווטארים</translation>
+        <translation>הצג אווטארים</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="vanished">השם אווטארים בימין</translation>
+        <translation>השם אווטארים בימין</translation>
+    </message>
+    <message>
+        <source>Sort style for contacts:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="vanished">ממדי אווטארים:</translation>
+        <translation>ממדי אווטארים:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="vanished">רדיוס אווטארים:</translation>
+        <translation>רדיוס אווטארים:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="vanished">פתור כינויים בעת הוספת איש קשר</translation>
+        <translation>פתור כינויים בעת הוספת איש קשר</translation>
+    </message>
+    <message>
+        <source>Lockdown roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact name and status message in a row</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="vanished">במידה ולאיש קשר אין אווטאר, נצל אווטאר משתמט</translation>
+        <translation>במידה ולאיש קשר אין אווטאר, נצל אווטאר משתמט</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="vanished">השם צלמית מצב על אווטאר</translation>
+        <translation>השם צלמית מצב על אווטאר</translation>
+    </message>
+    <message>
+        <source>Automatically remove temporary contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltips:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="vanished">הצג אווטאר</translation>
+        <translation>הצג אווטאר</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="vanished">הצג מצב אחרון</translation>
+        <translation>הצג מצב אחרון</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="vanished">הצג PGP</translation>
+        <translation>הצג PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="vanished">הצג גירסת לקוח</translation>
+        <translation>הצג גירסת לקוח</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="vanished">הצג מיקום גאוגרפי</translation>
+        <translation>הצג מיקום גאוגרפי</translation>
+    </message>
+    <message>
+        <source>Show &quot;Admin&quot; option in account menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Active Chats&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Picture&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Change Profile&quot; option in main menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Chat&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;Invisible&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &quot;XA&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable single messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Popup border color:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="vanished">צבע קישור:</translation>
+        <translation>צבע קישור:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="vanished">צבע Mailto:</translation>
+        <translation>צבע Mailto:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="vanished">צבע של אחראים:</translation>
+        <translation>צבע של אחראים:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="vanished">צבע של משתתפים:</translation>
+        <translation>צבע של משתתפים:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="vanished">צבע של מבקרים:</translation>
+        <translation>צבע של מבקרים:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="vanished">צבע של מי שאינו בעל תפקיד:</translation>
+        <translation>צבע של מי שאינו בעל תפקיד:</translation>
+    </message>
+    <message>
+        <source>Groupchat roster coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable sound notifications for every groupchat message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text color for &quot;composing&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text color for &quot;unread&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="vanished">צבעים:</translation>
+        <translation>צבעים:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="vanished">חלון קופץ</translation>
+        <translation>חלון קופץ</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="vanished">תיבה צצה</translation>
+        <translation>תיבה צצה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS עבור Psi‪+&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS עבור Psi‪+&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Disable wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put tabs at bottom of chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Close Button on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status icons on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide tab when close chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow closing inactive tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable windows flashing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Single Account&quot; mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="vanished">אפשר מסוף-XML בעת התחברות</translation>
+        <translation>אפשר מסוף-XML בעת התחברות</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Enable last activity server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is Away</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4470,19 +4882,19 @@ Reason: %3</source>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="vanished">נדרש אימות Proxy</translation>
+        <translation>נדרש אימות Proxy</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="vanished">טען רשימת קשר</translation>
+        <translation>טען רשימת קשר</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="vanished">הורדה והתקנה</translation>
+        <translation>הורדה והתקנה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5015,17 +5427,47 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GameModel</name>
+    <message>
+        <source>The first turn can be only H8.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="obsolete">%1: הזמנה מאת %2</translation>
+        <translation type="unfinished">%1: הזמנה מאת %2</translation>
+    </message>
+</context>
+<context>
+    <name>GameSessionList</name>
+    <message>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="vanished">%1: הזמנה מאת %2</translation>
+        <translation>%1: הזמנה מאת %2</translation>
+    </message>
+    <message>
+        <source>Incorrect parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are already playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5270,117 +5712,171 @@ You lost the game.</source>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="vanished">הגדרת סיסמה</translation>
+        <translation>הגדרת סיסמה</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">סיסמה:</translation>
+        <translation>סיסמה:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="vanished">אימות סיסמה:</translation>
+        <translation>אימות סיסמה:</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="vanished">סיסמה לא תואמת</translation>
+        <translation>סיסמה לא תואמת</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="vanished">השגת שם סקין</translation>
+        <translation>השגת שם סקין</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">שם: </translation>
+        <translation>שם: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">גרסא: </translation>
+        <translation>גרסא: </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">אישור</translation>
+        <translation>אישור</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
+        <source>Enter text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Font</source>
-        <translation type="vanished">בחירת גופן</translation>
+        <translation>בחירת גופן</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
+        <source>No-save state for contact %1 is changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings for an account %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared Status for an account %1 is updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes for contact %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - דואר נכנס!&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;mail.google.com - דואר נכנס!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="vanished">בחירת תוכנית</translation>
+        <translation>בחירת תוכנית</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="vanished">חסימת איש קשר של gmail</translation>
+        <translation>חסימת איש קשר של gmail</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>Shows notifications of new messages in your Gmailbox.
+Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key %1 sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play gomoku with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku game!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5391,10 +5887,21 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="vanished">בחירת אזור</translation>
+        <translation>בחירת אזור</translation>
     </message>
 </context>
 <context>
@@ -5413,7 +5920,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="vanished">קיצור דרך חדש</translation>
+        <translation>קיצור דרך חדש</translation>
     </message>
 </context>
 <context>
@@ -5633,31 +6140,31 @@ You lost the game.</source>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">היסטוריה</translation>
+        <translation>היסטוריה</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">העתק</translation>
+        <translation>העתק</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="vanished">העתק קישור אל לוח גזירים</translation>
+        <translation>העתק קישור אל לוח גזירים</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">פתח</translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="vanished">פתח קישור בדפדפן</translation>
+        <translation>פתח קישור בדפדפן</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="vanished">סגור היסטוריה</translation>
+        <translation>סגור היסטוריה</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -5694,31 +6201,36 @@ You lost the game.</source>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="vanished">הסרת היסטוריה עבור אישי קשר:</translation>
+        <translation>הסרת היסטוריה עבור אישי קשר:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="vanished">טהר היסטוריה בעת יציאה</translation>
+        <translation>טהר היסטוריה בעת יציאה</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
@@ -5744,8 +6256,8 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -5776,8 +6288,8 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -5786,6 +6298,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Create new profile</source>
         <translation>יצירת דיוקן חדש</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5867,16 +6395,104 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="obsolete">תמונות ‪(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation type="unfinished">תמונות ‪(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">שגיאה</translation>
+        <translation type="unfinished">שגיאה</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
+        <translation type="unfinished">מחברים: </translation>
+    </message>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6108,50 +6724,133 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+The plugin has a number of simple settings that can help you:
+* set a special message text
+* exclude specific ICQ numbers
+* set the time interval after which the message will be repeated
+* set the max count of messages by contact
+* disable the message for the active window/tab
+* disable messages for contacts that are not in your roster</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="vanished">שלח תמונה</translation>
+        <translation>שלח תמונה</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="vanished">פתח קובץ</translation>
+        <translation>פתח קובץ</translation>
+    </message>
+    <message>
+        <source>From clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">פתח תמונה</translation>
+        <translation>פתח תמונה</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">תמונות ‪(*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>תמונות ‪(*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="vanished">גודל התמונה הינו גדול מדי.</translation>
+        <translation>גודל התמונה הינו גדול מדי.</translation>
+    </message>
+    <message>
+        <source>Image size must be less than 60 kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 bytes received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to send images to roster contacts.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="obsolete">מחבר: </translation>
+        <translation type="unfinished">מחבר: </translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6400,172 +7099,301 @@ Reason: %1</source>
 <context>
     <name>InvateDialog</name>
     <message>
+        <source>Gomoku Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Opponent:</source>
-        <translation type="vanished">יריב:</translation>
+        <translation>יריב:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">בחירת משאב:</translation>
+        <translation>בחירת משאב:</translation>
+    </message>
+    <message>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="vanished">תוסף שחמט - הזמנה</translation>
+        <translation>תוסף שחמט - הזמנה</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="vanished">קבלה</translation>
+        <translation>קבלה</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="vanished">דחייה</translation>
+        <translation>דחייה</translation>
+    </message>
+    <message>
+        <source>Gomoku Game Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="vanished">לבן</translation>
+        <translation>לבן</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">שחור</translation>
+        <translation>שחור</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="vanished">שני</translation>
+        <translation>שני</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="vanished">ראשון</translation>
+        <translation>ראשון</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play battleship. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">הזמנה</translation>
+        <translation>הזמנה</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">יריב:</translation>
+        <translation>יריב:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">בחר משאב:</translation>
+        <translation>בחר משאב:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
+    </message>
+    <message>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">רענן</translation>
+        <translation>רענן</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="vanished">נקה יומן</translation>
+        <translation>נקה יומן</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="vanished">שליחה</translation>
+        <translation>שליחה</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="vanished">כונן Jabber - ‫%1</translation>
+        <translation>כונן Jabber - ‫%1</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;You:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">הסר</translation>
+        <translation>הסר</translation>
+    </message>
+    <message>
+        <source>Make dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="vanished">שליחת קובץ</translation>
+        <translation>שליחת קובץ</translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">קישור</translation>
+        <translation>קישור</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">עזרה</translation>
+        <translation>עזרה</translation>
+    </message>
+    <message>
+        <source>Intro</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="vanished">סטטיסטיקות</translation>
+        <translation>סטטיסטיקות</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="vanished">שנה שם</translation>
+        <translation>שנה שם</translation>
+    </message>
+    <message>
+        <source>Move to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
+    </message>
+    <message>
+        <source>Input Dir Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input Full JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input New Name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="vanished">כונן Jabber</translation>
+        <translation>כונן Jabber</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
     <message>
+        <source>Set JIDs of Juick Bot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add</source>
-        <translation type="vanished">הוספה</translation>
+        <translation>הוספה</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחיקה</translation>
+        <translation>מחיקה</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">אישור</translation>
+        <translation>אישור</translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidList</name>
+    <message>
+        <source>Input JID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="vanished">אזהרה</translation>
+        <translation>אזהרה</translation>
+    </message>
+    <message>
+        <source>can&apos;t create folder %1 
+caching avatars will be not available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time stamp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> replied:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="vanished">שלח הודעה אישית אל %1</translation>
+        <translation>שלח הודעה אישית אל %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="vanished">הירשם לבלוג של %1</translation>
+        <translation>הירשם לבלוג של %1</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחיקה</translation>
+        <translation>מחיקה</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="vanished">הוסף אל מועדפים</translation>
+        <translation>הוסף אל מועדפים</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7088,11 +7916,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -7120,35 +7948,59 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">טיפוס</translation>
+        <translation>טיפוס</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">שם</translation>
+        <translation>שם</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">דוא״ל</translation>
+        <translation>דוא״ל</translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="obsolete">הערה</translation>
+        <translation type="unfinished">הערה</translation>
+    </message>
+    <message>
+        <source>Algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short ID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="obsolete">טביעת אצבע</translation>
+        <translation type="unfinished">טביעת אצבע</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="vanished">אפשר/נטרל</translation>
+        <translation>אפשר/נטרל</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="vanished">JID (או חלק מן JID)</translation>
+        <translation>JID (או חלק מן JID)</translation>
+    </message>
+    <message>
+        <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="vanished">צלילים (אם ריק ינוצלו צלילים משתמטים)</translation>
+        <translation>צלילים (אם ריק ינוצלו צלילים משתמטים)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7192,12 +8044,12 @@ Details: %1</source>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="vanished">כותרת: %1</translation>
+        <translation>כותרת: %1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="vanished">
+        <translation>
 תגיות: %1</translation>
     </message>
 </context>
@@ -7205,59 +8057,63 @@ Tags: %1</source>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="vanished">פנקס</translation>
+        <translation>פנקס</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="vanished">הוסף פתק</translation>
+        <translation>הוסף פתק</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="vanished">ערוך פתק</translation>
+        <translation>ערוך פתק</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="vanished">מחק פתק</translation>
+        <translation>מחק פתק</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="vanished">טען פתקים</translation>
+        <translation>טען פתקים</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">טען מחדש</translation>
+        <translation>טען מחדש</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="vanished">שמור פתקים</translation>
+        <translation>שמור פתקים</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">שמור</translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="vanished">סגור חלון</translation>
+        <translation>סגור חלון</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="vanished">שינויים מסוימים אינם שמורים. האם אתה בטוח כי ברצונך לצאת?</translation>
+        <translation>שינויים מסוימים אינם שמורים. האם אתה בטוח כי ברצונך לצאת?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="vanished">שינויים מסוימים אינם שמורים. האם אתה בטוח כי ברצונך להמשיך?</translation>
+        <translation>שינויים מסוימים אינם שמורים. האם אתה בטוח כי ברצונך להמשיך?</translation>
+    </message>
+    <message>
+        <source>Error! Perhaps the function is not implemented on the server.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="vanished">תוסף אחסון פתקים</translation>
+        <translation>תוסף אחסון פתקים</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="vanished">פתקים נשמרו.</translation>
+        <translation>פתקים נשמרו.</translation>
     </message>
 </context>
 <context>
@@ -8415,254 +9271,567 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation>טופס</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow receiving one Attention from the same contact every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t hide popup if status is Away or XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Birthdays</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">טהר מטמון ימי הולדת</translation>
+        <translation>טהר מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="vanished">בדיקת ימי הולדת</translation>
+        <translation>בדיקת ימי הולדת</translation>
+    </message>
+    <message>
+        <source>Start notifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days in advance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="vanished">בדיקת ימי הולדת כל</translation>
+        <translation>בדיקת ימי הולדת כל</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="vanished">שעות</translation>
+        <translation>שעות</translation>
+    </message>
+    <message>
+        <source>Update birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days (0 - automatic update disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="vanished">בדיקת ימי הולדת בהפעלה</translation>
+        <translation>בדיקת ימי הולדת בהפעלה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
+    </message>
+    <message>
+        <source>Auto-popup Captcha dialog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="vanished">השתמש בהגדרות ציר מתוך חשבון</translation>
+        <translation>השתמש בהגדרות ציר מתוך חשבון</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="vanished">תפריט איש קשר</translation>
+        <translation>תפריט איש קשר</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Toolbar action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="vanished">חשבונות נתמכים:</translation>
+        <translation>חשבונות נתמכים:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="vanished">אין חשבונות נתמכים!</translation>
+        <translation>אין חשבונות נתמכים!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="vanished">הגדרות חשבון</translation>
+        <translation>הגדרות חשבון</translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will send
+ notifications of unread email.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="vanished">התראות דואר</translation>
+        <translation>התראות דואר</translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will save
+ Google Talk chats on the server;
+ if set to &quot;false&quot;, no conversations
+ will be logged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message archiving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will
+ automatically add people emailed
+ often to the user&apos;s roster.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-accept suggestions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Enable multiple applications signed in
+ as the same user to report the same
+ status message. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Shared Statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Google Talk server disables server-side
+ logging of individual conversations and
+ sends notifications.
+ Enable &quot;Message archiving&quot; option for use!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Off the Record Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Enable &quot;Mail notifications&quot; option!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="vanished">הגדרות התראות דואר</translation>
+        <translation>הגדרות התראות דואר</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="vanished">הצג את כל ההודעות שלא נקראו</translation>
+        <translation>הצג את כל ההודעות שלא נקראו</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="vanished">הצג הודעות חדשות בלבד</translation>
+        <translation>הצג הודעות חדשות בלבד</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="vanished">התחל תוכנית:</translation>
+        <translation>התחל תוכנית:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Manager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">הוסף</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">הסר</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">ייבוא</translation>
+        <translation>ייבוא</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="vanished">ייצוא</translation>
+        <translation>ייצוא</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="vanished">מידע</translation>
+        <translation>מידע</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">הגדרות</translation>
+        <translation>הגדרות</translation>
+    </message>
+    <message>
+        <source>Auto import a key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחק</translation>
+        <translation>מחק</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay between popups</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">שניות</translation>
+        <translation>שניות</translation>
+    </message>
+    <message>
+        <source>Disable popups if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable notifications for:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="vanished">לחן</translation>
+        <translation>לחן</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">מצב רוח</translation>
+        <translation>מצב רוח</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="vanished">פעילות</translation>
+        <translation>פעילות</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="vanished">מיקום גאוגרפי</translation>
+        <translation>מיקום גאוגרפי</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">צליל:</translation>
+        <translation>צליל:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Main</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Congratulation:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">שיחת קבוצה</translation>
+        <translation type="unfinished">שיחת קבוצה</translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for private messages in groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for affiliations:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="vanished">בעלים</translation>
+        <translation>בעלים</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="vanished">מנהל</translation>
+        <translation>מנהל</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="vanished">חבר</translation>
+        <translation>חבר</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">ללא</translation>
+        <translation>ללא</translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for roles:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="vanished">אחראי</translation>
+        <translation>אחראי</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="vanished">משתתף</translation>
+        <translation>משתתף</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="vanished">מבקר</translation>
+        <translation>מבקר</translation>
+    </message>
+    <message>
+        <source>Block all private messages</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="vanished">שליחת הודעה:</translation>
+        <translation>שליחת הודעה:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">שונות</translation>
+        <translation>שונות</translation>
+    </message>
+    <message>
+        <source>Number of blocked stanzas:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">הצג יומן</translation>
+        <translation>הצג יומן</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="obsolete">איפוס</translation>
+        <translation type="unfinished">איפוס</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>times</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Del</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">מצב</translation>
+        <translation>מצב</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="obsolete">מחק בחירה</translation>
+        <translation type="unfinished">מחק בחירה</translation>
+    </message>
+    <message>
+        <source>Add row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default sound: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="vanished">הודעות</translation>
+        <translation>הודעות</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable sound if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Watch for JID button in contact context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key pair generating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected keys?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ASCII (*.asc)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="vanished">כל הקבצים (*)</translation>
+        <translation>כל הקבצים (*)</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="vanished">בחירת קובץ</translation>
+        <translation>בחירת קובץ</translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="vanished">שגיאה! %1</translation>
+        <translation>שגיאה! %1</translation>
+    </message>
+    <message>
+        <source>Cookies are removed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="obsolete">כללים</translation>
+        <translation type="unfinished">כללים</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">שם</translation>
+        <translation type="unfinished">שם</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="obsolete">מאופשר</translation>
+        <translation type="unfinished">מאופשר</translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">הגדרות</translation>
+        <translation>הגדרות</translation>
     </message>
 </context>
 <context>
@@ -9469,127 +10638,219 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">כללי</translation>
+        <translation>כללי</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">חשבון</translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="vanished">עבור כל החשבונות</translation>
+        <translation>עבור כל החשבונות</translation>
+    </message>
+    <message>
+        <source>Response mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>allow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not implemented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deny iq time request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="vanished">תבנית</translation>
+        <translation>תבנית</translation>
+    </message>
+    <message>
+        <source>OS name</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="vanished">לקוח</translation>
+        <translation>לקוח</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="vanished">שם לקוח</translation>
+        <translation>שם לקוח</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="vanished">גירסת לקוח</translation>
+        <translation>גירסת לקוח</translation>
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="vanished">ממסר Caps</translation>
+        <translation>ממסר Caps</translation>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="vanished">גירסת Caps</translation>
+        <translation>גירסת Caps</translation>
+    </message>
+    <message>
+        <source>Enable for:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="vanished">אישי קשר</translation>
+        <translation>אישי קשר</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="obsolete">שיחות קבוצה</translation>
+        <translation type="unfinished">שיחות קבוצה</translation>
+    </message>
+    <message>
+        <source>Show popup at version iq</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="obsolete">אף פעם</translation>
+        <translation type="unfinished">אף פעם</translation>
+    </message>
+    <message>
+        <source>if iq replaced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>always</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="vanished">יומנים</translation>
+        <translation>יומנים</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="vanished">צפה ביומן</translation>
+        <translation>צפה ביומן</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="vanished">קיצור דרך:</translation>
+        <translation>קיצור דרך:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="vanished">פורמט:</translation>
+        <translation>פורמט:</translation>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="vanished">שם קובץ:</translation>
+        <translation>שם קובץ:</translation>
+    </message>
+    <message>
+        <source>Modify hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="vanished">פעולה משתמטת</translation>
+        <translation>פעולה משתמטת</translation>
+    </message>
+    <message>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="vanished">שרתים:</translation>
+        <translation>שרתים:</translation>
+    </message>
+    <message>
+        <source>*to specify the order of servers, use the drag-n-drop </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="vanished">הוסף שרת חדש</translation>
+        <translation>הוסף שרת חדש</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">הוסף</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="vanished">מחק שרת נוכחי</translation>
+        <translation>מחק שרת נוכחי</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחק</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="vanished">ערוך שרת נוכחי</translation>
+        <translation>ערוך שרת נוכחי</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">ערוך</translation>
+        <translation>ערוך</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Enable for players:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect full screen applications</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="vanished">הגדרת מצב:</translation>
+        <translation>הגדרת מצב:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="vanished">הודעת מצב:</translation>
+        <translation>הודעת מצב:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Restore old status if player stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay before setting status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay before restoring status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9706,38 +10967,58 @@ Please enter your passphrase below:</source>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="vanished">מאזין כעת: </translation>
+        <translation>מאזין כעת: </translation>
+    </message>
+    <message>
+        <source>Mood changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activity changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
+        <source>Input radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Radius</source>
-        <translation type="vanished">רדיוס</translation>
+        <translation>רדיוס</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">גזור</translation>
+        <translation>גזור</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">העתק</translation>
+        <translation>העתק</translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9761,125 +11042,260 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginWindow</name>
     <message>
+        <source>Gomoku Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Opponent:</source>
-        <translation type="vanished">יריב:</translation>
+        <translation>יריב:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="vanished">מצב:</translation>
+        <translation>מצב:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">משחק</translation>
+        <translation>משחק</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">יציאה</translation>
+        <translation>יציאה</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="vanished">סקין</translation>
+        <translation>סקין</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">קובץ</translation>
+        <translation>קובץ</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="vanished">משחק חדש</translation>
+        <translation>משחק חדש</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">טען משחק</translation>
+        <translation>טען משחק</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">שמור משחק</translation>
+        <translation>שמור משחק</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">יציאה</translation>
+        <translation>יציאה</translation>
+    </message>
+    <message>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow wood</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="vanished">ממתין כעת ליריב</translation>
+        <translation>ממתין כעת ליריב</translation>
+    </message>
+    <message>
+        <source>Waiting for accept</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="vanished">תורך</translation>
+        <translation>תורך</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="vanished">סוף משחק</translation>
+        <translation>סוף משחק</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
+        <translation>שגיאה</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="vanished">ניצחון!</translation>
+        <translation>ניצחון!</translation>
+    </message>
+    <message>
+        <source>Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opp</source>
+        <comment>Opponent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: %2 - swch</source>
+        <comment>Switch color</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku Plugin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="vanished">שגיאת משחק!</translation>
+        <translation>שגיאת משחק!</translation>
+    </message>
+    <message>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You want to switch color?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">הפסדת.</translation>
+        <translation>הפסדת.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">ניצחת!</translation>
+        <translation>ניצחת!</translation>
+    </message>
+    <message>
+        <source>You really want to begin new game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You really want to begin loaded game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation>טופס</translation>
+    </message>
+    <message>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#post_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; quote</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="obsolete">הודעה</translation>
+        <translation type="unfinished">הודעה</translation>
     </message>
 </context>
 <context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">תצוגה מקדימה</translation>
+        <translation type="unfinished">תצוגה מקדימה</translation>
+    </message>
+    <message>
+        <source>Not an image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="vanished">תצוגה מקדימה של סקין</translation>
+        <translation>תצוגה מקדימה של סקין</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
-        <translation type="vanished">תצוגה מקדימה לא זמינה</translation>
+        <translation>תצוגה מקדימה לא זמינה</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">שם: </translation>
+        <translation>שם: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">גרסא: </translation>
+        <translation>גרסא: </translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">החל</translation>
+        <translation>החל</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
+    </message>
+    <message>
+        <source>Skin is not valid!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10384,27 +11800,31 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="vanished">הגדרות שרת ציר</translation>
+        <translation>הגדרות שרת ציר</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="vanished">טיפוס:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">מארח:</translation>
+        <translation>מארח:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">פורט:</translation>
+        <translation>פורט:</translation>
+    </message>
+    <message>
+        <source>99999; </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="vanished">משתמש:</translation>
+        <translation>משתמש:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">סיסמה:</translation>
+        <translation>סיסמה:</translation>
     </message>
 </context>
 <context>
@@ -11063,20 +12483,20 @@ Reason: %1.</source>
         <translation>דף &amp;בית (מקוון)</translation>
     </message>
     <message>
-        <source>Psi Forum (Online)</source>
-        <translation>פורום Psi‪+‬ (מקוון)</translation>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="vanished">פורום Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation>&amp;פורום Psi‪+‬ (מקוון)</translation>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="vanished">&amp;פורום Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>&amp;הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">&amp;הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -11197,6 +12617,22 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation>תוספים</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">פורום Psi (מקוון)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11932,8 +13368,8 @@ Would you like to activate that session now?</source>
         <translation>באמת למחוק את כל האפשרויות שמתחילות עם %1.?</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: עורך אפשרויות</translation>
+        <source>Psi+: Option Editor</source>
+        <translation>Psi+: עורך אפשרויות</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -11941,10 +13377,6 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13021,23 +14453,162 @@ Description: </source>
         <source>Cannot create a server socket!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message numerus="yes">
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">אזהרה</translation>
+        <translation type="unfinished">אזהרה</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="vanished">לא ניתן לכתוב אל קובץ %1:
+        <translation>לא ניתן לכתוב אל קובץ %1:
 %2.</translation>
     </message>
     <message>
+        <source>Recommended by @%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New message posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> recommended your post </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsubscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypting message to %1 failed.
+The message was not sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to generate keys for account &quot;%1&quot;.
+The OTR Plugin will not work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your message was not sent. Either end your private conversation, or restart it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable encrypted message was received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message is unreadable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message contains malformed data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have received a new fingerprint from %1:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Tags</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Yes</source>
-        <translation type="vanished">כן</translation>
+        <translation>כן</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">לא</translation>
+        <translation>לא</translation>
     </message>
     <message>
         <source>Status</source>
@@ -13380,6 +14951,19 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now known as %2</source>
         <translation type="unfinished">%1 ידוע/ה כעת בשם %2</translation>
     </message>
@@ -13387,27 +14971,35 @@ Description: </source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13476,20 +15068,47 @@ Reason: %1</source>
 <context>
     <name>Reminder</name>
     <message>
+        <source>celebrates birthday today!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>celebrates birthday yesterday.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Birthday Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13512,6 +15131,21 @@ Reason: %1</source>
     <message>
         <source>[blank]</source>
         <translation>[ריק]</translation>
+    </message>
+</context>
+<context>
+    <name>RipperCCOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13562,90 +15196,189 @@ Reason: %1</source>
 <context>
     <name>Screenshot</name>
     <message>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload to server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload Screenshot to selected server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Screenshot to Local Drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open image from Local Drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>toolBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation type="vanished">קובץ</translation>
+        <translation>קובץ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">הגדרות</translation>
+        <translation>הגדרות</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">עזרה</translation>
+        <translation>עזרה</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">פתח</translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">שמור</translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="vanished">הדפס</translation>
+        <translation>הדפס</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">יציאה</translation>
+        <translation>יציאה</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="vanished">הגדרות Proxy</translation>
+        <translation>הגדרות Proxy</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">היסטוריה</translation>
+        <translation>היסטוריה</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">אודות Qt</translation>
+        <translation>אודות Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="vanished">עמוד בית</translation>
+        <translation>עמוד בית</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="obsolete">העלאה</translation>
+        <translation type="unfinished">העלאה</translation>
+    </message>
+    <message>
+        <source>Size: %1x%2px; %3 bytes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">פתח תמונה</translation>
+        <translation>פתח תמונה</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">תמונות ‪(*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>תמונות ‪(*.png *.gif *.jpg *.jpeg *.ico)</translation>
+    </message>
+    <message>
+        <source>/%1.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="vanished">שמור בשם</translation>
+        <translation>שמור בשם</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="vanished">קבצי %1 ‫(‪*.%2‬);;כל הקבצים (*)</translation>
+        <translation>קבצי %1 ‫(‪*.%2‬);;כל הקבצים (*)</translation>
+    </message>
+    <message>
+        <source>%1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture current window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>seconds</source>
-        <translation type="vanished">שניות</translation>
+        <translation>שניות</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
+The plugin has the following settings:
+* Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
+* Format -- the file format in which the screenshot will be stored (default: .jpg)
+* File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
+The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14154,123 +15887,143 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <source>Preview skin</source>
-        <translation type="vanished">תצוגה מקדימה של סקין</translation>
+        <translation>תצוגה מקדימה של סקין</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="vanished">תצוגה מקדימה</translation>
+        <translation>תצוגה מקדימה</translation>
     </message>
     <message>
         <source>Update skins list</source>
-        <translation type="vanished">עדכון רשימת סקינים</translation>
+        <translation>עדכון רשימת סקינים</translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation type="vanished">החלת סקין נבחר</translation>
+        <translation>החלת סקין נבחר</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">החל</translation>
+        <translation>החל</translation>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation type="vanished">פתח קובץ סקין</translation>
+        <translation>פתח קובץ סקין</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">פתח</translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation type="vanished">הסר סקין נבחר</translation>
+        <translation>הסר סקין נבחר</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">הסר</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation type="vanished">החלף סקין נבחר עם ההגדרות הנוכחיות </translation>
+        <translation>החלף סקין נבחר עם ההגדרות הנוכחיות </translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">שמור</translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation type="vanished">צור סקין חדש מן הגדרות נוכחיות</translation>
+        <translation>צור סקין חדש מן הגדרות נוכחיות</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="vanished">צור</translation>
+        <translation>צור</translation>
     </message>
     <message>
         <source>Backup skin before applying</source>
-        <translation type="vanished">גבה סקין לפני החלה</translation>
+        <translation>גבה סקין לפני החלה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
-        <translation type="vanished">בחר קובץ סקין</translation>
+        <translation>בחר קובץ סקין</translation>
+    </message>
+    <message>
+        <source>*.skn</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create Skin</source>
-        <translation type="vanished">צור סקין</translation>
+        <translation>צור סקין</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">שגיאה לא מוכרת!</translation>
+        <translation>שגיאה לא מוכרת!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="vanished">שמור קובץ סקין</translation>
+        <translation>שמור קובץ סקין</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="vanished">לא ניתן לשמור סקין!</translation>
+        <translation>לא ניתן לשמור סקין!</translation>
     </message>
     <message>
         <source>Apply Skin</source>
-        <translation type="vanished">החל סקין</translation>
+        <translation>החל סקין</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="vanished">לא ניתן לשמור סקין גיבוי!</translation>
+        <translation>לא ניתן לשמור סקין גיבוי!</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation type="vanished">החלף סקין נבחר</translation>
+        <translation>החלף סקין נבחר</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
-        <translation type="vanished">החלף סקין</translation>
+        <translation>החלף סקין</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="vanished">לא ניתן לשמור את הסקין!</translation>
+        <translation>לא ניתן לשמור את הסקין!</translation>
     </message>
     <message>
         <source>Delete skin</source>
-        <translation type="vanished">מחק סקין</translation>
+        <translation>מחק סקין</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14377,34 +16130,70 @@ Reason: %1</source>
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="vanished">חסימת סטנזה מן </translation>
+        <translation>חסימת סטנזה מן </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation type="vanished">תוסף בלימת ספאם</translation>
+        <translation>תוסף בלימת ספאם</translation>
+    </message>
+    <message>
+        <source> pass the test</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in groupchats
+* Choose for which ranks and roles of groupchat participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same groupchat, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in groupchats.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Storage Notes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14848,43 +16637,92 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>ToolBar</name>
     <message>
+        <source>Line Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Color</source>
-        <translation type="vanished">בחר צבע</translation>
+        <translation>בחר צבע</translation>
+    </message>
+    <message>
+        <source>Pen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="vanished">בחר</translation>
+        <translation>בחר</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">גזור</translation>
+        <translation>גזור</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">העתק</translation>
+        <translation>העתק</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="vanished">הדבק</translation>
+        <translation>הדבק</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">סובב</translation>
+        <translation type="unfinished">סובב</translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
+        <source>from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add</source>
-        <translation type="vanished">הוסף</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחק</translation>
+        <translation>מחק</translation>
+    </message>
+    <message>
+        <source>ShortCut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not translating &quot;Nickname:&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Defaults Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to convert selected text into another language.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14898,7 +16736,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="vanished">חפש: </translation>
+        <translation>חפש: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -14906,19 +16744,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation type="vanished">עמוד ראשון</translation>
+        <translation>עמוד ראשון</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="vanished">עמוד אחורה</translation>
+        <translation>עמוד אחורה</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="vanished">עמוד קדימה</translation>
+        <translation>עמוד קדימה</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="vanished">עמוד אחרון</translation>
+        <translation>עמוד אחרון</translation>
     </message>
     <message>
         <source>Search</source>
@@ -14975,124 +16813,204 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>UploadManager</name>
     <message>
+        <source>Getting storage...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t get storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting upload...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error opening file!</source>
-        <translation type="vanished">שגיאה בפתיחת קובץ!</translation>
+        <translation>שגיאה בפתיחת קובץ!</translation>
+    </message>
+    <message>
+        <source>Verifying...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploaded successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
+        <translation>מחברים: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">מציאה</translation>
+        <translation>מציאה</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="obsolete">שמור שינויים</translation>
+        <translation type="unfinished">שמור שינויים</translation>
+    </message>
+    <message>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
+    </message>
+    <message>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">האם ברצונך לשמור את השינויים שלך?</translation>
+        <translation>האם ברצונך לשמור את השינויים שלך?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">דוא״ל</translation>
+        <translation>דוא״ל</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="vanished">מאת:</translation>
+        <translation>מאת:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="vanished">נושא:</translation>
+        <translation>נושא:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">חשבון:</translation>
+        <translation>חשבון:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="vanished">פתח דואר בדפדפן</translation>
+        <translation>פתח דואר בדפדפן</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="vanished">פתח תיבת דואר</translation>
+        <translation>פתח תיבת דואר</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="vanished">אחורה</translation>
+        <translation>אחורה</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="vanished">קדימה</translation>
+        <translation>קדימה</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] דוא״ל</translation>
+        <translation>[%1/%2] דוא״ל</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="vanished">פתח בדפדפן</translation>
+        <translation>פתח בדפדפן</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">מציאה</translation>
+        <translation>מציאה</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">שמור שינויים</translation>
+        <translation>שמור שינויים</translation>
+    </message>
+    <message>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
+    </message>
+    <message>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="obsolete">האם ברצונך לשמור את השינויים שלך?</translation>
+        <translation type="unfinished">האם ברצונך לשמור את השינויים שלך?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="obsolete">סמן</translation>
+        <translation type="unfinished">סמן</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="obsolete">בטל סימון</translation>
+        <translation type="unfinished">בטל סימון</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="obsolete">הפוך</translation>
+        <translation type="unfinished">הפוך</translation>
     </message>
 </context>
 <context>
@@ -15161,23 +17079,48 @@ Note: Some server may disable transport registration to users from different ser
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="vanished">פריט ריק</translation>
+        <translation>פריט ריק</translation>
+    </message>
+    <message>
+        <source> change status to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t watch for JID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
+        <translation>בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
+        <translation>צליל ‪(*.wav)</translation>
+    </message>
+    <message>
+        <source>&lt;br&gt;Status Message: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watcher Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watch for JID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15736,412 +17679,935 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="vanished">בחירת צלילים:</translation>
+        <translation>בחירת צלילים:</translation>
+    </message>
+    <message>
+        <source>Game started:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game finished:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="vanished">תורך:</translation>
+        <translation>תורך:</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="vanished">הודעת שגיאה:</translation>
+        <translation>הודעת שגיאה:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>If checked, the sound will always enabled (or disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Override default sound settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations from groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save window height and width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save window position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause for next Recv message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max messages to contact:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="obsolete">נטרל אם חלון שיחה הינו פעיל</translation>
+        <translation type="unfinished">נטרל אם חלון שיחה הינו פעיל</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="vanished">מובילים:</translation>
+        <translation>מובילים:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
+        <source>Authenticate %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authenticate to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Question and answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared secret</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;nswer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Shared Secret:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;ביטול</translation>
+        <translation>&amp;ביטול</translation>
+    </message>
+    <message>
+        <source>&amp;Authenticate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="vanished">איש קשר זה כבר מאומת.</translation>
+        <translation>איש קשר זה כבר מאומת.</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="obsolete">אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+        <translation type="unfinished">אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Your fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1&apos;s fingerprint:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">חשבון: </translation>
+        <translation>חשבון: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">משתמש: </translation>
+        <translation>משתמש: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="obsolete">טביעת אצבע: </translation>
+        <translation type="unfinished">טביעת אצבע: </translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has canceled the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication successful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been successfully authenticated.
+
+You should authenticate %1 as well by asking your own question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="vanished">טביעות אצבע מוכרות</translation>
+        <translation>טביעות אצבע מוכרות</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="vanished">המפתחות הפרטיים שלי</translation>
+        <translation>המפתחות הפרטיים שלי</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="vanished">תצורה</translation>
+        <translation>תצורה</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="vanished">מדיניות OTR</translation>
+        <translation>מדיניות OTR</translation>
+    </message>
+    <message>
+        <source>Disable private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Require private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End session when contact goes offline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
+        <source>Delete fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account</source>
-        <translation type="vanished">חשבון</translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="vanished">משתמש</translation>
+        <translation>משתמש</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
+    </message>
+    <message>
+        <source>Verified</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">מצב</translation>
+        <translation>מצב</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך למחוק את טביעת האצבע הבאה?</translation>
+        <translation>האם אתה בטוח כי ברצונך למחוק את טביעת האצבע הבאה?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">חשבון: </translation>
+        <translation>חשבון: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">משתמש: </translation>
+        <translation>משתמש: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">טביעת אצבע: </translation>
+        <translation>טביעת אצבע: </translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחק</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="obsolete">העתקת טביעת אצבע</translation>
+        <translation type="unfinished">העתקת טביעת אצבע</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
+        <source>Generate new key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account</source>
-        <translation type="vanished">חשבון</translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
+        <translation>האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">חשבון: </translation>
+        <translation>חשבון: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">טביעת אצבע: </translation>
+        <translation>טביעת אצבע: </translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך להחליף את המפתח הבא?</translation>
+        <translation>האם אתה בטוח כי ברצונך להחליף את המפתח הבא?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">מחק</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">העתקת טביעת אצבע</translation>
+        <translation>העתקת טביעת אצבע</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="vanished">טחן סשן מוצפן פעיל</translation>
+        <translation>טחן סשן מוצפן פעיל</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+        <translation>אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>unverified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR Messaging [%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refre&amp;sh private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Start private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Authenticate contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show secure session &amp;ID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="vanished">הצגת &amp;טביעת אצבע עצמית</translation>
+        <translation>הצגת &amp;טביעת אצבע עצמית</translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">תוסף התכתבות Off-the-Record עבור ‪Psi</translation>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation>תוסף התכתבות Off-the-Record עבור ‪Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="vanished">מחברים: %1</translation>
+        <translation>מחברים: %1</translation>
+    </message>
+    <message>
+        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No one else can read your instant messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are assured the correspondent is who you think it is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deniability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perfect forward secrecy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you lose control of your private keys, no previous conversation is compromised.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">למידע נוסף, ראה &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
+        <translation>למידע נוסף, ראה &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attempting to refresh the private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attempting to start a private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unverified conversation started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has ended the private conversation with you; you should do the same.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation refreshed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unverified conversation refreshed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="vanished">איש קשר מאומת</translation>
+        <translation>איש קשר מאומת</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="vanished">איש קשר לא מאומת</translation>
+        <translation>איש קשר לא מאומת</translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="obsolete">הרשאה</translation>
+        <translation type="unfinished">הרשאה</translation>
+    </message>
+    <message>
+        <source>Login:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">סיסמה:</translation>
+        <translation>סיסמה:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="vanished">זכור</translation>
+        <translation>זכור</translation>
+    </message>
+    <message>
+        <source>Captcha:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="vanished">הגדרות</translation>
+        <translation>הגדרות</translation>
+    </message>
+    <message>
+        <source>Edit JIDs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="vanished">בולט</translation>
+        <translation>בולט</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="vanished">נטוי</translation>
+        <translation>נטוי</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="vanished">קו תחתון</translation>
+        <translation>קו תחתון</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="vanished">צבע</translation>
+        <translation>צבע</translation>
+    </message>
+    <message>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#message id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use message Id as resource</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="vanished">הצג תצלום</translation>
+        <translation>הצג תצלום</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="vanished">הצג אווטאר</translation>
+        <translation>הצג אווטאר</translation>
+    </message>
+    <message>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="vanished">טהר מטמון אווטאר</translation>
+        <translation>טהר מטמון אווטאר</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="vanished">קובץ: </translation>
+        <translation>קובץ: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="vanished">התקדמות: </translation>
+        <translation>התקדמות: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="vanished">זמן שחלף: </translation>
+        <translation>זמן שחלף: </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="vanished">מהירות: </translation>
+        <translation>מהירות: </translation>
+    </message>
+    <message>
+        <source> kb/sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload completed. Waiting for verification.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="vanished">קישור: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>קישור: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="vanished">מעלה כעת...</translation>
+        <translation>מעלה כעת...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="vanished">העלאה התחילה.</translation>
+        <translation>העלאה התחילה.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="vanished">קובץ: </translation>
+        <translation>קובץ: </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">התקדמות:</translation>
+        <translation>התקדמות:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="vanished">זמן שחלף:</translation>
+        <translation>זמן שחלף:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="vanished">מהירות:</translation>
+        <translation>מהירות:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="vanished">קישור: </translation>
+        <translation>קישור: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="vanished">שם מלא:</translation>
+        <translation>שם מלא:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="vanished">כינוי:</translation>
+        <translation>כינוי:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="vanished">יום הולדת:</translation>
+        <translation>יום הולדת:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">דוא״ל:</translation>
+        <translation>דוא״ל:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="vanished">מנהל קבצים Yandex.Narod</translation>
+        <translation>מנהל קבצים Yandex.Narod</translation>
+    </message>
+    <message>
+        <source>Delete file(s)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">האם אתה בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="vanished">הגדרת סיסמה</translation>
+        <translation>הגדרת סיסמה</translation>
+    </message>
+    <message>
+        <source>Remove password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Get Filelist</source>
-        <translation type="vanished">השגת רשימת קובץ</translation>
+        <translation>השגת רשימת קובץ</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line1
+line2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="vanished">רשימת קובץ:</translation>
+        <translation>רשימת קובץ:</translation>
+    </message>
+    <message>
+        <source>New Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Browser</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">סגור</translation>
+        <translation type="unfinished">סגור</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="vanished">מוריד כעת רשימת קובץ...</translation>
+        <translation>מוריד כעת רשימת קובץ...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="vanished">מוחק כעת קבצים...</translation>
+        <translation>מוחק כעת קבצים...</translation>
+    </message>
+    <message>
+        <source>Prolongate files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cookies are obsolete!
+Reathorization...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t get files!
+Try remove cookies.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="vanished">רשימת קובץ הורדה
+        <translation>רשימת קובץ הורדה
 (%1 קבצים)</translation>
+    </message>
+    <message>
+        <source>File(s) deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File(s) prolongated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password is set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password is deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
+        <source>Open Yandex Narod Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="vanished">שליחת קבצים באמצעות Yandex Narod</translation>
+        <translation>שליחת קבצים באמצעות Yandex Narod</translation>
+    </message>
+    <message>
+        <source>File sent to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yandex Narod Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ported from QutIM Yandex.Narod plugin
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">הגדרות</translation>
+        <translation>הגדרות</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">סיסמה</translation>
+        <translation>סיסמה</translation>
+    </message>
+    <message>
+        <source>status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send file template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="vanished">%N - שם קובץ; %U - כתובת קובץ; %S - גודל קובץ</translation>
+        <translation>%N - שם קובץ; %U - כתובת קובץ; %S - גודל קובץ</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

@@ -73,8 +73,8 @@
         <translation>Licence</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation>O Psi</translation>
+        <source>About Psi+</source>
+        <translation type="vanished">O Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -209,6 +209,18 @@
         <translation>Bezpečnostní rozšíření: %1</translation>
     </message>
     <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -224,20 +236,12 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <source>About Psi</source>
+        <translation type="unfinished">O Psi</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <source>psi/logo_48</source>
+        <translation type="unfinished">psi/logo_48</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1010,7 @@ Zdůvodnění: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="vanished"> Zapne chat mimo záznam.
+        <translation> Zapne chat mimo záznam.
 Pokud je zaškrtnuto, server si nebude
 ukládat historii pro tento kontakt.</translation>
     </message>
@@ -1060,55 +1064,55 @@ ukládat historii pro tento kontakt.</translation>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="vanished">Generovat nový pár klíčů</translation>
+        <translation>Generovat nový pár klíčů</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="vanished">Délka:</translation>
+        <translation>Délka:</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="vanished">Komentář:</translation>
+        <translation>Komentář:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="vanished">Datum expirace: </translation>
+        <translation>Datum expirace: </translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="vanished">RSA a RSA (výchozí)</translation>
+        <translation>RSA a RSA (výchozí)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="vanished">DSA a Elgamal</translation>
+        <translation>DSA a Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="vanished">DSA (pouze na podepisování)</translation>
+        <translation>DSA (pouze na podepisování)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="vanished">RSA (pouze na podepisování)</translation>
+        <translation>RSA (pouze na podepisování)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="vanished">Celé jméno:</translation>
+        <translation>Celé jméno:</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">E-mail:</translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="vanished">Typ klíče:</translation>
+        <translation>Typ klíče:</translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="vanished">Opakovat:</translation>
+        <translation>Opakovat:</translation>
     </message>
 </context>
 <context>
@@ -1287,40 +1291,40 @@ Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="vanished"> ti poslal upozornění!</translation>
+        <translation> ti poslal upozornění!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="vanished">Poslat upozornění</translation>
+        <translation>Poslat upozornění</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="vanished">Attention Plugin</translation>
+        <translation>Attention Plugin</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="vanished">Upozornění pro %1 odesláno</translation>
+        <translation>Upozornění pro %1 odesláno</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="vanished">Tento zásuvný modul je určen k výměně speciálních zpráv jako jsou upozornění.
+        <translation>Tento zásuvný modul je určen k výměně speciálních zpráv jako jsou upozornění.
 Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. Pidgin, Miranda IM se zásuvným modulem Nudge).</translation>
     </message>
 </context>
@@ -1343,93 +1347,93 @@ Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. 
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="vanished">Zapnout</translation>
+        <translation>Zapnout</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">Vypnout</translation>
+        <translation>Vypnout</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">Vypnout pokud je chat aktivní</translation>
+        <translation>Vypnout pokud je chat aktivní</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="vanished">Vypnout pokud kontakt není v rosteru</translation>
+        <translation>Vypnout pokud kontakt není v rosteru</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="vanished">Pryč</translation>
+        <translation>Pryč</translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="vanished">Nerušit</translation>
+        <translation>Nerušit</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="vanished">Dlouho pryč</translation>
+        <translation>Dlouho pryč</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="vanished">Neviditelný</translation>
+        <translation>Neviditelný</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="vanished">Zapnout pokud je stav:</translation>
+        <translation>Zapnout pokud je stav:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="vanished">Automatická odpověď:</translation>
+        <translation>Automatická odpověď:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="vanished">pro JIDy a konference:</translation>
+        <translation>pro JIDy a konference:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="vanished">Můžete také zapsat část JID
+        <translation>Můžete také zapsat část JID
 (bez žádných dalších znaků)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="vanished">Vypnout pro vaše účty (zadejte vaše JIDy):</translation>
+        <translation>Vypnout pro vaše účty (zadejte vaše JIDy):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">Čas do vynulování počitadla:</translation>
+        <translation>Čas do vynulování počitadla:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">Poslat nanejvýš</translation>
+        <translation>Poslat nanejvýš</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="vanished">krát (-1=neomezeně)</translation>
+        <translation>krát (-1=neomezeně)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1443,7 +1447,7 @@ Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. 
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="vanished">Tento plugin se chová jako záznamník. Má několik jednoduchých nastavení, která můžete použít na:
+        <translation>Tento plugin se chová jako záznamník. Má několik jednoduchých nastavení, která můžete použít na:
 * nastavit zprávu pro automatickou odpověď
 * vynechat konkrétní jidy, včetně konferencí, z objektů dostávajících automatické odpovědi (pokud je jid konference, vyjímka se týká i všech soukromých zpráv)
 * vypnout automatickou odpověď pro vybrané účty
@@ -1508,59 +1512,59 @@ Seznam vyjímek pro jidy má dva módy:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="vanished">Prázdný soubor</translation>
+        <translation>Prázdný soubor</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="vanished">Uložit obrázek</translation>
+        <translation>Uložit obrázek</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="vanished">Uložit Avatar</translation>
+        <translation>Uložit Avatar</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Tento zásuvný modul ti dovolí hrát lodě s tvými přeteli.
+        <translation>Tento zásuvný modul ti dovolí hrát lodě s tvými přeteli.
 Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="vanished">Hra lodě</translation>
+        <translation>Hra lodě</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="vanished">Hra lodě!</translation>
+        <translation>Hra lodě!</translation>
     </message>
 </context>
 <context>
@@ -1739,15 +1743,15 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
+        <translation>CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="vanished">Načítám data...</translation>
+        <translation>Načítám data...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="vanished">Původní zpráva</translation>
+        <translation>Původní zpráva</translation>
     </message>
 </context>
 <context>
@@ -1761,23 +1765,23 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">Captcha Plugin: CAPTCHA od %1</translation>
+        <translation>Captcha Plugin: CAPTCHA od %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Chyba! Obrázek nelze zobrazit.</translation>
+        <translation>Chyba! Obrázek nelze zobrazit.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
-        <translation type="vanished">Tento zásuvný modul je určen k předávání captcha obrázků přímo z Psi.</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation>Tento zásuvný modul je určen k předávání captcha obrázků přímo z Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2059,72 +2063,72 @@ Opravdu zavřít toto okno?</translation>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="vanished">Šachový plugin</translation>
+        <translation>Šachový plugin</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="vanished">Šachy!</translation>
+        <translation>Šachy!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="vanished">Již máte hru rozehranou!</translation>
+        <translation>Již máte hru rozehranou!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="vanished">Váš soupeř zavřel šachovnici!
+        <translation>Váš soupeř zavřel šachovnici!
 Pořád si ale můžete uložit hru.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="vanished">Hra byla odmítnuta</translation>
+        <translation>Hra byla odmítnuta</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">Prohra.</translation>
+        <translation>Prohra.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">Vítězství!</translation>
+        <translation>Vítězství!</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="vanished">Remíza!</translation>
+        <translation>Remíza!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Neznámá chyba!</translation>
+        <translation>Neznámá chyba!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="vanished">Šachový plugin: Pozvánka od %1</translation>
+        <translation>Šachový plugin: Pozvánka od %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Tento plugin Vám umožňuje hrát šachy s Vašimi přáteli.
+        <translation>Tento plugin Vám umožňuje hrát šachy s Vašimi přáteli.
 Plugin je kompatibilné s podobným pluginem pro Tkabber.
 Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
@@ -2133,234 +2137,234 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="vanished">Šachovnice</translation>
+        <translation>Šachovnice</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="vanished">Tahy:</translation>
+        <translation>Tahy:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="vanished">    Bílí    Černí
+        <translation>    Bílí    Černí
 </translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">Načíst hru</translation>
+        <translation>Načíst hru</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">Uložit hru</translation>
+        <translation>Uložit hru</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Konec</translation>
+        <translation>Konec</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">Vzdát to</translation>
+        <translation>Vzdát to</translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="vanished">Povolit zvuky</translation>
+        <translation>Povolit zvuky</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Soubor</translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">Hra</translation>
+        <translation>Hra</translation>
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="vanished">*.chs</translation>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
 </source>
-        <translation type="vanished">  Bilí     Černí
+        <translation>  Bilí     Černí
 </translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi Cleaner</source>
-        <translation type="vanished">Psi Cleaner</translation>
+        <source>Psi+ Cleaner</source>
+        <translation>Psi+ Cleaner</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historie</translation>
+        <translation>Historie</translation>
     </message>
     <message>
         <source>vCards</source>
-        <translation type="vanished">vCardy</translation>
+        <translation>vCardy</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">Avataři</translation>
+        <translation>Avataři</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtr:</translation>
+        <translation>Filtr:</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="vanished">Vybrat všechny soubory</translation>
+        <translation>Vybrat všechny soubory</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="vanished">Odvybrat všechny soubory</translation>
+        <translation>Odvybrat všechny soubory</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="vanished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="vanished"> souborů vybráno</translation>
+        <translation> souborů vybráno</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="vanished">Smazat vybrané soubory</translation>
+        <translation>Smazat vybrané soubory</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">Smazat vybrané</translation>
+        <translation>Smazat vybrané</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="vanished">Ukončit Psi Cleaner</translation>
+        <translation>Ukončit Psi Cleaner</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="vanished">Vybrat &amp;Profil</translation>
+        <translation>Vybrat &amp;Profil</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Konec</translation>
+        <translation>&amp;Konec</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="vanished">Vyčistit vyrovnávací paměť &amp;Juicka</translation>
+        <translation>Vyčistit vyrovnávací paměť &amp;Juicka</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="vanished">Vyčistit vyrovnávací paměť &amp;Narozenin</translation>
+        <translation>Vyčistit vyrovnávací paměť &amp;Narozenin</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="vanished">&amp;Soubor</translation>
+        <translation>&amp;Soubor</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="vanished">&amp;Akce</translation>
+        <translation>&amp;Akce</translation>
     </message>
     <message>
         <source>History files: </source>
-        <translation type="vanished">Soubory s historií: </translation>
+        <translation>Soubory s historií: </translation>
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="vanished">vCardy: </translation>
+        <translation>vCardy: </translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="vanished">Avataři: </translation>
+        <translation>Avataři: </translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="vanished">Vymazat historii</translation>
+        <translation>Vymazat historii</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="vanished">Vymazat vCardy</translation>
+        <translation>Vymazat vCardy</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="vanished">Vymazat Avatary</translation>
+        <translation>Vymazat Avatary</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="vanished">Vymazat možnosti</translation>
+        <translation>Vymazat možnosti</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="vanished">Zatím nepodporováno!</translation>
+        <translation>Zatím nepodporováno!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="vanished">Vyberte profil</translation>
+        <translation>Vyberte profil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="vanished">Vyčistit vyrovnávací paměť Juicka</translation>
+        <translation>Vyčistit vyrovnávací paměť Juicka</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="vanished">Vyrovnávací paměť Juicka úspěšně vymazána</translation>
+        <translation>Vyrovnávací paměť Juicka úspěšně vymazána</translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="vanished">Něco je špatně!</translation>
+        <translation>Něco je špatně!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="vanished">Cache nenalezena!</translation>
+        <translation>Cache nenalezena!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="vanished">Vymazat cache narozenin</translation>
+        <translation>Vymazat cache narozenin</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">Vymazat cache narozenin</translation>
+        <translation>Vymazat cache narozenin</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="vanished">Cache narozenin byla úspěšně vymazána</translation>
+        <translation>Cache narozenin byla úspěšně vymazána</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="vanished">Spustit čistič</translation>
+        <translation>Spustit čistič</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="vanished">Tento plugin je určen k pročištění cache avatarů, uložených lokálních kopií vCard a historie.
+        <translation>Tento plugin je určen k pročištění cache avatarů, uložených lokálních kopií vCard a historie.
 Můžete si položky prohlédnout před tím, než je smažete.</translation>
     </message>
 </context>
@@ -2368,86 +2372,86 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Datum vytvoření</translation>
+        <translation>Datum vytvoření</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="vanished">Přezdívka</translation>
+        <translation>Přezdívka</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="vanished">Doména</translation>
+        <translation>Doména</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Datum vytvoření</translation>
+        <translation>Datum vytvoření</translation>
     </message>
 </context>
 <context>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="vanished">Hodnoty</translation>
+        <translation>Hodnoty</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="vanished">Zatrhnout</translation>
+        <translation>Zatrhnout</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Odtrhnout</translation>
+        <translation>Odtrhnout</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Invertovat</translation>
+        <translation>Invertovat</translation>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="vanished">Tento plugin je určen k nahrazování verze klienta, jeho jména a operačního systému.
+        <translation>Tento plugin je určen k nahrazování verze klienta, jeho jména a operačního systému.
 Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných možností.
 </translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="vanished">%1 se ptá na vaší verzi</translation>
+        <translation>%1 se ptá na vaší verzi</translation>
     </message>
 </context>
 <context>
@@ -2461,41 +2465,41 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="vanished">Svoje logy naleznete zde:</translation>
+        <translation>Svoje logy naleznete zde:</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="vanished">Logy:</translation>
+        <translation>Logy:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">Zobrazit log</translation>
+        <translation>Zobrazit log</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="vanished">Historie skupinového chatu</translation>
+        <translation>Historie skupinového chatu</translation>
     </message>
     <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi user sits.
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="vanished">Tento zásuvný modul dokáže ukládat záznamy skupinových chatů, do kterých se uživatel Psí+ přihlásí.
+        <translation>Tento zásuvný modul dokáže ukládat záznamy skupinových chatů, do kterých se uživatel Psí+ přihlásí.
 Záznamy skupinových chatů jsou k náhlednutí v nastavení zásuvného modulu nebo když klikneš na odpovídající tlačítko v nástrojové liště aktivního okna/záložky se skupinovým chatem.
 
 Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu musí být povolena.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -3323,15 +3327,15 @@ Provést?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
+        <translation>e-mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation type="vanished">Tento plugin je navržen pro zjednodušení stahování a instalace sad ikon i jiných dat pro Psi.</translation>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation>Tento plugin je navržen pro zjednodušení stahování a instalace sad ikon i jiných dat pro Psi+.</translation>
     </message>
 </context>
 <context>
@@ -3368,7 +3372,7 @@ Provést?</translation>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="vanished">nikdy</translation>
+        <translation>nikdy</translation>
     </message>
 </context>
 <context>
@@ -3646,135 +3650,135 @@ Provést?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="vanished">Hledat...</translation>
+        <translation>Hledat...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="vanished">JID*</translation>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="vanished">Text**</translation>
+        <translation>Text**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="vanished">*Lze použí regulární výrazy</translation>
+        <translation>*Lze použí regulární výrazy</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="vanished">**Seznam použitelných slov
+        <translation>**Seznam použitelných slov
   Každé slovo může obsahovat regulární výraz</translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="vanished">Použít na</translation>
+        <translation>Použít na</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="vanished">Chaty</translation>
+        <translation>Chaty</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">Skupinové chaty</translation>
+        <translation>Skupinové chaty</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="vanished">Vždy přehrávat zvuky</translation>
+        <translation>Vždy přehrávat zvuky</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">Zvuk:</translation>
+        <translation>Zvuk:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="vanished">Upravit poznámku</translation>
+        <translation>Upravit poznámku</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">Nadpis:</translation>
+        <translation>Nadpis:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="vanished">Tagy:</translation>
+        <translation>Tagy:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="vanished">Nastavení serveru</translation>
+        <translation>Nastavení serveru</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">Jméno:</translation>
+        <translation>Jméno:</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="vanished">Url:</translation>
+        <translation>Url:</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="vanished">Uživatelské jméno:</translation>
+        <translation>Uživatelské jméno:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="vanished">Heslo*:</translation>
+        <translation>Heslo*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="vanished">PostData**:</translation>
+        <translation>PostData**:</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="vanished">Vstupní soubor**:</translation>
+        <translation>Vstupní soubor**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="vanished">Regulární výraz**:</translation>
+        <translation>Regulární výraz**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="vanished">*pouze pro FTP servery</translation>
+        <translation>*pouze pro FTP servery</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="vanished">*pouze pro HTTP servery</translation>
+        <translation>*pouze pro HTTP servery</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="vanished">Používat proxy server</translation>
+        <translation>Používat proxy server</translation>
     </message>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="vanished">Zmeškané zprávy: %1</translation>
+        <translation>Zmeškané zprávy: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="vanished">Výčet zpráv</translation>
+        <translation>Výčet zpráv</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="vanished">Tento zásuvný modul je určen pro výpis zpráv, přiřazování čísel zprávám v historii chatů a k oznámením o zmeškaných zprávách.
+        <translation>Tento zásuvný modul je určen pro výpis zpráv, přiřazování čísel zprávám v historii chatů a k oznámením o zmeškaných zprávách.
 Podporuje filtr výpisu pro vybrané kontakty pomocí tlačítek na liště v okně chatu.</translation>
     </message>
 </context>
@@ -3988,528 +3992,540 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="vanished">Ping %1</translation>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="vanished">Pong od %1 po %2 s</translation>
+        <translation>Pong od %1 po %2 s</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="vanished">Funkce není implementována</translation>
+        <translation>Funkce není implementována</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="vanished">%1 Poslední činnost</translation>
+        <translation>%1 Poslední činnost</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="vanished">%1 Poslední činnost byla před %2</translation>
+        <translation>%1 Poslední činnost byla před %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="vanished">%1 se odpojil před %2</translation>
+        <translation>%1 se odpojil před %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="vanished">%1 uptime je %2</translation>
+        <translation>%1 uptime je %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="vanished">%1 je online!</translation>
+        <translation>%1 je online!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Neznámá chyba!</translation>
+        <translation>Neznámá chyba!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="vanished">Služba nedostupná</translation>
+        <translation>Služba nedostupná</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="vanished">Nemáš oprávnění na ziskání informace o poslední činnosti</translation>
+        <translation>Nemáš oprávnění na ziskání informace o poslední činnosti</translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="vanished">%1 Čas</translation>
+        <translation>%1 Čas</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="vanished">Čas %1 je %2</translation>
+        <translation>Čas %1 je %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="vanished">Rozšířené akce</translation>
+        <translation>Rozšířené akce</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="vanished">Kopírovat JID</translation>
+        <translation>Kopírovat JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="vanished">Kopírovat přezdívku</translation>
+        <translation>Kopírovat přezdívku</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="vanished">Kopírovat stavovou hlášku</translation>
+        <translation>Kopírovat stavovou hlášku</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="vanished">Ping</translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="vanished">Poslední činnost</translation>
+        <translation>Poslední činnost</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="vanished">Čas entity</translation>
+        <translation>Čas entity</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="vanished">Tento plugin přídává několik nových příkazů do kontextového menu u kontaktů.</translation>
+        <translation>Tento plugin přídává několik nových příkazů do kontextového menu u kontaktů.</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="vanished">Záložky</translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="vanished">Roster</translation>
+        <translation>Roster</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="vanished">Menu</translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation type="vanished">Vzhled</translation>
+        <translation>Vzhled</translation>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="vanished">CSS</translation>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Různé</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="vanished">Ptát se na potvrzení před vyčištěním okna chatu</translation>
+        <translation>Ptát se na potvrzení před vyčištěním okna chatu</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="vanished">Zapnout ikony v chatu</translation>
+        <translation>Zapnout ikony v chatu</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="vanished">Upravit velikost ikon zpráv</translation>
+        <translation>Upravit velikost ikon zpráv</translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="vanished">Zobrazovat Avatar</translation>
+        <translation>Zobrazovat Avatar</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation type="vanished">Zapnout &quot;Říká styl&quot;</translation>
+        <translation>Zapnout &quot;Říká styl&quot;</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="vanished">Schovat tlačítko &quot;Odeslat&quot;</translation>
+        <translation>Schovat tlačítko &quot;Odeslat&quot;</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="vanished">Velikost avatara:</translation>
+        <translation>Velikost avatara:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="vanished">Výchozí mód JID:</translation>
+        <translation>Výchozí mód JID:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automaticky psát velké písmeno na začátku věty</translation>
+        <translation>Automaticky psát velké písmeno na začátku věty</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="vanished">Automaticky zaskrolovat dolů v historii po odeslání zprávy</translation>
+        <translation>Automaticky zaskrolovat dolů v historii po odeslání zprávy</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="vanished">Zobrazit změny stavu</translation>
+        <translation>Zobrazit změny stavu</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="vanished">Zobrazovat prioritu stavu</translation>
+        <translation>Zobrazovat prioritu stavu</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="vanished">Nadpis okna chatu:</translation>
+        <translation>Nadpis okna chatu:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="vanished">Výchozí seznam ignorovaných JID módů:</translation>
+        <translation>Výchozí seznam ignorovaných JID módů:</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Obecné</translation>
+        <translation>Obecné</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="vanished">Zobrazit uzly</translation>
+        <translation>Zobrazit uzly</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="vanished">Zobrazit počáteční uzly</translation>
+        <translation>Zobrazit počáteční uzly</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="vanished">Zobrazit stav s prioritou</translation>
+        <translation>Zobrazit stav s prioritou</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="vanished">Zobrazit změny rolí a přiřazení</translation>
+        <translation>Zobrazit změny rolí a přiřazení</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="vanished">Automaticky přijmout výchozí nastavení místnosti</translation>
+        <translation>Automaticky přijmout výchozí nastavení místnosti</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="vanished">Automaticky přijmout výchozí nastavení místnosti když je místnost vytvořena</translation>
+        <translation>Automaticky přijmout výchozí nastavení místnosti když je místnost vytvořena</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="vanished">Automaticky otevřít nastavovací dialog když je místnost vytvořena</translation>
+        <translation>Automaticky otevřít nastavovací dialog když je místnost vytvořena</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="vanished">Automaticky otevřít konfigurační dialog při vytvoření nové místnosti.
+        <translation>Automaticky otevřít konfigurační dialog při vytvoření nové místnosti.
 Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Skupinový chat</translation>
+        <translation>Skupinový chat</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="vanished">Povolit automatické přihlášení do skupinových chatů v záložkách</translation>
+        <translation>Povolit automatické přihlášení do skupinových chatů v záložkách</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="vanished">Skrýt skupinový chat při automatickém přihlášení</translation>
+        <translation>Skrýt skupinový chat při automatickém přihlášení</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="vanished">Povolit HTML v okně skupinového chatu</translation>
+        <translation>Povolit HTML v okně skupinového chatu</translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="vanished">Stavová zpráva při odchodu ze skupinového chatu</translation>
+        <translation>Stavová zpráva při odchodu ze skupinového chatu</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="vanished">Umístit okno skupinového chatu vlevo</translation>
+        <translation>Umístit okno skupinového chatu vlevo</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="vanished">Zobrazit skupiny</translation>
+        <translation>Zobrazit skupiny</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="vanished">Používat tenké nadpisy skupin</translation>
+        <translation>Používat tenké nadpisy skupin</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="vanished">Zobrazovat stavové ikony</translation>
+        <translation>Zobrazovat stavové ikony</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="vanished">Zobrazi ikony přiřazení</translation>
+        <translation>Zobrazi ikony přiřazení</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="vanished">Zobrazovat ikony klientů</translation>
+        <translation>Zobrazovat ikony klientů</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="vanished">Zobrazovat avatary</translation>
+        <translation>Zobrazovat avatary</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="vanished">Umístit avatary nalevo</translation>
+        <translation>Umístit avatary nalevo</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="vanished">Styl řazení kontaktů:</translation>
+        <translation>Styl řazení kontaktů:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="vanished">Velikost avatarů:</translation>
+        <translation>Velikost avatarů:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="vanished">Poloměr avatarů:</translation>
+        <translation>Poloměr avatarů:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="vanished">Zjistit přezdívky při přidání</translation>
+        <translation>Zjistit přezdívky při přidání</translation>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="vanished">Uzamknout roster</translation>
+        <translation>Uzamknout roster</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="vanished">Umístit roster nalevo v &quot;jednookenním&quot; režimu</translation>
+        <translation>Umístit roster nalevo v &quot;jednookenním&quot; režimu</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="vanished">Jméno konktaku a stavová zpráva v řadě</translation>
+        <translation>Jméno konktaku a stavová zpráva v řadě</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="vanished">Pokud kontakt nemá avatar, použít výchozí</translation>
+        <translation>Pokud kontakt nemá avatar, použít výchozí</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="vanished">Umístit stavovou ikonu přes avatara</translation>
+        <translation>Umístit stavovou ikonu přes avatara</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="vanished">Automaticky odstranit dočasné kontakty</translation>
+        <translation>Automaticky odstranit dočasné kontakty</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="vanished">Nápovědy:</translation>
+        <translation>Nápovědy:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="vanished">Zobrazit avatar</translation>
+        <translation>Zobrazit avatar</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="vanished">Zobrazit poslední stav</translation>
+        <translation>Zobrazit poslední stav</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="vanished">Zobrazit PGP</translation>
+        <translation>Zobrazit PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="vanished">Zobrazit verzi klienta</translation>
+        <translation>Zobrazit verzi klienta</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="vanished">Zobrazit polohu</translation>
+        <translation>Zobrazit polohu</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Admin&quot; v nabídce účtu</translation>
+        <translation>Zobrazit možnost &quot;Admin&quot; v nabídce účtu</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Aktivní chaty&quot; v nabídce kontaktů</translation>
+        <translation>Zobrazit možnost &quot;Aktivní chaty&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Přiřadit OpenGPG klíč&quot; v nabídce kontaktů</translation>
+        <translation>Zobrazit možnost &quot;Přiřadit OpenGPG klíč&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Obrázek&quot; v nabídce kontaktů</translation>
+        <translation>Zobrazit možnost &quot;Obrázek&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Změnit profil&quot; v hlavní nabídce</translation>
+        <translation>Zobrazit možnost &quot;Změnit profil&quot; v hlavní nabídce</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Chat&quot; v nabídce stavu</translation>
+        <translation>Zobrazit možnost &quot;Chat&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;Neviditelný&quot; v nabídce stavu</translation>
+        <translation>Zobrazit možnost &quot;Neviditelný&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="vanished">Zobrazit možnost &quot;XA&quot; v nabídce stavu</translation>
+        <translation>Zobrazit možnost &quot;XA&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="vanished">Zapnout jednotlivé zprávy</translation>
+        <translation>Zapnout jednotlivé zprávy</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="vanished">Barva okraje vyskakovacího okna:</translation>
+        <translation>Barva okraje vyskakovacího okna:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="vanished">Barva linků:</translation>
+        <translation>Barva linků:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="vanished">Barva mailto:</translation>
+        <translation>Barva mailto:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="vanished">Barva moderátorů:</translation>
+        <translation>Barva moderátorů:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="vanished">Barva účastníků:</translation>
+        <translation>Barva účastníků:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="vanished">Barva návštěvníků:</translation>
+        <translation>Barva návštěvníků:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="vanished">Žádná barva role:</translation>
+        <translation>Žádná barva role:</translation>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation type="vanished">Barvení okna skupinového chatu:</translation>
+        <translation>Barvení okna skupinového chatu:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="vanished">Povolit zvukové oznamování pro každou zprávu skupinového chatu</translation>
+        <translation>Povolit zvukové oznamování pro každou zprávu skupinového chatu</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="vanished">Barva textu bublinkové nápovědy:</translation>
+        <translation>Barva textu bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="vanished">Barva pozadí bublinkové nápovědy:</translation>
+        <translation>Barva pozadí bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="vanished">Barva bublinkové nápovědy:</translation>
+        <translation>Barva bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="vanished">Barva textu události &quot;píše&quot; na záložkách:</translation>
+        <translation>Barva textu události &quot;píše&quot; na záložkách:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="vanished">Barva textu události &quot;nepřečtený&quot; na záložkách:</translation>
+        <translation>Barva textu události &quot;nepřečtený&quot; na záložkách:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="vanished">Barvy:</translation>
+        <translation>Barvy:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="vanished">Vyskakovací okno</translation>
+        <translation>Vyskakovací okno</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="vanished">Bublinková nápověda</translation>
+        <translation>Bublinková nápověda</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS pro Psi&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS pro Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="vanished">Vypnout skrolování kolečkem</translation>
+        <translation>Vypnout skrolování kolečkem</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="vanished">Záložky naspodu okna chatu</translation>
+        <translation>Záložky naspodu okna chatu</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="vanished">Zobrazit tlačítko zavření na každé záložce</translation>
+        <translation>Zobrazit tlačítko zavření na každé záložce</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="vanished">Zobrazit stavové ikony na záložkách</translation>
+        <translation>Zobrazit stavové ikony na záložkách</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="vanished">Skrýt záložku při zavření okna chatu</translation>
+        <translation>Skrýt záložku při zavření okna chatu</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="vanished">Povolit zavření neaktivních záložek</translation>
+        <translation>Povolit zavření neaktivních záložek</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="vanished">Akce na záložkách pro prostřední tlačítko myši:</translation>
+        <translation>Akce na záložkách pro prostřední tlačítko myši:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="vanished">Akce na záložkách pro dvojklik myši:</translation>
+        <translation>Akce na záložkách pro dvojklik myši:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="vanished">Zapnout blikání oken</translation>
+        <translation>Zapnout blikání oken</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="vanished">Povolit mód &quot;Jeden účet&quot;</translation>
+        <translation>Povolit mód &quot;Jeden účet&quot;</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="vanished">Zapnout XML konzoli při přihlášení</translation>
+        <translation>Zapnout XML konzoli při přihlášení</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="vanished">Povolit server poslední činnosti</translation>
+        <translation>Povolit server poslední činnosti</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="vanished">Zakázat notifikace, když je stav DND</translation>
+        <translation>Zakázat notifikace, když je stav DND</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="vanished">Zakázat notifikace, když je stav Pryč</translation>
+        <translation>Zakázat notifikace, když je stav Pryč</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="vanished">Oznámení</translation>
+        <translation>Oznámení</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation type="vanished">Povolit skupinovému chatu zvýrazňování událostí</translation>
+        <translation>Povolit skupinovému chatu zvýrazňování událostí</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation type="vanished">Zapnout víceřádkové záložky</translation>
+        <translation>Zapnout víceřádkové záložky</translation>
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="vanished">Ukládat soukromé MUC zprávy v historii</translation>
+        <translation>Ukládat soukromé MUC zprávy v historii</translation>
     </message>
 </context>
 <context>
@@ -4932,19 +4948,19 @@ Zdůvodnění: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="vanished">Je třeba přihlášení k proxy</translation>
+        <translation>Je třeba přihlášení k proxy</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="vanished">Nahrát seznam s obsahem</translation>
+        <translation>Nahrát seznam s obsahem</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="vanished">Stáhnout a instalovat</translation>
+        <translation>Stáhnout a instalovat</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5481,44 +5497,44 @@ Hra je prohraná.</translation>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="vanished">První tah může být jen H8.</translation>
+        <translation>První tah může být jen H8.</translation>
     </message>
 </context>
 <context>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="vanished">%1: Pozvánka od %2</translation>
+        <translation>%1: Pozvánka od %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="vanished">Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
+        <translation>Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="vanished">%1: Pozvánka od %2</translation>
+        <translation>%1: Pozvánka od %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="vanished">Neplatné parametry</translation>
+        <translation>Neplatné parametry</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="obsolete">Již máte hru rozehranou!</translation>
+        <translation type="unfinished">Již máte hru rozehranou!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="vanished">Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
+        <translation>Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="vanished">Od: %1&lt;br /&gt;Konec hry.</translation>
+        <translation>Od: %1&lt;br /&gt;Konec hry.</translation>
     </message>
 </context>
 <context>
@@ -5763,105 +5779,105 @@ Hra je prohraná.</translation>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="vanished">Nastavit heslo</translation>
+        <translation>Nastavit heslo</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="vanished">Potvrdit heslo:</translation>
+        <translation>Potvrdit heslo:</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="vanished">Hesla nejsou stejná</translation>
+        <translation>Hesla nejsou stejná</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="vanished">Získat jméno skinu</translation>
+        <translation>Získat jméno skinu</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">Jméno: </translation>
+        <translation>Jméno: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Verze: </translation>
+        <translation>Verze: </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="vanished">Vložte text</translation>
+        <translation>Vložte text</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="vanished">Vyberte font</translation>
+        <translation>Vyberte font</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="vanished">Stav Neukládat kontaktu %1 byl změněn</translation>
+        <translation>Stav Neukládat kontaktu %1 byl změněn</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">Nastavení pro účet %1 jsou uložena</translation>
+        <translation>Nastavení pro účet %1 jsou uložena</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">Sdílený stav účtu %1 byl aktualizován</translation>
+        <translation>Sdílený stav účtu %1 byl aktualizován</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">Vlastnosti kontaktu %1 se změnili</translation>
+        <translation>Vlastnosti kontaktu %1 se změnili</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - příchozí pošta!&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;mail.google.com - příchozí pošta!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="vanished">Vyber program</translation>
+        <translation>Vyber program</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="vanished">Blokovat kontakt z gmailu</translation>
+        <translation>Blokovat kontakt z gmailu</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">Zobrazuje oznámení o nových zprávách ve tvé schránce Gmail.
+        <translation>Zobrazuje oznámení o nových zprávách ve tvé schránce Gmail.
 Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku příchozí pošty schránky Gmail. Pokud používáš e-mailové filtry na straně serveru, nemusíš být upozorněn na všechny nové zprávy.</translation>
     </message>
 </context>
@@ -5869,67 +5885,67 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="vanished">Tento zásuvný modul přidává podporu pro změny GNOME 3 stavů přítomností</translation>
+        <translation>Tento zásuvný modul přidává podporu pro změny GNOME 3 stavů přítomností</translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
+        <translation>e-mail: </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="vanished">GnuPG Key Manager umí vytvářet, mazat, exportovat a importovat GnuPG klíče. Umí jen základní operace, ale věřím, že je to vše, co člověk k životu potřebuje.</translation>
+        <translation>GnuPG Key Manager umí vytvářet, mazat, exportovat a importovat GnuPG klíče. Umí jen základní operace, ale věřím, že je to vše, co člověk k životu potřebuje.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="vanished">Poslat veřejný klíč GnuPG</translation>
+        <translation>Poslat veřejný klíč GnuPG</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="vanished">Veřejný klíč %1 odeslán</translation>
+        <translation>Veřejný klíč %1 odeslán</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Tento zásuvný modul dovoluje hrát hru gomoku s přáteli.
+        <translation>Tento zásuvný modul dovoluje hrát hru gomoku s přáteli.
 Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="vanished">Hra Gomoku</translation>
+        <translation>Hra Gomoku</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="vanished">Hra Gomoku!</translation>
+        <translation>Hra Gomoku!</translation>
     </message>
 </context>
 <context>
@@ -5943,18 +5959,18 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="vanished">Nelze spustit</translation>
+        <translation>Nelze spustit</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="vanished">GnuPG program nebyl nalezen</translation>
+        <translation>GnuPG program nebyl nalezen</translation>
     </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="vanished">Vybrat oblast</translation>
+        <translation>Vybrat oblast</translation>
     </message>
 </context>
 <context>
@@ -5973,7 +5989,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="vanished">Nová zkratka</translation>
+        <translation>Nová zkratka</translation>
     </message>
 </context>
 <context>
@@ -6193,31 +6209,31 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historie</translation>
+        <translation>Historie</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="vanished">Zkopírovat odkaz do schránky</translation>
+        <translation>Zkopírovat odkaz do schránky</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otevřít</translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="vanished">Otevřít link v browseru</translation>
+        <translation>Otevřít link v browseru</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="vanished">Zavřít historii</translation>
+        <translation>Zavřít historii</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6251,8 +6267,8 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation type="vanished">Chyba</translation>
     </message>
     <message>
-        <source>Psi Import history</source>
-        <translation type="vanished">Historie importů Psi</translation>
+        <source>Psi+ Import history</source>
+        <translation type="vanished">Historie importů Psi+</translation>
     </message>
     <message>
         <source>Found %1 files for import.
@@ -6268,31 +6284,36 @@ Pokračovat?</translation>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="vanished">Smazat historii kontaktů:</translation>
+        <translation>Smazat historii kontaktů:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="vanished">Smazat historii při ukončení</translation>
+        <translation>Smazat historii při ukončení</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
@@ -6318,8 +6339,8 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -6350,8 +6371,8 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -6360,6 +6381,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Create new profile</source>
         <translation>Vytvořit nový profil</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6442,95 +6479,95 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="vanished">Nahrát obrázek</translation>
+        <translation>Nahrát obrázek</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="vanished">Nahrát soubor</translation>
+        <translation>Nahrát soubor</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>Image preview width</source>
-        <translation type="vanished">Šířka náhledu obrázku</translation>
+        <translation>Šířka náhledu obrázku</translation>
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="vanished">Změnit velikost obrázků</translation>
+        <translation>Změnit velikost obrázků</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
-        <translation type="vanished">Pokud je šířka nebo výška větší než</translation>
+        <translation>Pokud je šířka nebo výška větší než</translation>
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="vanished">Kvalita JPEG</translation>
+        <translation>Kvalita JPEG</translation>
     </message>
     <message>
         <source>Please wait</source>
-        <translation type="vanished">Čekej prosím</translation>
+        <translation>Čekej prosím</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation type="vanished">Už se nahrává něco jiného. Vydrž až %1 vteřin na dokončení, nebo selhání.</translation>
+        <translation>Už se nahrává něco jiného. Vydrž až %1 vteřin na dokončení, nebo selhání.</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="vanished">Nepodporováno</translation>
+        <translation>Nepodporováno</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
-        <translation type="vanished">Server pro účet %1 nepodporuje nahrávání přes HTTP (XEP-363)</translation>
+        <translation>Server pro účet %1 nepodporuje nahrávání přes HTTP (XEP-363)</translation>
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="vanished">Nahrát soubor</translation>
+        <translation>Nahrát soubor</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="vanished">Nahrát obrázek</translation>
+        <translation>Nahrát obrázek</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
-        <translation type="vanished">Chyba při otevírání souboru %1</translation>
+        <translation>Chyba při otevírání souboru %1</translation>
     </message>
     <message>
         <source>The file size is too large.</source>
-        <translation type="vanished">Soubor je příliš velký.</translation>
+        <translation>Soubor je příliš velký.</translation>
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="vanished">Soubor musí být menší než %1 bytů</translation>
+        <translation>Soubor musí být menší než %1 bytů</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation type="vanished">Tento plugin dovoluje nahrávání obrázků a jiných souborů přes XEP-0363.</translation>
+        <translation>Tento plugin dovoluje nahrávání obrázků a jiných souborů přes XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
-        <translation type="vanished">Chyba při požadavku na slot</translation>
+        <translation>Chyba při požadavku na slot</translation>
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation type="vanished">V odpovědi serveru cybí buď PUT, nebo GET adresa.</translation>
+        <translation>V odpovědi serveru cybí buď PUT, nebo GET adresa.</translation>
     </message>
     <message>
         <source>Error uploading</source>
-        <translation type="vanished">Chyba při nuhrávání</translation>
+        <translation>Chyba při nuhrávání</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
-        <translation type="vanished">Není co nahrávat, tohle může být důsledek vypršení času, popř. jiné chyby.</translation>
+        <translation>Není co nahrávat, tohle může být důsledek vypršení času, popř. jiné chyby.</translation>
     </message>
     <message>
         <source>Upload error code %1, message: %2</source>
@@ -6538,7 +6575,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
-        <translation type="vanished">Vypršel čas vyhrazený na čekání na slot</translation>
+        <translation>Vypršel čas vyhrazený na čekání na slot</translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6770,103 +6811,133 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+The plugin has a number of simple settings that can help you:
+* set a special message text
+* exclude specific ICQ numbers
+* set the time interval after which the message will be repeated
+* set the max count of messages by contact
+* disable the message for the active window/tab
+* disable messages for contacts that are not in your roster</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="vanished">Poslat obrázek</translation>
+        <translation>Poslat obrázek</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="vanished">Otevřít soubor</translation>
+        <translation>Otevřít soubor</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="vanished">Ze schránky</translation>
+        <translation>Ze schránky</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Otevřít obrázek</translation>
+        <translation>Otevřít obrázek</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Obrázky (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Obrázky (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="vanished">Obrázek je příliš velký.</translation>
+        <translation>Obrázek je příliš velký.</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="vanished">Velikost obrázku musí být menší než 60 KB</translation>
+        <translation>Velikost obrázku musí být menší než 60 KB</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="vanished">Přijato %1 bytů obrázku.</translation>
+        <translation>Přijato %1 bytů obrázku.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">Obrázek %1 odeslán &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
+        <translation>Obrázek %1 odeslán &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to send images to roster contacts.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="vanished">512 Kb</translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="vanished">1 Mb</translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="vanished">2 Mb</translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="vanished">5 Mb</translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="vanished">10 Mb</translation>
+        <translation>10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="vanished">Maximální velikost obrázku</translation>
+        <translation>Maximální velikost obrázku</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="vanished">Velikost náhledu obrázku v bodech</translation>
+        <translation>Velikost náhledu obrázku v bodech</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="vanished">Povolit zvětšení</translation>
+        <translation>Povolit zvětšení</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation type="vanished">Tento plugin zobrazuje náhled obrázku u odkazů na obrázek.
+        <translation>Tento plugin zobrazuje náhled obrázku u odkazů na obrázek.
 </translation>
     </message>
 </context>
@@ -7123,81 +7194,81 @@ Příčina: %1</translation>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="vanished">Gomoku zásuvný modul -- Pozvání</translation>
+        <translation>Gomoku zásuvný modul -- Pozvání</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Soupeř:</translation>
+        <translation>Soupeř:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">Vyber zdroj:</translation>
+        <translation>Vyber zdroj:</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">Hrát za černé</translation>
+        <translation>Hrát za černé</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">Hrát za bílé</translation>
+        <translation>Hrát za bílé</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="vanished">Šachový plugin - pozvánka</translation>
+        <translation>Šachový plugin - pozvánka</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="vanished">Přijmout</translation>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="vanished">Odmítnout</translation>
+        <translation>Odmítnout</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="vanished">Gomoku herní zásuvný modul -- Pozvání</translation>
+        <translation>Gomoku herní zásuvný modul -- Pozvání</translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="vanished">bílí</translation>
+        <translation>bílí</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">černí</translation>
+        <translation>černí</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="vanished">Hráč %1 Vás zve ke
+        <translation>Hráč %1 Vás zve ke
 hře v šach. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">Hráč %1 Vás zve ke
+        <translation>Hráč %1 Vás zve ke
 hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="vanished">druhý</translation>
+        <translation>druhý</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="vanished">první</translation>
+        <translation>první</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="vanished">Hráč %1 tě zve 
+        <translation>Hráč %1 tě zve 
 abyste si zahráli. Chce hrát %2.</translation>
     </message>
 </context>
@@ -7205,212 +7276,222 @@ abyste si zahráli. Chce hrát %2.</translation>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Pozvánka</translation>
+        <translation>Pozvánka</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Soupeř:</translation>
+        <translation>Soupeř:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">Vyber zdroj:</translation>
+        <translation>Vyber zdroj:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">Hrát za bílé</translation>
+        <translation>Hrát za bílé</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">Hrát za černé</translation>
+        <translation>Hrát za černé</translation>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation type="vanished">Zásuvný modul Battliship Game - Pozvánka</translation>
+        <translation>Zásuvný modul Battliship Game - Pozvánka</translation>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation type="vanished">Chci hrát první</translation>
+        <translation>Chci hrát první</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation type="vanished">Chci hrát druhý</translation>
+        <translation>Chci hrát druhý</translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">Obnovit</translation>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="vanished">Vyčistit log</translation>
+        <translation>Vyčistit log</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="vanished">Odeslat</translation>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="vanished">Jabber Disk - %1</translation>
+        <translation>Jabber Disk - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;Vy:&lt;/b&gt; </translation>
+        <translation>&lt;b&gt;Vy:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;Disk:&lt;/b&gt; </translation>
+        <translation>&lt;b&gt;Disk:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="vanished">Vytvořit adresář</translation>
+        <translation>Vytvořit adresář</translation>
     </message>
     <message>
         <source>Get File</source>
-        <translation type="vanished">Získat soubor</translation>
+        <translation>Získat soubor</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="vanished">Odeslat soubor</translation>
+        <translation>Odeslat soubor</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="vanished">Hash</translation>
+        <translation>Hash</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">Link</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Nápověda</translation>
+        <translation>Nápověda</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="vanished">Úvod</translation>
+        <translation>Úvod</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="vanished">Statistiky</translation>
+        <translation>Statistiky</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="vanished">Přejmenovat</translation>
+        <translation>Přejmenovat</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="vanished">Přesunout do...</translation>
+        <translation>Přesunout do...</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="vanished">Odstranit položku</translation>
+        <translation>Odstranit položku</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="vanished">Vlož jméno adresáře</translation>
+        <translation>Vlož jméno adresáře</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="vanished">Vlož plné JID</translation>
+        <translation>Vlož plné JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="vanished">Vlož nové jméno</translation>
+        <translation>Vlož nové jméno</translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="vanished">Jabber Disk</translation>
+        <translation>Jabber Disk</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="vanished">Nastav JIDy Juick bota</translation>
+        <translation>Nastav JIDy Juick bota</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="vanished">Vlož JID</translation>
+        <translation>Vlož JID</translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="vanished">Varování</translation>
+        <translation>Varování</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
-        <translation type="vanished">nelze vytvořit adresář %1
+        <translation>nelze vytvořit adresář %1
 vyrovnávací paměť avatarů nebude dostupná</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="vanished">Časová značka: %1</translation>
+        <translation>Časová značka: %1</translation>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="vanished"> odpověděl:</translation>
+        <translation> odpověděl:</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="vanished">Poslat soukromou zprávu %1</translation>
+        <translation>Poslat soukromou zprávu %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="vanished">Přihlásit se k blogu %1</translation>
+        <translation>Přihlásit se k blogu %1</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="vanished">Přidat do oblíbených</translation>
+        <translation>Přidat do oblíbených</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7939,11 +8020,11 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
+        <translation>e-mail: </translation>
     </message>
 </context>
 <context>
@@ -7971,59 +8052,59 @@ Detaily: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Jméno</translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-mail</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Vytvořen</translation>
+        <translation>Vytvořen</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Délka</translation>
+        <translation>Délka</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Komentář</translation>
+        <translation>Komentář</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algoritmus</translation>
+        <translation>Algoritmus</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Krátké ID</translation>
+        <translation>Krátké ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="vanished">Zapnout/Vypnout</translation>
+        <translation>Zapnout/Vypnout</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="vanished">JID (nebo jeho část)</translation>
+        <translation>JID (nebo jeho část)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="vanished">Sledovat JIDy</translation>
+        <translation>Sledovat JIDy</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="vanished">Zvuky (nechej prázdné pro výchozí zvuky)</translation>
+        <translation>Zvuky (nechej prázdné pro výchozí zvuky)</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="vanished">Expirace</translation>
+        <translation>Expirace</translation>
     </message>
 </context>
 <context>
@@ -8067,12 +8148,12 @@ Detaily: %1</translation>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="vanished">Nadpis: %1</translation>
+        <translation>Nadpis: %1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="vanished">
+        <translation>
 Tagy: %1</translation>
     </message>
 </context>
@@ -8080,63 +8161,63 @@ Tagy: %1</translation>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="vanished">Poznámkový blok</translation>
+        <translation>Poznámkový blok</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="vanished">Přidat poznámku</translation>
+        <translation>Přidat poznámku</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="vanished">Upravit poznámku</translation>
+        <translation>Upravit poznámku</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="vanished">Smazat poznámku</translation>
+        <translation>Smazat poznámku</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="vanished">Načíst poznámky</translation>
+        <translation>Načíst poznámky</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Znovu načíst</translation>
+        <translation>Znovu načíst</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="vanished">Uložit poznámky</translation>
+        <translation>Uložit poznámky</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Uložit</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="vanished">Zavřít okno</translation>
+        <translation>Zavřít okno</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="vanished">Některé změny nejsou uloženy. Opravdu chceš skončit?</translation>
+        <translation>Některé změny nejsou uloženy. Opravdu chceš skončit?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="vanished">Některé změny nejsou uloženy. Opravdu chcete pokračovat?</translation>
+        <translation>Některé změny nejsou uloženy. Opravdu chcete pokračovat?</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="vanished">Chyba! Možná funkce není implementována na serveru.</translation>
+        <translation>Chyba! Možná funkce není implementována na serveru.</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="vanished">Storage Notes Plugin</translation>
+        <translation>Storage Notes Plugin</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="vanished">Poznámky byly uloženy-</translation>
+        <translation>Poznámky byly uloženy-</translation>
     </message>
 </context>
 <context>
@@ -9309,185 +9390,185 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation type="vanished">Přesměrovat na JID:</translation>
+        <translation>Přesměrovat na JID:</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="vanished">Povolit příjem jednoho Upozornění od stejného kontaktu každou</translation>
+        <translation>Povolit příjem jednoho Upozornění od stejného kontaktu každou</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="vanished">sec</translation>
+        <translation>sec</translation>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="vanished">Neskrývat vyskakovací ikna když je stav Pryč nebo XA</translation>
+        <translation>Neskrývat vyskakovací ikna když je stav Pryč nebo XA</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="vanished">Zakázat notifikace, když je stav DND</translation>
+        <translation>Zakázat notifikace, když je stav DND</translation>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="vanished">Hrát zvuk:</translation>
+        <translation>Hrát zvuk:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">Pokud používáš tento zásuvný modul poprvé, ujisti se, že jsou všechny tvoje
+        <translation>Pokud používáš tento zásuvný modul poprvé, ujisti se, že jsou všechny tvoje
 účty online a potom stiskni tlačítko &quot;Aktualizovat narozeniny&quot;. Chvíli to potrvá.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="vanished">Aktualizovat narozeniny</translation>
+        <translation>Aktualizovat narozeniny</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">Smazat cache narozenin</translation>
+        <translation>Smazat cache narozenin</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="vanished">Zkontrolovat narozeniny</translation>
+        <translation>Zkontrolovat narozeniny</translation>
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="vanished">Začít upozorňovat</translation>
+        <translation>Začít upozorňovat</translation>
     </message>
     <message>
         <source>days in advance</source>
-        <translation type="vanished">dní předem</translation>
+        <translation>dní předem</translation>
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="vanished">Kontrolovat narozeniny každých</translation>
+        <translation>Kontrolovat narozeniny každých</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="vanished">hodin</translation>
+        <translation>hodin</translation>
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="vanished">Aktualizovat narozeniny každých</translation>
+        <translation>Aktualizovat narozeniny každých</translation>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="vanished">dní (0 - automatické aktualizace vypnuty)</translation>
+        <translation>dní (0 - automatické aktualizace vypnuty)</translation>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="vanished">Upozorňovat na kontakty pouze z aktivních účtů</translation>
+        <translation>Upozorňovat na kontakty pouze z aktivních účtů</translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="vanished">Kontrolovat narozeniny při spuštění</translation>
+        <translation>Kontrolovat narozeniny při spuštění</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="vanished">Automaticky vyskakující okno s Captcha</translation>
+        <translation>Automaticky vyskakující okno s Captcha</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="vanished">Použít nastavení proxy z účtu</translation>
+        <translation>Použít nastavení proxy z účtu</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="vanished">Menu kontaktů</translation>
+        <translation>Menu kontaktů</translation>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="vanished">Akce panelu nástrojů</translation>
+        <translation>Akce panelu nástrojů</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="vanished">Podporované účty:</translation>
+        <translation>Podporované účty:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="vanished">Žádný podporovaný účet!</translation>
+        <translation>Žádný podporovaný účet!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="vanished">Nastavení účtu</translation>
+        <translation>Nastavení účtu</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="vanished"> Při nastavení, server pošle oznámení
+        <translation> Při nastavení, server pošle oznámení
  o nepřečtených e-mailech.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="vanished">Oznámení e-mailů</translation>
+        <translation>Oznámení e-mailů</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="vanished"> Při nastavení, server bude ukládat
+        <translation> Při nastavení, server bude ukládat
  chaty Google Talku na serveru;
  pokud ne, nebudou konverzace
  logovány.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">Archivování zpráv</translation>
+        <translation>Archivování zpráv</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="vanished"> Při nastavení bude server
+        <translation> Při nastavení bude server
  automaticky přidávat lidi,
  kteří často dostávají e-mail
  na seznam kontaktů uživatele.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="vanished">Automaticky přijímat návrhy</translation>
+        <translation>Automaticky přijímat návrhy</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="vanished"> Povolit vícero aplikací příhlašených
+        <translation> Povolit vícero aplikací příhlašených
  na stejného uživatele, aby udávali
  stejnou stavovou zprávu.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="vanished">Povolit sdílené stavy</translation>
+        <translation>Povolit sdílené stavy</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="vanished"> Google Talk server zakazuje logování
+        <translation> Google Talk server zakazuje logování
  na serveru individuálních konverzací
  a oznámení o odeslaní.
  Povol nastavení &quot;Archivace zpráv&quot; pro
@@ -9495,393 +9576,397 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="vanished">Povolit nezaznamenávané chaty</translation>
+        <translation>Povolit nezaznamenávané chaty</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished"> Povol &quot;Oznámení e-mailů&quot;!</translation>
+        <translation> Povol &quot;Oznámení e-mailů&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="vanished">Nastavení oznámení e-mailů</translation>
+        <translation>Nastavení oznámení e-mailů</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="vanished">Zobrazovat všechny nepřečtené zprávy</translation>
+        <translation>Zobrazovat všechny nepřečtené zprávy</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="vanished">Zobrazovat pouze nové zprávy</translation>
+        <translation>Zobrazovat pouze nové zprávy</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="vanished">Spustit program:</translation>
+        <translation>Spustit program:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
-        <translation type="vanished">Manager</translation>
+        <translation>Manager</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="vanished">Export</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="vanished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="vanished">Automaticky importovat klíč z těla zprávy</translation>
+        <translation>Automaticky importovat klíč z těla zprávy</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">Filtrovat zprávu s klíčem</translation>
+        <translation>Filtrovat zprávu s klíčem</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="vanished">Prodleva mezi vyskakovacími okny jednoho typu na jednotlivý konktakt</translation>
+        <translation>Prodleva mezi vyskakovacími okny jednoho typu na jednotlivý konktakt</translation>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="vanished">Prodlevy mezi upozorněními</translation>
+        <translation>Prodlevy mezi upozorněními</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">vteřin</translation>
+        <translation>vteřin</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="vanished">Zakázat vyskakovací okna, když je stav DND</translation>
+        <translation>Zakázat vyskakovací okna, když je stav DND</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="vanished">Povolit notifikace pro:</translation>
+        <translation>Povolit notifikace pro:</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="vanished">Naladit</translation>
+        <translation>Naladit</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">Nálada</translation>
+        <translation>Nálada</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="vanished">Činnost</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="vanished">Geolokace</translation>
+        <translation>Geolokace</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">Zvuk:</translation>
+        <translation>Zvuk:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="vanished">Hlavní</translation>
+        <translation>Hlavní</translation>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="vanished">Otázka:</translation>
+        <translation>Otázka:</translation>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="vanished">Odpověď:</translation>
+        <translation>Odpověď:</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="vanished">Gratulace:</translation>
+        <translation>Gratulace:</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Skupinový chat</translation>
+        <translation>Skupinový chat</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="vanished">Povolit Stop Spam pro soukromé zprávy ve skupinovém chatu</translation>
+        <translation>Povolit Stop Spam pro soukromé zprávy ve skupinovém chatu</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="vanished">Povolit Stop Spam pro přiřazení:</translation>
+        <translation>Povolit Stop Spam pro přiřazení:</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="vanished">Vlastník</translation>
+        <translation>Vlastník</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="vanished">Admin</translation>
+        <translation>Admin</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="vanished">Člen</translation>
+        <translation>Člen</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">Nic</translation>
+        <translation>Nic</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="vanished">Povolit Stop Spam pro role:</translation>
+        <translation>Povolit Stop Spam pro role:</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="vanished">Moderátor</translation>
+        <translation>Moderátor</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="vanished">Účastník</translation>
+        <translation>Účastník</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="vanished">Návštěvník</translation>
+        <translation>Návštěvník</translation>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="vanished">Blokovat všechny soukromé zprávy</translation>
+        <translation>Blokovat všechny soukromé zprávy</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="vanished">Poslat zprávu:</translation>
+        <translation>Poslat zprávu:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Různé</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="vanished">Počet blokovaných událostí:</translation>
+        <translation>Počet blokovaných událostí:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">Zobrazit log</translation>
+        <translation>Zobrazit log</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="vanished">Vynulovat</translation>
+        <translation>Vynulovat</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">Poslat maximum</translation>
+        <translation>Poslat maximum</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="vanished">krát</translation>
+        <translation>krát</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">Čas do vynulování počitadla:</translation>
+        <translation>Čas do vynulování počitadla:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="vanished">Logovat blokované zprávy do historie kontaktů</translation>
+        <translation>Logovat blokované zprávy do historie kontaktů</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="vanished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation type="vanished">Zakázat Stop spam, pokud žádné shora uvedené
+        <translation>Zakázat Stop spam, pokud žádné shora uvedené
 pravidlo neodpovídá (nefunguje pro soukromé
 zprávy v chatu víde lidí)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Stav</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">Smazat vybrané</translation>
+        <translation>Smazat vybrané</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="vanished">Přidat řádek</translation>
+        <translation>Přidat řádek</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="vanished">Výchozí zvuk: </translation>
+        <translation>Výchozí zvuk: </translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Zprávy</translation>
+        <translation>Zprávy</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Upravit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="vanished">Zakázat zvuk když je okno chatu aktivní</translation>
+        <translation>Zakázat zvuk když je okno chatu aktivní</translation>
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="vanished">Zobrazit tlačítko Sledovat JID v kontextovém menu kontaktů</translation>
+        <translation>Zobrazit tlačítko Sledovat JID v kontextovém menu kontaktů</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
-        <translation type="vanished">ze souboru</translation>
+        <translation>ze souboru</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="vanished">ze schránky</translation>
+        <translation>ze schránky</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="vanished">do souboru</translation>
+        <translation>do souboru</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="vanished">do schránky</translation>
+        <translation>do schránky</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="vanished">&lt;b&gt;Prosím čekejte!&lt;/b&gt;&lt;br/&gt;Potřebujeme generovat spoustu náhodných dat. Pomůže, když si během generovaní budete dělat jinou práci (psát na klávesnici, hýbat s myší, používat disk); pomáhá to generátoru náhodných čísel, aby měl dostatečnou entropii.</translation>
+        <translation>&lt;b&gt;Prosím čekejte!&lt;/b&gt;&lt;br/&gt;Potřebujeme generovat spoustu náhodných dat. Pomůže, když si během generovaní budete dělat jinou práci (psát na klávesnici, hýbat s myší, používat disk); pomáhá to generátoru náhodných čísel, aby měl dostatečnou entropii.</translation>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="vanished">Generování páru klíčů</translation>
+        <translation>Generování páru klíčů</translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="vanished">Opravdu smazat vybrané klíče?</translation>
+        <translation>Opravdu smazat vybrané klíče?</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="vanished">ASCII (*.asc)</translation>
+        <translation>ASCII (*.asc)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="vanished">Všechny soubory (*)</translation>
+        <translation>Všechny soubory (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="vanished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="vanished">Ověřování...</translation>
+        <translation>Ověřování...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="vanished">Ověřování OK</translation>
+        <translation>Ověřování OK</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="vanished">Ověřování selhalo</translation>
+        <translation>Ověřování selhalo</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="vanished">Zrušeno</translation>
+        <translation>Zrušeno</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="vanished">Vyber soubor</translation>
+        <translation>Vyber soubor</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="vanished">Nahrávám</translation>
+        <translation>Nahrávám</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="vanished">Chyba! %1</translation>
+        <translation>Chyba! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="vanished">Cookies jsou odebrány</translation>
+        <translation>Cookies jsou odebrány</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="vanished">Pravidla</translation>
+        <translation>Pravidla</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="vanished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Jméno</translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="vanished">Zapnutý</translation>
+        <translation>Zapnutý</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="vanished">Barva pro čísla odchozích zpráv</translation>
+        <translation>Barva pro čísla odchozích zpráv</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="vanished">Výchozí akce pro zásuvný modul</translation>
+        <translation>Výchozí akce pro zásuvný modul</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="vanished">Vypnutý</translation>
+        <translation>Vypnutý</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="vanished">Podmínky</translation>
+        <translation>Podmínky</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="vanished">Zobrazit zprávu, pokud splňuje pravidlo</translation>
+        <translation>Zobrazit zprávu, pokud splňuje pravidlo</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
 </context>
 <context>
@@ -10693,219 +10778,219 @@ zprávy v chatu víde lidí)</translation>
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Obecné</translation>
+        <translation>Obecné</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Účet:</translation>
+        <translation>Účet:</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="vanished">Pro všechny účty</translation>
+        <translation>Pro všechny účty</translation>
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="vanished">Způsob odpovědi</translation>
+        <translation>Způsob odpovědi</translation>
     </message>
     <message>
         <source>allow</source>
-        <translation type="vanished">povolit</translation>
+        <translation>povolit</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="vanished">neimplementováno</translation>
+        <translation>neimplementováno</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="vanished">ignorovat</translation>
+        <translation>ignorovat</translation>
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="vanished">Zakázat časové požadavky IQ</translation>
+        <translation>Zakázat časové požadavky IQ</translation>
     </message>
     <message>
         <source>OS</source>
-        <translation type="vanished">OS</translation>
+        <translation>OS</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="vanished">Šablona</translation>
+        <translation>Šablona</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="vanished">Jméno OS</translation>
+        <translation>Jméno OS</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="vanished">Klient</translation>
+        <translation>Klient</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="vanished">Jméno klienta</translation>
+        <translation>Jméno klienta</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="vanished">Verze klienta</translation>
+        <translation>Verze klienta</translation>
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="vanished">Caps uzel</translation>
+        <translation>Caps uzel</translation>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="vanished">Caps verze</translation>
+        <translation>Caps verze</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="vanished">Povoleno pro:</translation>
+        <translation>Povoleno pro:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="vanished">Kontakty</translation>
+        <translation>Kontakty</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">Skupinové chaty</translation>
+        <translation>Skupinové chaty</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="vanished">Zobrazit vyskakovácí okno na verzi IQ</translation>
+        <translation>Zobrazit vyskakovácí okno na verzi IQ</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="vanished">nikdy</translation>
+        <translation>nikdy</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation type="vanished">v případě výmeny IQ</translation>
+        <translation>v případě výmeny IQ</translation>
     </message>
     <message>
         <source>always</source>
-        <translation type="vanished">vždy</translation>
+        <translation>vždy</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="vanished">Logy</translation>
+        <translation>Logy</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="vanished">Zobrazit log</translation>
+        <translation>Zobrazit log</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="vanished">Zkratka:</translation>
+        <translation>Zkratka:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="vanished">Formát:</translation>
+        <translation>Formát:</translation>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="vanished">Název souboru:</translation>
+        <translation>Název souboru:</translation>
     </message>
     <message>
         <source>Modify hotkey</source>
-        <translation type="vanished">Změnit klávesovou zkratku</translation>
+        <translation>Změnit klávesovou zkratku</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">Změnit</translation>
+        <translation>Změnit</translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="vanished">Výchozí akce</translation>
+        <translation>Výchozí akce</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">Zachytit obrazovku</translation>
+        <translation>Zachytit obrazovku</translation>
     </message>
     <message>
         <source>Capture active window</source>
-        <translation type="vanished">Zachytit aktivní okno</translation>
+        <translation>Zachytit aktivní okno</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">Vybrat zachytávací oblast</translation>
+        <translation>Vybrat zachytávací oblast</translation>
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="vanished">Servery:</translation>
+        <translation>Servery:</translation>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="vanished">*pořadí serverů lze změnit přetažením myši </translation>
+        <translation>*pořadí serverů lze změnit přetažením myši </translation>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="vanished">Přidat nový server</translation>
+        <translation>Přidat nový server</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="vanished">Smazat zvolený server</translation>
+        <translation>Smazat zvolený server</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="vanished">Upravit zvolený server</translation>
+        <translation>Upravit zvolený server</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Upravit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="vanished">Povolit pro přehrávače:</translation>
+        <translation>Povolit pro přehrávače:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="vanished">Detekovat aplikace běžící na celou obrazovku</translation>
+        <translation>Detekovat aplikace běžící na celou obrazovku</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="vanished">Nastavit stav:</translation>
+        <translation>Nastavit stav:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="vanished">Stavová zpráva:</translation>
+        <translation>Stavová zpráva:</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
-        <translation type="vanished">Obnovit původní stav když se přehrávač zastaví</translation>
+        <translation>Obnovit původní stav když se přehrávač zastaví</translation>
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation type="vanished">Prodleva před nastavením stavu, sekundy</translation>
+        <translation>Prodleva před nastavením stavu, sekundy</translation>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation type="vanished">Prodleva před obnovením stavu, sekundy</translation>
+        <translation>Prodleva před obnovením stavu, sekundy</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation type="vanished">Uložit požadavky do logu</translation>
+        <translation>Uložit požadavky do logu</translation>
     </message>
 </context>
 <context>
@@ -11022,58 +11107,58 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="vanished">Právě poslouchá: </translation>
+        <translation>Právě poslouchá: </translation>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="vanished">Nálada změněna na &quot;%1</translation>
+        <translation>Nálada změněna na &quot;%1</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="vanished">Činnost změněna na &quot;%1</translation>
+        <translation>Činnost změněna na &quot;%1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="vanished">Tento zásuvný modul zobrazuje vyskakovací upozornění, když uživatelé ze seznamu kontaktů změní náladu, písničku nebo aktivitu.</translation>
+        <translation>Tento zásuvný modul zobrazuje vyskakovací upozornění, když uživatelé ze seznamu kontaktů změní náladu, písničku nebo aktivitu.</translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
         <source>Input radius</source>
-        <translation type="vanished">Vstupní úhel</translation>
+        <translation>Vstupní úhel</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="vanished">Poloměr</translation>
+        <translation>Poloměr</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">Vyjmout</translation>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="vanished">Rozmazat</translation>
+        <translation>Rozmazat</translation>
     </message>
 </context>
 <context>
@@ -11098,260 +11183,260 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="vanished">Hra Gomoku</translation>
+        <translation>Hra Gomoku</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Soupeř:</translation>
+        <translation>Soupeř:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="vanished">Stav:</translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">Hra</translation>
+        <translation>Hra</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Konec</translation>
+        <translation>Konec</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="vanished">Skin</translation>
+        <translation>Skin</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Soubor</translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="vanished">Nová hra</translation>
+        <translation>Nová hra</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">Načíst hru</translation>
+        <translation>Načíst hru</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">Uložit hru</translation>
+        <translation>Uložit hru</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Ukončit</translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">Vzdát to</translation>
+        <translation>Vzdát to</translation>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="vanished">Změnit barvu</translation>
+        <translation>Změnit barvu</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="vanished">Standardní</translation>
+        <translation>Standardní</translation>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="vanished">Žluté dřevo</translation>
+        <translation>Žluté dřevo</translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="vanished">Čekám na protihráče</translation>
+        <translation>Čekám na protihráče</translation>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="vanished">Čekám na souhlas</translation>
+        <translation>Čekám na souhlas</translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="vanished">Jsi na tahu</translation>
+        <translation>Jsi na tahu</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="vanished">Konec hry</translation>
+        <translation>Konec hry</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="vanished">Vítězství!</translation>
+        <translation>Vítězství!</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="vanished">Prohra.</translation>
+        <translation>Prohra.</translation>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="vanished">Remíza.</translation>
+        <translation>Remíza.</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="vanished">Ty</translation>
+        <translation>Ty</translation>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="vanished">Soup</translation>
+        <translation>Soup</translation>
     </message>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="vanished">%1: %2 -- změna</translation>
+        <translation>%1: %2 -- změna</translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="vanished">Zásuvný modul Gomoku</translation>
+        <translation>Zásuvný modul Gomoku</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="vanished">Chyba hry!</translation>
+        <translation>Chyba hry!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="vanished">Tvůj soupeř zavřel hru!
+        <translation>Tvůj soupeř zavřel hru!
  Pořád ale můžeš hru uložit.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="vanished">Chceš změnit barvu?</translation>
+        <translation>Chceš změnit barvu?</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">Prohrál jsi.</translation>
+        <translation>Prohrál jsi.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">Vyhrál jsi!</translation>
+        <translation>Vyhrál jsi!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
-        <translation type="vanished">Opravdu chceš začít novou hru?</translation>
+        <translation>Opravdu chceš začít novou hru?</translation>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
-        <translation type="vanished">Opravdu chceš začít načtenou hru?</translation>
+        <translation>Opravdu chceš začít načtenou hru?</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="vanished">Hra lodě</translation>
+        <translation>Hra lodě</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
-        <translation type="vanished">Zamknout pozice lodí</translation>
+        <translation>Zamknout pozice lodí</translation>
     </message>
     <message>
         <source>Press button and make move if you want to propose draw</source>
-        <translation type="vanished">Stiskni a proveď tah pokud chceš navhrnout nerozhodnou hru</translation>
+        <translation>Stiskni a proveď tah pokud chceš navhrnout nerozhodnou hru</translation>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="vanished">Navhrnout nerozhodný výsledek</translation>
+        <translation>Navhrnout nerozhodný výsledek</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="vanished">Stiskni, pokud souhlasíš s nerozhodným výsledkem</translation>
+        <translation>Stiskni, pokud souhlasíš s nerozhodným výsledkem</translation>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="vanished">Souhlas s nerozhodným výsledkem</translation>
+        <translation>Souhlas s nerozhodným výsledkem</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
-        <translation type="vanished">Stiskni, pokud chceš vzdát hru</translation>
+        <translation>Stiskni, pokud chceš vzdát hru</translation>
     </message>
     <message>
         <source>Resign the game</source>
-        <translation type="vanished">Vzdát hru</translation>
+        <translation>Vzdát hru</translation>
     </message>
     <message>
         <source>--</source>
-        <translation type="vanished">--</translation>
+        <translation>--</translation>
     </message>
     <message>
         <source>Setting ships position</source>
-        <translation type="vanished">Nastavování pozice lodí</translation>
+        <translation>Nastavování pozice lodí</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="vanished">Nerozhodně</translation>
+        <translation>Nerozhodně</translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@uživatelské jméno</translation>
+        <translation>@uživatelské jméno</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="vanished">#id_zprávy</translation>
+        <translation>#id_zprávy</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation type="vanished">* značka</translation>
+        <translation>* značka</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation type="vanished">&gt; citace</translation>
+        <translation>&gt; citace</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="vanished">zpráva</translation>
+        <translation>zpráva</translation>
     </message>
 </context>
 <context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="vanished">Náhled</translation>
+        <translation>Náhled</translation>
     </message>
     <message>
         <source>Not an image</source>
-        <translation type="vanished">Není obrázek</translation>
+        <translation>Není obrázek</translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="vanished">Náhled skinu</translation>
+        <translation>Náhled skinu</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
-        <translation type="vanished">Náhled není dostupný</translation>
+        <translation>Náhled není dostupný</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">Jméno: </translation>
+        <translation>Jméno: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Verze: </translation>
+        <translation>Verze: </translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Použít</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="vanished">Skin není validní!</translation>
+        <translation>Skin není validní!</translation>
     </message>
 </context>
 <context>
@@ -11856,31 +11941,31 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="vanished">Nastavení proxy serveru</translation>
+        <translation>Nastavení proxy serveru</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="vanished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Server:</translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">Port:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="vanished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="vanished">Uživatel:</translation>
+        <translation>Uživatel:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
 </context>
 <context>
@@ -12547,20 +12632,20 @@ Důvod: %1.</translation>
         <translation>&amp;Domovská stránka (online)</translation>
     </message>
     <message>
-        <source>Psi Forum (Online)</source>
-        <translation>Psi fórum (Online)</translation>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="vanished">Psi+ fórum (Online)</translation>
     </message>
     <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation>Psi &amp;fórum (Online)</translation>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="vanished">Psi+ &amp;fórum (Online)</translation>
     </message>
     <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>Připojit se do diskuzní místnosti Psi (Online)</translation>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">Připojit se do diskuzní místnosti Psi+ (Online)</translation>
     </message>
     <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>&amp;Připojit se do diskuzní místnosti Psi (Online)</translation>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">&amp;Připojit se do diskuzní místnosti Psi+ (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -12689,6 +12774,22 @@ Důvod: %1.</translation>
     <message>
         <source>Plugins</source>
         <translation>Zásuvné moduly</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">Psí fórum (Online)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13433,8 +13534,8 @@ Chceš aktivovat tuto relaci?</translation>
         <translation>Opravdu smazat všechny volby začínající na %1.?</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: editor možností</translation>
+        <source>Psi+: Option Editor</source>
+        <translation>Psi+: editor možností</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -13443,10 +13544,6 @@ Chceš aktivovat tuto relaci?</translation>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Opravdu vynulovat.možnosti začínající %1 na tovární nastavení?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14535,7 +14632,7 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n den</numerusform>
             <numerusform>%n dnů</numerusform>
             <numerusform>%n dnů</numerusform>
@@ -14543,7 +14640,7 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n hodina </numerusform>
             <numerusform>%n hodin </numerusform>
             <numerusform>%n hodin </numerusform>
@@ -14551,7 +14648,7 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n minuta </numerusform>
             <numerusform>%n minut </numerusform>
             <numerusform>%n minut </numerusform>
@@ -14559,7 +14656,7 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n sekunda </numerusform>
             <numerusform>%n sekund </numerusform>
             <numerusform>%n sekund </numerusform>
@@ -14567,119 +14664,119 @@ Popis: </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="vanished">Varování</translation>
+        <translation>Varování</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="vanished">Nelze zapisovat do souboru %1:
+        <translation>Nelze zapisovat do souboru %1:
 %2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="vanished">Doporučeno uživatelem @%1</translation>
+        <translation>Doporučeno uživatelem @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="vanished">Odpověď odeslána.</translation>
+        <translation>Odpověď odeslána.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="vanished">Nová zpráva odeslána.</translation>
+        <translation>Nová zpráva odeslána.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="vanished"> doporučil tvoji zprávu </translation>
+        <translation> doporučil tvoji zprávu </translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="vanished">Zobrazit všechny zprávy</translation>
+        <translation>Zobrazit všechny zprávy</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="vanished">Odpověď</translation>
+        <translation>Odpověď</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="vanished">Zobrazit informaci o %1 a jeho posledních 10 zpráv</translation>
+        <translation>Zobrazit informaci o %1 a jeho posledních 10 zpráv</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="vanished">Přihlásit</translation>
+        <translation>Přihlásit</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="vanished">Zobrazit posledních 10 zpráv se značkou %1</translation>
+        <translation>Zobrazit posledních 10 zpráv se značkou %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="vanished">Odhlásit</translation>
+        <translation>Odhlásit</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="vanished">Šifrování zprávy pro %1 selhalo.
+        <translation>Šifrování zprávy pro %1 selhalo.
 Zpráva nebyla odeslána.</translation>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="vanished">prostý text</translation>
+        <translation>prostý text</translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="vanished">šifrovaný</translation>
+        <translation>šifrovaný</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="vanished">ukončený</translation>
+        <translation>ukončený</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="vanished">neznámý</translation>
+        <translation>neznámý</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psí mimo záznam</translation>
+        <translation>Psí mimo záznam</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="vanished">Selhalo generování klíču pro účet &quot;%1&quot;.
+        <translation>Selhalo generování klíču pro účet &quot;%1&quot;.
 Zásuvný modul OTR nebude pracovat správně.</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Následující zpráva přijatá od %1 &lt;i&gt;nebyla&lt;/i&gt; zašifrována:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Následující zpráva přijatá od %1 &lt;i&gt;nebyla&lt;/i&gt; zašifrována:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="vanished">Tvoje zpráva nebyla odeslána. Buď ukonči soukromou konverzaci nebo ji restartuj.</translation>
+        <translation>Tvoje zpráva nebyla odeslána. Buď ukonči soukromou konverzaci nebo ji restartuj.</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="vanished">Byla přijata nečitelná zakódovaná zpráva.</translation>
+        <translation>Byla přijata nečitelná zakódovaná zpráva.</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="vanished">Byla přijata zašifrovaná zpráva, ale nemohla být přečtena, protože zatím není vytvořeno žádné soukromé spojení.</translation>
+        <translation>Byla přijata zašifrovaná zpráva, ale nemohla být přečtena, protože zatím není vytvořeno žádné soukromé spojení.</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
-        <translation type="vanished">Přijatá zpráva je nečitelná.</translation>
+        <translation>Přijatá zpráva je nečitelná.</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation type="vanished">Přijatá zpráva obsahuje chybná data.</translation>
+        <translation>Přijatá zpráva obsahuje chybná data.</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="vanished">Přijal jsi nový otisk klíče od %1:
+        <translation>Přijal jsi nový otisk klíče od %1:
 %2</translation>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="vanished">Všechny značky</translation>
+        <translation>Všechny značky</translation>
     </message>
     <message>
         <source>Name: %1
@@ -14687,7 +14784,7 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="vanished">Jméno: %1
+        <translation>Jméno: %1
 Velikost: %2
 Datum prodloužení: %3
 URL: %4
@@ -14695,11 +14792,11 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Ano</translation>
+        <translation>Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Ne</translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Status</source>
@@ -15042,10 +15139,10 @@ Heslo: %5</translation>
         <translation>Kromě tohoto počítače</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation type="vanished">Musí být generovány soukromé klíče pro účet &quot;%1&quot;. Zabere to nějaký čas (od pár vteřin po pár minut). I po tuto dobu můžeš používat Psí+, ale všechny zprávy budou dočasně odesílány nešifrovaně. Budeš informován o tom, kdy generování skončí.
+        <translation>Musí být generovány soukromé klíče pro účet &quot;%1&quot;. Zabere to nějaký čas (od pár vteřin po pár minut). I po tuto dobu můžeš používat Psí+, ale všechny zprávy budou dočasně odesílány nešifrovaně. Budeš informován o tom, kdy generování skončí.
 
 Chceš teď generovat klíče?</translation>
     </message>
@@ -15054,7 +15151,7 @@ Chceš teď generovat klíče?</translation>
 %2
 
 Thanks for your patience.</source>
-        <translation type="vanished">Klíče byly generovány. Otisk klíče &quot;%1&quot;:
+        <translation>Klíče byly generovány. Otisk klíče &quot;%1&quot;:
 %2
 
 Děkujeme za trpělivost.</translation>
@@ -15067,35 +15164,35 @@ Děkujeme za trpělivost.</translation>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="vanished">Tento plugin zobrazuje x-statusy u kontaktů používajících QIP Infium</translation>
+        <translation>Tento plugin zobrazuje x-statusy u kontaktů používajících QIP Infium</translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="vanished">Přesměrovává všechny příchozí zprávy na nějake JID a dovoluje přesměrovávat zpět.</translation>
+        <translation>Přesměrovává všechny příchozí zprávy na nějake JID a dovoluje přesměrovávat zpět.</translation>
     </message>
 </context>
 <context>
@@ -15166,13 +15263,13 @@ Zdůvodnění: %1</translation>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="vanished">slaví dnes narozeniny!
+        <translation>slaví dnes narozeniny!
 </translation>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>slaví narozeniny za %n den
 </numerusform>
             <numerusform>slaví narozeniny za %n dny
@@ -15184,27 +15281,32 @@ Zdůvodnění: %1</translation>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="vanished">slavil včera narozeniny.</translation>
+        <translation>slavil včera narozeniny.</translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="vanished">Připomínání narozenin</translation>
+        <translation>Připomínání narozenin</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15233,15 +15335,15 @@ Zdůvodnění: %1</translation>
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation type="vanished"> min.</translation>
+        <translation> min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation type="vanished">Interval pozornosti: </translation>
+        <translation>Interval pozornosti: </translation>
     </message>
 </context>
 <context>
@@ -15293,179 +15395,188 @@ Zdůvodnění: %1</translation>
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="vanished">Snímek obrazovky</translation>
+        <translation>Snímek obrazovky</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="vanished">Kopírovat do schránky</translation>
+        <translation>Kopírovat do schránky</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="vanished">Zrušit nahrávání</translation>
+        <translation>Zrušit nahrávání</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="vanished">Nahrát na server:</translation>
+        <translation>Nahrát na server:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="vanished">Nahrát snímek na zvolený server</translation>
+        <translation>Nahrát snímek na zvolený server</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="vanished">Uložit snímek na lokální disk</translation>
+        <translation>Uložit snímek na lokální disk</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="vanished">Vytisknout snímek</translation>
+        <translation>Vytisknout snímek</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="vanished">Otevřít snímek z lokálního disku</translation>
+        <translation>Otevřít snímek z lokálního disku</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Nový snímek obrazovky</translation>
+        <translation>Nový snímek obrazovky</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="vanished">panelNástrojů</translation>
+        <translation>panelNástrojů</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Soubor</translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Nápověda</translation>
+        <translation>Nápověda</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otevřít</translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Uložit</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="vanished">Tisk</translation>
+        <translation>Tisk</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Konec</translation>
+        <translation>Konec</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="vanished">Nastavení proxy</translation>
+        <translation>Nastavení proxy</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historie</translation>
+        <translation>Historie</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">O knihovnách Qt</translation>
+        <translation>O knihovnách Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="vanished">Domovská stránka</translation>
+        <translation>Domovská stránka</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Nahrát</translation>
+        <translation>Nahrát</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="vanished">Velikost: %1x%2 body; %3 bytů</translation>
+        <translation>Velikost: %1x%2 body; %3 bytů</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Otevřít obrázek</translation>
+        <translation>Otevřít obrázek</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Obrázky (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Obrázky (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="vanished">/%1.</translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="vanished">Uložit jako</translation>
+        <translation>Uložit jako</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="vanished">%1 Soubory (*.%2);;Všechny soubory (*)</translation>
+        <translation>%1 Soubory (*.%2);;Všechny soubory (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="vanished">/%1.</translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="vanished">Nelze parsovat URL (URL odpovědi: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
+        <translation>Nelze parsovat URL (URL odpovědi: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="vanished">Zavřít snímek obrazovky</translation>
+        <translation>Zavřít snímek obrazovky</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Nový snímek obrazovky</translation>
+        <translation>Nový snímek obrazovky</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">Zachytit obrazovku</translation>
+        <translation>Zachytit obrazovku</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="vanished">Zachytit aktivní okno</translation>
+        <translation>Zachytit aktivní okno</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">Vybrat zachytávací oblast</translation>
+        <translation>Vybrat zachytávací oblast</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="vanished">Zachytit po</translation>
+        <translation>Zachytit po</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">sekundách</translation>
+        <translation>sekundách</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="vanished">Nahrát obrázek</translation>
+        <translation>Nahrát obrázek</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
+The plugin has the following settings:
+* Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
+* Format -- the file format in which the screenshot will be stored (default: .jpg)
+* File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
+The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="vanished">
+        <translation>
 
 Nastavení pro ověření některých hostingů lze nalézt zde: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
@@ -16073,131 +16184,143 @@ Zdůvodnění: %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Preview skin</source>
-        <translation type="vanished">Náhled skinu</translation>
+        <translation>Náhled skinu</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="vanished">Náhled</translation>
+        <translation>Náhled</translation>
     </message>
     <message>
         <source>Update skins list</source>
-        <translation type="vanished">Aktualizovat seznam skinů</translation>
+        <translation>Aktualizovat seznam skinů</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="vanished">Aktualizovat</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation type="vanished">Použít zvolený skin</translation>
+        <translation>Použít zvolený skin</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Použít</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation type="vanished">Otevřít soubor se skinem</translation>
+        <translation>Otevřít soubor se skinem</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otevřít</translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation type="vanished">Odstranit zvolený skin</translation>
+        <translation>Odstranit zvolený skin</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation type="vanished">Přepsat zvolený skin aktuálním nastavením </translation>
+        <translation>Přepsat zvolený skin aktuálním nastavením </translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Uložit</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation type="vanished">Vytvořit nový skin z aktuálního nastavení</translation>
+        <translation>Vytvořit nový skin z aktuálního nastavení</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="vanished">Vytvořit</translation>
+        <translation>Vytvořit</translation>
     </message>
     <message>
         <source>Backup skin before applying</source>
-        <translation type="vanished">Zazálohovat skin před použitím</translation>
+        <translation>Zazálohovat skin před použitím</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
-        <translation type="vanished">Vyber soubor se skinem</translation>
+        <translation>Vyber soubor se skinem</translation>
     </message>
     <message>
         <source>*.skn</source>
-        <translation type="vanished">*.skn</translation>
+        <translation>*.skn</translation>
     </message>
     <message>
         <source>Create Skin</source>
-        <translation type="vanished">Vytvořit skin</translation>
+        <translation>Vytvořit skin</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Neznámá chyba!</translation>
+        <translation>Neznámá chyba!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="vanished">Uložit soubor se skinem</translation>
+        <translation>Uložit soubor se skinem</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="vanished">Nelze uložit skin!</translation>
+        <translation>Nelze uložit skin!</translation>
     </message>
     <message>
         <source>Apply Skin</source>
-        <translation type="vanished">Použít skin</translation>
+        <translation>Použít skin</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="vanished">Nelze uložit záložní skin!</translation>
+        <translation>Nelze uložit záložní skin!</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation type="vanished">Přepsat zvolený skin</translation>
+        <translation>Přepsat zvolený skin</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
-        <translation type="vanished">Přepsat skin</translation>
+        <translation>Přepsat skin</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="vanished">Nelze uložit skin!</translation>
+        <translation>Nelze uložit skin!</translation>
     </message>
     <message>
         <source>Delete skin</source>
-        <translation type="vanished">Odstranit skin</translation>
+        <translation>Odstranit skin</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16304,42 +16427,70 @@ Zdůvodnění: %1</translation>
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="vanished">Blokovaná událost od </translation>
+        <translation>Blokovaná událost od </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation type="vanished">Zasuvný modul Stop Spam</translation>
+        <translation>Zasuvný modul Stop Spam</translation>
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="vanished">prošel testem</translation>
+        <translation>prošel testem</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in groupchats
+* Choose for which ranks and roles of groupchat participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same groupchat, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in groupchats.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="vanished">Poznámky úložiště</translation>
+        <translation>Poznámky úložiště</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16791,91 +16942,91 @@ Note: Some server may disable transport registration to users from different ser
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="vanished">Šířka čáry:</translation>
+        <translation>Šířka čáry:</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="vanished">Šířka čáry</translation>
+        <translation>Šířka čáry</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="vanished">Vyber barvu</translation>
+        <translation>Vyber barvu</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="vanished">Pero</translation>
+        <translation>Pero</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="vanished">Vybrat</translation>
+        <translation>Vybrat</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">Vyjmout</translation>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="vanished">Vložit</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="vanished">Rotovat</translation>
+        <translation>Rotovat</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="vanished">Vložit text</translation>
+        <translation>Vložit text</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="vanished">Zpět</translation>
+        <translation>Zpět</translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="vanished">z</translation>
+        <translation>z</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="vanished">do</translation>
+        <translation>do</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="vanished">Klávesová zkratka:</translation>
+        <translation>Klávesová zkratka:</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">Změnit</translation>
+        <translation>Změnit</translation>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="vanished">Nepřekládám &quot;Přezdívka:&quot;</translation>
+        <translation>Nepřekládám &quot;Přezdívka:&quot;</translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="vanished">Obnovit tovární nastavení</translation>
+        <translation>Obnovit tovární nastavení</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="vanished">Tento plugin umožňuje převést vybraný text do jiného jazyka.
+        <translation>Tento plugin umožňuje převést vybraný text do jiného jazyka.
 </translation>
     </message>
 </context>
@@ -16890,7 +17041,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="vanished">Hledat: </translation>
+        <translation>Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16898,19 +17049,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation type="vanished">První strana</translation>
+        <translation>První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="vanished">Předchozí strana</translation>
+        <translation>Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="vanished">Další strana</translation>
+        <translation>Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="vanished">Poslední strana</translation>
+        <translation>Poslední strana</translation>
     </message>
     <message>
         <source>Search</source>
@@ -16968,187 +17119,203 @@ Note: Some server may disable transport registration to users from different ser
     <name>UploadManager</name>
     <message>
         <source>Getting storage...</source>
-        <translation type="vanished">Získávám úložiště...</translation>
+        <translation>Získávám úložiště...</translation>
     </message>
     <message>
         <source>Can&apos;t get storage</source>
-        <translation type="vanished">Nelze získat úložiště</translation>
+        <translation>Nelze získat úložiště</translation>
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation type="vanished">Začínám nahrávat...</translation>
+        <translation>Začínám nahrávat...</translation>
     </message>
     <message>
         <source>Error opening file!</source>
-        <translation type="vanished">Chyba při otevírání souboru!</translation>
+        <translation>Chyba při otevírání souboru!</translation>
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="vanished">Ověřování...</translation>
+        <translation>Ověřování...</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="vanished">Úspěšně nahráno</translation>
+        <translation>Úspěšně nahráno</translation>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="vanished">Ověřování selhalo</translation>
+        <translation>Ověřování selhalo</translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autoři: </translation>
+        <translation>Autoři: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Uložit změny</translation>
+        <translation>Uložit změny</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">Smazat log</translation>
+        <translation>Smazat log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">Aktualizovat log</translation>
+        <translation>Aktualizovat log</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">Smazat soubor s logem</translation>
+        <translation>Smazat soubor s logem</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">Uložit log</translation>
+        <translation>Uložit log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="vanished">Nová zpráva byla přidána do logu. Když uložíš změny, ztratí se.</translation>
+        <translation>Nová zpráva byla přidána do logu. Když uložíš změny, ztratí se.</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Chcete uložit svoje změny?</translation>
+        <translation>Chcete uložit svoje změny?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-mail</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="vanished">Od:</translation>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="vanished">Věc:</translation>
+        <translation>Věc:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Účet: </translation>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="vanished">Otevřít mail v prohlížeči</translation>
+        <translation>Otevřít mail v prohlížeči</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="vanished">Otevřít poštovní schránku</translation>
+        <translation>Otevřít poštovní schránku</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="vanished">Předchozí</translation>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="vanished">Další</translation>
+        <translation>Další</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zavřít</translation>
+        <translation>&amp;Zavřít</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] E-mail</translation>
+        <translation>[%1/%2] E-mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="vanished">Otevřít v prohlížeči</translation>
+        <translation>Otevřít v prohlížeči</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Uložit změny</translation>
+        <translation>Uložit změny</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">Smazat log</translation>
+        <translation>Smazat log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">Aktualizovat log</translation>
+        <translation>Aktualizovat log</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">Smazat soubor s logem</translation>
+        <translation>Smazat soubor s logem</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">Uložit log</translation>
+        <translation>Uložit log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="vanished">Nová zpráva byla přidána do logu. Když uložíš změny, ztratí se.</translation>
+        <translation>Nová zpráva byla přidána do logu. Když uložíš změny, ztratí se.</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Chceš uložit svoje změny?</translation>
+        <translation>Chceš uložit svoje změny?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="vanished">Zaškrtnout</translation>
+        <translation>Zaškrtnout</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Odškrtnout</translation>
+        <translation>Odškrtnout</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Invertovat</translation>
+        <translation>Invertovat</translation>
     </message>
 </context>
 <context>
@@ -17217,43 +17384,48 @@ Note: Some server may disable transport registration to users from different ser
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="vanished">Prázdná položka</translation>
+        <translation>Prázdná položka</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="vanished"> mění stav na </translation>
+        <translation> mění stav na </translation>
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation type="vanished">Nesledovat JID</translation>
+        <translation>Nesledovat JID</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Vyber soubor se zvukem</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="vanished">&lt;br&gt;Stavová zpráva: %1</translation>
+        <translation>&lt;br&gt;Stavová zpráva: %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="vanished">Sledovací zásuvný modul</translation>
+        <translation>Sledovací zásuvný modul</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="vanished">Sledovat JID</translation>
+        <translation>Sledovat JID</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17816,63 +17988,63 @@ Opravdu zavřít okno?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="vanished">Vyber zvuky:</translation>
+        <translation>Vyber zvuky:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="vanished">Hra začala:</translation>
+        <translation>Hra začala:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="vanished">Hra skončila:</translation>
+        <translation>Hra skončila:</translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="vanished">Jsi na tahu:</translation>
+        <translation>Jsi na tahu:</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="vanished">Chybová zpráva:</translation>
+        <translation>Chybová zpráva:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="vanished">Při zaškrtnutí bude zvuk vždy povolen (nebo zakázán)</translation>
+        <translation>Při zaškrtnutí bude zvuk vždy povolen (nebo zakázán)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="vanished">Ignorovat výchozí nastavení zvuku</translation>
+        <translation>Ignorovat výchozí nastavení zvuku</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="vanished">Zakázat pozvánky, pokud je stav DND</translation>
+        <translation>Zakázat pozvánky, pokud je stav DND</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation type="vanished">Zakázat pozvánky ze skupinového chatu</translation>
+        <translation>Zakázat pozvánky ze skupinového chatu</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="vanished">Uložit výšku a šířku okna</translation>
+        <translation>Uložit výšku a šířku okna</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="vanished">Uložit pozici okna</translation>
+        <translation>Uložit pozici okna</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="vanished">Automatická odpověď v případě &quot;Recv&quot;:</translation>
+        <translation>Automatická odpověď v případě &quot;Recv&quot;:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="vanished">Automatická odpověď v případě &quot;No Recv&quot;:</translation>
+        <translation>Automatická odpověď v případě &quot;No Recv&quot;:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -17882,7 +18054,7 @@ Opravdu zavřít okno?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="vanished">Vlastní volby:
+        <translation>Vlastní volby:
 -uin -- nedělat nic
 +uin -- poslat odpověď
 !uin -- bokovat zprávu
@@ -17892,816 +18064,820 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation type="vanished">Počkat na další zprávu Recv:</translation>
+        <translation>Počkat na další zprávu Recv:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="vanished">Max. počet zpráv kontaktu:</translation>
+        <translation>Max. počet zpráv kontaktu:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">Zakázat pokud je okno chatu aktivní</translation>
+        <translation>Zakázat pokud je okno chatu aktivní</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="vanished">Přenosy:</translation>
+        <translation>Přenosy:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="vanished">Zakázat pozvánky z konference</translation>
+        <translation>Zakázat pozvánky z konference</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="vanished">Ověřit %1</translation>
+        <translation>Ověřit %1</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="vanished">Pro ověření otázkou a odpovědí, zeptej se na otázku, na kterou znáš odpověď jen ty a %1.</translation>
+        <translation>Pro ověření otázkou a odpovědí, zeptej se na otázku, na kterou znáš odpověď jen ty a %1.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="vanished">Pro ověření sdíleným tajemstvím, vlož tajemství, které znáš jen ty a %1.</translation>
+        <translation>Pro ověření sdíleným tajemstvím, vlož tajemství, které znáš jen ty a %1.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="vanished">Pro manuální ověření si vyměň svoje otisky klíče přes ověřený kanál a porovnej klíč toho druhého s tím uvedeným dole.</translation>
+        <translation>Pro manuální ověření si vyměň svoje otisky klíče přes ověřený kanál a porovnej klíč toho druhého s tím uvedeným dole.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="vanished">Ověřit k %1</translation>
+        <translation>Ověřit k %1</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="vanished">%1 si tě chce ověřit. K ověření odpověz na otázku dole.</translation>
+        <translation>%1 si tě chce ověřit. K ověření odpověz na otázku dole.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="vanished">%1 si tě chce ověřit. K ověření udej dolů sdílené tajemství.</translation>
+        <translation>%1 si tě chce ověřit. K ověření udej dolů sdílené tajemství.</translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="vanished">Otázka a odpověď</translation>
+        <translation>Otázka a odpověď</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="vanished">Sdílené tajemství</translation>
+        <translation>Sdílené tajemství</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="vanished">Ověření otisku klíče</translation>
+        <translation>Ověření otisku klíče</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="vanished">&amp;Otázka:</translation>
+        <translation>&amp;Otázka:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="vanished">O&amp;dpověď:</translation>
+        <translation>O&amp;dpověď:</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="vanished">&amp;Sdílené tajemství:</translation>
+        <translation>&amp;Sdílené tajemství:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Zrušit</translation>
+        <translation>&amp;Zrušit</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="vanished">&amp;Ověřit</translation>
+        <translation>&amp;Ověřit</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="vanished">Tento kontakt už je ověřený.</translation>
+        <translation>Tento kontakt už je ověřený.</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
+        <translation>Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="vanished">Tvůj otisk klíče:</translation>
+        <translation>Tvůj otisk klíče:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="vanished">Otisk klíče %1:</translation>
+        <translation>Otisk klíče %1:</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Účet: </translation>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">Uživatel: </translation>
+        <translation>Uživatel: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisk klíče: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="vanished">Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
+        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psí OTR</translation>
+        <translation>Psí OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="vanished">%1 zrušil proces ověření.</translation>
+        <translation>%1 zrušil proces ověření.</translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="vanished">Ověřování úspěšné.</translation>
+        <translation>Ověřování úspěšné.</translation>
     </message>
     <message>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="vanished">Ǔspěšně jsi byl ověřen.
+        <translation>Ǔspěšně jsi byl ověřen.
 
 Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="vanished">Ověřování selhalo.</translation>
+        <translation>Ověřování selhalo.</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="vanished">Známé otisky klíčů</translation>
+        <translation>Známé otisky klíčů</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="vanished">Moje soukromé klíče</translation>
+        <translation>Moje soukromé klíče</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="vanished">Konfigurace</translation>
+        <translation>Konfigurace</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="vanished">OTR zásady</translation>
+        <translation>OTR zásady</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="vanished">Zakázat soukromé zprávy</translation>
+        <translation>Zakázat soukromé zprávy</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="vanished">Manuálně začít soukromé zprávy</translation>
+        <translation>Manuálně začít soukromé zprávy</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="vanished">Automaticky začít soukromé zprávy</translation>
+        <translation>Automaticky začít soukromé zprávy</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="vanished">Vyžadovat soukromé zprávy</translation>
+        <translation>Vyžadovat soukromé zprávy</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="vanished">Ukončit sezení když je konktakt offline</translation>
+        <translation>Ukončit sezení když je konktakt offline</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="vanished">Odstranit otisk klíče</translation>
+        <translation>Odstranit otisk klíče</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="vanished">Ověřit otisk klíče</translation>
+        <translation>Ověřit otisk klíče</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">Účet</translation>
+        <translation>Účet</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="vanished">Uživatel</translation>
+        <translation>Uživatel</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="vanished">Ověřený</translation>
+        <translation>Ověřený</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Stav</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">Opravdu odstranit následující otisk klíče?</translation>
+        <translation>Opravdu odstranit následující otisk klíče?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Účet: </translation>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">Uživatel: </translation>
+        <translation>Uživatel: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisk klíče: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psí OTR</translation>
+        <translation>Psí OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="vanished">Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
+        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">Kopírovat otisk klíče</translation>
+        <translation>Kopírovat otisk klíče</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="vanished">Generovat nový klíč</translation>
+        <translation>Generovat nový klíč</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="vanished">Smazat klíč</translation>
+        <translation>Smazat klíč</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">Účet</translation>
+        <translation>Účet</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="vanished">Opravdu smazat následující klíč?</translation>
+        <translation>Opravdu smazat následující klíč?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Účet: </translation>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisk klíče: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psí OTR</translation>
+        <translation>Psí OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="vanished">Opravdu přepsat následující klíč?</translation>
+        <translation>Opravdu přepsat následující klíč?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Smazat</translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">Kopírovat otisk klíče</translation>
+        <translation>Kopírovat otisk klíče</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="vanished">Žádné aktivní šifrované sezení</translation>
+        <translation>Žádné aktivní šifrované sezení</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
+        <translation>Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="vanished">neověřený</translation>
+        <translation>neověřený</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="vanished">OTR zprávy [%1]</translation>
+        <translation>OTR zprávy [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="vanished">O&amp;bnovit soukromou konverzaci</translation>
+        <translation>O&amp;bnovit soukromou konverzaci</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="vanished">Začít &amp;soukromou konverzaci</translation>
+        <translation>Začít &amp;soukromou konverzaci</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="vanished">&amp;Ukončil soukromou konverzaci</translation>
+        <translation>&amp;Ukončil soukromou konverzaci</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="vanished">&amp;Ověřit kontakt</translation>
+        <translation>&amp;Ověřit kontakt</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="vanished">Zobrazit bezpečné &amp;ID sezení</translation>
+        <translation>Zobrazit bezpečné &amp;ID sezení</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="vanished">Zobrazit &amp;vlastní otisk klíče</translation>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="vanished">ID sezení mezi účty &quot;%1&quot; a %2: %3</translation>
+        <translation>ID sezení mezi účty &quot;%1&quot; a %2: %3</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="vanished">Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation>Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="vanished">Autoři: %1</translation>
+        <translation>Autoři: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="vanished">Zprávy mimo záznam ti dovolují soukromě konverzovat přes IM díky:</translation>
+        <translation>Zprávy mimo záznam ti dovolují soukromě konverzovat přes IM díky:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="vanished">Šifrování</translation>
+        <translation>Šifrování</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="vanished">Nikdo jiný nemůže číst tvoje zprávy.</translation>
+        <translation>Nikdo jiný nemůže číst tvoje zprávy.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="vanished">Ověření</translation>
+        <translation>Ověření</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="vanished">Můžes si být jistý, že protějšek je ten, kdo si myslíš, že je.</translation>
+        <translation>Můžes si být jistý, že protějšek je ten, kdo si myslíš, že je.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="vanished">Popíratelnost</translation>
+        <translation>Popíratelnost</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="vanished">Zprávy, které posíláš, nemají digitální podpisy zkontrolovatelné třetí stranou. Kdokoliv může podvrhnout zprávy po ukončení konverzace tak, aby vypadaly, že přichází od tebe. Nicméně, během konverzace si tvůj protějšek může být jistý, že zprávy jsou od tebe a nemodifikované.</translation>
+        <translation>Zprávy, které posíláš, nemají digitální podpisy zkontrolovatelné třetí stranou. Kdokoliv může podvrhnout zprávy po ukončení konverzace tak, aby vypadaly, že přichází od tebe. Nicméně, během konverzace si tvůj protějšek může být jistý, že zprávy jsou od tebe a nemodifikované.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="vanished">Perfektní dopředná bezpečnost</translation>
+        <translation>Perfektní dopředná bezpečnost</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="vanished">I pokud ztratíš kontrolu nad svými soukromými klíči, předchozí konverzace nebudou ohroženy.</translation>
+        <translation>I pokud ztratíš kontrolu nad svými soukromými klíči, předchozí konverzace nebudou ohroženy.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">Další informace hledej na &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
+        <translation>Další informace hledej na &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psí OTR</translation>
+        <translation>Psí OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="vanished">Pokus o obnovu soukromé konverzace</translation>
+        <translation>Pokus o obnovu soukromé konverzace</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="vanished">Pokus o start soukromé konverzace</translation>
+        <translation>Pokus o start soukromé konverzace</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="vanished">Soukromá konverzace začala</translation>
+        <translation>Soukromá konverzace začala</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="vanished">Neověřená konverzace začala</translation>
+        <translation>Neověřená konverzace začala</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="vanished">Soukromá konverzace ztracena</translation>
+        <translation>Soukromá konverzace ztracena</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="vanished">Soukromá konverzace zavřena</translation>
+        <translation>Soukromá konverzace zavřena</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="vanished">%1 ukončil soukromou konverzaci s tebou; měl bys uděla to stejné.</translation>
+        <translation>%1 ukončil soukromou konverzaci s tebou; měl bys uděla to stejné.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="vanished">Soukromá konverzace obnovena</translation>
+        <translation>Soukromá konverzace obnovena</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="vanished">Neověřená konverzace obnovena</translation>
+        <translation>Neověřená konverzace obnovena</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="vanished">Kontakt ověřen</translation>
+        <translation>Kontakt ověřen</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="vanished">Kontakt neověřen</translation>
+        <translation>Kontakt neověřen</translation>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
-        <translation type="vanished">Zásuvný modul OTR: událost od %1</translation>
+        <translation>Zásuvný modul OTR: událost od %1</translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Oprávnění</translation>
+        <translation>Oprávnění</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="vanished">Uživatelské jméno:</translation>
+        <translation>Uživatelské jméno:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="vanished">Zapamatuj</translation>
+        <translation>Zapamatuj</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="vanished">Captcha:</translation>
+        <translation>Captcha:</translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="vanished">nastavení</translation>
+        <translation>nastavení</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="vanished">Upravit JIDy</translation>
+        <translation>Upravit JIDy</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="vanished">tučně</translation>
+        <translation>tučně</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="vanished">kurzíva</translation>
+        <translation>kurzíva</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="vanished">podtržení</translation>
+        <translation>podtržení</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="vanished">barva</translation>
+        <translation>barva</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@uživatelské jméno</translation>
+        <translation>@uživatelské jméno</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="vanished">*značka</translation>
+        <translation>*značka</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="vanished">#id zprávy</translation>
+        <translation>#id zprávy</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="vanished">&gt;citace</translation>
+        <translation>&gt;citace</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="vanished">http://odkaz</translation>
+        <translation>http://odkaz</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="vanished">Použít id zprávy jako zdroj</translation>
+        <translation>Použít id zprávy jako zdroj</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="vanished">Zobrazit foto</translation>
+        <translation>Zobrazit foto</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="vanished">Zobrazit avatary</translation>
+        <translation>Zobrazit avatary</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="vanished">Zamění id zprávy za odkaz na tuto
+        <translation>Zamění id zprávy za odkaz na tuto
 zprávu v juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="vanished">Vyčistit vyrovnávací paměť avatarů</translation>
+        <translation>Vyčistit vyrovnávací paměť avatarů</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="vanished">Soubor: </translation>
+        <translation>Soubor: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="vanished">Průběh: </translation>
+        <translation>Průběh: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="vanished">Uběhnutý čas: </translation>
+        <translation>Uběhnutý čas: </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="vanished">Rychlost: </translation>
+        <translation>Rychlost: </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="vanished"> kb/sek</translation>
+        <translation> kb/sek</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="vanished">Nahrávání hotovo. Čekám na ověření.</translation>
+        <translation>Nahrávání hotovo. Čekám na ověření.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="vanished">Hotovo</translation>
+        <translation>Hotovo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="vanished">Odkaz: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>Odkaz: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="vanished">Nahrávám...</translation>
+        <translation>Nahrávám...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="vanished">Nahrávaní začalo.</translation>
+        <translation>Nahrávaní začalo.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="vanished">Soubor: </translation>
+        <translation>Soubor: </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">Průběh:</translation>
+        <translation>Průběh:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="vanished">Uběhnutý čas: </translation>
+        <translation>Uběhnutý čas: </translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="vanished">Rychlost:</translation>
+        <translation>Rychlost:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="vanished">Odkaz: </translation>
+        <translation>Odkaz: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="vanished">Celé jméno:</translation>
+        <translation>Celé jméno:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="vanished">Přezdívka:</translation>
+        <translation>Přezdívka:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="vanished">Narozeniny:</translation>
+        <translation>Narozeniny:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">E-mail:</translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="vanished">Správce souborů Yandex.Narod</translation>
+        <translation>Správce souborů Yandex.Narod</translation>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="vanished">Smazat soubor(y)</translation>
+        <translation>Smazat soubor(y)</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Opravdu?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="vanished">Nastavit heslo</translation>
+        <translation>Nastavit heslo</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="vanished">Odstranit heslo</translation>
+        <translation>Odstranit heslo</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">Kopírovat URL</translation>
+        <translation>Kopírovat URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">Prodloužit</translation>
+        <translation>Prodloužit</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="vanished">Získat seznam souborů</translation>
+        <translation>Získat seznam souborů</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="vanished">Nahrát soubor</translation>
+        <translation>Nahrát soubor</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="vanished">Akce:</translation>
+        <translation>Akce:</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">Kopírovat URL</translation>
+        <translation>Kopírovat URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">Prodloužit</translation>
+        <translation>Prodloužit</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="vanished">Smazat soubor(y)</translation>
+        <translation>Smazat soubor(y)</translation>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="vanished">řádek1
+        <translation>řádek1
 řádek2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="vanished">Seznam souborů:</translation>
+        <translation>Seznam souborů:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="vanished">Nová položka</translation>
+        <translation>Nová položka</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">Smazat Cookies</translation>
+        <translation>Smazat Cookies</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="vanished">Otevřít prohlížeč</translation>
+        <translation>Otevřít prohlížeč</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="vanished">Načítání seznamu souborů...</translation>
+        <translation>Načítání seznamu souborů...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="vanished">Mazání souborů...</translation>
+        <translation>Mazání souborů...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="vanished">Prodloužit soubory...</translation>
+        <translation>Prodloužit soubory...</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="vanished">Cookies jsou zastaralé!
+        <translation>Cookies jsou zastaralé!
 Opětovné ověření...</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
-        <translation type="vanished">Nelze získat soubory!
+        <translation>Nelze získat soubory!
 Zkus odstranit cookies.</translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="vanished">Seznam souboru načten
+        <translation>Seznam souboru načten
 (%1 souborů)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="vanished">Soubor(y) smazán(y)</translation>
+        <translation>Soubor(y) smazán(y)</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="vanished">Soubor(y) prodlouženy</translation>
+        <translation>Soubor(y) prodlouženy</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="vanished">Heslo nastaveno</translation>
+        <translation>Heslo nastaveno</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="vanished">Heslo smazáno</translation>
+        <translation>Heslo smazáno</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="vanished">Otevřít Yandex Narod Manager</translation>
+        <translation>Otevřít Yandex Narod Manager</translation>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="vanished">Poslat soubor přes Yandex Narod</translation>
+        <translation>Poslat soubor přes Yandex Narod</translation>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="vanished">Soubor odeslán %1</translation>
+        <translation>Soubor odeslán %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="vanished">Zásuvný modul Yandex Narod</translation>
+        <translation>Zásuvný modul Yandex Narod</translation>
     </message>
     <message>
         <source>Ported from QutIM Yandex.Narod plugin
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="vanished">Portováno ze zásuvného modulu ori QutIM Yandex Narod
+        <translation>Portováno ze zásuvného modulu ori QutIM Yandex Narod
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 </translation>
     </message>
@@ -18710,31 +18886,31 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="vanished">Uživatelské jméno</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Heslo</translation>
+        <translation>Heslo</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="vanished">stav</translation>
+        <translation>stav</translation>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="vanished">Test oprávnění</translation>
+        <translation>Test oprávnění</translation>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="vanished">Spustit Manager</translation>
+        <translation>Spustit Manager</translation>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="vanished">Poslat šablonu souboru</translation>
+        <translation>Poslat šablonu souboru</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -18742,7 +18918,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -18750,15 +18926,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="vanished">%N -- název souboru; %U -- URL souboru; %S -- velikost souboru</translation>
+        <translation>%N -- název souboru; %U -- URL souboru; %S -- velikost souboru</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">Smazat Cookies</translation>
+        <translation>Smazat Cookies</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

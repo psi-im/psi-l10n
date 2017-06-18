@@ -73,8 +73,8 @@
         <translation>执照</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation>关于Psi +</translation>
+        <source>About Psi+</source>
+        <translation type="vanished">关于Psi +</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -209,6 +209,18 @@
         <translation>安全插件: %1</translation>
     </message>
     <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -224,20 +236,12 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <source>About Psi</source>
+        <translation type="unfinished">关于PSI</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <source>psi/logo_48</source>
+        <translation type="unfinished">psi/logo_48</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1010,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="vanished">当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录。</translation>
+        <translation>当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录。</translation>
     </message>
 </context>
 <context>
@@ -1058,55 +1062,55 @@ save the history for this contact.</source>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="vanished">生成新的密钥对</translation>
+        <translation>生成新的密钥对</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="vanished">长度: </translation>
+        <translation>长度: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="vanished">注释: </translation>
+        <translation>注释: </translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="vanished">过期日期: </translation>
+        <translation>过期日期: </translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="vanished">RSA 和 RSA (默认)</translation>
+        <translation>RSA 和 RSA (默认)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="vanished">DSA 和 Elgamal</translation>
+        <translation>DSA 和 Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="vanished">DSA (仅签名)</translation>
+        <translation>DSA (仅签名)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="vanished">RSA (仅签名)</translation>
+        <translation>RSA (仅签名)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="vanished">完整名称: </translation>
+        <translation>完整名称: </translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="vanished">通过密语: </translation>
+        <translation>通过密语: </translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">电子邮件地址: </translation>
+        <translation>电子邮件地址: </translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="vanished">密钥类型: </translation>
+        <translation>密钥类型: </translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="vanished">重复: </translation>
+        <translation>重复: </translation>
     </message>
 </context>
 <context>
@@ -1284,40 +1288,40 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="vanished">给你发送关注信息！</translation>
+        <translation>给你发送关注信息！</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="vanished">发送关注</translation>
+        <translation>发送关注</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">声音 (*.wav)</translation>
+        <translation>声音 (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="vanished">关注插件</translation>
+        <translation>关注插件</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="vanished">您已发送关注信息至 %1</translation>
+        <translation>您已发送关注信息至 %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="vanished">这个插件的目的是发送和接收特殊的消息，如关注等。要想正常工作，插件需要客户端的其他部分支持xep-0224(例如:Pidgin, Miranda IM with Nudge 插件)。</translation>
+        <translation>这个插件的目的是发送和接收特殊的消息，如关注等。要想正常工作，插件需要客户端的其他部分支持xep-0224(例如:Pidgin, Miranda IM with Nudge 插件)。</translation>
     </message>
 </context>
 <context>
@@ -1339,92 +1343,92 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="vanished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">禁用</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">如果对话窗口活动则禁用</translation>
+        <translation>如果对话窗口活动则禁用</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="vanished">如联络不是来自名册内则禁用</translation>
+        <translation>如联络不是来自名册内则禁用</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">在线</translation>
+        <translation>在线</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="vanished">离开 </translation>
+        <translation>离开 </translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="vanished">勿扰</translation>
+        <translation>勿扰</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="vanished">离开</translation>
+        <translation>离开</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="vanished">隐身</translation>
+        <translation>隐身</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="vanished">如果状态为……则启动:</translation>
+        <translation>如果状态为……则启动:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="vanished">自动回复邮件:</translation>
+        <translation>自动回复邮件:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="vanished">为JIDs和会议;</translation>
+        <translation>为JIDs和会议;</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="vanished">你也可以指定JID的一部分(没有任何额外的符号)</translation>
+        <translation>你也可以指定JID的一部分(没有任何额外的符号)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="vanished">禁用您的账户(特指JIDs):</translation>
+        <translation>禁用您的账户(特指JIDs):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">超时计数器复位:</translation>
+        <translation>超时计数器复位:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">最低限值</translation>
+        <translation>最低限值</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">发送最大值</translation>
+        <translation>发送最大值</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="vanished">倍(-1=无穷)</translation>
+        <translation>倍(-1=无穷)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1438,7 +1442,7 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="vanished">这个插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用:
+        <translation>这个插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用:
 *设置一个文本消息自动应答
 *排除指定jids，包括会议，从对象的自动应答(如果JID会议设置，除了将包括所有的私人信息)
 *禁用自动应答的一些帐户
@@ -1503,53 +1507,58 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="vanished">空白文件</translation>
+        <translation>空白文件</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">头像</translation>
+        <translation>头像</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="vanished">保存图像</translation>
+        <translation>保存图像</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="vanished">保存头像</translation>
+        <translation>保存头像</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">图像(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图像(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件 (*.wav)</translation>
+        <translation>音频文件 (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play battleship with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="vanished">战舰游戏</translation>
+        <translation>战舰游戏</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="vanished">战舰游戏!</translation>
+        <translation>战舰游戏!</translation>
     </message>
 </context>
 <context>
@@ -1728,15 +1737,15 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
+        <translation>CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="vanished">加载数据</translation>
+        <translation>加载数据</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="vanished">原始信息</translation>
+        <translation>原始信息</translation>
     </message>
 </context>
 <context>
@@ -1750,23 +1759,23 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">验证码插件: 验证码从%1</translation>
+        <translation>验证码插件: 验证码从%1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">错误！图像不能加载</translation>
+        <translation>错误！图像不能加载</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
-        <translation type="vanished">这个插件的目的是从PSI+直接通过验证码</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation>这个插件的目的是从PSI+直接通过验证码</translation>
     </message>
 </context>
 <context>
@@ -2048,71 +2057,71 @@ Do you still want to close the window?</source>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="vanished">国际象棋插件</translation>
+        <translation>国际象棋插件</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="vanished">国际象棋！</translation>
+        <translation>国际象棋！</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="vanished">你已在游戏中！</translation>
+        <translation>你已在游戏中！</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="vanished">你的对手已经关闭棋局！你依然可以保存游戏。</translation>
+        <translation>你的对手已经关闭棋局！你依然可以保存游戏。</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="vanished">游戏拒绝</translation>
+        <translation>游戏拒绝</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">你输了。</translation>
+        <translation>你输了。</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">你赢了！</translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="vanished">绘制！</translation>
+        <translation>绘制！</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">未知错误！</translation>
+        <translation>未知错误！</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="vanished">国际象棋插件从 %1邀请</translation>
+        <translation>国际象棋插件从 %1邀请</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">这个插件允许你和朋友下棋。
+        <translation>这个插件允许你和朋友下棋。
 该插件兼容的一个类似的插件tkabber。
 为了发送命令，一般信息可以使用，所以这个插件会一直工作在你可以登录的地方。为了邀请朋友参加游戏，你可以聊天窗口使用菜单项或工具栏上的按钮</translation>
     </message>
@@ -2121,232 +2130,232 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="vanished">国际象棋棋盘</translation>
+        <translation>国际象棋棋盘</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="vanished">移动:</translation>
+        <translation>移动:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="vanished">黑白棋</translation>
+        <translation>黑白棋</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">加载游戏</translation>
+        <translation>加载游戏</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">保存游戏</translation>
+        <translation>保存游戏</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">放弃</translation>
+        <translation>放弃</translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="vanished">启动音效</translation>
+        <translation>启动音效</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">游戏</translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="vanished">*.chs</translation>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
 </source>
-        <translation type="vanished">黑白棋</translation>
+        <translation>黑白棋</translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi Cleaner</source>
-        <translation type="vanished">Psi清道夫</translation>
+        <source>Psi+ Cleaner</source>
+        <translation>Psi+清道夫</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">历史文件</translation>
+        <translation>历史文件</translation>
     </message>
     <message>
         <source>vCards</source>
-        <translation type="vanished">电子名片</translation>
+        <translation>电子名片</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">头像</translation>
+        <translation>头像</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">过滤;</translation>
+        <translation>过滤;</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="vanished">选择所有文件</translation>
+        <translation>选择所有文件</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="vanished">反选全部文件</translation>
+        <translation>反选全部文件</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="vanished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="vanished">文件选择</translation>
+        <translation>文件选择</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="vanished">删除选中的文件</translation>
+        <translation>删除选中的文件</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">删除选中的</translation>
+        <translation>删除选中的</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="vanished">关闭PSI清道夫</translation>
+        <translation>关闭PSI清道夫</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="vanished">选择与配置(&amp;P)</translation>
+        <translation>选择与配置(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="vanished">退出(&amp;Q)</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="vanished">清除JUICK缓存(&amp;J)</translation>
+        <translation>清除JUICK缓存(&amp;J)</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="vanished">清除生日缓存(&amp;B)</translation>
+        <translation>清除生日缓存(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="vanished">文件(&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="vanished">行动(&amp;A)</translation>
+        <translation>行动(&amp;A)</translation>
     </message>
     <message>
         <source>History files: </source>
-        <translation type="vanished">历史文件;</translation>
+        <translation>历史文件;</translation>
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="vanished">电子名片:</translation>
+        <translation>电子名片:</translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="vanished">头像:</translation>
+        <translation>头像:</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="vanished">清除历史记录</translation>
+        <translation>清除历史记录</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">你确定吗?</translation>
+        <translation>你确定吗?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="vanished">清除电子名片</translation>
+        <translation>清除电子名片</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="vanished">清除头像</translation>
+        <translation>清除头像</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="vanished">清除选项</translation>
+        <translation>清除选项</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="vanished">仍然没有支持!</translation>
+        <translation>仍然没有支持!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="vanished">选择配置文件</translation>
+        <translation>选择配置文件</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="vanished">简介:</translation>
+        <translation>简介:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="vanished">清除JUICK缓存</translation>
+        <translation>清除JUICK缓存</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="vanished">JUICK缓存被成功清除</translation>
+        <translation>JUICK缓存被成功清除</translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="vanished">故障!</translation>
+        <translation>故障!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="vanished">没有发现缓存!</translation>
+        <translation>没有发现缓存!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="vanished">清除生日缓存</translation>
+        <translation>清除生日缓存</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">清除生日缓存</translation>
+        <translation>清除生日缓存</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="vanished">生日缓存被成功清除</translation>
+        <translation>生日缓存被成功清除</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="vanished">启动清道夫</translation>
+        <translation>启动清道夫</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="vanished">这个插件的目的是头像缓存，保存本地副本号码和历史日志。
+        <translation>这个插件的目的是头像缓存，保存本地副本号码和历史日志。
 你可以在从您的硬盘驱动器删除它们之前预览项目</translation>
     </message>
 </context>
@@ -2354,85 +2363,85 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">头像</translation>
+        <translation>头像</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">尺寸</translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">创建日期</translation>
+        <translation>创建日期</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="vanished">绰号</translation>
+        <translation>绰号</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="vanished">域</translation>
+        <translation>域</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">尺寸</translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">创建日期</translation>
+        <translation>创建日期</translation>
     </message>
 </context>
 <context>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="vanished">价值</translation>
+        <translation>价值</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">形式</translation>
+        <translation>形式</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="vanished">检查</translation>
+        <translation>检查</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">倒置</translation>
+        <translation>倒置</translation>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="vanished">该插件是用于替代的客户端版本的名字和操作系统类型。
+        <translation>该插件是用于替代的客户端版本的名字和操作系统类型。
 你可以从预置表指定版本的客户和操作系统或选择他们。</translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="vanished">%1需要版本</translation>
+        <translation>%1需要版本</translation>
     </message>
 </context>
 <context>
@@ -2446,41 +2455,41 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="vanished">这里可以查看你的日志:</translation>
+        <translation>这里可以查看你的日志:</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="vanished">日志:</translation>
+        <translation>日志:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">查看日志</translation>
+        <translation>查看日志</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="vanished">群聊历史</translation>
+        <translation>群聊历史</translation>
     </message>
     <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi user sits.
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="vanished">这个插件设计PSI+用户坐在群聊记录保存。
+        <translation>这个插件设计PSI+用户坐在群聊记录保存。
 群聊日志可以查看从插件的设置，或通过点击工具栏上的相应按钮在活动窗口/标签与群聊。
 
 注意:要正常工作，必须启用的群聊工具栏。</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
 </context>
 <context>
@@ -3304,15 +3313,15 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation type="vanished">这个插件的目的是更容易下载并安装图片和其他PSI资源</translation>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation>这个插件的目的是更容易下载并安装图片和其他PSI资源</translation>
     </message>
 </context>
 <context>
@@ -3349,7 +3358,7 @@ Proceed?</source>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="vanished">从不</translation>
+        <translation>从不</translation>
     </message>
 </context>
 <context>
@@ -3627,121 +3636,134 @@ Proceed?</source>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="vanished">注意...</translation>
+        <translation>注意...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="vanished">JID*</translation>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="vanished">文本**</translation>
+        <translation>文本**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="vanished">*通常可用的表情</translation>
+        <translation>*通常可用的表情</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="vanished">**单词列表可用。每个词均可使用常用表情</translation>
+        <translation>**单词列表可用。每个词均可使用常用表情</translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="vanished">用于</translation>
+        <translation>用于</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="vanished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">群聊</translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="vanished">总是播放声音</translation>
+        <translation>总是播放声音</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">音频;</translation>
+        <translation>音频;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="vanished">编辑笔记</translation>
+        <translation>编辑笔记</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">标题:</translation>
+        <translation>标题:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="vanished">标签:</translation>
+        <translation>标签:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="vanished">服务器设置</translation>
+        <translation>服务器设置</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="vanished">网址:</translation>
+        <translation>网址:</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="vanished">用户名称*:</translation>
+        <translation>用户名称*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="vanished">密码*:</translation>
+        <translation>密码*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="vanished">发送数据**:</translation>
+        <translation>发送数据**:</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="vanished">文件导入**:</translation>
+        <translation>文件导入**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="vanished">通常可用的表情**:</translation>
+        <translation>通常可用的表情**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="vanished">*仅限ftp服务器</translation>
+        <translation>*仅限ftp服务器</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="vanished">**仅限http服务器</translation>
+        <translation>**仅限http服务器</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="vanished">使用代理服务器</translation>
+        <translation>使用代理服务器</translation>
     </message>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3954,525 +3976,542 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="vanished">Ping %1</translation>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="vanished">傍从%1到%2 秒后</translation>
+        <translation>傍从%1到%2 秒后</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="vanished">功能未实现</translation>
+        <translation>功能未实现</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="vanished">%1过去的活动</translation>
+        <translation>%1过去的活动</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="vanished">%1最后一项活动是 %2以前</translation>
+        <translation>%1最后一项活动是 %2以前</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="vanished">%1下线 %2前</translation>
+        <translation>%1下线 %2前</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="vanished">%1的正常运行时间是 %2</translation>
+        <translation>%1的正常运行时间是 %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="vanished">%1在线！</translation>
+        <translation>%1在线！</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">未知错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="vanished">服务不可用</translation>
+        <translation>服务不可用</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="vanished">你没有被授权检索上次活动信息</translation>
+        <translation>你没有被授权检索上次活动信息</translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="vanished">%1时间</translation>
+        <translation>%1时间</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="vanished">%1 时间是%2</translation>
+        <translation>%1 时间是%2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="vanished">扩展的行动</translation>
+        <translation>扩展的行动</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="vanished">复制JID</translation>
+        <translation>复制JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="vanished">复制绰号</translation>
+        <translation>复制绰号</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="vanished">复制状态信息</translation>
+        <translation>复制状态信息</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="vanished">Ping</translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="vanished">过去的活动</translation>
+        <translation>过去的活动</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="vanished">单位时间</translation>
+        <translation>单位时间</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="vanished">这个插件添加一些额外的命令到联系上下文的菜单。</translation>
+        <translation>这个插件添加一些额外的命令到联系上下文的菜单。</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="vanished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="vanished">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="vanished">花名册</translation>
+        <translation>花名册</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="vanished">菜单</translation>
+        <translation>菜单</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation type="vanished">查看</translation>
+        <translation>查看</translation>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="vanished">CSS</translation>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">混杂的</translation>
+        <translation>混杂的</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="vanished">清除聊天窗口前请确认</translation>
+        <translation>清除聊天窗口前请确认</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="vanished">启用聊天图标</translation>
+        <translation>启用聊天图标</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="vanished">规模信息图标</translation>
+        <translation>规模信息图标</translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="vanished">显示头像</translation>
+        <translation>显示头像</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation type="vanished">启用谈话风格</translation>
+        <translation>启用谈话风格</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="vanished">隐藏“发送”按纽</translation>
+        <translation>隐藏“发送”按纽</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="vanished">头像尺寸:</translation>
+        <translation>头像尺寸:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="vanished">默认JID模式:</translation>
+        <translation>默认JID模式:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">自动大写句子的第一个字母</translation>
+        <translation>自动大写句子的第一个字母</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="vanished">当发送消息时，日志自动向下滚动</translation>
+        <translation>当发送消息时，日志自动向下滚动</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="vanished">显示状态的变化</translation>
+        <translation>显示状态的变化</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="vanished">显示状态优先</translation>
+        <translation>显示状态优先</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="vanished">聊天窗口标题:</translation>
+        <translation>聊天窗口标题:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="vanished">默认忽略列表的JID模式:</translation>
+        <translation>默认忽略列表的JID模式:</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">通常</translation>
+        <translation>通常</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="vanished">显示加入</translation>
+        <translation>显示加入</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="vanished">显示初始加入</translation>
+        <translation>显示初始加入</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="vanished">显示优先状态</translation>
+        <translation>显示优先状态</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="vanished">显示角色和关系的变化</translation>
+        <translation>显示角色和关系的变化</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="vanished">自动接受默认配置</translation>
+        <translation>自动接受默认配置</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="vanished">当创建新的房间时，自动接受默认的房间配置</translation>
+        <translation>当创建新的房间时，自动接受默认的房间配置</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="vanished">当创建一个新房间时，自动打开配置对话框</translation>
+        <translation>当创建一个新房间时，自动打开配置对话框</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="vanished">当创建一个新房间时，自动打开配置对话框
+        <translation>当创建一个新房间时，自动打开配置对话框
 如果默认接受是假的，才影响该选项</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">群组</translation>
+        <translation>群组</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="vanished">启用自动联接书签群聊</translation>
+        <translation>启用自动联接书签群聊</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="vanished">隐藏自动加入群聊</translation>
+        <translation>隐藏自动加入群聊</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="vanished">在群聊的聊天窗口启用HTML翻译</translation>
+        <translation>在群聊的聊天窗口启用HTML翻译</translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="vanished">群聊保留状态信息</translation>
+        <translation>群聊保留状态信息</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="vanished">放置群聊名单到左侧</translation>
+        <translation>放置群聊名单到左侧</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="vanished">显示组</translation>
+        <translation>显示组</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="vanished">使用超薄组标题</translation>
+        <translation>使用超薄组标题</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="vanished">显示状态图标</translation>
+        <translation>显示状态图标</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="vanished">显示加入图标</translation>
+        <translation>显示加入图标</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="vanished">显示客户端图标</translation>
+        <translation>显示客户端图标</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="vanished">显示头像</translation>
+        <translation>显示头像</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="vanished">在左侧放置头像</translation>
+        <translation>在左侧放置头像</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="vanished">排序方式接触:</translation>
+        <translation>排序方式接触:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="vanished">头像尺寸:</translation>
+        <translation>头像尺寸:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="vanished">头像半径:</translation>
+        <translation>头像半径:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="vanished">解决造成的接触增加</translation>
+        <translation>解决造成的接触增加</translation>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="vanished">锁定名册</translation>
+        <translation>锁定名册</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="vanished">在左侧以&quot;all-in-one-window&quot;模式放置名册</translation>
+        <translation>在左侧以&quot;all-in-one-window&quot;模式放置名册</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="vanished">联系人姓名和状态信息在一排</translation>
+        <translation>联系人姓名和状态信息在一排</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="vanished">如果联系人没有头像，则使用默认的头像</translation>
+        <translation>如果联系人没有头像，则使用默认的头像</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="vanished">在图像上方放置状态图标</translation>
+        <translation>在图像上方放置状态图标</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="vanished">自动删除临时联系人</translation>
+        <translation>自动删除临时联系人</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="vanished">工具提示:</translation>
+        <translation>工具提示:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="vanished">显示头像</translation>
+        <translation>显示头像</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="vanished">显示最后状态</translation>
+        <translation>显示最后状态</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="vanished">显示PGP</translation>
+        <translation>显示PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="vanished">显示客户端版本</translation>
+        <translation>显示客户端版本</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="vanished">显示地理位置</translation>
+        <translation>显示地理位置</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="vanished">在帐户菜单里显示“管理”选项</translation>
+        <translation>在帐户菜单里显示“管理”选项</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="vanished">在联系人菜单里显示“聊天活动”选项</translation>
+        <translation>在联系人菜单里显示“聊天活动”选项</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">在联系人菜单里显示“指定openpgp键”选项</translation>
+        <translation>在联系人菜单里显示“指定openpgp键”选项</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="vanished">在联系人菜单里显示“图片”选项</translation>
+        <translation>在联系人菜单里显示“图片”选项</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="vanished">在主菜单里显示“更改配置文件”选项</translation>
+        <translation>在主菜单里显示“更改配置文件”选项</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="vanished">在统计菜单中显示对话选项</translation>
+        <translation>在统计菜单中显示对话选项</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="vanished">在统计菜单中显示不可见的选项</translation>
+        <translation>在统计菜单中显示不可见的选项</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="vanished">在统计菜单中显示xa选项</translation>
+        <translation>在统计菜单中显示xa选项</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="vanished">启用单一信息</translation>
+        <translation>启用单一信息</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="vanished">弹出边框颜色:</translation>
+        <translation>弹出边框颜色:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="vanished">链接颜色:</translation>
+        <translation>链接颜色:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="vanished">邮件颜色</translation>
+        <translation>邮件颜色</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="vanished">版主颜色:</translation>
+        <translation>版主颜色:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="vanished">参与者颜色:</translation>
+        <translation>参与者颜色:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="vanished">游客颜色:</translation>
+        <translation>游客颜色:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="vanished">无角色颜色:</translation>
+        <translation>无角色颜色:</translation>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation type="vanished">群聊名单着色:</translation>
+        <translation>群聊名单着色:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="vanished">启用声音通知为每一个群聊消息</translation>
+        <translation>启用声音通知为每一个群聊消息</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="vanished">提示文本颜色:</translation>
+        <translation>提示文本颜色:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="vanished">提示背景颜色:</translation>
+        <translation>提示背景颜色:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="vanished">提示着色:</translation>
+        <translation>提示着色:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="vanished">标签上“排版”项目的文本颜色:</translation>
+        <translation>标签上“排版”项目的文本颜色:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="vanished">标签上“未读”项目的文本颜色:</translation>
+        <translation>标签上“未读”项目的文本颜色:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="vanished">颜色:</translation>
+        <translation>颜色:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="vanished">弹出</translation>
+        <translation>弹出</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="vanished">工具提示</translation>
+        <translation>工具提示</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="vanished">禁用轮滚动</translation>
+        <translation>禁用轮滚动</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="vanished">把标签放到聊天窗口的底部</translation>
+        <translation>把标签放到聊天窗口的底部</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="vanished">显示关闭按钮上的标签</translation>
+        <translation>显示关闭按钮上的标签</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="vanished">显示状态图标标签</translation>
+        <translation>显示状态图标标签</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="vanished">当关闭聊天窗口时，隐藏标签</translation>
+        <translation>当关闭聊天窗口时，隐藏标签</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="vanished">允许关闭无效的标签</translation>
+        <translation>允许关闭无效的标签</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="vanished">在标签上单击鼠标中键的动作:</translation>
+        <translation>在标签上单击鼠标中键的动作:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="vanished">在标签上双击鼠标中键的动作:</translation>
+        <translation>在标签上双击鼠标中键的动作:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="vanished">启用窗口闪烁</translation>
+        <translation>启用窗口闪烁</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="vanished">启用“单一账户”模式</translation>
+        <translation>启用“单一账户”模式</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="vanished">启用“XML-控制台”模式登录</translation>
+        <translation>启用“XML-控制台”模式登录</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="vanished">启用服务器活动</translation>
+        <translation>启用服务器活动</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="vanished">如果状态是DND，禁用弹出通知</translation>
+        <translation>如果状态是DND，禁用弹出通知</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="vanished">如果状态是离开，禁用弹出通知</translation>
+        <translation>如果状态是离开，禁用弹出通知</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="vanished">通知</translation>
+        <translation>通知</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="vanished">该插件允许对psi+中的高级选项进行轻松配置；
+        <translation>该插件允许对psi+中的高级选项进行轻松配置；
 该插件使得您能够进入没有图形用户界面的高级程序选项；
 更重要的是:大部分选项是重要的系统设置。这需要您对更改这些选项的结果有额外的关注和适当的理解。</translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4893,19 +4932,19 @@ Reason: %3</source>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="vanished">需要代理认证</translation>
+        <translation>需要代理认证</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="vanished">加载内容列表</translation>
+        <translation>加载内容列表</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="vanished">下载和安装</translation>
+        <translation>下载和安装</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5443,44 +5482,44 @@ You lost the game.</source>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="vanished">第一回合只能是H8</translation>
+        <translation>第一回合只能是H8</translation>
     </message>
 </context>
 <context>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="obsolete">%1:邀请从 %2</translation>
+        <translation type="unfinished">%1:邀请从 %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="obsolete">从: %1&lt;br /&gt;游戏被拒绝</translation>
+        <translation type="unfinished">从: %1&lt;br /&gt;游戏被拒绝</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="vanished">%1:邀请从 %2</translation>
+        <translation>%1:邀请从 %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="vanished">不正确的参数</translation>
+        <translation>不正确的参数</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="obsolete">你已在游戏中！</translation>
+        <translation type="unfinished">你已在游戏中！</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="vanished">从: %1&lt;br /&gt;游戏被拒绝</translation>
+        <translation>从: %1&lt;br /&gt;游戏被拒绝</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="vanished">从: %1&lt;br /&gt;游戏错误.</translation>
+        <translation>从: %1&lt;br /&gt;游戏错误.</translation>
     </message>
 </context>
 <context>
@@ -5725,105 +5764,105 @@ You lost the game.</source>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="vanished">设置密码</translation>
+        <translation>设置密码</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">密码:</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="vanished">确认密码:</translation>
+        <translation>确认密码:</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="vanished">密码不匹配</translation>
+        <translation>密码不匹配</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="vanished">获得皮肤名称</translation>
+        <translation>获得皮肤名称</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="vanished">输入文本</translation>
+        <translation>输入文本</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="vanished">选择字体</translation>
+        <translation>选择字体</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="vanished">未对联系%1的状态进行更改</translation>
+        <translation>未对联系%1的状态进行更改</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">帐户%1的设置态是变化的</translation>
+        <translation>帐户%1的设置态是变化的</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">帐户%1的共享状态是更新的</translation>
+        <translation>帐户%1的共享状态是更新的</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">未对联系%1的属性进行更改</translation>
+        <translation>未对联系%1的属性进行更改</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="vanished">选择程序</translation>
+        <translation>选择程序</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="vanished">阻止gmail联系人</translation>
+        <translation>阻止gmail联系人</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">在您的gmailbox里显示新信息的通知。
+        <translation>在您的gmailbox里显示新信息的通知。
 注:插件只检查您的gmailbox里的收件箱文件夹里的新邮件。当使用服务器端的邮件过滤时，可能不会通知您所有的新邮件.</translation>
     </message>
 </context>
@@ -5831,66 +5870,66 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="vanished">这个插件添加支持的GNOME3的存在状态变化</translation>
+        <translation>这个插件添加支持的GNOME3的存在状态变化</translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="vanished">GnuPG密钥管理器可以创建，删除，导出和导入GnuPG密钥。它可以做的只有基本的操作，但我希望这将是足够满足您的需求。</translation>
+        <translation>GnuPG密钥管理器可以创建，删除，导出和导入GnuPG密钥。它可以做的只有基本的操作，但我希望这将是足够满足您的需求。</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="vanished">发送GnuPG公钥</translation>
+        <translation>发送GnuPG公钥</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="vanished">公钥: %1发送</translation>
+        <translation>公钥: %1发送</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">这个插件允许你和你的朋友玩五子棋。发送命令，正常信息均可以使用，因此无论您是否能够登入，该插件均可一直工作。邀请朋友参加游戏，你可以在聊天窗口使用菜单项或工具栏上的按钮。</translation>
+        <translation>这个插件允许你和你的朋友玩五子棋。发送命令，正常信息均可以使用，因此无论您是否能够登入，该插件均可一直工作。邀请朋友参加游戏，你可以在聊天窗口使用菜单项或工具栏上的按钮。</translation>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="vanished">五子棋游戏</translation>
+        <translation>五子棋游戏</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="vanished">五子棋游戏!</translation>
+        <translation>五子棋游戏!</translation>
     </message>
 </context>
 <context>
@@ -5904,18 +5943,18 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="vanished">启动失败</translation>
+        <translation>启动失败</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="vanished">找不到GunPG程序</translation>
+        <translation>找不到GunPG程序</translation>
     </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="vanished">选择区域</translation>
+        <translation>选择区域</translation>
     </message>
 </context>
 <context>
@@ -5934,7 +5973,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="vanished">新的快捷键</translation>
+        <translation>新的快捷键</translation>
     </message>
 </context>
 <context>
@@ -6154,31 +6193,31 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">历史文件</translation>
+        <translation>历史文件</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="vanished">将链接复制到剪贴板</translation>
+        <translation>将链接复制到剪贴板</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="vanished">在浏览器中打开链接</translation>
+        <translation>在浏览器中打开链接</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="vanished">关闭历史文件</translation>
+        <translation>关闭历史文件</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6211,29 +6250,29 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="vanished">删除联系人历史</translation>
+        <translation>删除联系人历史</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="vanished">在出口请除历史记录</translation>
+        <translation>在出口请除历史记录</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="vanished">这个插件的目的的当PSI关闭时，移除所选联系人的历史记录，
+        <translation>这个插件的目的的当PSI关闭时，移除所选联系人的历史记录，
 你可以从联系人的上下文菜单中或插件选项，选择或取消选择一个联系人的历史记录。</translation>
     </message>
 </context>
@@ -6241,7 +6280,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -6276,8 +6315,8 @@ p, li {
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;
@@ -6327,8 +6366,8 @@ p, li {
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;
@@ -6347,6 +6386,22 @@ p, li {
     <message>
         <source>Create new profile</source>
         <translation>创建新的配置文件</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6429,23 +6484,103 @@ p, li {
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="obsolete">上传图像</translation>
+        <translation type="unfinished">上传图像</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="obsolete">上传文件</translation>
+        <translation type="unfinished">上传文件</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="obsolete">图像(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation type="unfinished">图像(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">错误</translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
+        <translation type="unfinished">作者:</translation>
+    </message>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6680,7 +6815,7 @@ p, li {
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">我以Linux可以告诉你，但不要生我的气。当然这个人将会收到此消息。但是最好跟Jabber对话。你将冒着当ICQ消失了没有人知道，granny已经过时了。他的JID: %1.
+        <translation>我以Linux可以告诉你，但不要生我的气。当然这个人将会收到此消息。但是最好跟Jabber对话。你将冒着当ICQ消失了没有人知道，granny已经过时了。他的JID: %1.
 
 真诚的，Debian Sid.</translation>
     </message>
@@ -6689,17 +6824,17 @@ Sincerely yours, Debian Sid.</source>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
+        <translation>我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
 
 真诚的，Debian Sid.</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6710,7 +6845,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">这个插件的目的是帮助你从ICQ到JABBER传递尽可能多的联系人。插件有一些简单的设置可以帮助你:
+        <translation>这个插件的目的是帮助你从ICQ到JABBER传递尽可能多的联系人。插件有一些简单的设置可以帮助你:
 *设置一个特殊的消息文本
 *排除特定的ICQ网络号码
 *设置时间间隔后，该邮件将被重复
@@ -6722,55 +6857,99 @@ The plugin has a number of simple settings that can help you:
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="vanished">发送图像</translation>
+        <translation>发送图像</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="vanished">打开文件</translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="vanished">从剪贴板</translation>
+        <translation>从剪贴板</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">打开图象</translation>
+        <translation>打开图象</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">图像(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图像(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="vanished">图像尺寸太大了</translation>
+        <translation>图像尺寸太大了</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="vanished">图像尺寸必须小于60KB</translation>
+        <translation>图像尺寸必须小于60KB</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="vanished">图像%1收到的字节</translation>
+        <translation>图像%1收到的字节</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">图像%1发送 &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
+        <translation>图像%1发送 &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="vanished">这个插件的目的是将图像发送到联系人名单。您的客户端必须支持xep-0071:xhtml-im和URL方案支持的数据
+        <translation>这个插件的目的是将图像发送到联系人名单。您的客户端必须支持xep-0071:xhtml-im和URL方案支持的数据
 注:要想正常工作，选择的选项.ui.聊天.中央工具栏必须设置为真。</translation>
+    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7020,263 +7199,290 @@ Reason: %1</source>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="vanished">五子棋游戏插件-邀请</translation>
+        <translation>五子棋游戏插件-邀请</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">对手:</translation>
+        <translation>对手:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">选择资源:</translation>
+        <translation>选择资源:</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">下黑棋</translation>
+        <translation>下黑棋</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">下白棋</translation>
+        <translation>下白棋</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="vanished">国际像棋插件-邀请</translation>
+        <translation>国际像棋插件-邀请</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="vanished">接受</translation>
+        <translation>接受</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="vanished">放弃</translation>
+        <translation>放弃</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="vanished">五子棋游戏插件-邀请</translation>
+        <translation>五子棋游戏插件-邀请</translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="vanished">白色</translation>
+        <translation>白色</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">黑色</translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="vanished">玩家 %1 邀请你下象棋. 他想玩 %2.</translation>
+        <translation>玩家 %1 邀请你下象棋. 他想玩 %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">玩家 %1 邀请你下五子棋. 他想玩 %2.</translation>
+        <translation>玩家 %1 邀请你下五子棋. 他想玩 %2.</translation>
+    </message>
+    <message>
+        <source>second</source>
+        <comment>He wants to play second</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <comment>He wants to play first</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play battleship. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">邀请</translation>
+        <translation>邀请</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="obsolete">对手:</translation>
+        <translation type="unfinished">对手:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">选择资源</translation>
+        <translation>选择资源</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">取消</translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">下白棋</translation>
+        <translation>下白棋</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">下黑棋</translation>
+        <translation>下黑棋</translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">恢复</translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="vanished">清除日志</translation>
+        <translation>清除日志</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="vanished">发送</translation>
+        <translation>发送</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="vanished">Jabber 磁盘 - %1</translation>
+        <translation>Jabber 磁盘 - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;你:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;你:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;光盘:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;光盘:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="vanished">使目录</translation>
+        <translation>使目录</translation>
     </message>
     <message>
         <source>Get File</source>
-        <translation type="vanished">获取文件</translation>
+        <translation>获取文件</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="vanished">发送文件</translation>
+        <translation>发送文件</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="vanished">反复推敲</translation>
+        <translation>反复推敲</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">链接</translation>
+        <translation>链接</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">帮助</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="vanished">简介</translation>
+        <translation>简介</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="vanished">统计</translation>
+        <translation>统计</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="vanished">重命名</translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="vanished">移动到…</translation>
+        <translation>移动到…</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="vanished">移除项目</translation>
+        <translation>移除项目</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">你确定吗？</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="vanished">输入的目录名</translation>
+        <translation>输入的目录名</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="vanished">输入全JID</translation>
+        <translation>输入全JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="vanished">输入新名称</translation>
+        <translation>输入新名称</translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="vanished">JABBER磁盘</translation>
+        <translation>JABBER磁盘</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="vanished">设置juick机器人的JIDS</translation>
+        <translation>设置juick机器人的JIDS</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="vanished">输入JID</translation>
+        <translation>输入JID</translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="vanished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
-        <translation type="vanished">不能创建文件夹%1缓存化身将不可用</translation>
+        <translation>不能创建文件夹%1缓存化身将不可用</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="vanished">时间戳: %1</translation>
+        <translation>时间戳: %1</translation>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="vanished">回答</translation>
+        <translation>回答</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="vanished">发送私人讯息给 %1</translation>
+        <translation>发送私人讯息给 %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="vanished">订阅 %1的博客</translation>
+        <translation>订阅 %1的博客</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="vanished">添加到收藏夹</translation>
+        <translation>添加到收藏夹</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7286,7 +7492,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="vanished">这个插件的设计工作，高效，舒适的服务。Juick微博，插件能够:
+        <translation>这个插件的设计工作，高效，舒适的服务。Juick微博，插件能够:
 *着色@尼克，*标记和消息中从juick@juick.com机器人＃MESSAGE_ID
 *检测&gt;报价信息
 *启用点击@尼克，*标签，＃的MESSAGE_ID和其他控制元件，将其插入到打字区
@@ -7818,8 +8024,12 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
 <context>
     <name>MessageFilter</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>e-mail: </source>
-        <translation type="obsolete">电子邮箱:</translation>
+        <translation type="unfinished">电子邮箱:</translation>
     </message>
 </context>
 <context>
@@ -7847,55 +8057,59 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">邮件</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">创建</translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">长度: </translation>
+        <translation>长度: </translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">注解</translation>
+        <translation>注解</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">算法</translation>
+        <translation>算法</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">短ID</translation>
+        <translation>短ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">指纹</translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="vanished">启用/禁用</translation>
+        <translation>启用/禁用</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="vanished">JID(或部分JID)</translation>
+        <translation>JID(或部分JID)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="vanished">注意jids</translation>
+        <translation>注意jids</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="vanished">音效(如为空，将使用默认音效)</translation>
+        <translation>音效(如为空，将使用默认音效)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7939,75 +8153,75 @@ Details: %1</source>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="vanished">标题:%1</translation>
+        <translation>标题:%1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="vanished">标签:%1</translation>
+        <translation>标签:%1</translation>
     </message>
 </context>
 <context>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="vanished">笔记本</translation>
+        <translation>笔记本</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="vanished">添加笔记</translation>
+        <translation>添加笔记</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="vanished">编辑笔记</translation>
+        <translation>编辑笔记</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="vanished">删除笔记</translation>
+        <translation>删除笔记</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="vanished">加载笔记</translation>
+        <translation>加载笔记</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">重新加载</translation>
+        <translation>重新加载</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="vanished">保存笔记</translation>
+        <translation>保存笔记</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="vanished">关闭窗口</translation>
+        <translation>关闭窗口</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="vanished">一些变更没有保存，你确定要退出吗？</translation>
+        <translation>一些变更没有保存，你确定要退出吗？</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="vanished">一些变更没有保存，你确定要继续吗？</translation>
+        <translation>一些变更没有保存，你确定要继续吗？</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="vanished">错误！也许是在服务器端执行功能</translation>
+        <translation>错误！也许是在服务器端执行功能</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="vanished">存储记录插件</translation>
+        <translation>存储记录插件</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="vanished">笔记已经保存</translation>
+        <translation>笔记已经保存</translation>
     </message>
 </context>
 <context>
@@ -9169,544 +9383,568 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">表单</translation>
+        <translation>表单</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation type="vanished">重定向至JID:</translation>
+        <translation>重定向至JID:</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="vanished">允许每次从相同的联系人处接受同一个关注</translation>
+        <translation>允许每次从相同的联系人处接受同一个关注</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="vanished">秒</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="vanished">如果状态是离开或XA，不要隐藏弹出窗口</translation>
+        <translation>如果状态是离开或XA，不要隐藏弹出窗口</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="vanished">如果状态是DND,禁用通知</translation>
+        <translation>如果状态是DND,禁用通知</translation>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="vanished">播放音效:</translation>
+        <translation>播放音效:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">ref=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>ref=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">第一时间如果你使用这个插件，请确保您所有的帐户在线，然后按“更新生日”按钮，它需要一些时间。</translation>
+        <translation>第一时间如果你使用这个插件，请确保您所有的帐户在线，然后按“更新生日”按钮，它需要一些时间。</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="vanished">更新生日</translation>
+        <translation>更新生日</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">清除生日缓存</translation>
+        <translation>清除生日缓存</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="vanished">检查生日</translation>
+        <translation>检查生日</translation>
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="vanished">启动通知</translation>
+        <translation>启动通知</translation>
     </message>
     <message>
         <source>days in advance</source>
-        <translation type="vanished">提前的天数</translation>
+        <translation>提前的天数</translation>
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="vanished">检查每一个生日</translation>
+        <translation>检查每一个生日</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="vanished">小时</translation>
+        <translation>小时</translation>
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="vanished">每一个更新的生日</translation>
+        <translation>每一个更新的生日</translation>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="vanished">天(0-禁用自动更新)</translation>
+        <translation>天(0-禁用自动更新)</translation>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="vanished">从活动帐户提醒联系人</translation>
+        <translation>从活动帐户提醒联系人</translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="vanished">在启动时检查生日</translation>
+        <translation>在启动时检查生日</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="vanished">自动弹出验证对话框</translation>
+        <translation>自动弹出验证对话框</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="vanished">使用代理服务器设置帐户</translation>
+        <translation>使用代理服务器设置帐户</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="vanished">联系人菜单</translation>
+        <translation>联系人菜单</translation>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="vanished">工具栏操作</translation>
+        <translation>工具栏操作</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="vanished">支持帐户:</translation>
+        <translation>支持帐户:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="vanished">没有支持的帐户</translation>
+        <translation>没有支持的帐户</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="vanished">设置帐户</translation>
+        <translation>设置帐户</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="vanished">如果设置为“真”，服务器将发送未读电子邮件通知</translation>
+        <translation>如果设置为“真”，服务器将发送未读电子邮件通知</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="vanished">邮件通知</translation>
+        <translation>邮件通知</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="vanished">如果设置为“真”，服务器将保存谷歌聊天；如果设置为“假”，则没有对话日志记录。</translation>
+        <translation>如果设置为“真”，服务器将保存谷歌聊天；如果设置为“假”，则没有对话日志记录。</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">邮件归档</translation>
+        <translation>邮件归档</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="vanished">如果设置为“真”，服务器将邮件通常联系人加入用户的花名册</translation>
+        <translation>如果设置为“真”，服务器将邮件通常联系人加入用户的花名册</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="vanished">自动接收建议</translation>
+        <translation>自动接收建议</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="vanished">作为同一个用户报告相同状态消息，启用多个应用程序签署</translation>
+        <translation>作为同一个用户报告相同状态消息，启用多个应用程序签署</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="vanished">启用共享状态</translation>
+        <translation>启用共享状态</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="vanished">google Talk服务器禁止服务器端的个体对话登入以及发送通告
+        <translation>google Talk服务器禁止服务器端的个体对话登入以及发送通告
 启用“信息归档”使用选项！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="vanished">禁用聊天记录</translation>
+        <translation>禁用聊天记录</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">启用“邮件通知”选项</translation>
+        <translation>启用“邮件通知”选项</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="vanished">设置邮件通知</translation>
+        <translation>设置邮件通知</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="vanished">显示所有未读的信息</translation>
+        <translation>显示所有未读的信息</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="vanished">只显示新信息</translation>
+        <translation>只显示新信息</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="vanished">启动程序:</translation>
+        <translation>启动程序:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
-        <translation type="vanished">管理者</translation>
+        <translation>管理者</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">输入</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="vanished">输出</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="vanished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="vanished">从信息本身自动一键输出</translation>
+        <translation>从信息本身自动一键输出</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">用一键过滤信息</translation>
+        <translation>用一键过滤信息</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="vanished">在同一个事件的弹出窗口通告们之间的每个联系的延迟</translation>
+        <translation>在同一个事件的弹出窗口通告们之间的每个联系的延迟</translation>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="vanished">延迟弹出窗口</translation>
+        <translation>延迟弹出窗口</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">秒</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="vanished">如果状态是DND，禁用弹出窗口</translation>
+        <translation>如果状态是DND，禁用弹出窗口</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="vanished">启用通知</translation>
+        <translation>启用通知</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="vanished">曲调</translation>
+        <translation>曲调</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">情绪</translation>
+        <translation>情绪</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="vanished">活动</translation>
+        <translation>活动</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="vanished">地理位置</translation>
+        <translation>地理位置</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">音频:</translation>
+        <translation>音频:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="vanished">主要的</translation>
+        <translation>主要的</translation>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="vanished">问题:</translation>
+        <translation>问题:</translation>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="vanished">答复:</translation>
+        <translation>答复:</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="vanished">祝贺:</translation>
+        <translation>祝贺:</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">群聊</translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="vanished">在群聊里为私人讯息启用阻止垃圾邮件</translation>
+        <translation>在群聊里为私人讯息启用阻止垃圾邮件</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="vanished">启用停止垃圾邮件归属:</translation>
+        <translation>启用停止垃圾邮件归属:</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="vanished">所有者</translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="vanished">管理员</translation>
+        <translation>管理员</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="vanished">成员</translation>
+        <translation>成员</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">一点也没有</translation>
+        <translation>一点也没有</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="vanished">启用对角色的反垃圾处理:</translation>
+        <translation>启用对角色的反垃圾处理:</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="vanished">版主</translation>
+        <translation>版主</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="vanished">参与者</translation>
+        <translation>参与者</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="vanished">游客</translation>
+        <translation>游客</translation>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="vanished">阻碍所有私人信息</translation>
+        <translation>阻碍所有私人信息</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="vanished">发送消息:</translation>
+        <translation>发送消息:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">混杂的</translation>
+        <translation>混杂的</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="vanished">被屏蔽的局的数量:</translation>
+        <translation>被屏蔽的局的数量:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">查看日志</translation>
+        <translation>查看日志</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="vanished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">发送最大值</translation>
+        <translation>发送最大值</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="vanished">时代</translation>
+        <translation>时代</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">超时计数器复位:</translation>
+        <translation>超时计数器复位:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">最低限值</translation>
+        <translation>最低限值</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="vanished">记录封锁消息联系人的历史记录</translation>
+        <translation>记录封锁消息联系人的历史记录</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation type="vanished">如果不匹配任何上述规则，则禁用stopspam，(不为MUC私人信息工作)</translation>
+        <translation>如果不匹配任何上述规则，则禁用stopspam，(不为MUC私人信息工作)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">删除选中的</translation>
+        <translation>删除选中的</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="vanished">添加行</translation>
+        <translation>添加行</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="vanished">默认声音:</translation>
+        <translation>默认声音:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="vanished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="vanished">如果聊天窗口是活动的，则禁用声音</translation>
+        <translation>如果聊天窗口是活动的，则禁用声音</translation>
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="vanished">在联系上下文目录中给JID显示监视</translation>
+        <translation>在联系上下文目录中给JID显示监视</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
-        <translation type="vanished">从文件</translation>
+        <translation>从文件</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="vanished">从剪贴板</translation>
+        <translation>从剪贴板</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="vanished">到文件</translation>
+        <translation>到文件</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="vanished">到剪切板</translation>
+        <translation>到剪切板</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="vanished">&lt;b&gt;请等待!&lt;/b&gt;&lt;br/&gt;我们需要生成大量的随机字节。这是一个以执行一些其他动作(在键盘上输入，移动鼠标，利用磁盘)好主意，在黄金一代，这给随机数发生器有更好的机会获得足够的熵。</translation>
+        <translation>&lt;b&gt;请等待!&lt;/b&gt;&lt;br/&gt;我们需要生成大量的随机字节。这是一个以执行一些其他动作(在键盘上输入，移动鼠标，利用磁盘)好主意，在黄金一代，这给随机数发生器有更好的机会获得足够的熵。</translation>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="vanished">密钥对生成</translation>
+        <translation>密钥对生成</translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="vanished">你真的要删除所选的密钥吗？</translation>
+        <translation>你真的要删除所选的密钥吗？</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="vanished">【计】 转换图 (*.asc)</translation>
+        <translation>【计】 转换图 (*.asc)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="vanished">所有档案 (*)</translation>
+        <translation>所有档案 (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="vanished">GunPG信息</translation>
+        <translation>GunPG信息</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="vanished">授权...</translation>
+        <translation>授权...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="vanished">授权OK</translation>
+        <translation>授权OK</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="vanished">授权失败</translation>
+        <translation>授权失败</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="vanished">选择文件</translation>
+        <translation>选择文件</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="vanished">上传中</translation>
+        <translation>上传中</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="vanished">错误! %1</translation>
+        <translation>错误! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="vanished">Cookies被移除</translation>
+        <translation>Cookies被移除</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="obsolete">规则</translation>
+        <translation type="unfinished">规则</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="obsolete">已启用</translation>
+        <translation type="unfinished">已启用</translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">设置</translation>
+        <translation>设置</translation>
     </message>
 </context>
 <context>
@@ -10517,215 +10755,219 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">形式</translation>
+        <translation>形式</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">通常</translation>
+        <translation>通常</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">帐户:</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="vanished">所有帐户</translation>
+        <translation>所有帐户</translation>
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="vanished">响应模式</translation>
+        <translation>响应模式</translation>
     </message>
     <message>
         <source>allow</source>
-        <translation type="vanished">允许</translation>
+        <translation>允许</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="vanished">未实现</translation>
+        <translation>未实现</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="vanished">忽略</translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="vanished">否定iq时间要求</translation>
+        <translation>否定iq时间要求</translation>
     </message>
     <message>
         <source>OS</source>
-        <translation type="vanished">操作系统</translation>
+        <translation>操作系统</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="vanished">模版</translation>
+        <translation>模版</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="vanished">操作系统时间</translation>
+        <translation>操作系统时间</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="vanished">客户</translation>
+        <translation>客户</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="vanished">客户姓名</translation>
+        <translation>客户姓名</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="vanished">客户端版本</translation>
+        <translation>客户端版本</translation>
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="vanished">CAPS节点</translation>
+        <translation>CAPS节点</translation>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="vanished">Caps版本</translation>
+        <translation>Caps版本</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="vanished">启用:</translation>
+        <translation>启用:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="vanished">联系人</translation>
+        <translation>联系人</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">群聊</translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="vanished">在IQ版本中显示弹出</translation>
+        <translation>在IQ版本中显示弹出</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="vanished">从不</translation>
+        <translation>从不</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation type="vanished">如果IQ被取代</translation>
+        <translation>如果IQ被取代</translation>
     </message>
     <message>
         <source>always</source>
-        <translation type="vanished">总是</translation>
+        <translation>总是</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="vanished">日志</translation>
+        <translation>日志</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="vanished">查看日志</translation>
+        <translation>查看日志</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="vanished">快捷键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="vanished">版式</translation>
+        <translation>版式</translation>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="vanished">文件名称</translation>
+        <translation>文件名称</translation>
     </message>
     <message>
         <source>Modify hotkey</source>
-        <translation type="vanished">修改快捷键</translation>
+        <translation>修改快捷键</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">修改</translation>
+        <translation>修改</translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="vanished">默认动作</translation>
+        <translation>默认动作</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">捕获桌面</translation>
+        <translation>捕获桌面</translation>
     </message>
     <message>
         <source>Capture active window</source>
-        <translation type="vanished">捕捉活动窗口</translation>
+        <translation>捕捉活动窗口</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">选择捕获区域</translation>
+        <translation>选择捕获区域</translation>
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="vanished">服务器</translation>
+        <translation>服务器</translation>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="vanished">为特别设定服务器的次序，请使用drag-n-drop</translation>
+        <translation>为特别设定服务器的次序，请使用drag-n-drop</translation>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="vanished">添加新服务器</translation>
+        <translation>添加新服务器</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="vanished">删除当前服务器</translation>
+        <translation>删除当前服务器</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="vanished">编辑当前服务器</translation>
+        <translation>编辑当前服务器</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="vanished">启用玩家</translation>
+        <translation>启用玩家</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="vanished">检测全屏幕应用</translation>
+        <translation>检测全屏幕应用</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="vanished">设定状态</translation>
+        <translation>设定状态</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="vanished">状态消息</translation>
+        <translation>状态消息</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
-        <translation type="vanished">如果玩家停止恢复旧状态</translation>
+        <translation>如果玩家停止恢复旧状态</translation>
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation type="vanished">延迟设定状态，秒</translation>
+        <translation>延迟设定状态，秒</translation>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation type="vanished">延迟恢复状态，秒</translation>
+        <translation>延迟恢复状态，秒</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10842,58 +11084,58 @@ Please enter your passphrase below:</source>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="vanished">现在听</translation>
+        <translation>现在听</translation>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="vanished">情绪更改为&quot;%1</translation>
+        <translation>情绪更改为&quot;%1</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="vanished">活动更改为&quot;%1</translation>
+        <translation>活动更改为&quot;%1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="vanished">当用户从您的名册中改变他们的情绪，音调或行为时，该插件显示弹出通知</translation>
+        <translation>当用户从您的名册中改变他们的情绪，音调或行为时，该插件显示弹出通知</translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
         <source>Input radius</source>
-        <translation type="vanished">输入半径</translation>
+        <translation>输入半径</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="vanished">半径</translation>
+        <translation>半径</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">拷贝</translation>
+        <translation>拷贝</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="vanished">模糊</translation>
+        <translation>模糊</translation>
     </message>
 </context>
 <context>
@@ -10918,215 +11160,259 @@ Please enter your passphrase below:</source>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="vanished">五子棋游戏</translation>
+        <translation>五子棋游戏</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">对手:</translation>
+        <translation>对手:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="vanished">状态:</translation>
+        <translation>状态:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">游戏</translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="obsolete">退出、出口</translation>
+        <translation type="unfinished">退出、出口</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="vanished">皮肤</translation>
+        <translation>皮肤</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="vanished">新游戏</translation>
+        <translation>新游戏</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">加载游戏</translation>
+        <translation>加载游戏</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">保存游戏</translation>
+        <translation>保存游戏</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">放弃</translation>
+        <translation>放弃</translation>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="vanished">开关颜色</translation>
+        <translation>开关颜色</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="vanished">标准</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="vanished">黄色的树林</translation>
+        <translation>黄色的树林</translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="vanished">等待对手</translation>
+        <translation>等待对手</translation>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="vanished">等待接受</translation>
+        <translation>等待接受</translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="vanished">轮到你了</translation>
+        <translation>轮到你了</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="vanished">游戏结束</translation>
+        <translation>游戏结束</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="vanished">赢了！</translation>
+        <translation>赢了！</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="vanished">输了。</translation>
+        <translation>输了。</translation>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="vanished">绘制。</translation>
+        <translation>绘制。</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="vanished">你</translation>
+        <translation>你</translation>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="vanished">对手</translation>
+        <translation>对手</translation>
     </message>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="vanished">%1: %2 - 开关 </translation>
+        <translation>%1: %2 - 开关 </translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="vanished">五子棋插件</translation>
+        <translation>五子棋插件</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="vanished">游戏错误！</translation>
+        <translation>游戏错误！</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="vanished">你的对手已经关闭了面板！你仍然可以保存游戏</translation>
+        <translation>你的对手已经关闭了面板！你仍然可以保存游戏</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="vanished">你想切换颜色吗？</translation>
+        <translation>你想切换颜色吗？</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">你输了。</translation>
+        <translation>你输了。</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">你赢了！</translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
-        <translation type="vanished">你真的想开始新游戏吗？</translation>
+        <translation>你真的想开始新游戏吗？</translation>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
-        <translation type="vanished">你真的想开始游戏吗？</translation>
+        <translation>你真的想开始游戏吗？</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="obsolete">战舰游戏</translation>
+        <translation type="unfinished">战舰游戏</translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">窗体</translation>
+        <translation>窗体</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@用户名称</translation>
+        <translation>@用户名称</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="vanished">#发布_身份</translation>
+        <translation>#发布_身份</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation type="vanished">*标签</translation>
+        <translation>*标签</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation type="vanished">&gt;引用</translation>
+        <translation>&gt;引用</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="vanished">信息</translation>
+        <translation>信息</translation>
     </message>
 </context>
 <context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">预览</translation>
+        <translation type="unfinished">预览</translation>
+    </message>
+    <message>
+        <source>Not an image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="vanished">预览皮肤</translation>
+        <translation>预览皮肤</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
-        <translation type="vanished">预览可用</translation>
+        <translation>预览可用</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">应用</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="vanished">皮肤无效</translation>
+        <translation>皮肤无效</translation>
     </message>
 </context>
 <context>
@@ -11631,31 +11917,31 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="vanished">代理服务器设置</translation>
+        <translation>代理服务器设置</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="vanished">类型:</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">端口:</translation>
+        <translation>端口:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="vanished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="vanished">用户:</translation>
+        <translation>用户:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">密码:</translation>
+        <translation>密码:</translation>
     </message>
 </context>
 <context>
@@ -12314,20 +12600,20 @@ Reason: %1.</source>
         <translation>首页 (在线) (&amp;H)</translation>
     </message>
     <message>
-        <source>Psi Forum (Online)</source>
-        <translation>Psi论坛(在线​​)</translation>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="vanished">Psi+论坛(在线​​)</translation>
     </message>
     <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation>Psi论坛(&amp;F)(在线​​)</translation>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="vanished">Psi+论坛(&amp;F)(在线​​)</translation>
     </message>
     <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>加入Psi讨论室(在线)</translation>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">加入Psi+讨论室(在线)</translation>
     </message>
     <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>加入Psi讨论室(在线)(&amp;J)</translation>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">加入Psi+讨论室(在线)(&amp;J)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -12456,6 +12742,22 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation>插件</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">Psi论坛(在线​​)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13200,8 +13502,8 @@ Would you like to activate that session now?</source>
         <translation>真的要删除从 %1 开始的所有选项吗?</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: 选项编辑器</translation>
+        <source>Psi+: Option Editor</source>
+        <translation>Psi+: 选项编辑器</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -13210,10 +13512,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>确定重置所有开头为 %1 的选项到默认值?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14290,140 +14588,140 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n天</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n小时</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n分钟</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>%n秒</numerusform>
         </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="vanished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="vanished">无法写入文件%1:%2</translation>
+        <translation>无法写入文件%1:%2</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="vanished">推荐@%1</translation>
+        <translation>推荐@%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="vanished">回复发表</translation>
+        <translation>回复发表</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="vanished">新消息发表。</translation>
+        <translation>新消息发表。</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="vanished">推荐你的发表</translation>
+        <translation>推荐你的发表</translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="vanished">显示全部消息</translation>
+        <translation>显示全部消息</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="vanished">回复</translation>
+        <translation>回复</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="vanished">显示 %1的信息和最后10条消息</translation>
+        <translation>显示 %1的信息和最后10条消息</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="vanished">订阅</translation>
+        <translation>订阅</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="vanished">显示最后10条信息标签%1</translation>
+        <translation>显示最后10条信息标签%1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="vanished">退订</translation>
+        <translation>退订</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="vanished">加密消息%1失败。未发送的消息。</translation>
+        <translation>加密消息%1失败。未发送的消息。</translation>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="vanished">明文</translation>
+        <translation>明文</translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="vanished">加密</translation>
+        <translation>加密</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="vanished">完成</translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="vanished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="vanished">无法生成键帐户&quot;%1&quot;
+        <translation>无法生成键帐户&quot;%1&quot;
 OTR插件将无法工作。</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;根据收到的消息从 %1 是 &lt;i&gt;没有&lt;/i&gt; 加密的:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;根据收到的消息从 %1 是 &lt;i&gt;没有&lt;/i&gt; 加密的:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="vanished">你的消息没有发送。除非结束你的私人会话或者重启。</translation>
+        <translation>你的消息没有发送。除非结束你的私人会话或者重启。</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="vanished">不可读的加密消息被接收。</translation>
+        <translation>不可读的加密消息被接收。</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="vanished">收到的加密的消息，但它不能被读出，因为没有专用连接尚未建立。</translation>
+        <translation>收到的加密的消息，但它不能被读出，因为没有专用连接尚未建立。</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
-        <translation type="vanished">接收到的消息不可读</translation>
+        <translation>接收到的消息不可读</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation type="vanished">接收到的消息含有异常数据。</translation>
+        <translation>接收到的消息含有异常数据。</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="vanished">你接收到一个新指纹从%1:%2</translation>
+        <translation>你接收到一个新指纹从%1:%2</translation>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="vanished">所有标签</translation>
+        <translation>所有标签</translation>
     </message>
     <message>
         <source>Name: %1
@@ -14431,7 +14729,7 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="vanished">名称: %1
+        <translation>名称: %1
 大小: %2
 日期: %3
 网址: %4
@@ -14439,11 +14737,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="vanished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">不</translation>
+        <translation>不</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14786,6 +15084,19 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now known as %2</source>
         <translation type="unfinished">%1 现在叫做 %2</translation>
     </message>
@@ -14793,35 +15104,35 @@ Password: %5</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="vanished">这个插件的目的是显示联系人使用QIP项目infium客户端的x-状态</translation>
+        <translation>这个插件的目的是显示联系人使用QIP项目infium客户端的x-状态</translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="vanished">重新定向所有接收信息到一些jid和允许重定向信息还原</translation>
+        <translation>重新定向所有接收信息到一些jid和允许重定向信息还原</translation>
     </message>
 </context>
 <context>
@@ -14892,44 +15203,44 @@ Reason: %1</source>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="vanished">今天庆祝生日</translation>
+        <translation>今天庆祝生日</translation>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="vanished">
+        <translation>
             <numerusform>庆祝生日%n天</numerusform>
         </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="vanished">昨天庆祝生日</translation>
+        <translation>昨天庆祝生日</translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="vanished">生日提醒</translation>
+        <translation>生日提醒</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件(*.wav)</translation>
+        <translation>音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="vanished">这个插件的目的是显示提醒即将到来的生日。你第一次安装这个插件，您需要登录您所有的的帐户，之后到设置插件处，点击“更新生日”。该插件将收集的你名册中所有用户有关生日的信息，但当使用电子名片选择缓存选项，用户号码被缓存的硬盘将被使用。</translation>
+        <translation>这个插件的目的是显示提醒即将到来的生日。你第一次安装这个插件，您需要登录您所有的的帐户，之后到设置插件处，点击“更新生日”。该插件将收集的你名册中所有用户有关生日的信息，但当使用电子名片选择缓存选项，用户号码被缓存的硬盘将被使用。</translation>
     </message>
 </context>
 <context>
@@ -14952,6 +15263,21 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[blank]</translation>
+    </message>
+</context>
+<context>
+    <name>RipperCCOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15003,173 +15329,173 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="vanished">截图</translation>
+        <translation>截图</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="vanished">复制到剪贴板</translation>
+        <translation>复制到剪贴板</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="vanished">取消上传</translation>
+        <translation>取消上传</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="vanished">上传到服务器:</translation>
+        <translation>上传到服务器:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="vanished">在选定的服务器上传截图</translation>
+        <translation>在选定的服务器上传截图</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="vanished">到本地驱动器保存屏幕截图</translation>
+        <translation>到本地驱动器保存屏幕截图</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="vanished">打印截图</translation>
+        <translation>打印截图</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="vanished">从本地驱动器打开图像</translation>
+        <translation>从本地驱动器打开图像</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">新的截图</translation>
+        <translation>新的截图</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="vanished">工具栏</translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">帮助</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="vanished">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">退出、出口</translation>
+        <translation>退出、出口</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="vanished">代理服务器设置</translation>
+        <translation>代理服务器设置</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">历史</translation>
+        <translation>历史</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">关于QT</translation>
+        <translation>关于QT</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="vanished">首页</translation>
+        <translation>首页</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">上传</translation>
+        <translation>上传</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="vanished">尺寸:: %1x%2px; %3 字节</translation>
+        <translation>尺寸:: %1x%2px; %3 字节</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">打开图象</translation>
+        <translation>打开图象</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">图像(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图像(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="vanished">/%1.</translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="vanished">另存为</translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="vanished">%1文件 (*.%2);所有文件 (*)</translation>
+        <translation>%1文件 (*.%2);所有文件 (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="vanished">%1.</translation>
+        <translation>%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="vanished">不能解析的网址(响应 URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
+        <translation>不能解析的网址(响应 URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="vanished">关闭截图</translation>
+        <translation>关闭截图</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">你确定吗?</translation>
+        <translation>你确定吗?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">新的截图</translation>
+        <translation>新的截图</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">捕获桌面</translation>
+        <translation>捕获桌面</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="vanished">当前窗口</translation>
+        <translation>当前窗口</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">先把捕获区域</translation>
+        <translation>先把捕获区域</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="vanished">捕获后</translation>
+        <translation>捕获后</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">秒</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="vanished">上传图像</translation>
+        <translation>上传图像</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -15178,7 +15504,7 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="vanished">这个插件允许你截图并保存到您的硬盘驱动器或上传到网络或服务器。
+        <translation>这个插件允许你截图并保存到您的硬盘驱动器或上传到网络或服务器。
 该插件具有以下设置:
 *捷径——快捷键(默认的屏幕截图，Ctrl+Alt+P)
 *格式——在其中的文件格式截图将存储(默认:jpg)
@@ -15189,7 +15515,7 @@ The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</sour
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="vanished">设置授权对一些空间可以在这里找到http://code.google.com/p/qscreenshot/wiki/authorization</translation>
+        <translation>设置授权对一些空间可以在这里找到http://code.google.com/p/qscreenshot/wiki/authorization</translation>
     </message>
 </context>
 <context>
@@ -15793,134 +16119,134 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">形式</translation>
+        <translation>形式</translation>
     </message>
     <message>
         <source>Preview skin</source>
-        <translation type="vanished">预览皮肤</translation>
+        <translation>预览皮肤</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="vanished">预览</translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Update skins list</source>
-        <translation type="vanished">更新皮肤列表</translation>
+        <translation>更新皮肤列表</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="vanished">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation type="vanished">应用选定的皮肤</translation>
+        <translation>应用选定的皮肤</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">应用</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation type="vanished">打开文件</translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation type="vanished">删除选中的皮肤</translation>
+        <translation>删除选中的皮肤</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation type="vanished">覆盖选定的皮肤与当前设置</translation>
+        <translation>覆盖选定的皮肤与当前设置</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation type="vanished">从目前的设置创建新的皮肤</translation>
+        <translation>从目前的设置创建新的皮肤</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="vanished">创建</translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Backup skin before applying</source>
-        <translation type="vanished">备份皮肤前申请</translation>
+        <translation>备份皮肤前申请</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
-        <translation type="vanished">选择皮肤文件</translation>
+        <translation>选择皮肤文件</translation>
     </message>
     <message>
         <source>*.skn</source>
-        <translation type="vanished">*.skn</translation>
+        <translation>*.skn</translation>
     </message>
     <message>
         <source>Create Skin</source>
-        <translation type="vanished">创建皮肤</translation>
+        <translation>创建皮肤</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">未知错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="vanished">保存皮肤文件</translation>
+        <translation>保存皮肤文件</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="vanished">不能保存皮肤</translation>
+        <translation>不能保存皮肤</translation>
     </message>
     <message>
         <source>Apply Skin</source>
-        <translation type="vanished">应用皮肤</translation>
+        <translation>应用皮肤</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="vanished">不能保存备份的皮肤</translation>
+        <translation>不能保存备份的皮肤</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation type="vanished">覆盖选中的皮肤</translation>
+        <translation>覆盖选中的皮肤</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">你确定吗</translation>
+        <translation>你确定吗</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
-        <translation type="vanished">覆盖皮肤</translation>
+        <translation>覆盖皮肤</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="vanished">不能保存皮肤</translation>
+        <translation>不能保存皮肤</translation>
     </message>
     <message>
         <source>Delete skin</source>
-        <translation type="vanished">删除皮肤</translation>
+        <translation>删除皮肤</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to create, store and apply skins to Psi.
+        <source>This plugin is designed to create, store and apply skins to Psi+.
 Skin - a set of custom settings.
 To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
 Each skin must be in a separate directory. You can also add a screenshot to the skin file.
@@ -15929,7 +16255,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="vanished">这个插件的目的是创建，存储和应用PSI皮肤。皮肤一组自定义设置。
+        <translation>这个插件的目的是创建，存储和应用PSI皮肤。皮肤一组自定义设置。
 下载一个新的皮肤，创建一个文件夹命名为皮肤的psidata目录放在新的皮肤。你也可以打开一个皮肤文件。每个皮肤必须在一个单独的目录。您还可以添加一个截图的皮肤文件。
 在大多数情况下，确保皮肤的应用是正确的，你必须执行一系列的行动:
 1。应用皮肤
@@ -16042,26 +16368,26 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="vanished">阻止从结构</translation>
+        <translation>阻止从结构</translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation type="vanished">阻止垃圾邮件插件</translation>
+        <translation>阻止垃圾邮件插件</translation>
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="vanished">通过测试</translation>
+        <translation>通过测试</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
 * Define the set of rules that define whether to the trigger plugin for a contact
@@ -16080,7 +16406,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="vanished">这个插件的目的是阻止垃圾邮件和其他有害信息，从PSI +的插件是基于用户使用的功能“的原则问题 - 答案” 。
+        <translation>这个插件的目的是阻止垃圾邮件和其他有害信息，从PSI +的插件是基于用户使用的功能“的原则问题 - 答案” 。
 随着插件的设置，您可以:
 *定义安全提示问题和答案
 *定义一组规则定义是否触发插件接触
@@ -16104,28 +16430,28 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="vanished">存储记录</translation>
+        <translation>存储记录</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">这个插件是xep-0049的一个工具:私人XML存储。
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation>这个插件是xep-0049的一个工具:私人XML存储。
 该插件完全兼容用Miranda IM保存的笔记。
-该插件的目的是对jabber服务器进行记录，以使得在任何地方均可使用 Psi or Miranda IM进入。</translation>
+该插件的目的是对jabber服务器进行记录，以使得在任何地方均可使用 Psi+ or Miranda IM进入。</translation>
     </message>
 </context>
 <context>
@@ -16577,91 +16903,91 @@ Note: Some server may disable transport registration to users from different ser
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="vanished">线的宽度</translation>
+        <translation>线的宽度</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="vanished">线的宽度</translation>
+        <translation>线的宽度</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="vanished">选择颜色</translation>
+        <translation>选择颜色</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="vanished">笔</translation>
+        <translation>笔</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="vanished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">拷贝</translation>
+        <translation>拷贝</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="vanished">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="vanished">循环</translation>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="vanished">插入文本</translation>
+        <translation>插入文本</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="vanished">恢复</translation>
+        <translation>恢复</translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="vanished">从</translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="vanished">到</translation>
+        <translation>到</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="vanished">快捷键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">修改</translation>
+        <translation>修改</translation>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="vanished">翻译”的绰号</translation>
+        <translation>翻译”的绰号</translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="vanished">恢复默认设置</translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="vanished">这个插件允许你转换选定的文本到另一语言</translation>
+        <translation>这个插件允许你转换选定的文本到另一语言</translation>
     </message>
 </context>
 <context>
@@ -16675,7 +17001,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="vanished">搜索:</translation>
+        <translation>搜索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16683,19 +17009,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation type="vanished">第一页</translation>
+        <translation>第一页</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="vanished">上一页</translation>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="vanished">下一页</translation>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="vanished">最后一页</translation>
+        <translation>最后一页</translation>
     </message>
     <message>
         <source>Search</source>
@@ -16753,38 +17079,38 @@ Note: Some server may disable transport registration to users from different ser
     <name>UploadManager</name>
     <message>
         <source>Getting storage...</source>
-        <translation type="vanished">进行存储...</translation>
+        <translation>进行存储...</translation>
     </message>
     <message>
         <source>Can&apos;t get storage</source>
-        <translation type="vanished">不能存储</translation>
+        <translation>不能存储</translation>
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation type="vanished">开始缷载...</translation>
+        <translation>开始缷载...</translation>
     </message>
     <message>
         <source>Error opening file!</source>
-        <translation type="vanished">打开文件错误！</translation>
+        <translation>打开文件错误！</translation>
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="vanished">验证...</translation>
+        <translation>验证...</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="vanished">上传成功</translation>
+        <translation>上传成功</translation>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="vanished">验证失败</translation>
+        <translation>验证失败</translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16800,7 +17126,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="vanished">这个插件是专门为设置自定义状态，当您在选定的视频播放器观看视频。
+        <translation>这个插件是专门为设置自定义状态，当您在选定的视频播放器观看视频。
 注:此插件的设计工作，家庭在Linux操作系统和Windows操作系统。
 
 在Linux插件使用DBUS与视频播放器和X11功能检测全屏应用程序。
@@ -16819,149 +17145,149 @@ GNOME M程序员的工作不需要额外的配置。</translation>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">找到</translation>
+        <translation>找到</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">保存更改</translation>
+        <translation>保存更改</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">删除日志</translation>
+        <translation>删除日志</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">更新日志</translation>
+        <translation>更新日志</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">删除日志文件</translation>
+        <translation>删除日志文件</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">你确定吗？</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">保存日志</translation>
+        <translation>保存日志</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="vanished">新的信息已被添加到日志。如果你保存你的变化，你会失去他们</translation>
+        <translation>新的信息已被添加到日志。如果你保存你的变化，你会失去他们</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">你想要保存你的更改吗？</translation>
+        <translation>你想要保存你的更改吗？</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">邮件</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="vanished">从:</translation>
+        <translation>从:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="vanished">主题:</translation>
+        <translation>主题:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">帐户:</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="vanished">在浏览器中打开邮件</translation>
+        <translation>在浏览器中打开邮件</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="vanished">打开邮箱</translation>
+        <translation>打开邮箱</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="vanished">以前的</translation>
+        <translation>以前的</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="vanished">接下去</translation>
+        <translation>接下去</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2]电子邮件</translation>
+        <translation>[%1/%2]电子邮件</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="vanished">在浏览器中打开</translation>
+        <translation>在浏览器中打开</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">找到</translation>
+        <translation>找到</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">保存更改</translation>
+        <translation>保存更改</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">删除日志</translation>
+        <translation>删除日志</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">更新日志</translation>
+        <translation>更新日志</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">删除日志文件</translation>
+        <translation>删除日志文件</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">你确定吗？</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">保存日志</translation>
+        <translation>保存日志</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="vanished">新的信息已被添加到日志。如果你保存你的变更，你会失去他们</translation>
+        <translation>新的信息已被添加到日志。如果你保存你的变更，你会失去他们</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">你想要保存你的更改吗？</translation>
+        <translation>你想要保存你的更改吗？</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="vanished">检查</translation>
+        <translation>检查</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">反向倒置</translation>
+        <translation>反向倒置</translation>
     </message>
 </context>
 <context>
@@ -17030,48 +17356,48 @@ GNOME M程序员的工作不需要额外的配置。</translation>
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="vanished">空项目</translation>
+        <translation>空项目</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="vanished">改变状态</translation>
+        <translation>改变状态</translation>
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation type="vanished">不要监视JID</translation>
+        <translation>不要监视JID</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">选择一个音频文件</translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">音频文件</translation>
+        <translation>音频文件</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="vanished">&lt;br&gt;状态消息: %1</translation>
+        <translation>&lt;br&gt;状态消息: %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="vanished">观察家插件</translation>
+        <translation>观察家插件</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="vanished">注意jids</translation>
+        <translation>注意jids</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="vanished">这个插件的目的是监测具体名单联系人的状态，以替代标准传入音频信息。
+        <translation>这个插件的目的是监测具体名单联系人的状态，以替代标准传入音频信息。
 在第一个标签建立联系人列表的状态进行监测。
 当联系人的状态发生变化，一个弹出窗口将显示；并且在线的状态更改时，将播放自定义的音效。
 第二个标签是项目的配置列表，信息同样被监测。每个元素都包含一个通常的算式，以检查以下内容是否匹配:所收到的信息的jid、一个用来检查进入的信息文本是否匹配的通常算式列表、在某些巧合情况下所播放音效的文件路径、以及对于是否音效即使在全局音量关闭的情况下声音依然播放的设定。</translation>
@@ -17637,63 +17963,63 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">形式</translation>
+        <translation>形式</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="vanished">选择声音:</translation>
+        <translation>选择声音:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="vanished">游戏开始:</translation>
+        <translation>游戏开始:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="vanished">游戏结束:</translation>
+        <translation>游戏结束:</translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="vanished">轮到你了:</translation>
+        <translation>轮到你了:</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="vanished">错误信息:</translation>
+        <translation>错误信息:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="vanished">如果选中，声音总是启用</translation>
+        <translation>如果选中，声音总是启用</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="vanished">重写默认声音设置</translation>
+        <translation>重写默认声音设置</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="vanished">如果状态是DND，则禁用邀请</translation>
+        <translation>如果状态是DND，则禁用邀请</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation type="vanished">禁用群聊邀请</translation>
+        <translation>禁用群聊邀请</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="vanished">保存窗口的高度和宽度</translation>
+        <translation>保存窗口的高度和宽度</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="vanished">保存窗口位置</translation>
+        <translation>保存窗口位置</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="vanished">如果收到，则自动回复信息:</translation>
+        <translation>如果收到，则自动回复信息:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="vanished">如果没有收到，则自动回复信息:</translation>
+        <translation>如果没有收到，则自动回复信息:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -17703,7 +18029,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="vanished">自定义选项:
+        <translation>自定义选项:
 -uin - 什么也不做
 +uin - 重新发送
 !uin - 封锁消息
@@ -17713,824 +18039,848 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation type="vanished">暂停下一条收到的消息:</translation>
+        <translation>暂停下一条收到的消息:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">最低限值。</translation>
+        <translation>最低限值。</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="vanished">最大信息联系:</translation>
+        <translation>最大信息联系:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">如果聊天窗口是活动的，则禁用</translation>
+        <translation>如果聊天窗口是活动的，则禁用</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="vanished">传输:</translation>
+        <translation>传输:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="vanished">验证 %1</translation>
+        <translation>验证 %1</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="vanished">要通过身份验证的问题和答案，问一个只有你自己知道答案的问题%1.</translation>
+        <translation>要通过身份验证的问题和答案，问一个只有你自己知道答案的问题%1.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="vanished">为了验证通过共享秘密，输入一个只有你知道的秘密%1.</translation>
+        <translation>为了验证通过共享秘密，输入一个只有你知道的秘密%1.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="vanished">要手动验证，通过验证通道和比较对方指纹和下面列出的其中一个交换你的指纹.</translation>
+        <translation>要手动验证，通过验证通道和比较对方指纹和下面列出的其中一个交换你的指纹.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="vanished">验证至 %1</translation>
+        <translation>验证至 %1</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="vanished">%1希望验证你，为了验证，回答下面所问问题。</translation>
+        <translation>%1希望验证你，为了验证，回答下面所问问题。</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="vanished">%1希望验证你.为了验证.在下面输入共享秘密。</translation>
+        <translation>%1希望验证你.为了验证.在下面输入共享秘密。</translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="vanished">问题和答案</translation>
+        <translation>问题和答案</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="vanished">共享秘密</translation>
+        <translation>共享秘密</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="vanished">指纹验证</translation>
+        <translation>指纹验证</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="vanished">问题(&amp;Q):</translation>
+        <translation>问题(&amp;Q):</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="vanished">答案(&amp;A):</translation>
+        <translation>答案(&amp;A):</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="vanished">共享秘密(&amp;S):</translation>
+        <translation>共享秘密(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="vanished">取消(&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="vanished">认证(&amp;A)</translation>
+        <translation>认证(&amp;A)</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="vanished">这个联系已经通过验证</translation>
+        <translation>这个联系已经通过验证</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">没有私钥帐户 &quot;%1&quot;</translation>
+        <translation>没有私钥帐户 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="vanished">你的指纹:</translation>
+        <translation>你的指纹:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="vanished">%1&apos;s指纹:</translation>
+        <translation>%1&apos;s指纹:</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">账号;</translation>
+        <translation>账号;</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">用户;</translation>
+        <translation>用户;</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">指纹;</translation>
+        <translation>指纹;</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="vanished">你已经验证过这个是实际正确的指纹吗？</translation>
+        <translation>你已经验证过这个是实际正确的指纹吗？</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="vanished">%1已经取消认证过程.</translation>
+        <translation>%1已经取消认证过程.</translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="vanished">认证成功</translation>
+        <translation>认证成功</translation>
     </message>
     <message>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="vanished">您已经成功认证
+        <translation>您已经成功认证
 
 您应该认证%1以及问你自己的问题</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="vanished">认证已失败。</translation>
+        <translation>认证已失败。</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="vanished">已知手纹印</translation>
+        <translation>已知手纹印</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="vanished">我的私钥</translation>
+        <translation>我的私钥</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="vanished">格局</translation>
+        <translation>格局</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="vanished">OTR原则</translation>
+        <translation>OTR原则</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="vanished">禁止私人消息</translation>
+        <translation>禁止私人消息</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="vanished">手动启动私人消息</translation>
+        <translation>手动启动私人消息</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="vanished">自动启动私人消息</translation>
+        <translation>自动启动私人消息</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="vanished">要求私人消息</translation>
+        <translation>要求私人消息</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="vanished">联络脱机时结束会话</translation>
+        <translation>联络脱机时结束会话</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="vanished">删除指纹</translation>
+        <translation>删除指纹</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="vanished">验证指纹</translation>
+        <translation>验证指纹</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="vanished">用户</translation>
+        <translation>用户</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">指纹</translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="vanished">已验证</translation>
+        <translation>已验证</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">你确定要删除选定的指纹？</translation>
+        <translation>你确定要删除选定的指纹？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">帐户:</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">用户:</translation>
+        <translation>用户:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">指纹:</translation>
+        <translation>指纹:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="vanished">你已经验证过这个是实际正确的指纹吗？</translation>
+        <translation>你已经验证过这个是实际正确的指纹吗？</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">复制指纹</translation>
+        <translation>复制指纹</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="vanished">生成新的密钥</translation>
+        <translation>生成新的密钥</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="vanished">删除密钥</translation>
+        <translation>删除密钥</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">手纹印</translation>
+        <translation>手纹印</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="vanished">你确定要删除选定的密钥？</translation>
+        <translation>你确定要删除选定的密钥？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">帐户:</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">指纹:</translation>
+        <translation>指纹:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="vanished">你确定你要覆盖以下关键吗？</translation>
+        <translation>你确定你要覆盖以下关键吗？</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">复制手纹印</translation>
+        <translation>复制手纹印</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="vanished">没有开通加密会话</translation>
+        <translation>没有开通加密会话</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">没有私钥账户 &quot;%1&quot;</translation>
+        <translation>没有私钥账户 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="vanished">未经证实的</translation>
+        <translation>未经证实的</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="vanished">OTR 信息 [%1]</translation>
+        <translation>OTR 信息 [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="vanished">刷新私人对话(&amp;R)</translation>
+        <translation>刷新私人对话(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="vanished">开始私人会话(&amp;S)</translation>
+        <translation>开始私人会话(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="vanished">结束私人会话(&amp;E)</translation>
+        <translation>结束私人会话(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="vanished">验证联系(&amp;A)</translation>
+        <translation>验证联系(&amp;A)</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="vanished">显示安全会话身份(&amp;ID)</translation>
+        <translation>显示安全会话身份(&amp;ID)</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="vanished">显示自己的指纹(&amp;F)</translation>
+        <translation>显示自己的指纹(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">Psi场外的记录通讯插件</translation>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation>Psi+场外的记录通讯插件</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="vanished">作者: %1</translation>
+        <translation>作者: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="vanished">场外的记录(OTR)消息，可以让你有超过即时通讯提供的私人谈话:</translation>
+        <translation>场外的记录(OTR)消息，可以让你有超过即时通讯提供的私人谈话:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="vanished">加密</translation>
+        <translation>加密</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="vanished">没有人可以读你的即时消息</translation>
+        <translation>没有人可以读你的即时消息</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="vanished">认证</translation>
+        <translation>认证</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="vanished">你认为谁是你放心的通信者</translation>
+        <translation>你认为谁是你放心的通信者</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="vanished">不可否认性</translation>
+        <translation>不可否认性</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="vanished">您发送的消息不具有数字签名是由第三方检查的。任何人都可以伪造消息的谈话后，使它们看起来像他们来自你。然而，在对话过程中，记者是有保证的，他看到的消息是真实的和未修改的。</translation>
+        <translation>您发送的消息不具有数字签名是由第三方检查的。任何人都可以伪造消息的谈话后，使它们看起来像他们来自你。然而，在对话过程中，记者是有保证的，他看到的消息是真实的和未修改的。</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="vanished">完善的正向保密</translation>
+        <translation>完善的正向保密</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="vanished">如果你的私人密钥失控，没有以前的谈话就会大打折扣</translation>
+        <translation>如果你的私人密钥失控，没有以前的谈话就会大打折扣</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">如需进一步信息，请参阅&lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
+        <translation>如需进一步信息，请参阅&lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="vanished">尝试刷新私人谈话</translation>
+        <translation>尝试刷新私人谈话</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="vanished">尝试启动一个私人谈话</translation>
+        <translation>尝试启动一个私人谈话</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="vanished">私人会话已开始</translation>
+        <translation>私人会话已开始</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="vanished">未经证实的谈话开始</translation>
+        <translation>未经证实的谈话开始</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="vanished">私人会话已丢失</translation>
+        <translation>私人会话已丢失</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="vanished">私人会话已关闭</translation>
+        <translation>私人会话已关闭</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="vanished">%1已经结束了和你的私人会话;你应该做同样的.</translation>
+        <translation>%1已经结束了和你的私人会话;你应该做同样的.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="vanished">私人谈话已刷新</translation>
+        <translation>私人谈话已刷新</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="vanished">未经证实的谈话已刷新</translation>
+        <translation>未经证实的谈话已刷新</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="vanished">联系身份验证</translation>
+        <translation>联系身份验证</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="vanished">联系未身份验证</translation>
+        <translation>联系未身份验证</translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">授权</translation>
+        <translation>授权</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="vanished">登录:</translation>
+        <translation>登录:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">密码:</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="vanished">记起</translation>
+        <translation>记起</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="vanished">验证码:</translation>
+        <translation>验证码:</translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="vanished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="vanished">编辑 JID</translation>
+        <translation>编辑 JID</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="vanished">粗体</translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="vanished">斜体</translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="vanished">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="vanished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@用户名称</translation>
+        <translation>@用户名称</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="vanished">*标签</translation>
+        <translation>*标签</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="vanished">#信息 ID</translation>
+        <translation>#信息 ID</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="vanished">&gt;引用</translation>
+        <translation>&gt;引用</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="vanished">http://链接</translation>
+        <translation>http://链接</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="vanished">作为资源使用消息ID</translation>
+        <translation>作为资源使用消息ID</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="vanished">显示照片</translation>
+        <translation>显示照片</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="vanished">显示头像</translation>
+        <translation>显示头像</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="vanished">用链接来替换消息ID到
+        <translation>用链接来替换消息ID到
 此消息在juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="vanished">清空头像缓存</translation>
+        <translation>清空头像缓存</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="vanished">文件:</translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="vanished">程序:</translation>
+        <translation>程序:</translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="vanished">经过的时间:</translation>
+        <translation>经过的时间:</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="vanished">速度:</translation>
+        <translation>速度:</translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="vanished">字节/秒</translation>
+        <translation>字节/秒</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="vanished">上传完成。等待验证</translation>
+        <translation>上传完成。等待验证</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="vanished">完成</translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="vanished">链接: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>链接: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="vanished">上传中...</translation>
+        <translation>上传中...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="vanished">开始上传</translation>
+        <translation>开始上传</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="vanished">文件:</translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">程序:</translation>
+        <translation>程序:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="vanished">经过的时间:</translation>
+        <translation>经过的时间:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="vanished">速度:</translation>
+        <translation>速度:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="vanished">链接:</translation>
+        <translation>链接:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="vanished">全名:</translation>
+        <translation>全名:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="vanished">绰号:</translation>
+        <translation>绰号:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="vanished">生日:</translation>
+        <translation>生日:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="vanished">文件管理器主体</translation>
+        <translation>文件管理器主体</translation>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="vanished">删除文件</translation>
+        <translation>删除文件</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">你确定吗？</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="vanished">设置密码</translation>
+        <translation>设置密码</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="vanished">移除密码</translation>
+        <translation>移除密码</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">复制URL</translation>
+        <translation>复制URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">延长</translation>
+        <translation>延长</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">形式</translation>
+        <translation>形式</translation>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="vanished">获取文件列表</translation>
+        <translation>获取文件列表</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="vanished">上传文件</translation>
+        <translation>上传文件</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="vanished">行动:</translation>
+        <translation>行动:</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">拷贝URL</translation>
+        <translation>拷贝URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">延长</translation>
+        <translation>延长</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="vanished">删除文件</translation>
+        <translation>删除文件</translation>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="vanished">行1行2</translation>
+        <translation>行1行2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="vanished">文件列表:</translation>
+        <translation>文件列表:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="vanished">新项目</translation>
+        <translation>新项目</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">清除 Cookies</translation>
+        <translation>清除 Cookies</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="vanished">打开浏览器</translation>
+        <translation>打开浏览器</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="vanished">下载文件列表</translation>
+        <translation>下载文件列表</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="vanished">删除文件...</translation>
+        <translation>删除文件...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="vanished">延长文件...</translation>
+        <translation>延长文件...</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="vanished">浏览数据过时！
+        <translation>浏览数据过时！
 重新授权</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
-        <translation type="vanished">找不到文件！尝试移除 cookies.</translation>
+        <translation>找不到文件！尝试移除 cookies.</translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="vanished">文件列表下载(%1文件)</translation>
+        <translation>文件列表下载(%1文件)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="vanished">文件删除</translation>
+        <translation>文件删除</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="vanished">延长文件</translation>
+        <translation>延长文件</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="vanished">设置密码</translation>
+        <translation>设置密码</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="vanished">删除密码</translation>
+        <translation>删除密码</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="vanished">开放的主体</translation>
+        <translation>开放的主体</translation>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="vanished">通过主体发送文件</translation>
+        <translation>通过主体发送文件</translation>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="vanished">文件发送到%1</translation>
+        <translation>文件发送到%1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="vanished">主体，插件</translation>
+        <translation>主体，插件</translation>
     </message>
     <message>
         <source>Ported from QutIM Yandex.Narod plugin
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="vanished">从QUTIM主体的插件移植</translation>
+        <translation>从QUTIM主体的插件移植</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="vanished">登录进入系统</translation>
+        <translation>登录进入系统</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">密码</translation>
+        <translation>密码</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="vanished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="vanished">试验授权</translation>
+        <translation>试验授权</translation>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="vanished">启动管理器</translation>
+        <translation>启动管理器</translation>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="vanished">发送临时文件</translation>
+        <translation>发送临时文件</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -18538,7 +18888,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML 公共 &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML 公共 &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta 名字=&quot;qrichtext&quot; 内容=&quot;1&quot; /&gt;&lt;style 风格=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body 风格=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -18546,15 +18896,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="vanished">%N - 文件名; %U - 文件 URL; %S - 文件大小</translation>
+        <translation>%N - 文件名; %U - 文件 URL; %S - 文件大小</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">清除 Cookies</translation>
+        <translation>清除 Cookies</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

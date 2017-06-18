@@ -73,8 +73,8 @@
         <translation>Licenca</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation>O Psi</translation>
+        <source>About Psi+</source>
+        <translation type="vanished">O Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -201,6 +201,18 @@
         <translation>Bezbedonosni priključak: %1</translation>
     </message>
     <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -216,20 +228,12 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <source>About Psi</source>
+        <translation type="unfinished">O Psi</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <source>psi/logo_48</source>
+        <translation type="unfinished">psi/logo_48</translation>
     </message>
 </context>
 <context>
@@ -994,7 +998,7 @@ Razlog: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="vanished"> Enable Off the Record Chat.
+        <translation> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</translation>
     </message>
@@ -1047,52 +1051,56 @@ save the history for this contact.</translation>
 <context>
     <name>AddKeyDlg</name>
     <message>
+        <source>Generate a new key pair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Length: </source>
-        <translation type="vanished">Dužina:</translation>
+        <translation>Dužina:</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="vanished">Komentar:</translation>
+        <translation>Komentar:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="vanished">Rok trajanja:</translation>
+        <translation>Rok trajanja:</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="vanished">RSA i RSA (podrazumevano)</translation>
+        <translation>RSA i RSA (podrazumevano)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="vanished">DSA i Elgamal</translation>
+        <translation>DSA i Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="vanished">DSA (samo potpisan)</translation>
+        <translation>DSA (samo potpisan)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="vanished">RSA (samo potpisan)</translation>
+        <translation>RSA (samo potpisan)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="vanished">Puno ime:</translation>
+        <translation>Puno ime:</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="vanished">Lozinka:</translation>
+        <translation>Lozinka:</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="vanished">Tip ključa:</translation>
+        <translation>Tip ključa:</translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="vanished">Ponovi:</translation>
+        <translation>Ponovi:</translation>
     </message>
 </context>
 <context>
@@ -1266,40 +1274,40 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="vanished">šalje upozoravajuću poruku vama!</translation>
+        <translation>šalje upozoravajuću poruku vama!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="vanished">Šalje upozorenje</translation>
+        <translation>Šalje upozorenje</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberite zvučnu datoteku</translation>
+        <translation>Izaberite zvučnu datoteku</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="vanished">Priključak upozorenja</translation>
+        <translation>Priključak upozorenja</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="vanished">Šaljete upozoravajuču poruku za %1</translation>
+        <translation>Šaljete upozoravajuču poruku za %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="vanished">This plugin is designed to send and receive special messages such as Attentions.
+        <translation>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</translation>
     </message>
 </context>
@@ -1322,89 +1330,93 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="vanished">Omogući</translation>
+        <translation>Omogući</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">Onemogući</translation>
+        <translation>Onemogući</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">Onemogući ako je Chat prozor aktivan</translation>
+        <translation>Onemogući ako je Chat prozor aktivan</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="vanished">Onemogući ako kontakt nije sa vašeg spiska</translation>
+        <translation>Onemogući ako kontakt nije sa vašeg spiska</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">Na vezi</translation>
+        <translation>Na vezi</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="vanished">Odsutan</translation>
+        <translation>Odsutan</translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="vanished">Dnd</translation>
+        <translation>Dnd</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="vanished">XA</translation>
+        <translation>XA</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Razgovor</translation>
+        <translation>Razgovor</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="vanished">Nevidljiv</translation>
+        <translation>Nevidljiv</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="vanished">Odobri ako je status:</translation>
+        <translation>Odobri ako je status:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="vanished">Automatska poruka</translation>
+        <translation>Automatska poruka</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="vanished">for JIDs and conferences:</translation>
+        <translation>for JIDs and conferences:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="vanished">You can also specify a part of JID
+        <translation>You can also specify a part of JID
 (without any additional symbols)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="vanished">Onemogući za tvoj nalog (posebno tvoj JIDs):</translation>
+        <translation>Onemogući za tvoj nalog (posebno tvoj JIDs):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">Vreme do resetovanja brojača:</translation>
+        <translation>Vreme do resetovanja brojača:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">Pošalji maksimum</translation>
+        <translation>Pošalji maksimum</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>times (-1=infinite)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1418,7 +1430,7 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="vanished">This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
+        <translation>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
 * set a text message for auto-answer
 * exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
 * disable the auto-responder for some of your accounts
@@ -1482,33 +1494,58 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="vanished">Prazan fajl</translation>
+        <translation>Prazan fajl</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="vanished">Sačuvaj sliku</translation>
+        <translation>Sačuvaj sliku</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="vanished">Sačuvaj avatar.</translation>
+        <translation>Sačuvaj avatar.</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">Slike (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Slike (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sound (*.wav)</source>
-        <translation type="obsolete">Zvuk (*.wav)</translation>
+        <translation type="unfinished">Zvuk (*.wav)</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play battleship with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1687,15 +1724,15 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
+        <translation>CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="vanished">Učitavanje podateka...</translation>
+        <translation>Učitavanje podateka...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="vanished">Izvorna poruka</translation>
+        <translation>Izvorna poruka</translation>
     </message>
 </context>
 <context>
@@ -1709,23 +1746,23 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">Captcha priključak: CAPTCHA od %1</translation>
+        <translation>Captcha priključak: CAPTCHA od %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Greška! Slika ne može biti učitana.</translation>
+        <translation>Greška! Slika ne može biti učitana.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
-        <translation type="vanished">Ovaj priključak je dizajniran da donese captcha direktno od Psi.</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation>Ovaj priključak je dizajniran da donese captcha direktno od Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2007,62 +2044,71 @@ Da li i dalje želite da zatvorite prozor?</translation>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="vanished">Šah priljučak</translation>
+        <translation>Šah priljučak</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="vanished">Šah!</translation>
+        <translation>Šah!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="vanished">Vi ste već igrali!</translation>
+        <translation>Vi ste već igrali!</translation>
+    </message>
+    <message>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="vanished">Igra je odbijena</translation>
+        <translation>Igra je odbijena</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">Izgubio si.</translation>
+        <translation>Izgubio si.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">Pobedio si!</translation>
+        <translation>Pobedio si!</translation>
+    </message>
+    <message>
+        <source>Draw!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Nepoznata greška!</translation>
+        <translation>Nepoznata greška!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="vanished">Šah priključak: pozivanje od %1</translation>
+        <translation>Šah priključak: pozivanje od %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberite zvučni fajl</translation>
+        <translation>Izaberite zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ovaj dodatak omogućava da igrate šah sa prijateljima.
+        <translation>Ovaj dodatak omogućava da igrate šah sa prijateljima.
 Ovaj dodatak je kompatibilan sa sličnim dodatkom za Tkabber.
 Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gde god da ste u mogućnosti za logovanje. Da primite prijatelja za igru, možete koristiti stavku kontakt menija ili dugme na traci alata na prozoru razgovora.</translation>
     </message>
@@ -2071,230 +2117,234 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="vanished">Šahovska tabla</translation>
+        <translation>Šahovska tabla</translation>
+    </message>
+    <message>
+        <source>Moves:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="vanished">    Beo Crn
+        <translation>    Beo Crn
 </translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">Učitaj igru</translation>
+        <translation>Učitaj igru</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">Sačuvaj igru</translation>
+        <translation>Sačuvaj igru</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Izlaz</translation>
+        <translation>Izlaz</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">Izaći</translation>
+        <translation>Izaći</translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="vanished">Omogući zvuk</translation>
+        <translation>Omogući zvuk</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Fajl</translation>
+        <translation>Fajl</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">Igra</translation>
+        <translation>Igra</translation>
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="vanished">*.chs</translation>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
 </source>
-        <translation type="vanished">  Beo     Crn
+        <translation>  Beo     Crn
 </translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi Cleaner</source>
-        <translation type="vanished">Psi Čistač</translation>
+        <source>Psi+ Cleaner</source>
+        <translation>Psi+ Čistač</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Istorija</translation>
+        <translation>Istorija</translation>
     </message>
     <message>
         <source>vCards</source>
-        <translation type="vanished">vCards</translation>
+        <translation>vCards</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">Avatari</translation>
+        <translation>Avatari</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="vanished">Selektuj sve fajlove</translation>
+        <translation>Selektuj sve fajlove</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="vanished">Deselektuj sve fajlove</translation>
+        <translation>Deselektuj sve fajlove</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="vanished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="vanished">selektovani fajlovi</translation>
+        <translation>selektovani fajlovi</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="vanished">Obriši selektovane fajlove</translation>
+        <translation>Obriši selektovane fajlove</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">Obriši selektovano</translation>
+        <translation>Obriši selektovano</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="vanished">Zatvori Psi čistač</translation>
+        <translation>Zatvori Psi čistač</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="vanished">Izaberite &amp;Profil</translation>
+        <translation>Izaberite &amp;Profil</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Izlaz</translation>
+        <translation>&amp;Izlaz</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="vanished">Očisti &amp;Juick keš</translation>
+        <translation>Očisti &amp;Juick keš</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="vanished">Očisti &amp;Rodjendanski keš</translation>
+        <translation>Očisti &amp;Rodjendanski keš</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="vanished">&amp;Fajl</translation>
+        <translation>&amp;Fajl</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="vanished">&amp;Akcije</translation>
+        <translation>&amp;Akcije</translation>
     </message>
     <message>
         <source>History files: </source>
-        <translation type="vanished">Istorija fajlova:</translation>
+        <translation>Istorija fajlova:</translation>
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="vanished">vCards: </translation>
+        <translation>vCards: </translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="vanished">Avatari:</translation>
+        <translation>Avatari:</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="vanished">Očisti istoriju</translation>
+        <translation>Očisti istoriju</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">Da li ste sigurni?</translation>
+        <translation>Da li ste sigurni?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="vanished">Očisti vCards</translation>
+        <translation>Očisti vCards</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="vanished">Očisti avatare</translation>
+        <translation>Očisti avatare</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="vanished">Očisti podešavanja</translation>
+        <translation>Očisti podešavanja</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="vanished">Nije podržano!</translation>
+        <translation>Nije podržano!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="vanished">Izaberite profil</translation>
+        <translation>Izaberite profil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="vanished">Očisti juick keš</translation>
+        <translation>Očisti juick keš</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="vanished">Juick keš uspešno obrisan</translation>
+        <translation>Juick keš uspešno obrisan</translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="vanished">Nešto je pogrešno!</translation>
+        <translation>Nešto je pogrešno!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="vanished">Keš nije pronadjen!</translation>
+        <translation>Keš nije pronadjen!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="vanished">Očisti rodjendanski keš</translation>
+        <translation>Očisti rodjendanski keš</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">Očisti rodjendanski keš</translation>
+        <translation>Očisti rodjendanski keš</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="vanished">Rodjendanski keš uspešno obrisan</translation>
+        <translation>Rodjendanski keš uspešno obrisan</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="vanished">Pokreni čistač</translation>
+        <translation>Pokreni čistač</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="vanished">This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
+        <translation>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</translation>
     </message>
 </context>
@@ -2302,82 +2352,86 @@ You can preview items before deleting them from your hard drive.</translation>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Veličina</translation>
+        <translation>Veličina</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Datum kreiranja</translation>
+        <translation>Datum kreiranja</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="vanished">Nadimak</translation>
+        <translation>Nadimak</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="vanished">Domen</translation>
+        <translation>Domen</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Veličina</translation>
+        <translation>Veličina</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Datum kreiranja</translation>
+        <translation>Datum kreiranja</translation>
     </message>
 </context>
 <context>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="vanished">Vrednosti</translation>
+        <translation>Vrednosti</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="vanished">Proveri</translation>
+        <translation>Proveri</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Poništi</translation>
+        <translation>Poništi</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Obrni</translation>
+        <translation>Obrni</translation>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori</translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="vanished">Ovaj dodatak je namenjen za .zamenu verzije klijenta, njegovo ime i tip operativnog sistema
+        <translation>Ovaj dodatak je namenjen za .zamenu verzije klijenta, njegovo ime i tip operativnog sistema
 Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene liste.
 </translation>
+    </message>
+    <message>
+        <source>%1 has requested your version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2391,27 +2445,38 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="vanished">Vi možete naći vaše logove ovde:</translation>
+        <translation>Vi možete naći vaše logove ovde:</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="vanished">Logovi:</translation>
+        <translation>Logovi:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">Vidi log</translation>
+        <translation>Vidi log</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Groupchat History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
+
+Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
 </context>
 <context>
@@ -3225,15 +3290,15 @@ Da nastavim?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation type="vanished">Ovaj dodatak kreiran je da napravi lako preuzimanje i instaliranje seta ikona i drugih resursa za Psi.</translation>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation>Ovaj dodatak kreiran je da napravi lako preuzimanje i instaliranje seta ikona i drugih resursa za Psi+.</translation>
     </message>
 </context>
 <context>
@@ -3255,7 +3320,7 @@ Da nastavim?</translation>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="vanished">nikad</translation>
+        <translation>nikad</translation>
     </message>
 </context>
 <context>
@@ -3529,105 +3594,134 @@ Da nastavim?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="vanished">Gledaj za...</translation>
+        <translation>Gledaj za...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="vanished">JID*</translation>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="vanished">Tekst**</translation>
+        <translation>Tekst**</translation>
+    </message>
+    <message>
+        <source>*Regular expressions can be used</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>**List of words can be used.
+  Each word can use regular expression</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="vanished">Koristi za</translation>
+        <translation>Koristi za</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="vanished">Razgovori</translation>
+        <translation>Razgovori</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">Grupni razgovor</translation>
+        <translation>Grupni razgovor</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="vanished">Uvek emituj zvuk</translation>
+        <translation>Uvek emituj zvuk</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">Zvuk:</translation>
+        <translation>Zvuk:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberi zvučni fajl</translation>
+        <translation>Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="vanished">Izmeni napomenu</translation>
+        <translation>Izmeni napomenu</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">Naslov:</translation>
+        <translation>Naslov:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="vanished">Oznake:</translation>
+        <translation>Oznake:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="vanished">Podešavanje servera</translation>
+        <translation>Podešavanje servera</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">Ime:</translation>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="vanished">Url:</translation>
+        <translation>Url:</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="vanished">Korisničko ime*:</translation>
+        <translation>Korisničko ime*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="vanished">Lozinka*:</translation>
+        <translation>Lozinka*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="vanished">PostData**:</translation>
+        <translation>PostData**:</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="vanished">File Input**:</translation>
+        <translation>File Input**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="vanished">RegExp**:</translation>
+        <translation>RegExp**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="vanished">*samo za FTP servere</translation>
+        <translation>*samo za FTP servere</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="vanished">**samo za HTTP servere</translation>
+        <translation>**samo za HTTP servere</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="vanished">Koristi proksi server</translation>
+        <translation>Koristi proksi server</translation>
+    </message>
+</context>
+<context>
+    <name>EnumMessagesPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3837,482 +3931,543 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="vanished">Ping %1</translation>
+        <translation>Ping %1</translation>
+    </message>
+    <message>
+        <source>Pong from %1 after %2 secs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="vanished">Funkcija nije inplementirana</translation>
+        <translation>Funkcija nije inplementirana</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="vanished">%1 Last Activity</translation>
+        <translation>%1 Last Activity</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="vanished">%1 Last Activity was %2 ago</translation>
+        <translation>%1 Last Activity was %2 ago</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="vanished">%1 went offline %2 ago</translation>
+        <translation>%1 went offline %2 ago</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="vanished">%1 uptime is %2</translation>
+        <translation>%1 uptime is %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="vanished">%1 is online!</translation>
+        <translation>%1 is online!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Nepoznata greška!</translation>
+        <translation>Nepoznata greška!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="vanished">Servis nije dosupan</translation>
+        <translation>Servis nije dosupan</translation>
+    </message>
+    <message>
+        <source>You are not authorized to retrieve Last Activity information</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="vanished">%1 Vreme</translation>
+        <translation>%1 Vreme</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="vanished">%1 vreme je %2</translation>
+        <translation>%1 vreme je %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="vanished">Proširene akcije</translation>
+        <translation>Proširene akcije</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="vanished">Kopiraj JID</translation>
+        <translation>Kopiraj JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="vanished">Kopiraj nadimak</translation>
+        <translation>Kopiraj nadimak</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="vanished">Kopiraj statusnu poruku</translation>
+        <translation>Kopiraj statusnu poruku</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="vanished">Ping</translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="vanished">Poslednja aktivnost</translation>
+        <translation>Poslednja aktivnost</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="vanished">Entitetsko vreme</translation>
+        <translation>Entitetsko vreme</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="vanished">Ovaj dodatak dodaje nekoliko dodatnih komandi u meni kontakata.</translation>
+        <translation>Ovaj dodatak dodaje nekoliko dodatnih komandi u meni kontakata.</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Razgovor</translation>
+        <translation>Razgovor</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="vanished">Kartice</translation>
+        <translation>Kartice</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="vanished">Spisak</translation>
+        <translation>Spisak</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="vanished">Meni</translation>
+        <translation>Meni</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation type="vanished">Izgled</translation>
+        <translation>Izgled</translation>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="vanished">CSS</translation>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Razno</translation>
+        <translation>Razno</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="vanished">Pitaj za potvrdu pre čišćenja prozora za razgovor</translation>
+        <translation>Pitaj za potvrdu pre čišćenja prozora za razgovor</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="vanished">Omogući ikone u razgovoru</translation>
+        <translation>Omogući ikone u razgovoru</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="vanished">Smanji ikone poruka</translation>
+        <translation>Smanji ikone poruka</translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="vanished">Pokaži avatar</translation>
+        <translation>Pokaži avatar</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation type="vanished">Omogući &quot;reci stil&quot;</translation>
+        <translation>Omogući &quot;reci stil&quot;</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="vanished">Sakrij &quot;šalji&quot; dugme</translation>
+        <translation>Sakrij &quot;šalji&quot; dugme</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="vanished">Veličina avatara:</translation>
+        <translation>Veličina avatara:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="vanished">Podrazumevani JID mod:</translation>
+        <translation>Podrazumevani JID mod:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatski prvo slovo u rečenici</translation>
+        <translation>Automatski prvo slovo u rečenici</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="vanished">Automatski pomera dole log kada je poslata poruka</translation>
+        <translation>Automatski pomera dole log kada je poslata poruka</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="vanished">Pokaži statusne promene</translation>
+        <translation>Pokaži statusne promene</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="vanished">Pokaži prioritet statusa</translation>
+        <translation>Pokaži prioritet statusa</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="vanished">Naslov prozora za razgovor:</translation>
+        <translation>Naslov prozora za razgovor:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="vanished">Podrazumevani  JID mod liste za ignorisanje:</translation>
+        <translation>Podrazumevani  JID mod liste za ignorisanje:</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Opšte</translation>
+        <translation>Opšte</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="vanished">Pokaži priključke</translation>
+        <translation>Pokaži priključke</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="vanished">Pokaži inicijalne priključke</translation>
+        <translation>Pokaži inicijalne priključke</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="vanished">Pokaži prioritet statusa</translation>
+        <translation>Pokaži prioritet statusa</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="vanished">Pokaži uloge i promene</translation>
+        <translation>Pokaži uloge i promene</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="vanished">Automatski prihvati podrazumevana podešavanja za sobu</translation>
+        <translation>Automatski prihvati podrazumevana podešavanja za sobu</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="vanished">Automatski prihvati podrazumevana podešavanja za sobu kada je nova soba kreirana</translation>
+        <translation>Automatski prihvati podrazumevana podešavanja za sobu kada je nova soba kreirana</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="vanished">Automatski otvori konfiguracioni dijalog kada je nova soba kreirana</translation>
+        <translation>Automatski otvori konfiguracioni dijalog kada je nova soba kreirana</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="vanished">Automatski otvara konfiguracioni dijalog kada je nova soba kreirana
+        <translation>Automatski otvara konfiguracioni dijalog kada je nova soba kreirana
 Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Grupni razgovor</translation>
+        <translation type="unfinished">Grupni razgovor</translation>
+    </message>
+    <message>
+        <source>Enable autojoin for bookmarked groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide groupchat on auto-join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable HTML rendering in groupchat chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat leave status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="vanished">Pokaži grupe</translation>
+        <translation>Pokaži grupe</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="vanished">Koristi tanko zaglavlje grupe</translation>
+        <translation>Koristi tanko zaglavlje grupe</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="vanished">Pokaži statusne ikone</translation>
+        <translation>Pokaži statusne ikone</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="vanished">Pokaži ikone pripadnosti</translation>
+        <translation>Pokaži ikone pripadnosti</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="vanished">Pokaži klijentske ikone</translation>
+        <translation>Pokaži klijentske ikone</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="vanished">Pokaži avatare</translation>
+        <translation>Pokaži avatare</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="vanished">Postavi avatare levo</translation>
+        <translation>Postavi avatare levo</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="vanished">Sortiraj stil za kontakte:</translation>
+        <translation>Sortiraj stil za kontakte:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="vanished">Veličina avatara:</translation>
+        <translation>Veličina avatara:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="vanished">Prečnik avatara:</translation>
+        <translation>Prečnik avatara:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="vanished">Razreši nadimke na dodavanju kontakata</translation>
+        <translation>Razreši nadimke na dodavanju kontakata</translation>
+    </message>
+    <message>
+        <source>Lockdown roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="vanished">Kontakt ime i statusna poruka u redu</translation>
+        <translation>Kontakt ime i statusna poruka u redu</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="vanished">Ako kontakt nema avatar, koristi podrazumevani avatar</translation>
+        <translation>Ako kontakt nema avatar, koristi podrazumevani avatar</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="vanished">Podesi statusnu ikonu preko avatara</translation>
+        <translation>Podesi statusnu ikonu preko avatara</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="vanished">Automatski ukloni privremene kontakte</translation>
+        <translation>Automatski ukloni privremene kontakte</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="vanished">Saveti:</translation>
+        <translation>Saveti:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="vanished">Pokaži avatar</translation>
+        <translation>Pokaži avatar</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="vanished">Pokaži poslednji status</translation>
+        <translation>Pokaži poslednji status</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="vanished">Pokaži PGP</translation>
+        <translation>Pokaži PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="vanished">Pokaži verziju klijenta</translation>
+        <translation>Pokaži verziju klijenta</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="vanished">Pokaži geolokaciju</translation>
+        <translation>Pokaži geolokaciju</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="vanished">Pokaži &quot;admin&quot; opciju u meniju naloga</translation>
+        <translation>Pokaži &quot;admin&quot; opciju u meniju naloga</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="vanished">Pokaži &quot;aktivni razgovori&quot; opciju u kontakt meniju</translation>
+        <translation>Pokaži &quot;aktivni razgovori&quot; opciju u kontakt meniju</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">Pokaži &quot; OpenPGP ključ&quot; opciju u kontakt meniju</translation>
+        <translation>Pokaži &quot; OpenPGP ključ&quot; opciju u kontakt meniju</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="vanished">Pokaži &quot;slika&quot; opciju u kontakt meniju</translation>
+        <translation>Pokaži &quot;slika&quot; opciju u kontakt meniju</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="vanished">Pokaži &quot;promeni profil&quot; opciju u glavnom meniju</translation>
+        <translation>Pokaži &quot;promeni profil&quot; opciju u glavnom meniju</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="vanished">Pokaži &quot;razgovor&quot; opciju u status meniju</translation>
+        <translation>Pokaži &quot;razgovor&quot; opciju u status meniju</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="vanished">Pokaži &quot;nevidljiv&quot; opciju u status meniju</translation>
+        <translation>Pokaži &quot;nevidljiv&quot; opciju u status meniju</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="vanished">Pokaži &quot;XA&quot; opciju u statusnom meniju</translation>
+        <translation>Pokaži &quot;XA&quot; opciju u statusnom meniju</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="vanished">Omogući pojedinačne poruke</translation>
+        <translation>Omogući pojedinačne poruke</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="vanished">Boja ivice iskačućeg prozora:</translation>
+        <translation>Boja ivice iskačućeg prozora:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="vanished">Boja linka:</translation>
+        <translation>Boja linka:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="vanished">Boja E-pošte:</translation>
+        <translation>Boja E-pošte:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="vanished">Boja moderatora:</translation>
+        <translation>Boja moderatora:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="vanished">Boja učesnika:</translation>
+        <translation>Boja učesnika:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="vanished">Boja posetilaca:</translation>
+        <translation>Boja posetilaca:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="vanished">Boja bez uloge:</translation>
+        <translation>Boja bez uloge:</translation>
+    </message>
+    <message>
+        <source>Groupchat roster coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable sound notifications for every groupchat message</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="vanished">Boja ToolTip teksta:</translation>
+        <translation>Boja ToolTip teksta:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="vanished">Boja ToolTip pozadine:</translation>
+        <translation>Boja ToolTip pozadine:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="vanished">ToolTip bojenje:</translation>
+        <translation>ToolTip bojenje:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="vanished">Tekst kolor za dogadjaje na kartici</translation>
+        <translation>Tekst kolor za dogadjaje na kartici</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="vanished">Boja teksta za &quot;nepročitane&quot; događaje na karticama:</translation>
+        <translation>Boja teksta za &quot;nepročitane&quot; događaje na karticama:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="vanished">Boje:</translation>
+        <translation>Boje:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="vanished">Iskačući prozor</translation>
+        <translation>Iskačući prozor</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="vanished">Tooltip</translation>
+        <translation>Tooltip</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="vanished">Onemogući skrolovanje </translation>
+        <translation>Onemogući skrolovanje </translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="vanished">Stavi kartice na dno prozora za razgovor</translation>
+        <translation>Stavi kartice na dno prozora za razgovor</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="vanished">Pokaži zatvori dugme na karticama</translation>
+        <translation>Pokaži zatvori dugme na karticama</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="vanished">Pokaži statusne ikone na karticama</translation>
+        <translation>Pokaži statusne ikone na karticama</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="vanished">Sakrij karticu kad zatvoriš prozor za razgovor</translation>
+        <translation>Sakrij karticu kad zatvoriš prozor za razgovor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="vanished">Dozvoli zatvaranje neaktivnih kartica</translation>
+        <translation>Dozvoli zatvaranje neaktivnih kartica</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="vanished">Akrija za srednji klik na karticama:</translation>
+        <translation>Akrija za srednji klik na karticama:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="vanished">Akrija za dupli klik na karticama:</translation>
+        <translation>Akrija za dupli klik na karticama:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="vanished">Omogući flešovanje prozora</translation>
+        <translation>Omogući flešovanje prozora</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="vanished">Omogući &quot;pojedinačni nalog&quot; mod</translation>
+        <translation>Omogući &quot;pojedinačni nalog&quot; mod</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="vanished">Omogući XML-konzolu na logovanju</translation>
+        <translation>Omogući XML-konzolu na logovanju</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="vanished">Omogući poslednji aktivni server</translation>
+        <translation>Omogući poslednji aktivni server</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="vanished">Onemogući iskačući prozor ako je status DND</translation>
+        <translation>Onemogući iskačući prozor ako je status DND</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="vanished">Isključi iskačuće prozore ako je status Odsutan</translation>
+        <translation>Isključi iskačuće prozore ako je status Odsutan</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="vanished">Notifikacije</translation>
+        <translation>Notifikacije</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="vanished">Ovaj dodatak je dizajniran da dozvoli laku konfiguraciju nekih naprednih opcija u  Psi.
+        <translation>Ovaj dodatak je dizajniran da dozvoli laku konfiguraciju nekih naprednih opcija u  Psi+.
 Ovaj dodatak daje pristup za napredne opcije, koje nemaju na grafičkom interfejsu za korisnike.
 
 Važno: veliki deo opcija su važna sistemska podešavanja. One zahtevaju veliku pažnju i obazrivost prilikom promene opcija.</translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4733,19 +4888,19 @@ Razlog: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="vanished">Potrebna proksi autentifikacija</translation>
+        <translation>Potrebna proksi autentifikacija</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="vanished">Učitaj listu sadržaja</translation>
+        <translation>Učitaj listu sadržaja</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="vanished">Preuzmi i instaliraj</translation>
+        <translation>Preuzmi i instaliraj</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5277,14 +5432,47 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GameModel</name>
+    <message>
+        <source>The first turn can be only H8.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GameSession</name>
+    <message>
+        <source>%1: Invitation from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GameSessionList</name>
+    <message>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GameSessions</name>
     <message>
+        <source>%1: Invitation from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Incorrect parameters</source>
-        <translation type="vanished">Neispravni parametri</translation>
+        <translation>Neispravni parametri</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="obsolete">Vi ste već igrali!</translation>
+        <translation type="unfinished">Vi ste već igrali!</translation>
+    </message>
+    <message>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5529,105 +5717,105 @@ You lost the game.</source>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="vanished">Podesi lozinku</translation>
+        <translation>Podesi lozinku</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Lozinka:</translation>
+        <translation>Lozinka:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="vanished">Potvrdi lozinku</translation>
+        <translation>Potvrdi lozinku</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="vanished">Lozinka ne odgovara</translation>
+        <translation>Lozinka ne odgovara</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="vanished">Dobavi ime omota</translation>
+        <translation>Dobavi ime omota</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">Ime:</translation>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Verzija:</translation>
+        <translation>Verzija:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Otkazano</translation>
+        <translation>Otkazano</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="vanished">Unesi tekst</translation>
+        <translation>Unesi tekst</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="vanished">Odaberi font</translation>
+        <translation>Odaberi font</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="vanished">Nesačuvano stanje za kontakte %1 je promenjeno</translation>
+        <translation>Nesačuvano stanje za kontakte %1 je promenjeno</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">Podešavanja za nalog su %1 promenjena</translation>
+        <translation>Podešavanja za nalog su %1 promenjena</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">Deljeni satus za nalog %1 je ažuriran</translation>
+        <translation>Deljeni satus za nalog %1 je ažuriran</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">Podešavanja za nalog su %1 promenjena</translation>
+        <translation>Podešavanja za nalog su %1 promenjena</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberi zvučni fajl</translation>
+        <translation>Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="vanished">Izaberi program</translation>
+        <translation>Izaberi program</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="vanished">Blokiraj gmail kontakt</translation>
+        <translation>Blokiraj gmail kontakt</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">Pokazuje obaveštenja o novim porukama u vašem Gmailbox.
+        <translation>Pokazuje obaveštenja o novim porukama u vašem Gmailbox.
 Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove poruke. kada koristite serversku stranu za filter, možda nećete biti obaveštavani o svim novim porukama.</translation>
     </message>
 </context>
@@ -5635,59 +5823,67 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="vanished">Ovaj dodatak  je dizajniran da doda podršku za GNOME 3 statusne promene</translation>
+        <translation>Ovaj dodatak  je dizajniran da doda podršku za GNOME 3 statusne promene</translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">e-pošta</translation>
+        <translation>e-pošta</translation>
+    </message>
+    <message>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="vanished">Pošalji GnuPG javni ključ</translation>
+        <translation>Pošalji GnuPG javni ključ</translation>
+    </message>
+    <message>
+        <source>Public key %1 sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberi zvučni fajl</translation>
+        <translation>Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ovaj dodatak omogućava da igrate gomoku sa prijateljima.
+        <translation>Ovaj dodatak omogućava da igrate gomoku sa prijateljima.
 Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gde god da ste u mogućnosti za logovanje. Da primite prijatelja za igru, možete koristiti stavku kontakt menija ili dugme na traci alata na prozoru razgovora.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="vanished">Gomoku igra</translation>
+        <translation>Gomoku igra</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="vanished">Gomoku igra!</translation>
+        <translation>Gomoku igra!</translation>
     </message>
 </context>
 <context>
@@ -5701,18 +5897,18 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="vanished">Ne mogu početi</translation>
+        <translation>Ne mogu početi</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="vanished">GnuPG program nije pronađen</translation>
+        <translation>GnuPG program nije pronađen</translation>
     </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="vanished">Odaberi oblast</translation>
+        <translation>Odaberi oblast</translation>
     </message>
 </context>
 <context>
@@ -5731,7 +5927,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="vanished">Nova prečica</translation>
+        <translation>Nova prečica</translation>
     </message>
 </context>
 <context>
@@ -5951,31 +6147,31 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Istorija</translation>
+        <translation>Istorija</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopiraj</translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="vanished">Kopiraj link u klipbord</translation>
+        <translation>Kopiraj link u klipbord</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otvori</translation>
+        <translation>Otvori</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="vanished">Otvori link u čitaču</translation>
+        <translation>Otvori link u čitaču</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="vanished">Zatvori istoriju</translation>
+        <translation>Zatvori istoriju</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6004,29 +6200,29 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="vanished">Obriši istoriju za konatkte:</translation>
+        <translation>Obriši istoriju za konatkte:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="vanished">Očisti istoriju na izlazu</translation>
+        <translation>Očisti istoriju na izlazu</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
-        <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="vanished">Ovaj dodatak je dizajniran da ukloni istoriju odabranih kontakata kada je Psi zatvoren.
+        <translation>Ovaj dodatak je dizajniran da ukloni istoriju odabranih kontakata kada je Psi+ zatvoren.
 Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili preko opcija dodatka.</translation>
     </message>
 </context>
@@ -6034,7 +6230,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
 </context>
 <context>
@@ -6060,12 +6256,12 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile</source>
@@ -6092,16 +6288,32 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Create new profile</source>
         <translation>Kreiraj novi profil</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6184,19 +6396,103 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="obsolete">Otpremi sliku</translation>
+        <translation type="unfinished">Otpremi sliku</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="obsolete">Otpremi fajl</translation>
+        <translation type="unfinished">Otpremi fajl</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="obsolete">Slike (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation type="unfinished">Slike (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Greška</translation>
+        <translation type="unfinished">Greška</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6428,12 +6724,25 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6444,7 +6753,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">Ovaj dodatak je dizajniran da pomogne transfer kontakata sa ICQ na Jabber.
+        <translation>Ovaj dodatak je dizajniran da pomogne transfer kontakata sa ICQ na Jabber.
 Ovaj dodatak ima jednostavna podešavanja da vam pomognu:
 * podešavanje posebne tekstualne poruke
 * isključjuje određene ICQ brojeve
@@ -6457,56 +6766,100 @@ Ovaj dodatak ima jednostavna podešavanja da vam pomognu:
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="vanished">Pošalji sliku</translation>
+        <translation>Pošalji sliku</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="vanished">Otvori fajl</translation>
+        <translation>Otvori fajl</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="vanished">Iz klipborda</translation>
+        <translation>Iz klipborda</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Otvori sliku</translation>
+        <translation>Otvori sliku</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Slike (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Slike (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="vanished">Slika je prevelika.</translation>
+        <translation>Slika je prevelika.</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="vanished">Veličina slike mora biti manja od 60 kb</translation>
+        <translation>Veličina slike mora biti manja od 60 kb</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="vanished">Slika %1 bajtova primljena.</translation>
+        <translation>Slika %1 bajtova primljena.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">Sliku %1 pošali &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation>Sliku %1 pošali &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="vanished">Ovaj dodatak je dizajniran da šalje slike kontaktima sa spiska.
+        <translation>Ovaj dodatak je dizajniran da šalje slike kontaktima sa spiska.
 Vaš klijent kontakata mora biti podržan od XEP-0071: XHTML-IM i podržava podatke:URI šema.
 Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora biti podešena na true.</translation>
+    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6756,258 +7109,293 @@ Reason: %1</source>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="vanished">Gomoku igra priključak - pristupi</translation>
+        <translation>Gomoku igra priključak - pristupi</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Protivnik:</translation>
+        <translation>Protivnik:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">Izaberi resurse:</translation>
+        <translation>Izaberi resurse:</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">Reprodukuj crno</translation>
+        <translation>Reprodukuj crno</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">Reprodukuj belo</translation>
+        <translation>Reprodukuj belo</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="vanished">Šah priključak - pozivanje</translation>
+        <translation>Šah priključak - pozivanje</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="vanished">Prihvati</translation>
+        <translation>Prihvati</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="vanished">Odbiti</translation>
+        <translation>Odbiti</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="vanished">Gomoku igra priključak - pozivanje</translation>
+        <translation>Gomoku igra priključak - pozivanje</translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="vanished">beo</translation>
+        <translation>beo</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">crn</translation>
+        <translation>crn</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="vanished">Igrač %1 poziva vas 
+        <translation>Igrač %1 poziva vas 
 da igrate šah. On želi da igra %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">Igrač %1 poziva vas 
+        <translation>Igrač %1 poziva vas 
 da igrate gomoku. On želi da igra %2.</translation>
+    </message>
+    <message>
+        <source>second</source>
+        <comment>He wants to play second</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>first</source>
+        <comment>He wants to play first</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play battleship. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Poziv</translation>
+        <translation>Poziv</translation>
+    </message>
+    <message>
+        <source>Opponent:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="vanished">Izaberi resurse:</translation>
+        <translation>Izaberi resurse:</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="vanished">Repridukuj belo</translation>
+        <translation>Repridukuj belo</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="vanished">Reprodukuj crno</translation>
+        <translation>Reprodukuj crno</translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="vanished">Očisti log</translation>
+        <translation>Očisti log</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="vanished">Pošalji</translation>
+        <translation>Pošalji</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="vanished">Jabber Disk - %1</translation>
+        <translation>Jabber Disk - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;You:&lt;/b&gt; </translation>
+        <translation>&lt;b&gt;You:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="vanished">&lt;b&gt;Disk:&lt;/b&gt; </translation>
+        <translation>&lt;b&gt;Disk:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="vanished">Napravi direktorijum</translation>
+        <translation>Napravi direktorijum</translation>
     </message>
     <message>
         <source>Get File</source>
-        <translation type="vanished">Dobavi fajl</translation>
+        <translation>Dobavi fajl</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="vanished">Pošalji datoteku</translation>
+        <translation>Pošalji datoteku</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="vanished">Heš</translation>
+        <translation>Heš</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">Link</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Pomoć</translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="vanished">Ulaz</translation>
+        <translation>Ulaz</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="vanished">Statistike</translation>
+        <translation>Statistike</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="vanished">Promeni ime</translation>
+        <translation>Promeni ime</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="vanished">Pomeri u...</translation>
+        <translation>Pomeri u...</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="vanished">Obriši stavku</translation>
+        <translation>Obriši stavku</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Da li ste sigurni?</translation>
+        <translation>Da li ste sigurni?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="vanished">Ulazno ime direktorijuma</translation>
+        <translation>Ulazno ime direktorijuma</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="vanished">Ulazni  JID</translation>
+        <translation>Ulazni  JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="vanished">Uvezi novo ime</translation>
+        <translation>Uvezi novo ime</translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="vanished">Jabber disk</translation>
+        <translation>Jabber disk</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="vanished">Podesi JIDs of Juick Bot</translation>
+        <translation>Podesi JIDs of Juick Bot</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="vanished">Ulazni JID</translation>
+        <translation>Ulazni JID</translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="vanished">Upozorenje</translation>
+        <translation>Upozorenje</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
-        <translation type="vanished">ne možete kreirati folder %1
+        <translation>ne možete kreirati folder %1
 keširanje avatara neće biti dostupno</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="vanished">Vreme: %1</translation>
+        <translation>Vreme: %1</translation>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="vanished"> odgovoreno:</translation>
+        <translation> odgovoreno:</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="vanished">Pošalji ličnu poruku za %1</translation>
+        <translation>Pošalji ličnu poruku za %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="vanished">Pretplati za %1 blog</translation>
+        <translation>Pretplati za %1 blog</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="vanished">Dodaj u favorite</translation>
+        <translation>Dodaj u favorite</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7017,7 +7405,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="vanished">Ovaj dodatak je dizajniran da radi efikasno i udobno sa Juick microblogging service.
+        <translation>Ovaj dodatak je dizajniran da radi efikasno i udobno sa Juick microblogging service.
 Trenutno, dodatak je u stanju da:
 * Bojenje @nadimak, *tag i #message_id u porukama sa  juick@juick.com bot
 * Otkrivanje &gt;citata u porukama
@@ -7549,6 +7937,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7573,51 +7972,59 @@ Detalji: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Tip</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Kreiran</translation>
+        <translation>Kreiran</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Dužina</translation>
+        <translation>Dužina</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Komentar</translation>
+        <translation>Komentar</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algoritam</translation>
+        <translation>Algoritam</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Skraćeni ID</translation>
+        <translation>Skraćeni ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="vanished">Omogući/Onemogući</translation>
+        <translation>Omogući/Onemogući</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="vanished">JID (ili deo JID)</translation>
+        <translation>JID (ili deo JID)</translation>
+    </message>
+    <message>
+        <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="vanished">Zvuci (ako je prazno koristiće se podrazumevani zvuci)</translation>
+        <translation>Zvuci (ako je prazno koristiće se podrazumevani zvuci)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7662,12 +8069,12 @@ Detalji: %1</translation>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="vanished">Naslov: %1</translation>
+        <translation>Naslov: %1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="vanished">
+        <translation>
 Kartice: %1</translation>
     </message>
 </context>
@@ -7675,63 +8082,63 @@ Kartice: %1</translation>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="vanished">Laptop</translation>
+        <translation>Laptop</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="vanished">Dodaj napomenu</translation>
+        <translation>Dodaj napomenu</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="vanished">Izmeni napomenu</translation>
+        <translation>Izmeni napomenu</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="vanished">Ukloni napomenu</translation>
+        <translation>Ukloni napomenu</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="vanished">Učitaj napomene</translation>
+        <translation>Učitaj napomene</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Ponovo učitaj</translation>
+        <translation>Ponovo učitaj</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="vanished">Sačuvaj napomene</translation>
+        <translation>Sačuvaj napomene</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Sačuvaj</translation>
+        <translation>Sačuvaj</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="vanished">Zatvori prozor</translation>
+        <translation>Zatvori prozor</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="vanished">Neke promene nisu sačuvane. Sigurni ste da želite da napustite?</translation>
+        <translation>Neke promene nisu sačuvane. Sigurni ste da želite da napustite?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="vanished">Neke promene nisu sačuvane. Sigurni ste da želite da nastavite?</translation>
+        <translation>Neke promene nisu sačuvane. Sigurni ste da želite da nastavite?</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="vanished">Greška! Možda funkcija nije implementirana na serveru.</translation>
+        <translation>Greška! Možda funkcija nije implementirana na serveru.</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="vanished">Priljučak za napomene skladišta</translation>
+        <translation>Priljučak za napomene skladišta</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="vanished">Napomene su sačuvane</translation>
+        <translation>Napomene su sačuvane</translation>
     </message>
 </context>
 <context>
@@ -8891,450 +9298,567 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
+    </message>
+    <message>
+        <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="vanished">Odobri prijem upozorenja od istog kontakta</translation>
+        <translation>Odobri prijem upozorenja od istog kontakta</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="vanished">sec</translation>
+        <translation>sec</translation>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="vanished">Ne sakrivaj iskačući prozor ako je status odsutan ili XA</translation>
+        <translation>Ne sakrivaj iskačući prozor ako je status odsutan ili XA</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="vanished">Onemogući notifikaciju ako je status DND</translation>
+        <translation>Onemogući notifikaciju ako je status DND</translation>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="vanished">Reprodukuj zvuk:</translation>
+        <translation>Reprodukuj zvuk:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="vanished">Ažuriraj rodjendane</translation>
+        <translation>Ažuriraj rodjendane</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">Očisti keš o rodjendanima</translation>
+        <translation>Očisti keš o rodjendanima</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="vanished">Proveri rodjendane</translation>
+        <translation>Proveri rodjendane</translation>
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="vanished">Početak obaveštavanja</translation>
+        <translation>Početak obaveštavanja</translation>
+    </message>
+    <message>
+        <source>days in advance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="vanished">Proveri rodjendane stalno</translation>
+        <translation>Proveri rodjendane stalno</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="vanished">sati</translation>
+        <translation>sati</translation>
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="vanished">Uvek ažuriraj rodjendane</translation>
+        <translation>Uvek ažuriraj rodjendane</translation>
+    </message>
+    <message>
+        <source>days (0 - automatic update disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="vanished">Proveri rodjendane na startu</translation>
+        <translation>Proveri rodjendane na startu</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="vanished">Iskačući captcha dijalog</translation>
+        <translation>Iskačući captcha dijalog</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="vanished">Koristi proksi podešavanja naloga</translation>
+        <translation>Koristi proksi podešavanja naloga</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="vanished">Kontakt meni</translation>
+        <translation>Kontakt meni</translation>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="vanished">Akcija trake zadataka</translation>
+        <translation>Akcija trake zadataka</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="vanished">Podržani nalozi:</translation>
+        <translation>Podržani nalozi:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="vanished">Postoje nepodržani nalozi!</translation>
+        <translation>Postoje nepodržani nalozi!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="vanished">Podešavanje naloga</translation>
+        <translation>Podešavanje naloga</translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will send
+ notifications of unread email.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="vanished">Obaveštenja o e-pošti</translation>
+        <translation>Obaveštenja o e-pošti</translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will save
+ Google Talk chats on the server;
+ if set to &quot;false&quot;, no conversations
+ will be logged.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">Arhiviranje poruka</translation>
+        <translation>Arhiviranje poruka</translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will
+ automatically add people emailed
+ often to the user&apos;s roster.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="vanished">Auto prihvatanje sugestija</translation>
+        <translation>Auto prihvatanje sugestija</translation>
+    </message>
+    <message>
+        <source> Enable multiple applications signed in
+ as the same user to report the same
+ status message. </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="vanished">Omogući deljene statuse</translation>
+        <translation>Omogući deljene statuse</translation>
+    </message>
+    <message>
+        <source> Google Talk server disables server-side
+ logging of individual conversations and
+ sends notifications.
+ Enable &quot;Message archiving&quot; option for use!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="vanished">Omogući isključenje snimanja razgorora</translation>
+        <translation>Omogući isključenje snimanja razgorora</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">Omogući opciju &quot;obaveštavanje o e-pošti&quot;</translation>
+        <translation>Omogući opciju &quot;obaveštavanje o e-pošti&quot;</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="vanished">Podešavanje obaveštenja e-pošte</translation>
+        <translation>Podešavanje obaveštenja e-pošte</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="vanished">Pokaži sve nepročitane poruke</translation>
+        <translation>Pokaži sve nepročitane poruke</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="vanished">Pokaži samo nove poruke</translation>
+        <translation>Pokaži samo nove poruke</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="vanished">Pokreni program:</translation>
+        <translation>Pokreni program:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
-        <translation type="vanished">Menadžer</translation>
+        <translation>Menadžer</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">Uvezi</translation>
+        <translation>Uvezi</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="vanished">Izvezi</translation>
+        <translation>Izvezi</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="vanished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Podešavanja</translation>
+        <translation>Podešavanja</translation>
+    </message>
+    <message>
+        <source>Auto import a key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="vanished">Kašnjenje izmedju obaveštenja</translation>
+        <translation>Kašnjenje izmedju obaveštenja</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">sekundi</translation>
+        <translation>sekundi</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="vanished">Onemogući iskačuće prozore ako je status DND</translation>
+        <translation>Onemogući iskačuće prozore ako je status DND</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="vanished">Omogući notifikaciju za:</translation>
+        <translation>Omogući notifikaciju za:</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="vanished">Melodija</translation>
+        <translation>Melodija</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">Mod</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="vanished">Aktivnost</translation>
+        <translation>Aktivnost</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="vanished">Geolokacija</translation>
+        <translation>Geolokacija</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">Zvuk:</translation>
+        <translation>Zvuk:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="vanished">Glavni</translation>
+        <translation>Glavni</translation>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="vanished">Pitanje:</translation>
+        <translation>Pitanje:</translation>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="vanished">Odgovor:</translation>
+        <translation>Odgovor:</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="vanished">Konfiguracija:</translation>
+        <translation>Konfiguracija:</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Grupni razgovor</translation>
+        <translation type="unfinished">Grupni razgovor</translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for private messages in groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="vanished">Omogući zaustavljanja spama za pripadnosti.</translation>
+        <translation>Omogući zaustavljanja spama za pripadnosti.</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="vanished">Vlasnik</translation>
+        <translation>Vlasnik</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="vanished">Administrator</translation>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="vanished">Član</translation>
+        <translation>Član</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">Bez</translation>
+        <translation>Bez</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="vanished">Omogući zaustavljanje spama za uloge:</translation>
+        <translation>Omogući zaustavljanje spama za uloge:</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="vanished">Moderator</translation>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="vanished">Učesnik</translation>
+        <translation>Učesnik</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="vanished">Posetilac</translation>
+        <translation>Posetilac</translation>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="vanished">Blokiraj sve privatne poruke</translation>
+        <translation>Blokiraj sve privatne poruke</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="vanished">Pošalji poruku:</translation>
+        <translation>Pošalji poruku:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Ostalo</translation>
+        <translation>Ostalo</translation>
+    </message>
+    <message>
+        <source>Number of blocked stanzas:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">Pogledaj log</translation>
+        <translation>Pogledaj log</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="vanished">Obnovi</translation>
+        <translation>Obnovi</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">Pošalji maksimum</translation>
+        <translation>Pošalji maksimum</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="vanished">vremena</translation>
+        <translation>vremena</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">Vreme do resetovanja brojača:</translation>
+        <translation>Vreme do resetovanja brojača:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
+    </message>
+    <message>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="vanished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">Obriši označeno</translation>
+        <translation>Obriši označeno</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="vanished">Dodaj red</translation>
+        <translation>Dodaj red</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="vanished">Podrazumevani zvuk:</translation>
+        <translation>Podrazumevani zvuk:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Poruke</translation>
+        <translation>Poruke</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="vanished">Isključi zvuk ako je prozor razgovora aktivan</translation>
+        <translation>Isključi zvuk ako je prozor razgovora aktivan</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>Show Watch for JID button in contact context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
-        <translation type="vanished">iz fajla</translation>
+        <translation>iz fajla</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="vanished">iz klipborda</translation>
+        <translation>iz klipborda</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="vanished">za fajl</translation>
+        <translation>za fajl</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="vanished">za klipbord</translation>
+        <translation>za klipbord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Otkaži</translation>
+        <translation>Otkaži</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key pair generating</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="vanished">Da li želite da uklonite odabrane ključeve?</translation>
+        <translation>Da li želite da uklonite odabrane ključeve?</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="vanished">ASCII (*.asc)</translation>
+        <translation>ASCII (*.asc)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="vanished">Svi fajlovi (*)</translation>
+        <translation>Svi fajlovi (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="vanished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="vanished">Autorizacija...</translation>
+        <translation>Autorizacija...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="vanished">Autorizacija u redu</translation>
+        <translation>Autorizacija u redu</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="vanished">Autorizacija pogrešna</translation>
+        <translation>Autorizacija pogrešna</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="vanished">Odbijeno</translation>
+        <translation>Odbijeno</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="vanished">Izaberi fajl</translation>
+        <translation>Izaberi fajl</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="vanished">Otpremanje</translation>
+        <translation>Otpremanje</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="vanished">Greška! %1</translation>
+        <translation>Greška! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="vanished">Kolačići su uklonjeni</translation>
+        <translation>Kolačići su uklonjeni</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="obsolete">Pravila</translation>
+        <translation type="unfinished">Pravila</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Ime</translation>
+        <translation type="unfinished">Ime</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="obsolete">Omogućeno</translation>
+        <translation type="unfinished">Omogućeno</translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Podešavanje</translation>
+        <translation>Podešavanje</translation>
     </message>
 </context>
 <context>
@@ -10145,195 +10669,219 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Opšte</translation>
+        <translation>Opšte</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="vanished">Za sve naloge</translation>
+        <translation>Za sve naloge</translation>
+    </message>
+    <message>
+        <source>Response mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>allow</source>
-        <translation type="vanished">odobri</translation>
+        <translation>odobri</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="vanished">nije implementirano</translation>
+        <translation>nije implementirano</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="vanished">ignoriši</translation>
+        <translation>ignoriši</translation>
+    </message>
+    <message>
+        <source>Deny iq time request</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS</source>
-        <translation type="vanished">OS</translation>
+        <translation>OS</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="vanished">Šablon</translation>
+        <translation>Šablon</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="vanished">Ime OS-a</translation>
+        <translation>Ime OS-a</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="vanished">Klijent</translation>
+        <translation>Klijent</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="vanished">Ime klijenta</translation>
+        <translation>Ime klijenta</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="vanished">Verzija klijenta</translation>
+        <translation>Verzija klijenta</translation>
+    </message>
+    <message>
+        <source>Caps node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="vanished">Omogući za:</translation>
+        <translation>Omogući za:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="vanished">Kontakti</translation>
+        <translation>Kontakti</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="obsolete">Grupni razgovor</translation>
+        <translation type="unfinished">Grupni razgovor</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="vanished">Pokaži iskačuće prozore verzije iq</translation>
+        <translation>Pokaži iskačuće prozore verzije iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="vanished">nikad</translation>
+        <translation>nikad</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation type="vanished">ako je iq zamenjen</translation>
+        <translation>ako je iq zamenjen</translation>
     </message>
     <message>
         <source>always</source>
-        <translation type="vanished">uvek</translation>
+        <translation>uvek</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="vanished">Logovi</translation>
+        <translation>Logovi</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="vanished">Pokaži log</translation>
+        <translation>Pokaži log</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="vanished">Prečiće:</translation>
+        <translation>Prečiće:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="vanished">Format:</translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="vanished">Ime fajla</translation>
+        <translation>Ime fajla</translation>
     </message>
     <message>
         <source>Modify hotkey</source>
-        <translation type="vanished">Modifikuj prečice</translation>
+        <translation>Modifikuj prečice</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">Modifikuj </translation>
+        <translation>Modifikuj </translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="vanished">Podrazumevana akcija</translation>
+        <translation>Podrazumevana akcija</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">Snimi desktop</translation>
+        <translation>Snimi desktop</translation>
     </message>
     <message>
         <source>Capture active window</source>
-        <translation type="vanished">Snimi aktivan prozor</translation>
+        <translation>Snimi aktivan prozor</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">Odaberi područje snimanja</translation>
+        <translation>Odaberi područje snimanja</translation>
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="vanished">Serveri:</translation>
+        <translation>Serveri:</translation>
+    </message>
+    <message>
+        <source>*to specify the order of servers, use the drag-n-drop </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="vanished">Dodaj novi server</translation>
+        <translation>Dodaj novi server</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="vanished">Ukloni trenutni server</translation>
+        <translation>Ukloni trenutni server</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="vanished">Izmeni trenutni server</translation>
+        <translation>Izmeni trenutni server</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="vanished">Odobri za igrače:</translation>
+        <translation>Odobri za igrače:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="vanished">Detektuj ful skrin aplikacije</translation>
+        <translation>Detektuj ful skrin aplikacije</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="vanished">Podesi status:</translation>
+        <translation>Podesi status:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="vanished">Statusna poruka:</translation>
+        <translation>Statusna poruka:</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
-        <translation type="vanished">Obnovi stari status ako je igrač zaustavio</translation>
+        <translation>Obnovi stari status ako je igrač zaustavio</translation>
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation type="vanished">Odloži pre podešavanja statusa, sec</translation>
+        <translation>Odloži pre podešavanja statusa, sec</translation>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation type="vanished">Odloži pre obnavljanja statusa, sec</translation>
+        <translation>Odloži pre obnavljanja statusa, sec</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10450,54 +10998,58 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="vanished">Sada sluša:</translation>
+        <translation>Sada sluša:</translation>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="vanished">Mod izmenjen &quot;%1</translation>
+        <translation>Mod izmenjen &quot;%1</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="vanished">Aktivnost izmenjena &quot;%1</translation>
+        <translation>Aktivnost izmenjena &quot;%1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberi zvučni fajl</translation>
+        <translation>Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="vanished">Ovaj dodatak pokazuje iskačuće obaveštenje kada korisnici sa vašeg spiska menjaju njihovo raspoloženje, melodiju ili aktivnosti.</translation>
+        <translation>Ovaj dodatak pokazuje iskačuće obaveštenje kada korisnici sa vašeg spiska menjaju njihovo raspoloženje, melodiju ili aktivnosti.</translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
+        <source>Input radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Radius</source>
-        <translation type="vanished">Pečnik</translation>
+        <translation>Pečnik</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">Seci</translation>
+        <translation>Seci</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopiraj</translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="vanished">Zamagli</translation>
+        <translation>Zamagli</translation>
     </message>
 </context>
 <context>
@@ -10522,198 +11074,259 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="vanished">Gomoku igra</translation>
+        <translation>Gomoku igra</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Oponent:</translation>
+        <translation>Oponent:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="vanished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">Igra</translation>
+        <translation>Igra</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="obsolete">Izadji</translation>
+        <translation type="unfinished">Izadji</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="vanished">Omot</translation>
+        <translation>Omot</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Fajl</translation>
+        <translation>Fajl</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="vanished">Nova igra</translation>
+        <translation>Nova igra</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">Učitaj igru</translation>
+        <translation>Učitaj igru</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">Sačuvaj igru</translation>
+        <translation>Sačuvaj igru</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Napusti</translation>
+        <translation>Napusti</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">Ponovo prijavi</translation>
+        <translation>Ponovo prijavi</translation>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="vanished">Promeni boju</translation>
+        <translation>Promeni boju</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="vanished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="vanished">Žuto drvo</translation>
+        <translation>Žuto drvo</translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="vanished">Čekanje na protivnika</translation>
+        <translation>Čekanje na protivnika</translation>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="vanished">Čekam aktiviranje korisnika...</translation>
+        <translation>Čekam aktiviranje korisnika...</translation>
+    </message>
+    <message>
+        <source>Your turn</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="vanished">Kraj igre</translation>
+        <translation>Kraj igre</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Greška</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="vanished">Pobeda!</translation>
+        <translation>Pobeda!</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="vanished">Pozar.</translation>
+        <translation>Pozar.</translation>
+    </message>
+    <message>
+        <source>Draw.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="vanished">Ti</translation>
+        <translation>Ti</translation>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="vanished">Opp</translation>
+        <translation>Opp</translation>
     </message>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="vanished">%1: %2 - swch</translation>
+        <translation>%1: %2 - swch</translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="vanished">Gomoku priključak</translation>
+        <translation>Gomoku priključak</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="vanished">Greška igre!</translation>
+        <translation>Greška igre!</translation>
+    </message>
+    <message>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="vanished">Želite da promenite boju?</translation>
+        <translation>Želite da promenite boju?</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">Izgubili ste.</translation>
+        <translation>Izgubili ste.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">Pobedio si!</translation>
+        <translation>Pobedio si!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
-        <translation type="vanished">Ti želiš da počneš novu igru?</translation>
+        <translation>Ti želiš da počneš novu igru?</translation>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
-        <translation type="vanished">Ti želiš da počneš učitavanje nove igre?</translation>
+        <translation>Ti želiš da počneš učitavanje nove igre?</translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@korisničko ime</translation>
+        <translation>@korisničko ime</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="vanished">#post_id</translation>
+        <translation>#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation type="vanished">* tag</translation>
+        <translation>* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation type="vanished">&gt; quote</translation>
+        <translation>&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="vanished">poruka</translation>
+        <translation>poruka</translation>
     </message>
 </context>
 <context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">Pregled</translation>
+        <translation type="unfinished">Pregled</translation>
+    </message>
+    <message>
+        <source>Not an image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="vanished">Prethodni omot</translation>
+        <translation>Prethodni omot</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
-        <translation type="vanished">Pregled nije dostupan</translation>
+        <translation>Pregled nije dostupan</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="vanished">Ime:</translation>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Verzija:</translation>
+        <translation>Verzija:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Prihvati</translation>
+        <translation>Prihvati</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="vanished">Omot nije isprevan!</translation>
+        <translation>Omot nije isprevan!</translation>
     </message>
 </context>
 <context>
@@ -11216,31 +11829,31 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="vanished">Podešavanje proksi servera</translation>
+        <translation>Podešavanje proksi servera</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="vanished">Tip:</translation>
+        <translation>Tip:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Domaćin:</translation>
+        <translation>Domaćin:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">Port:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="vanished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="vanished">Korisnik:</translation>
+        <translation>Korisnik:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Lozinka:</translation>
+        <translation>Lozinka:</translation>
     </message>
 </context>
 <context>
@@ -11897,20 +12510,20 @@ Reason: %1.</source>
         <translation>Poče&amp;tna strana (Internet)</translation>
     </message>
     <message>
-        <source>Psi Forum (Online)</source>
-        <translation>Psi Forum(onlajn)</translation>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="vanished">Psi+ Forum(onlajn)</translation>
     </message>
     <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation>Psi &amp;Forum (na vezi)</translation>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="vanished">Psi+ &amp;Forum (na vezi)</translation>
     </message>
     <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>Pristupi Psi sobi(na vezi)</translation>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">Pristupi Psi+ sobi(na vezi)</translation>
     </message>
     <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>&amp;Pristupi Psi Diskusiona soba (na mreži)</translation>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="vanished">&amp;Pristupi Psi+ Diskusiona soba (na mreži)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -12039,6 +12652,22 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation type="unfinished">Priključci</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">Psi Forum (onlajn)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12775,8 +13404,8 @@ Would you like to activate that session now?</source>
         <translation>Stvarno brišete sve opcije počev sa %1?</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Editor opcija</translation>
+        <source>Psi+: Option Editor</source>
+        <translation>Psi+: Editor opcija</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -12785,10 +13414,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Stvarno obnavljate sve opcije počev sa %1 na podrazumevane vrednosit?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13866,87 +14491,166 @@ Opis: </translation>
         <source>Cannot create a server socket!</source>
         <translation>Ne mogu kreirati utičnicu servera!</translation>
     </message>
+    <message numerus="yes">
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
         <source>Warning</source>
-        <translation type="vanished">Upozorenje</translation>
+        <translation>Upozorenje</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="vanished">Ne mogu pisati u fajlu  %1:
+        <translation>Ne mogu pisati u fajlu  %1:
 %2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="vanished">Preporučeno od @%1</translation>
+        <translation>Preporučeno od @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="vanished">Odgovor postovan.</translation>
+        <translation>Odgovor postovan.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="vanished">Nova poruka postovana.</translation>
+        <translation>Nova poruka postovana.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="vanished">preporučen vaš post</translation>
+        <translation>preporučen vaš post</translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="vanished">Pokaži sve poruke</translation>
+        <translation>Pokaži sve poruke</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="vanished">Odgovori</translation>
+        <translation>Odgovori</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="vanished">Pokaži %1 od infa i poslednjih 10 poruka</translation>
+        <translation>Pokaži %1 od infa i poslednjih 10 poruka</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="vanished">Prijavite se</translation>
+        <translation>Prijavite se</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="vanished">Pokaži poslednjih 10 poruka sa tagom  %1</translation>
+        <translation>Pokaži poslednjih 10 poruka sa tagom  %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="vanished">Odjavite se</translation>
+        <translation>Odjavite se</translation>
+    </message>
+    <message>
+        <source>Encrypting message to %1 failed.
+The message was not sent.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="vanished">tekst</translation>
+        <translation>tekst</translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="vanished">šifrovano </translation>
+        <translation>šifrovano </translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="vanished">završeno</translation>
+        <translation>završeno</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="vanished">nepoznato</translation>
+        <translation>nepoznato</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Failed to generate keys for account &quot;%1&quot;.
+The OTR Plugin will not work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your message was not sent. Either end your private conversation, or restart it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable encrypted message was received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message is unreadable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message contains malformed data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have received a new fingerprint from %1:
+%2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="vanished">Svi tagovi</translation>
+        <translation>Svi tagovi</translation>
+    </message>
+    <message>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="vanished">Da</translation>
+        <translation>Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="vanished">Ne</translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14289,6 +14993,19 @@ Opis: </translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now known as %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14296,27 +15013,35 @@ Opis: </translation>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14387,34 +15112,48 @@ Razlog: %1</translation>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="vanished">slavi rođendan danas!
+        <translation>slavi rođendan danas!
 </translation>
+    </message>
+    <message numerus="yes">
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="vanished">slavljen rođendan juče.
+        <translation>slavljen rođendan juče.
 </translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="vanished">Rodjendanski podsetnik</translation>
+        <translation>Rodjendanski podsetnik</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Izaberi zvučni fajl</translation>
+        <translation>Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14443,7 +15182,15 @@ Razlog: %1</translation>
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Forma</translation>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14495,169 +15242,173 @@ Razlog: %1</translation>
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="vanished">Snimak ekrana</translation>
+        <translation>Snimak ekrana</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="vanished">Kopiraj u klipbord</translation>
+        <translation>Kopiraj u klipbord</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="vanished">Odbačeno otpremanje</translation>
+        <translation>Odbačeno otpremanje</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="vanished">Otpremi na server:</translation>
+        <translation>Otpremi na server:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="vanished">Otpremi snimak ekrana na odabrani server</translation>
+        <translation>Otpremi snimak ekrana na odabrani server</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="vanished">Sačuvaj snimak ekrana na lokalni disk</translation>
+        <translation>Sačuvaj snimak ekrana na lokalni disk</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="vanished">Štampaj snimak ekrana</translation>
+        <translation>Štampaj snimak ekrana</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="vanished">Otvori sliku sa lokalnog diska</translation>
+        <translation>Otvori sliku sa lokalnog diska</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Novi snimak ekrana</translation>
+        <translation>Novi snimak ekrana</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="vanished">Traka alata</translation>
+        <translation>Traka alata</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Fajl</translation>
+        <translation>Fajl</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Podešavanje</translation>
+        <translation>Podešavanje</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Pomoć</translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otvori</translation>
+        <translation>Otvori</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Sačuvaj</translation>
+        <translation>Sačuvaj</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="vanished">Štampaj</translation>
+        <translation>Štampaj</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Izadji</translation>
+        <translation>Izadji</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="vanished">Podešavanje proksija</translation>
+        <translation>Podešavanje proksija</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Istorija</translation>
+        <translation>Istorija</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">O Qt</translation>
+        <translation>O Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="vanished">Početna strana</translation>
+        <translation>Početna strana</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Otpremi</translation>
+        <translation>Otpremi</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="vanished">Veličina: %1x%2px; %3 bajtova</translation>
+        <translation>Veličina: %1x%2px; %3 bajtova</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Otvori sliku</translation>
+        <translation>Otvori sliku</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Slike (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Slike (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="vanished">/%1.</translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="vanished">Sačuvaj kao</translation>
+        <translation>Sačuvaj kao</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="vanished">%1 Fajlova (*.%2);;All Files (*)</translation>
+        <translation>%1 Fajlova (*.%2);;All Files (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="vanished">%1.</translation>
+        <translation>%1.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="vanished">Zatvori snimak ekrana</translation>
+        <translation>Zatvori snimak ekrana</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Siguran si?</translation>
+        <translation>Siguran si?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Novi snimak ekrana</translation>
+        <translation>Novi snimak ekrana</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">Snimi svoj ekran</translation>
+        <translation>Snimi svoj ekran</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="vanished">Snimi svoj prozor</translation>
+        <translation>Snimi svoj prozor</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">Odaberi područje snimanja</translation>
+        <translation>Odaberi područje snimanja</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="vanished">Snimi posle</translation>
+        <translation>Snimi posle</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">sekundi</translation>
+        <translation>sekundi</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="vanished">Otpremi sliku</translation>
+        <translation>Otpremi sliku</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -14666,12 +15417,18 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="vanished">Ovaj dodatak dozvoljava da napravite snimke ekrana i sačuvate ih na hard disk ili otpremite na FTP ili HTTP server.
+        <translation>Ovaj dodatak dozvoljava da napravite snimke ekrana i sačuvate ih na hard disk ili otpremite na FTP ili HTTP server.
 Ovaj dodatak ima prateća podešavanja:
 * Prečica -- za pravljenje snimka ekrana (podrazumevano, Ctrl+Alt+P)
 * Format -- format fajla u kome će snimak ekrana biti sačuvan (podrazumevano: .jpg)
 * Ime fajla -- format imena fajla (podrazumevano: pic-yyyyMMdd-hhmmss, gde yyyyMMdd=YYYYMMDD, i hhmmss su trenutni datum u formatu godinamesecdan-satminutsekund)
 Adresa FTP servera određena kao ftp://ftp.domain.tld/path1/path2</translation>
+    </message>
+    <message>
+        <source>
+
+Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15269,123 +16026,143 @@ Razlog: %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Preview skin</source>
-        <translation type="vanished">Prethodni omot</translation>
+        <translation>Prethodni omot</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="vanished">Pregled</translation>
+        <translation>Pregled</translation>
     </message>
     <message>
         <source>Update skins list</source>
-        <translation type="vanished">Ažuriraj listu omota</translation>
+        <translation>Ažuriraj listu omota</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="vanished">Ažuriraj</translation>
+        <translation>Ažuriraj</translation>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation type="vanished">Prihvati odabrani omot</translation>
+        <translation>Prihvati odabrani omot</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Prihvati</translation>
+        <translation>Prihvati</translation>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation type="vanished">Otvori fajl omota</translation>
+        <translation>Otvori fajl omota</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Otvori</translation>
+        <translation>Otvori</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation type="vanished">Ukloni odabrani omot</translation>
+        <translation>Ukloni odabrani omot</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
+    </message>
+    <message>
+        <source>Overwrite selected skin with the current settings </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Sačuvaj</translation>
+        <translation>Sačuvaj</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation type="vanished">Kreiraj novi omot sa trenutnim podešavanjima</translation>
+        <translation>Kreiraj novi omot sa trenutnim podešavanjima</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="vanished">Kreiraj</translation>
+        <translation>Kreiraj</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>Backup skin before applying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
-        <translation type="vanished">Odaberi ime skina</translation>
+        <translation>Odaberi ime skina</translation>
     </message>
     <message>
         <source>*.skn</source>
-        <translation type="vanished">*.skn</translation>
+        <translation>*.skn</translation>
     </message>
     <message>
         <source>Create Skin</source>
-        <translation type="vanished">Kreiraj skin</translation>
+        <translation>Kreiraj skin</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Nepoznata greška!</translation>
+        <translation>Nepoznata greška!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="vanished">Sačuvaj skin</translation>
+        <translation>Sačuvaj skin</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="vanished">Ne mogu sačuvati omot!</translation>
+        <translation>Ne mogu sačuvati omot!</translation>
     </message>
     <message>
         <source>Apply Skin</source>
-        <translation type="vanished">Prihvati omot</translation>
+        <translation>Prihvati omot</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="vanished">Ne mogu sačuvati rezervni skin!</translation>
+        <translation>Ne mogu sačuvati rezervni skin!</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation type="vanished">Prebriši odabrani omot</translation>
+        <translation>Prebriši odabrani omot</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">Siguran si?</translation>
+        <translation>Siguran si?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
-        <translation type="vanished">Prebriši omot</translation>
+        <translation>Prebriši omot</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="vanished">Ne mogu sačuvati omot!</translation>
+        <translation>Ne mogu sačuvati omot!</translation>
     </message>
     <message>
         <source>Delete skin</source>
-        <translation type="vanished">Ukloni omot</translation>
+        <translation>Ukloni omot</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15491,35 +16268,71 @@ Razlog: %1</translation>
 <context>
     <name>StopSpam</name>
     <message>
+        <source>Block stanza from </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Spam Plugin</source>
-        <translation type="vanished">Zaustavi spam dodatak</translation>
+        <translation>Zaustavi spam dodatak</translation>
+    </message>
+    <message>
+        <source> pass the test</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in groupchats
+* Choose for which ranks and roles of groupchat participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same groupchat, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in groupchats.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="vanished">Napomene skladišta</translation>
+        <translation>Napomene skladišta</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15941,86 +16754,91 @@ Note: Some server may disable transport registration to users from different ser
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="vanished">Širina linije:</translation>
+        <translation>Širina linije:</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="vanished">širina linije</translation>
+        <translation>širina linije</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="vanished">Odaberi boju</translation>
+        <translation>Odaberi boju</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="vanished">Pero</translation>
+        <translation>Pero</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="vanished">Odaberi</translation>
+        <translation>Odaberi</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">Iseci</translation>
+        <translation>Iseci</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Kopiraj</translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="vanished">Nalepi</translation>
+        <translation>Nalepi</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="vanished">Obrni</translation>
+        <translation>Obrni</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="vanished">Insert teksta</translation>
+        <translation>Insert teksta</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="vanished">Prethodo</translation>
+        <translation>Prethodo</translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="vanished">od</translation>
+        <translation>od</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="vanished">za</translation>
+        <translation>za</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="vanished">Prečica:</translation>
+        <translation>Prečica:</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="vanished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="vanished">Ne prevodi &quot;korisničko ime:&quot;</translation>
+        <translation>Ne prevodi &quot;korisničko ime:&quot;</translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="vanished">Obnovi podrazumevana podešavanja</translation>
+        <translation>Obnovi podrazumevana podešavanja</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <translation>Autor:</translation>
+    </message>
+    <message>
+        <source>This plugin allows you to convert selected text into another language.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16034,7 +16852,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="vanished">Pretraži:</translation>
+        <translation>Pretraži:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16042,19 +16860,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation type="vanished">Prva strana</translation>
+        <translation>Prva strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="vanished">Prethodna strana</translation>
+        <translation>Prethodna strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="vanished">Sledeća strana</translation>
+        <translation>Sledeća strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="vanished">Poslednja strana</translation>
+        <translation>Poslednja strana</translation>
     </message>
     <message>
         <source>Search</source>
@@ -16112,179 +16930,203 @@ Note: Some server may disable transport registration to users from different ser
     <name>UploadManager</name>
     <message>
         <source>Getting storage...</source>
-        <translation type="vanished">Dobijanje skladišta...</translation>
+        <translation>Dobijanje skladišta...</translation>
     </message>
     <message>
         <source>Can&apos;t get storage</source>
-        <translation type="vanished">Ne mogu dobiti skladište</translation>
+        <translation>Ne mogu dobiti skladište</translation>
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation type="vanished">Početak otpremanja...</translation>
+        <translation>Početak otpremanja...</translation>
     </message>
     <message>
         <source>Error opening file!</source>
-        <translation type="vanished">Greška kod otvaranja fajla!</translation>
+        <translation>Greška kod otvaranja fajla!</translation>
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="vanished">Verifikacija...</translation>
+        <translation>Verifikacija...</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="vanished">Otpremanje uspešno</translation>
+        <translation>Otpremanje uspešno</translation>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="vanished">Verifikacija neuspela</translation>
+        <translation>Verifikacija neuspela</translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Pronadji</translation>
+        <translation>Pronadji</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Sačuvaj promene</translation>
+        <translation>Sačuvaj promene</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">Obriši logove</translation>
+        <translation>Obriši logove</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">Ažuriraj logove</translation>
+        <translation>Ažuriraj logove</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">Obriši log fajl</translation>
+        <translation>Obriši log fajl</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Siguran si?</translation>
+        <translation>Siguran si?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">Sačuvaj log</translation>
+        <translation>Sačuvaj log</translation>
+    </message>
+    <message>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Da li želite da sačuvate ove promene?</translation>
+        <translation>Da li želite da sačuvate ove promene?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="vanished">Od:</translation>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="vanished">Naslov:</translation>
+        <translation>Naslov:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="vanished">Otvori poštu u čitaču</translation>
+        <translation>Otvori poštu u čitaču</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="vanished">Otvori mejlboks</translation>
+        <translation>Otvori mejlboks</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="vanished">Prethodni</translation>
+        <translation>Prethodni</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="vanished">Sledeći</translation>
+        <translation>Sledeći</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvori</translation>
+        <translation>&amp;Zatvori</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] E-pošta</translation>
+        <translation>[%1/%2] E-pošta</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="vanished">Otvori u veb čitaču</translation>
+        <translation>Otvori u veb čitaču</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Pronadji</translation>
+        <translation>Pronadji</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Sačuvaj promene</translation>
+        <translation>Sačuvaj promene</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">Ukloni logove</translation>
+        <translation>Ukloni logove</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">Ažuriraj logove</translation>
+        <translation>Ažuriraj logove</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">Ukloni log fajl</translation>
+        <translation>Ukloni log fajl</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Sigurni ste?</translation>
+        <translation>Sigurni ste?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">Sačuvaj logove</translation>
+        <translation>Sačuvaj logove</translation>
+    </message>
+    <message>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Da li želite da sačuvate vaše promene?</translation>
+        <translation>Da li želite da sačuvate vaše promene?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="vanished">Proveri</translation>
+        <translation>Proveri</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Izokreni</translation>
+        <translation>Izokreni</translation>
     </message>
 </context>
 <context>
@@ -16353,31 +17195,48 @@ Note: Some server may disable transport registration to users from different ser
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="vanished">Prazna stavka</translation>
+        <translation>Prazna stavka</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="vanished">promena statusa za</translation>
+        <translation>promena statusa za</translation>
+    </message>
+    <message>
+        <source>Don&apos;t watch for JID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Odaberi zvučni fajl</translation>
+        <translation>Odaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="vanished">&lt;br&gt;Statusna poruka : %1</translation>
+        <translation>&lt;br&gt;Statusna poruka : %1</translation>
+    </message>
+    <message>
+        <source>Watcher Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watch for JID</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16938,566 +17797,755 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="vanished">Odaberi zvuke:</translation>
+        <translation>Odaberi zvuke:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="vanished">Igra je počela:</translation>
+        <translation>Igra je počela:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="vanished">Igra je završena:</translation>
+        <translation>Igra je završena:</translation>
+    </message>
+    <message>
+        <source>Your turn:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="vanished">Poruka o grešci:</translation>
+        <translation>Poruka o grešci:</translation>
+    </message>
+    <message>
+        <source>If checked, the sound will always enabled (or disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Override default sound settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations from groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="vanished">Sačuvaj visinu i širinu prozora</translation>
+        <translation>Sačuvaj visinu i širinu prozora</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="vanished">Sačuvaj položaj prozora</translation>
+        <translation>Sačuvaj položaj prozora</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause for next Recv message:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="vanished">Max poruka za kontakt:</translation>
+        <translation>Max poruka za kontakt:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">Isključi ako je prozor aktivan</translation>
+        <translation>Isključi ako je prozor aktivan</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="vanished">Transporti</translation>
+        <translation>Transporti</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="vanished">Autorizacija %1</translation>
+        <translation>Autorizacija %1</translation>
+    </message>
+    <message>
+        <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="vanished">Autorizacija za %1</translation>
+        <translation>Autorizacija za %1</translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="vanished">Pitanje i odgovor</translation>
+        <translation>Pitanje i odgovor</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="vanished">Zajednička tajna</translation>
+        <translation>Zajednička tajna</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="vanished">Verifikacija otiska</translation>
+        <translation>Verifikacija otiska</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="vanished">&amp;Pitanje:</translation>
+        <translation>&amp;Pitanje:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="vanished">&amp;Odgovor:</translation>
+        <translation>&amp;Odgovor:</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="vanished">&amp;Zajednička tajna:</translation>
+        <translation>&amp;Zajednička tajna:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Otkaži</translation>
+        <translation>&amp;Otkaži</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="vanished">&amp;Autorizuj</translation>
+        <translation>&amp;Autorizuj</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="vanished">Ovaj kontakt je već autorizovan.</translation>
+        <translation>Ovaj kontakt je već autorizovan.</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">Bez privatnog ključa za nalog &quot;%1&quot;</translation>
+        <translation>Bez privatnog ključa za nalog &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="vanished">Vaš otisak:</translation>
+        <translation>Vaš otisak:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="vanished">%1 otisaka:</translation>
+        <translation>%1 otisaka:</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">Korisnik</translation>
+        <translation>Korisnik</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisak:</translation>
+        <translation>Otisak:</translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>%1 has canceled the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="vanished">Autorizacija uspešna.</translation>
+        <translation>Autorizacija uspešna.</translation>
+    </message>
+    <message>
+        <source>You have been successfully authenticated.
+
+You should authenticate %1 as well by asking your own question.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="vanished">Autorizacija neuspela</translation>
+        <translation>Autorizacija neuspela</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="vanished">Poznati otisci</translation>
+        <translation>Poznati otisci</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="vanished">Moji privatni ključevi</translation>
+        <translation>Moji privatni ključevi</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="vanished">Konfiguracija</translation>
+        <translation>Konfiguracija</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
+        <source>OTR Policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Disable private messaging</source>
-        <translation type="vanished">Isključi privatne poruke</translation>
+        <translation>Isključi privatne poruke</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="vanished">Ručno pokreni privatnu prepisku</translation>
+        <translation>Ručno pokreni privatnu prepisku</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="vanished">Automatski počni privatnu prepisku</translation>
+        <translation>Automatski počni privatnu prepisku</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="vanished">Zahtevaj privatnu prepisku</translation>
+        <translation>Zahtevaj privatnu prepisku</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="vanished">Zavarši sesiju kad kontakt napusti mrežu</translation>
+        <translation>Zavarši sesiju kad kontakt napusti mrežu</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="vanished">Ukloni otisak</translation>
+        <translation>Ukloni otisak</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="vanished">Verifikuj otisak</translation>
+        <translation>Verifikuj otisak</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">Nalog</translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="vanished">Korisnik</translation>
+        <translation>Korisnik</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="vanished">Verifikovano</translation>
+        <translation>Verifikovano</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Statrus</translation>
+        <translation>Statrus</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following fingerprint?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Nalog</translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="vanished">Korisnik:</translation>
+        <translation>Korisnik:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisak:</translation>
+        <translation>Otisak:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="vanished">Generiši novi ključ</translation>
+        <translation>Generiši novi ključ</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="vanished">Ukloni ključ</translation>
+        <translation>Ukloni ključ</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">Nalog</translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="vanished">Da li ste sigurni da želite da obrišete ključ?</translation>
+        <translation>Da li ste sigurni da želite da obrišete ključ?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="vanished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="vanished">Otisak:</translation>
+        <translation>Otisak:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to overwrite the following key?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="vanished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="vanished">Bez aktivnih enkriptovanih sesija</translation>
+        <translation>Bez aktivnih enkriptovanih sesija</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="vanished">Bez privatnog ključa za nalog &quot;%1&quot;</translation>
+        <translation>Bez privatnog ključa za nalog &quot;%1&quot;</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="vanished">neverifikovan</translation>
+        <translation>neverifikovan</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="vanished">OTR Prepiska [%1]</translation>
+        <translation>OTR Prepiska [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="vanished">Osve&amp;ži privatnu konverzaciju</translation>
+        <translation>Osve&amp;ži privatnu konverzaciju</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="vanished">&amp;Počni privatnu konverzaciju</translation>
+        <translation>&amp;Počni privatnu konverzaciju</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="vanished">&amp;Završi privatnu konverzaciju</translation>
+        <translation>&amp;Završi privatnu konverzaciju</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="vanished">&amp;Autorizuj kontakt</translation>
+        <translation>&amp;Autorizuj kontakt</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="vanished">Pokaži bezbednu sesiju &amp;ID</translation>
+        <translation>Pokaži bezbednu sesiju &amp;ID</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="vanished">Pokaži sopstveni &amp;otisak</translation>
+        <translation>Pokaži sopstveni &amp;otisak</translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Authors: %1</source>
-        <translation type="vanished">Autori: %1</translation>
+        <translation>Autori: %1</translation>
+    </message>
+    <message>
+        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="vanished">Enkripcija</translation>
+        <translation>Enkripcija</translation>
+    </message>
+    <message>
+        <source>No one else can read your instant messages.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="vanished">Autentifikacija</translation>
+        <translation>Autentifikacija</translation>
+    </message>
+    <message>
+        <source>You are assured the correspondent is who you think it is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deniability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perfect forward secrecy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you lose control of your private keys, no previous conversation is compromised.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="vanished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Attempting to refresh the private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attempting to start a private conversation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="vanished">Privatna konverzacija počela</translation>
+        <translation>Privatna konverzacija počela</translation>
+    </message>
+    <message>
+        <source>Unverified conversation started</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="vanished">Privatna konverzacija izgubljena</translation>
+        <translation>Privatna konverzacija izgubljena</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="vanished">Privatna konverzacija zatvorena</translation>
+        <translation>Privatna konverzacija zatvorena</translation>
+    </message>
+    <message>
+        <source>%1 has ended the private conversation with you; you should do the same.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="vanished">Privatna konverzacija obnovljena</translation>
+        <translation>Privatna konverzacija obnovljena</translation>
+    </message>
+    <message>
+        <source>Unverified conversation refreshed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="vanished">Kontakt autorizovan</translation>
+        <translation>Kontakt autorizovan</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="vanished">Kontakt nije autorizovan</translation>
+        <translation>Kontakt nije autorizovan</translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorizacija</translation>
+        <translation>Autorizacija</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="vanished">Logovanje:</translation>
+        <translation>Logovanje:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Lozinka</translation>
+        <translation>Lozinka</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="vanished">Zapamti:</translation>
+        <translation>Zapamti:</translation>
+    </message>
+    <message>
+        <source>Captcha:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="vanished">podešavanja</translation>
+        <translation>podešavanja</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="vanished">Izmeni JIDs</translation>
+        <translation>Izmeni JIDs</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="vanished">podebljano</translation>
+        <translation>podebljano</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="vanished">iskošeno</translation>
+        <translation>iskošeno</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="vanished">podvučeno</translation>
+        <translation>podvučeno</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="vanished">boja</translation>
+        <translation>boja</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@korisničko ime</translation>
+        <translation>@korisničko ime</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="vanished">*tag</translation>
+        <translation>*tag</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="vanished">#id poruke</translation>
+        <translation>#id poruke</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="vanished">&gt;citat</translation>
+        <translation>&gt;citat</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="vanished">http://link</translation>
+        <translation>http://link</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="vanished">Koristi id poruke kao resurs</translation>
+        <translation>Koristi id poruke kao resurs</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="vanished">Pokaži sliku</translation>
+        <translation>Pokaži sliku</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="vanished">Pokaži avatare</translation>
+        <translation>Pokaži avatare</translation>
+    </message>
+    <message>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="vanished">Očisti keš avatara</translation>
+        <translation>Očisti keš avatara</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="vanished">Fajl:</translation>
+        <translation>Fajl:</translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="vanished">Napredak:</translation>
+        <translation>Napredak:</translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="vanished">Proteklo vreme:</translation>
+        <translation>Proteklo vreme:</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="vanished">Brzina:</translation>
+        <translation>Brzina:</translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="vanished"> kb/sec</translation>
+        <translation> kb/sec</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="vanished">Otpremanje kompletno. Čekanje na verifikaciju.</translation>
+        <translation>Otpremanje kompletno. Čekanje na verifikaciju.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="vanished">Gotovo</translation>
+        <translation>Gotovo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="vanished">Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="vanished">Otpremanje...</translation>
+        <translation>Otpremanje...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="vanished">Otpremanje počelo.</translation>
+        <translation>Otpremanje počelo.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="vanished">Fajl:</translation>
+        <translation>Fajl:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">Napredak:</translation>
+        <translation>Napredak:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="vanished">Proteklo vreme:</translation>
+        <translation>Proteklo vreme:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="vanished">Brzina:</translation>
+        <translation>Brzina:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="vanished">Link:</translation>
+        <translation>Link:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="vanished">Puno ime:</translation>
+        <translation>Puno ime:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="vanished">Nadimak:</translation>
+        <translation>Nadimak:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="vanished">Rodjendan:</translation>
+        <translation>Rodjendan:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="vanished">Yandex.Narod fajl menadžer</translation>
+        <translation>Yandex.Narod fajl menadžer</translation>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="vanished">Obriši fajl(ove)</translation>
+        <translation>Obriši fajl(ove)</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Siguran si?</translation>
+        <translation>Siguran si?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="vanished">Podesi lozinku</translation>
+        <translation>Podesi lozinku</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="vanished">Ukloni lozinku</translation>
+        <translation>Ukloni lozinku</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">Kopiraj URL</translation>
+        <translation>Kopiraj URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">Odloži
+        <translation>Odloži
 </translation>
     </message>
 </context>
@@ -17505,156 +18553,163 @@ Do you still want to close the window?</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="vanished">Dostavi fajl listu</translation>
+        <translation>Dostavi fajl listu</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="vanished">Otpremi fajl</translation>
+        <translation>Otpremi fajl</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="vanished">Akcije:</translation>
+        <translation>Akcije:</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="vanished">Copiraj URL</translation>
+        <translation>Copiraj URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="vanished">Odloži</translation>
+        <translation>Odloži</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="vanished">Obriši fajl(ove)</translation>
+        <translation>Obriši fajl(ove)</translation>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="vanished">line1
+        <translation>line1
 line2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="vanished">Fajl lista:</translation>
+        <translation>Fajl lista:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="vanished">Nova stavka</translation>
+        <translation>Nova stavka</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">Očisti kolačiće</translation>
+        <translation>Očisti kolačiće</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="vanished">Otvori veb čitač</translation>
+        <translation>Otvori veb čitač</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="vanished">Preuzimanje fajl liste...</translation>
+        <translation>Preuzimanje fajl liste...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="vanished">Brisanje fajlova...</translation>
+        <translation>Brisanje fajlova...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="vanished">Odlaganje fajlova...</translation>
+        <translation>Odlaganje fajlova...</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="vanished">Kolačići su zastareli!
+        <translation>Kolačići su zastareli!
 Ponovo autorizuj...</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
-        <translation type="vanished">Ne mogu dobiti fajlove!
+        <translation>Ne mogu dobiti fajlove!
 Probaj obriši kolačiće.</translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="vanished">Fajl lista preuzeta
+        <translation>Fajl lista preuzeta
 (%1 fajlova)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="vanished">Fajl(ovi) uklonjeni</translation>
+        <translation>Fajl(ovi) uklonjeni</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="vanished">Fajl(ovi) odloženi</translation>
+        <translation>Fajl(ovi) odloženi</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="vanished">Lozinka je podešena</translation>
+        <translation>Lozinka je podešena</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="vanished">Lozinka je uklonjena</translation>
+        <translation>Lozinka je uklonjena</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="vanished">Otvoreni Yandex Narod menadžer</translation>
+        <translation>Otvoreni Yandex Narod menadžer</translation>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="vanished">Pošalji fajl preko Yandex Narod</translation>
+        <translation>Pošalji fajl preko Yandex Narod</translation>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="vanished">Pošalji fajl za %1</translation>
+        <translation>Pošalji fajl za %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="vanished">Yandex Narod priljučak</translation>
+        <translation>Yandex Narod priljučak</translation>
+    </message>
+    <message>
+        <source>Ported from QutIM Yandex.Narod plugin
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Podešavanja</translation>
+        <translation>Podešavanja</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="vanished">Logovanje</translation>
+        <translation>Logovanje</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Lozinka</translation>
+        <translation>Lozinka</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="vanished">status</translation>
+        <translation>status</translation>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="vanished">Test autorizacije</translation>
+        <translation>Test autorizacije</translation>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="vanished">Start menadžer</translation>
+        <translation>Start menadžer</translation>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="vanished">Pošalji šablon</translation>
+        <translation>Pošalji šablon</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -17662,7 +18717,7 @@ Probaj obriši kolačiće.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -17670,15 +18725,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="vanished">%N - file name; %U - file URL; %S - file size</translation>
+        <translation>%N - file name; %U - file URL; %S - file size</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="vanished">Očisti kolačiće</translation>
+        <translation>Očisti kolačiće</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

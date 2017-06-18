@@ -73,8 +73,8 @@
         <translation>Licence</translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation>À propos de Psi</translation>
+        <source>About Psi+</source>
+        <translation type="vanished">À propos de Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -209,6 +209,18 @@
         <translation>Greffon de sécurité : %1</translation>
     </message>
     <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -224,20 +236,12 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48 {48?}</translation>
+        <source>About Psi</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <source>psi/logo_48</source>
+        <translation type="unfinished">psi/logo_48 {48?}</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1010,7 @@ Cause: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="vanished"> Activer le mode confidentiel.
+        <translation> Activer le mode confidentiel.
 Le serveur ne conservera pas
 l&apos;historique pour ce contact.</translation>
     </message>
@@ -1060,55 +1064,55 @@ l&apos;historique pour ce contact.</translation>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="vanished">Générer une nouvelle paire de clés</translation>
+        <translation>Générer une nouvelle paire de clés</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="vanished">Longueur :</translation>
+        <translation>Longueur :</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="vanished">Commentaire : </translation>
+        <translation>Commentaire : </translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="vanished">Date d&apos;expiration : </translation>
+        <translation>Date d&apos;expiration : </translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="vanished">RSA et RSA (défaut)</translation>
+        <translation>RSA et RSA (défaut)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="vanished">DSA et ElGamal</translation>
+        <translation>DSA et ElGamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="vanished">DSA (signature uniquement)</translation>
+        <translation>DSA (signature uniquement)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="vanished">RSA (signature uniquement)</translation>
+        <translation>RSA (signature uniquement)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="vanished">Nom complet : </translation>
+        <translation>Nom complet : </translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="vanished">Mot de passe : </translation>
+        <translation>Mot de passe : </translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="vanished">Type de clés : </translation>
+        <translation>Type de clés : </translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="vanished">Confirmation : </translation>
+        <translation>Confirmation : </translation>
     </message>
 </context>
 <context>
@@ -1287,40 +1291,40 @@ Erreur lors de la demande d&apos;informations à partir de &quot;%1&quot;.&lt;br
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="vanished"> vous envoie un message d&apos;Attention !</translation>
+        <translation> vous envoie un message d&apos;Attention !</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="vanished">Envoyer un message d&apos;Attention</translation>
+        <translation>Envoyer un message d&apos;Attention</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="vanished">Greffon Attention</translation>
+        <translation>Greffon Attention</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="vanished">Vous avez envoyé un message d&apos;Attention à %1</translation>
+        <translation>Vous avez envoyé un message d&apos;Attention à %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="vanished">Ce greffon permet d&apos;envoyer et de recevoir des messages spéciaux, tels des Attentions.
+        <translation>Ce greffon permet d&apos;envoyer et de recevoir des messages spéciaux, tels des Attentions.
 Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0224 (par exemple : Pidgin, Miranda avec le greffon Nudge).</translation>
     </message>
 </context>
@@ -1343,93 +1347,93 @@ Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="vanished">Activer</translation>
+        <translation>Activer</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">Désactiver</translation>
+        <translation>Désactiver</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="vanished">Désactiver si la fenêtre de discussion est active</translation>
+        <translation>Désactiver si la fenêtre de discussion est active</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="vanished">Désactiver si le contact n&apos;est pas dans votre liste</translation>
+        <translation>Désactiver si le contact n&apos;est pas dans votre liste</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">En ligne</translation>
+        <translation>En ligne</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="vanished">Absent</translation>
+        <translation>Absent</translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="vanished">Ne pas déranger</translation>
+        <translation>Ne pas déranger</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="vanished">Non disponible</translation>
+        <translation>Non disponible</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Disponible pour discuter</translation>
+        <translation>Disponible pour discuter</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="vanished">Invisible</translation>
+        <translation>Invisible</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="vanished">Activer pour l&apos;état :</translation>
+        <translation>Activer pour l&apos;état :</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="vanished">Réponse automatique :</translation>
+        <translation>Réponse automatique :</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="vanished">pour les JIDs et les conférences :</translation>
+        <translation>pour les JIDs et les conférences :</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="vanished">Vous pouvez aussi spécifier un JID partiel
+        <translation>Vous pouvez aussi spécifier un JID partiel
 (sans symboles additionnels)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="vanished">Désactiver pour les comptes (spécifier les JIDs) :</translation>
+        <translation>Désactiver pour les comptes (spécifier les JIDs) :</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="vanished">Délai avant de réinitialiser le compteur :</translation>
+        <translation>Délai avant de réinitialiser le compteur :</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="vanished">Envoyer au plus</translation>
+        <translation>Envoyer au plus</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="vanished">fois (-1 : illimité)</translation>
+        <translation>fois (-1 : illimité)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1443,7 +1447,7 @@ Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="vanished">Ce greffon sert de répondeur. Il dispose d&apos;un certain nombre d&apos;options de configuration, permettant de :
+        <translation>Ce greffon sert de répondeur. Il dispose d&apos;un certain nombre d&apos;options de configuration, permettant de :
 * définir un message de réponse automatique,
 * exclure des JIDs spécifiques, y compris des salons de discussion, des réponses automatiques (dans le cas d&apos;un salon, l&apos;exception s&apos;étend à tous les messages privés),
 * désactiver la réponse automatique pour certains comptes,
@@ -1508,59 +1512,59 @@ La liste d&apos;exceptions pour les JIDs opère selon deux modes :
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="vanished">Fichier vide</translation>
+        <translation>Fichier vide</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="vanished">Enregistrer l&apos;image</translation>
+        <translation>Enregistrer l&apos;image</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="vanished">Enregistrer l&apos;avatar</translation>
+        <translation>Enregistrer l&apos;avatar</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="vanished">Images (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Images (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ce greffon permet de jouer à la bataille navale avec vos amis.
+        <translation>Ce greffon permet de jouer à la bataille navale avec vos amis.
 Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera donc partout à vous pourrez vous connecter. Pour inviter un ami à jouer, utilisez le menu des contacts où le bouton dans la barre d&apos;outils d&apos;une fenêtre de discussion.</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="vanished">Bataille navale</translation>
+        <translation>Bataille navale</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="vanished">Bataille navale !</translation>
+        <translation>Bataille navale !</translation>
     </message>
 </context>
 <context>
@@ -1739,15 +1743,15 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
+        <translation>CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="vanished">Chargement des données...</translation>
+        <translation>Chargement des données...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="vanished">Message d&apos;origine</translation>
+        <translation>Message d&apos;origine</translation>
     </message>
 </context>
 <context>
@@ -1761,23 +1765,23 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">Greffon captcha : CAPTCHA par %1</translation>
+        <translation>Greffon captcha : CAPTCHA par %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Erreur ! Impossible de charger l&apos;image.</translation>
+        <translation>Erreur ! Impossible de charger l&apos;image.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi.</source>
-        <translation type="vanished">Ce greffon permet de renseigner les captchas directement à partir de Psi.</translation>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation>Ce greffon permet de renseigner les captchas directement à partir de Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2059,72 +2063,72 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="vanished">Greffon d&apos;Échecs</translation>
+        <translation>Greffon d&apos;Échecs</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="vanished">Échecs !</translation>
+        <translation>Échecs !</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="vanished">Vous êtes déjà en train de jouer !</translation>
+        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="vanished">Votre adversaire a quitté le plateau !
+        <translation>Votre adversaire a quitté le plateau !
 Vous pouvez cependant sauvegarder la partie.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="vanished">La partie a été rejetée</translation>
+        <translation>La partie a été rejetée</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="vanished">Vous avez perdu.</translation>
+        <translation>Vous avez perdu.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="vanished">Vous avez gagné !</translation>
+        <translation>Vous avez gagné !</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="vanished">Match nul !</translation>
+        <translation>Match nul !</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Erreur inconnue !</translation>
+        <translation>Erreur inconnue !</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="vanished">Greffon d&apos;Échecs : invitation de %1</translation>
+        <translation>Greffon d&apos;Échecs : invitation de %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ce greffon permet de jouer aux échecs avec vos amis.
+        <translation>Ce greffon permet de jouer aux échecs avec vos amis.
 Il est compatible avec un greffon similaire pour Tkabber.
 Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoir se connecter pour jouer. Pour inviter un ami à jouer, vous pouvez utiliser l&apos;entrée du menu de contacts, ou le bouton de la barre d&apos;outils de la fenêtre de discussion.</translation>
     </message>
@@ -2133,234 +2137,234 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="vanished">Plateau d&apos;échecs</translation>
+        <translation>Plateau d&apos;échecs</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="vanished">Mouvements :</translation>
+        <translation>Mouvements :</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="vanished">    Blanc    Noir
+        <translation>    Blanc    Noir
 </translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="vanished">Charger une partie</translation>
+        <translation>Charger une partie</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="vanished">Sauver la partie</translation>
+        <translation>Sauver la partie</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Quitter</translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="vanished">Abandonner</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="vanished">Activer le son</translation>
+        <translation>Activer le son</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">Jeu</translation>
+        <translation>Jeu</translation>
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="vanished">*.chs</translation>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
 </source>
-        <translation type="vanished">  Blanc     Noir
+        <translation>  Blanc     Noir
 </translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi Cleaner</source>
-        <translation type="vanished">Assistant de nettoyage Psi</translation>
+        <source>Psi+ Cleaner</source>
+        <translation>Assistant de nettoyage Psi+</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historique</translation>
+        <translation>Historique</translation>
     </message>
     <message>
         <source>vCards</source>
-        <translation type="vanished">Cartes de visite</translation>
+        <translation>Cartes de visite</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">Avatars</translation>
+        <translation>Avatars</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Filtre :</translation>
+        <translation>Filtre :</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="vanished">Sélectionner tous les fichiers</translation>
+        <translation>Sélectionner tous les fichiers</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="vanished">Désélectionner tous les fichiers</translation>
+        <translation>Désélectionner tous les fichiers</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="vanished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="vanished">fichiers sélectionnés</translation>
+        <translation>fichiers sélectionnés</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="vanished">Supprimer les fichiers sélectionnés</translation>
+        <translation>Supprimer les fichiers sélectionnés</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="vanished">Supprimer la sélection</translation>
+        <translation>Supprimer la sélection</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="vanished">Fermer l&apos;assistant de nettoyage de Psi</translation>
+        <translation>Fermer l&apos;assistant de nettoyage de Psi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="vanished">Sélectionner un &amp;Profil</translation>
+        <translation>Sélectionner un &amp;Profil</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Quitter</translation>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="vanished">Effacer le cache de &amp;Juick</translation>
+        <translation>Effacer le cache de &amp;Juick</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="vanished">Effacer le cache des A&amp;nniversaires</translation>
+        <translation>Effacer le cache des A&amp;nniversaires</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="vanished">&amp;Fichier</translation>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="vanished">&amp;Actions</translation>
+        <translation>&amp;Actions</translation>
     </message>
     <message>
         <source>History files: </source>
-        <translation type="vanished">Fichiers récents :</translation>
+        <translation>Fichiers récents :</translation>
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="vanished">Cartes de visite : </translation>
+        <translation>Cartes de visite : </translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="vanished">Avatars : </translation>
+        <translation>Avatars : </translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="vanished">Effacer l&apos;historique</translation>
+        <translation>Effacer l&apos;historique</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="vanished">Êtes-vous certain ?</translation>
+        <translation>Êtes-vous certain ?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="vanished">Effacer les cartes de visite</translation>
+        <translation>Effacer les cartes de visite</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="vanished">Effacer les avatars</translation>
+        <translation>Effacer les avatars</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="vanished">Effacer les options</translation>
+        <translation>Effacer les options</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="vanished">Non supporté actuellement !</translation>
+        <translation>Non supporté actuellement !</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="vanished">Sélectionner un profil</translation>
+        <translation>Sélectionner un profil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="vanished">Profil :</translation>
+        <translation>Profil :</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="vanished">Effacer le cache de Juick</translation>
+        <translation>Effacer le cache de Juick</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="vanished">Le cache de Juick a bien été effacé</translation>
+        <translation>Le cache de Juick a bien été effacé</translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="vanished">Erreur !</translation>
+        <translation>Erreur !</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="vanished">Cache non trouvé !</translation>
+        <translation>Cache non trouvé !</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="vanished">Effacer le cache des Anniversaires</translation>
+        <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="vanished">Effacer le cache des Anniversaires</translation>
+        <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="vanished">Le cache des Anniversaires a bien été effacé</translation>
+        <translation>Le cache des Anniversaires a bien été effacé</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="vanished">Démarrer l&apos;assistant de nettoyage</translation>
+        <translation>Démarrer l&apos;assistant de nettoyage</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="vanished">Ce greffon permet de vider le cache des avatars, les copies locales de cartes de visite et l&apos;historique.
+        <translation>Ce greffon permet de vider le cache des avatars, les copies locales de cartes de visite et l&apos;historique.
 Il est possible de prévisualiser les éléments avant de les supprimer.</translation>
     </message>
 </context>
@@ -2368,85 +2372,85 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Date de création</translation>
+        <translation>Date de création</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="vanished">Pseudo</translation>
+        <translation>Pseudo</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="vanished">Domaine</translation>
+        <translation>Domaine</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="vanished">Date de création</translation>
+        <translation>Date de création</translation>
     </message>
 </context>
 <context>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="vanished">Valeurs</translation>
+        <translation>Valeurs</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="vanished">Sélectionner</translation>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Désélectionner</translation>
+        <translation>Désélectionner</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Inverser</translation>
+        <translation>Inverser</translation>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs :</translation>
+        <translation>Auteurs :</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="vanished">Ce greffon sert à remplacer la version, le nom et le type de système d&apos;exploitation du client.
+        <translation>Ce greffon sert à remplacer la version, le nom et le type de système d&apos;exploitation du client.
 Vous pouvez spécifier la version du client ou le système ou sélectionner une des valeurs prédéfinies.</translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="vanished">%1 a demandé votre version</translation>
+        <translation>%1 a demandé votre version</translation>
     </message>
 </context>
 <context>
@@ -2460,41 +2464,41 @@ Vous pouvez spécifier la version du client ou le système ou sélectionner une 
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="vanished">Emplacement des logs :</translation>
+        <translation>Emplacement des logs :</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="vanished">Logs :</translation>
+        <translation>Logs :</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="vanished">Voir le log</translation>
+        <translation>Voir le log</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="vanished">Historique des discussions</translation>
+        <translation>Historique des discussions</translation>
     </message>
     <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi user sits.
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="vanished">Ce greffon sert à sauvegarder les logs des salons de discussions auxquels l&apos;utilisateur de Psi participe.
+        <translation>Ce greffon sert à sauvegarder les logs des salons de discussions auxquels l&apos;utilisateur de Psi+ participe.
 Les logs peuvent être consultés à partir des paramètres du greffon ou en cliquant sur le bouton correspondant dans la barre d&apos;outils de la fenêtre active / de l&apos;onglet du salon de discussion.
 
 Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit être activée.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
     </message>
 </context>
 <context>
@@ -3319,15 +3323,15 @@ Continuer ?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation type="vanished">Ce greffon facilite le téléchargement et l&apos;installation de jeux d&apos;icônes et autres ressources pour Psi.</translation>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation>Ce greffon facilite le téléchargement et l&apos;installation de jeux d&apos;icônes et autres ressources pour Psi+.</translation>
     </message>
 </context>
 <context>
@@ -3364,7 +3368,7 @@ Continuer ?</translation>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="vanished">jamais</translation>
+        <translation>jamais</translation>
     </message>
 </context>
 <context>
@@ -3642,126 +3646,135 @@ Continuer ?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="vanished">Surveiller...</translation>
+        <translation>Surveiller...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="vanished">JID*</translation>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="vanished">Texte**</translation>
+        <translation>Texte**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="vanished">*Les expressions régulières peuvent être utilisées</translation>
+        <translation>*Les expressions régulières peuvent être utilisées</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="vanished">**Une liste de mots peut être utilisée.
+        <translation>**Une liste de mots peut être utilisée.
   Chaque mot peut être constitué d&apos;expressions régulières</translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="vanished">Utiliser pour</translation>
+        <translation>Utiliser pour</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="vanished">Discussions</translation>
+        <translation>Discussions</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="vanished">Salons</translation>
+        <translation>Salons</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="vanished">Toujours jouer un son</translation>
+        <translation>Toujours jouer un son</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="vanished">Fichier :</translation>
+        <translation>Fichier :</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="vanished">Éditer la note</translation>
+        <translation>Éditer la note</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">Titre :</translation>
+        <translation>Titre :</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="vanished">Labels :</translation>
+        <translation>Labels :</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="vanished">Paramètres du serveur</translation>
+        <translation>Paramètres du serveur</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">Nom :</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="vanished">URL :</translation>
+        <translation>URL :</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="vanished">Nom d&apos;utilisateur* :</translation>
+        <translation>Nom d&apos;utilisateur* :</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="vanished">Mot de passe* :</translation>
+        <translation>Mot de passe* :</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="vanished">Données POST** :</translation>
+        <translation>Données POST** :</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="vanished">Données fichier** :</translation>
+        <translation>Données fichier** :</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="vanished">RegExp** :</translation>
+        <translation>RegExp** :</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="vanished">*serveurs FTP uniquement</translation>
+        <translation>*serveurs FTP uniquement</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="vanished">**serveurs HTTP uniquement</translation>
+        <translation>**serveurs HTTP uniquement</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="vanished">Serveur proxy</translation>
+        <translation>Serveur proxy</translation>
     </message>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs :</translation>
+        <translation>Auteurs :</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="vanished">Messages manqués : %1</translation>
+        <translation>Messages manqués : %1</translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3972,394 +3985,539 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="vanished">Ping %1</translation>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="vanished">Pong de %1 après %2 secondes</translation>
+        <translation>Pong de %1 après %2 secondes</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="vanished">Fonctionnalité non implémentée</translation>
+        <translation>Fonctionnalité non implémentée</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="vanished">%1 Dernière activité</translation>
+        <translation>%1 Dernière activité</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="vanished">%1 Dernière activité il y a %2</translation>
+        <translation>%1 Dernière activité il y a %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="vanished">%1 s&apos;est déconnecté il y a %2</translation>
+        <translation>%1 s&apos;est déconnecté il y a %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="vanished">Le temps d&apos;activité de %1 est de %2</translation>
+        <translation>Le temps d&apos;activité de %1 est de %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="vanished">%1 est en ligne !</translation>
+        <translation>%1 est en ligne !</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="vanished">Erreur inconnue !</translation>
+        <translation>Erreur inconnue !</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="vanished">Service indisponible</translation>
+        <translation>Service indisponible</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="vanished">Vous n&apos;êtes pas autorisé à visualiser les informations d&apos;activité</translation>
+        <translation>Vous n&apos;êtes pas autorisé à visualiser les informations d&apos;activité</translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="vanished">Heure de %1</translation>
+        <translation>Heure de %1</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="vanished">L&apos;heure de %1 est %2</translation>
+        <translation>L&apos;heure de %1 est %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="vanished">Actions avancées</translation>
+        <translation>Actions avancées</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="vanished">Copier le JID</translation>
+        <translation>Copier le JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="vanished">Copier le pseudo</translation>
+        <translation>Copier le pseudo</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="vanished">Copier le message d&apos;état</translation>
+        <translation>Copier le message d&apos;état</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="vanished">Ping</translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="vanished">Dernière activité</translation>
+        <translation>Dernière activité</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="vanished">Heure de l&apos;entité</translation>
+        <translation>Heure de l&apos;entité</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur : </translation>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="vanished">Ce greffon ajoute plusieurs commandes au menu contextuel des contacts.</translation>
+        <translation>Ce greffon ajoute plusieurs commandes au menu contextuel des contacts.</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Discussion</translation>
+        <translation>Discussion</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="vanished">Onglets</translation>
+        <translation>Onglets</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="vanished">Liste de contacts</translation>
+        <translation>Liste de contacts</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="vanished">Menu</translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation type="vanished">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="vanished">CSS</translation>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Divers</translation>
+        <translation>Divers</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="vanished">Confirmer avant d&apos;effacer la fenêtre de discussion</translation>
+        <translation>Confirmer avant d&apos;effacer la fenêtre de discussion</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="vanished">Autoriser les icônes dans la discussion</translation>
+        <translation>Autoriser les icônes dans la discussion</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="vanished">Icônes redimensionnées</translation>
+        <translation>Icônes redimensionnées</translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="vanished">Afficher l&apos;avatar</translation>
+        <translation>Afficher l&apos;avatar</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Says style&quot;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="vanished">Masquer le bouton &quot;Envoyer&quot;</translation>
+        <translation>Masquer le bouton &quot;Envoyer&quot;</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="vanished">Taille des avatars :</translation>
+        <translation>Taille des avatars :</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="vanished">Mode par défaut du JID :</translation>
+        <translation>Mode par défaut du JID :</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Majuscule automatique en début de phrase</translation>
+        <translation>Majuscule automatique en début de phrase</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="vanished">Défilement automatique lors de l&apos;envoi d&apos;un message</translation>
+        <translation>Défilement automatique lors de l&apos;envoi d&apos;un message</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="vanished">Afficher les changements d&apos;état</translation>
+        <translation>Afficher les changements d&apos;état</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="vanished">Afficher la priorité de l&apos;état</translation>
+        <translation>Afficher la priorité de l&apos;état</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="vanished">Légende de la fenêtre de discussion :</translation>
+        <translation>Légende de la fenêtre de discussion :</translation>
+    </message>
+    <message>
+        <source>Default JID mode ignore list:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">Général</translation>
+        <translation>Général</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="vanished">Afficher les messages d&apos;arrivée</translation>
+        <translation>Afficher les messages d&apos;arrivée</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="vanished">Afficher les messages d&apos;arrivée initiale</translation>
+        <translation>Afficher les messages d&apos;arrivée initiale</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="vanished">Afficher l&apos;état avec la priorité</translation>
+        <translation>Afficher l&apos;état avec la priorité</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="vanished">Afficher les changements de rôles et d&apos;affiliations</translation>
+        <translation>Afficher les changements de rôles et d&apos;affiliations</translation>
+    </message>
+    <message>
+        <source>Automatically accept the default room configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically accept the default room configuration when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically open the configuration dialog when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically open the configuration dialog when a new room is created.
+This option only has effect if accept-defaults is false.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Salon</translation>
+        <translation>Salon</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="vanished">Rejoindre automatiquement les salons ajoutés aux favoris</translation>
+        <translation>Rejoindre automatiquement les salons ajoutés aux favoris</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="vanished">Masquer le salon après connexion automatique</translation>
+        <translation>Masquer le salon après connexion automatique</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="vanished">Activer le rendu HTML dans les fenêtres de discussion des salons</translation>
+        <translation>Activer le rendu HTML dans les fenêtres de discussion des salons</translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="vanished">Message de déconnexion d&apos;un salon :</translation>
+        <translation>Message de déconnexion d&apos;un salon :</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="vanished">Afficher la liste des participants au salon à gauche</translation>
+        <translation>Afficher la liste des participants au salon à gauche</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="vanished">Afficher les groupes</translation>
+        <translation>Afficher les groupes</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="vanished">Utiliser un en-tête de groupes fin</translation>
+        <translation>Utiliser un en-tête de groupes fin</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="vanished">Afficher les icônes de statut</translation>
+        <translation>Afficher les icônes de statut</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="vanished">Afficher les icônes d&apos;affiliation</translation>
+        <translation>Afficher les icônes d&apos;affiliation</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="vanished">Afficher les icônes des clients</translation>
+        <translation>Afficher les icônes des clients</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="vanished">Afficher les avatars</translation>
+        <translation>Afficher les avatars</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="vanished">Placer les avatars à gauche</translation>
+        <translation>Placer les avatars à gauche</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="vanished">Style de tri des contacts :</translation>
+        <translation>Style de tri des contacts :</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="vanished">Taille des avatars :</translation>
+        <translation>Taille des avatars :</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="vanished">Radius des avatars :</translation>
+        <translation>Radius des avatars :</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="vanished">Résoudre les pseudos lors de l&apos;ajout de contacts</translation>
+        <translation>Résoudre les pseudos lors de l&apos;ajout de contacts</translation>
+    </message>
+    <message>
+        <source>Lockdown roster</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="vanished">Placer la liste de contacts à gauche en mode &quot;fenêtre unie&quot;</translation>
+        <translation>Placer la liste de contacts à gauche en mode &quot;fenêtre unie&quot;</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="vanished">Nom de contact et message d&apos;état sur une ligne</translation>
+        <translation>Nom de contact et message d&apos;état sur une ligne</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="vanished">Si le contact n&apos;a pas d&apos;avatar, utiliser celui par défaut</translation>
+        <translation>Si le contact n&apos;a pas d&apos;avatar, utiliser celui par défaut</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="vanished">Afficher l&apos;icône de statut au-dessus de l&apos;avatar</translation>
+        <translation>Afficher l&apos;icône de statut au-dessus de l&apos;avatar</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="vanished">Supprimer automatiquement les contacts temporaires</translation>
+        <translation>Supprimer automatiquement les contacts temporaires</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="vanished">Infobulles :</translation>
+        <translation>Infobulles :</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="vanished">Afficher l&apos;avatar</translation>
+        <translation>Afficher l&apos;avatar</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="vanished">Voir le dernier état</translation>
+        <translation>Voir le dernier état</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="vanished">Voir la signature PGP</translation>
+        <translation>Voir la signature PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="vanished">Voir la version du client</translation>
+        <translation>Voir la version du client</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="vanished">Voir la géolocalisation</translation>
+        <translation>Voir la géolocalisation</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="vanished">Afficher les options &quot;Admin&quot; dans le menu des comptes</translation>
+        <translation>Afficher les options &quot;Admin&quot; dans le menu des comptes</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Discussion actives&quot; dans le menu des contacts</translation>
+        <translation>Afficher l&apos;option &quot;Discussion actives&quot; dans le menu des contacts</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Assigner une clé OpenPGP&quot; dans le menu des contacts</translation>
+        <translation>Afficher l&apos;option &quot;Assigner une clé OpenPGP&quot; dans le menu des contacts</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Image&quot; dans le menu des contacts</translation>
+        <translation>Afficher l&apos;option &quot;Image&quot; dans le menu des contacts</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Changer de profil&quot; dans le menu principal</translation>
+        <translation>Afficher l&apos;option &quot;Changer de profil&quot; dans le menu principal</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Discussion&quot; dans le menu de statut</translation>
+        <translation>Afficher l&apos;option &quot;Discussion&quot; dans le menu de statut</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;Invisible&quot; dans le menu de statut</translation>
+        <translation>Afficher l&apos;option &quot;Invisible&quot; dans le menu de statut</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="vanished">Afficher l&apos;option &quot;XA&quot; dans le menu de statut</translation>
+        <translation>Afficher l&apos;option &quot;XA&quot; dans le menu de statut</translation>
+    </message>
+    <message>
+        <source>Enable single messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Popup border color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mailto color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderators color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Participants color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visitors color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Role color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat roster coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable sound notifications for every groupchat message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ToolTip coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text color for &quot;composing&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text color for &quot;unread&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="vanished">Couleurs :</translation>
+        <translation>Couleurs :</translation>
+    </message>
+    <message>
+        <source>Popup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="vanished">Désactiver le défilement à la molette</translation>
+        <translation>Désactiver le défilement à la molette</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="vanished">Afficher les onglets en bas de la fenêtre de discussion</translation>
+        <translation>Afficher les onglets en bas de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="vanished">Afficher le bouton Fermer sur les onglets</translation>
+        <translation>Afficher le bouton Fermer sur les onglets</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="vanished">Afficher les icônes de statut sur les onglets</translation>
+        <translation>Afficher les icônes de statut sur les onglets</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="vanished">Cacher l&apos;onglet à la fermeture de la fenêtre de discussion</translation>
+        <translation>Cacher l&apos;onglet à la fermeture de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="vanished">Autoriser la fermeture des onglets inactifs</translation>
+        <translation>Autoriser la fermeture des onglets inactifs</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="vanished">Action du clic milieu sur les onglets :</translation>
+        <translation>Action du clic milieu sur les onglets :</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="vanished">Action du double-clic sur les onglets :</translation>
+        <translation>Action du double-clic sur les onglets :</translation>
+    </message>
+    <message>
+        <source>Enable windows flashing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Single Account&quot; mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="vanished">Activer la console XML lors de la connexion</translation>
+        <translation>Activer la console XML lors de la connexion</translation>
+    </message>
+    <message>
+        <source>Enable last activity server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is Away</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="vanished">Notifications</translation>
+        <translation>Notifications</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur : </translation>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4780,19 +4938,19 @@ Raison: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="vanished">Authentification requise par le proxy</translation>
+        <translation>Authentification requise par le proxy</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="vanished">Charger la liste de contenus</translation>
+        <translation>Charger la liste de contenus</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="vanished">Télécharger et installer</translation>
+        <translation>Télécharger et installer</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5328,44 +5486,44 @@ Vous avez perdu.</translation>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="vanished">Le premier tour peut uniquement être H8.</translation>
+        <translation>Le premier tour peut uniquement être H8.</translation>
     </message>
 </context>
 <context>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="obsolete">%1 : invitation de %2</translation>
+        <translation type="unfinished">%1 : invitation de %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="obsolete">De : %1&lt;br /&gt;La partie a été rejetée</translation>
+        <translation type="unfinished">De : %1&lt;br /&gt;La partie a été rejetée</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="vanished">%1 : invitation de %2</translation>
+        <translation>%1 : invitation de %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="vanished">Paramètres incorrects</translation>
+        <translation>Paramètres incorrects</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="obsolete">Vous êtes déjà en train de jouer !</translation>
+        <translation type="unfinished">Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="vanished">De : %1&lt;br /&gt;La partie a été rejetée</translation>
+        <translation>De : %1&lt;br /&gt;La partie a été rejetée</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="vanished">De : %1&lt;br /&gt;Erreur de jeu.</translation>
+        <translation>De : %1&lt;br /&gt;Erreur de jeu.</translation>
     </message>
 </context>
 <context>
@@ -5610,125 +5768,171 @@ Vous avez perdu.</translation>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="vanished">Définition du mot de passe</translation>
+        <translation>Définition du mot de passe</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Mot de passe :</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="vanished">Confirmation du mot de passe :</translation>
+        <translation>Confirmation du mot de passe :</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="vanished">Le mot de passe saisi est différent</translation>
+        <translation>Le mot de passe saisi est différent</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
+        <source>Get Skin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Name: </source>
-        <translation type="vanished">Nom :</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Version : </translation>
+        <translation>Version : </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="vanished">Saisir texte</translation>
+        <translation>Saisir texte</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="vanished">Sélectionner une fonte</translation>
+        <translation>Sélectionner une fonte</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
+        <source>No-save state for contact %1 is changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings for an account %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared Status for an account %1 is updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes for contact %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="vanished">Choisir un programme</translation>
+        <translation>Choisir un programme</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="vanished">Bloquer le contact GMail</translation>
+        <translation>Bloquer le contact GMail</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs :</translation>
+        <translation>Auteurs :</translation>
+    </message>
+    <message>
+        <source>Shows notifications of new messages in your Gmailbox.
+Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs :</translation>
+        <translation>Auteurs :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur : </translation>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="vanished">Le gestionnaire de clés GnuPG peut créer, supprimer, importer et exporter des clés GnuPG. Seules les opérations de base sont supportées, ce qui devrait couvrir la plupart des besoins.</translation>
+        <translation>Le gestionnaire de clés GnuPG peut créer, supprimer, importer et exporter des clés GnuPG. Seules les opérations de base sont supportées, ce qui devrait couvrir la plupart des besoins.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="vanished">Envoyer la clé publique GnuPG</translation>
+        <translation>Envoyer la clé publique GnuPG</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="vanished">Clé publique %1 envoyée</translation>
+        <translation>Clé publique %1 envoyée</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur : </translation>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel : </translation>
+        <translation>Courriel : </translation>
+    </message>
+    <message>
+        <source>This plugin allows you to play gomoku with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku game!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5741,15 +5945,19 @@ Vous avez perdu.</translation>
 <context>
     <name>GpgProcess</name>
     <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>GnuPG program not found</source>
-        <translation type="vanished">GnuPG non détecté</translation>
+        <translation>GnuPG non détecté</translation>
     </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="vanished">Sélectionner une zone</translation>
+        <translation>Sélectionner une zone</translation>
     </message>
 </context>
 <context>
@@ -5765,6 +5973,10 @@ Vous avez perdu.</translation>
     <message>
         <source>Set Keys</source>
         <translation>Configurer les touches</translation>
+    </message>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5984,27 +6196,31 @@ Vous avez perdu.</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historique</translation>
+        <translation>Historique</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">Copie</translation>
+        <translation>Copie</translation>
+    </message>
+    <message>
+        <source>Copy link to the clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="vanished">Ouvrir le lien dans un navigateur</translation>
+        <translation>Ouvrir le lien dans un navigateur</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="vanished">Fermer l&apos;historique</translation>
+        <translation>Fermer l&apos;historique</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6041,23 +6257,36 @@ Vous avez perdu.</translation>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove history for contacts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear history on exit</source>
-        <translation type="vanished">Effacer l&apos;historique en quittant</translation>
+        <translation>Effacer l&apos;historique en quittant</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -6072,14 +6301,6 @@ Vous avez perdu.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6099,16 +6320,24 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create new profile</source>
+        <translation>Créer un nouveau profil</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation>Créer un nouveau profil</translation>
     </message>
 </context>
 <context>
@@ -6191,15 +6420,103 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="obsolete">Envoyer l&apos;image</translation>
+        <translation type="unfinished">Envoyer l&apos;image</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="obsolete">Images (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation type="unfinished">Images (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Erreur</translation>
+        <translation type="unfinished">Erreur</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6431,59 +6748,135 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+The plugin has a number of simple settings that can help you:
+* set a special message text
+* exclude specific ICQ numbers
+* set the time interval after which the message will be repeated
+* set the max count of messages by contact
+* disable the message for the active window/tab
+* disable messages for contacts that are not in your roster</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send Image</source>
-        <translation type="vanished">Envoyer l&apos;image</translation>
+        <translation>Envoyer l&apos;image</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="vanished">Ouvrir le fichier</translation>
+        <translation>Ouvrir le fichier</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="vanished">Copier à partir du presse-papiers</translation>
+        <translation>Copier à partir du presse-papiers</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Ouvrir l&apos;image</translation>
+        <translation>Ouvrir l&apos;image</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="vanished">L&apos;image est trop grande.</translation>
+        <translation>L&apos;image est trop grande.</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="vanished">La taille de l&apos;image doit être de moins de 60 ko</translation>
+        <translation>La taille de l&apos;image doit être de moins de 60 ko</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="vanished">Image : %1 octets reçus.</translation>
+        <translation>Image : %1 octets reçus.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">Image %1 envoyée &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation>Image %1 envoyée &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs :</translation>
+        <translation>Auteurs :</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="vanished">Ce greffon permet d&apos;envoyer des images à vos contacts.
+        <translation>Ce greffon permet d&apos;envoyer des images à vos contacts.
 Le client du destinataire  doit supporter XEP-0071 : XHTML-IM ainsi que le schéma data:URI.
 Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-toolbar doit être définie à true.</translation>
+    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6733,148 +7126,301 @@ Reason: %1</source>
 <context>
     <name>InvateDialog</name>
     <message>
+        <source>Gomoku Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Opponent:</source>
-        <translation type="vanished">Adversaire :</translation>
+        <translation>Adversaire :</translation>
+    </message>
+    <message>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
+        <source>Chess Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Accept</source>
-        <translation type="vanished">Accepter</translation>
+        <translation>Accepter</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="vanished">Refuser</translation>
+        <translation>Refuser</translation>
+    </message>
+    <message>
+        <source>Gomoku Game Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="vanished">blanc</translation>
+        <translation>blanc</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">noir</translation>
+        <translation>noir</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="vanished">second</translation>
+        <translation>second</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="vanished">premier</translation>
+        <translation>premier</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play battleship. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Invitation</translation>
+        <translation>Invitation</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="vanished">Adversaire :</translation>
+        <translation>Adversaire :</translation>
+    </message>
+    <message>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">Rafraîchir</translation>
+        <translation>Rafraîchir</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="vanished">Effacer le journal</translation>
+        <translation>Effacer le journal</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="obsolete">Envoyer</translation>
+        <translation type="unfinished">Envoyer</translation>
+    </message>
+    <message>
+        <source>Jabber Disk - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;You:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="vanished">Créer le dossier</translation>
+        <translation>Créer le dossier</translation>
+    </message>
+    <message>
+        <source>Get File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="obsolete">Envoi d&apos;un fichier</translation>
+        <translation type="unfinished">Envoi d&apos;un fichier</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="vanished">Hachage</translation>
+        <translation>Hachage</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">Lien</translation>
+        <translation>Lien</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="vanished">Introduction</translation>
+        <translation>Introduction</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="vanished">Statistiques</translation>
+        <translation>Statistiques</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="vanished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="vanished">Déplacer vers...</translation>
+        <translation>Déplacer vers...</translation>
+    </message>
+    <message>
+        <source>Remove Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input Dir Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input Full JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input New Name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
+        <source>Jabber Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
     <message>
+        <source>Set JIDs of Juick Bot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add</source>
-        <translation type="vanished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidList</name>
+    <message>
+        <source>Input JID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="vanished">Avertissement</translation>
+        <translation>Avertissement</translation>
+    </message>
+    <message>
+        <source>can&apos;t create folder %1 
+caching avatars will be not available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time stamp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> replied:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send personal message to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe to %1&apos;s blog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Add to favorites</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7403,7 +7949,11 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7431,55 +7981,59 @@ Détails : %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">Courriel</translation>
+        <translation>Courriel</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Création</translation>
+        <translation>Création</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Commentaires</translation>
+        <translation>Commentaires</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algorithme</translation>
+        <translation>Algorithme</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Identifiant court</translation>
+        <translation>Identifiant court</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="vanished">Activer / Désactiver</translation>
+        <translation>Activer / Désactiver</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="vanished">JID (ou JID partiel)</translation>
+        <translation>JID (ou JID partiel)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="vanished">Surveiller les JIDs</translation>
+        <translation>Surveiller les JIDs</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="vanished">Sons (si laissé vide, utilisation des sons par défaut)</translation>
+        <translation>Sons (si laissé vide, utilisation des sons par défaut)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7523,12 +8077,12 @@ Détails : %1</translation>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="vanished">Titre : %1</translation>
+        <translation>Titre : %1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="vanished">
+        <translation>
 Labels : %1</translation>
     </message>
 </context>
@@ -7536,63 +8090,63 @@ Labels : %1</translation>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="vanished">Carnet de notes</translation>
+        <translation>Carnet de notes</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="vanished">Ajouter une note</translation>
+        <translation>Ajouter une note</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="vanished">Éditer la note</translation>
+        <translation>Éditer la note</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="vanished">Supprimer la note</translation>
+        <translation>Supprimer la note</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="vanished">Charger les notes</translation>
+        <translation>Charger les notes</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Recharger</translation>
+        <translation>Recharger</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="vanished">Enregistrer les notes</translation>
+        <translation>Enregistrer les notes</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Enregistrer</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="vanished">Fermer la fenêtre</translation>
+        <translation>Fermer la fenêtre</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="vanished">Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir quitter ?</translation>
+        <translation>Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir quitter ?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="vanished">Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir continuer ?</translation>
+        <translation>Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir continuer ?</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="vanished">Erreur ! La fonctionnalité n&apos;est peut-être pas implémentée sur le serveur.</translation>
+        <translation>Erreur ! La fonctionnalité n&apos;est peut-être pas implémentée sur le serveur.</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="vanished">Greffon de sauvegarde des Notes</translation>
+        <translation>Greffon de sauvegarde des Notes</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="vanished">Les notes ont été enregistrées.</translation>
+        <translation>Les notes ont été enregistrées.</translation>
     </message>
 </context>
 <context>
@@ -8742,202 +9296,567 @@ Les noms d&apos;options ne peuvent être vides, se terminer par &apos;.&apos; ou
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow receiving one Attention from the same contact every</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="vanished">seconde</translation>
+        <translation>seconde</translation>
+    </message>
+    <message>
+        <source>Don&apos;t hide popup if status is Away or XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Birthdays</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="obsolete">Effacer le cache des Anniversaires</translation>
+        <translation type="unfinished">Effacer le cache des Anniversaires</translation>
+    </message>
+    <message>
+        <source>Check Birthdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start notifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days in advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days (0 - automatic update disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check birthdays on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">Options</translation>
+        <translation type="unfinished">Options</translation>
+    </message>
+    <message>
+        <source>Auto-popup Captcha dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use proxy settings from account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supported accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no supported accounts!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will send
+ notifications of unread email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mail notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will save
+ Google Talk chats on the server;
+ if set to &quot;false&quot;, no conversations
+ will be logged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message archiving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> If set to &quot;true&quot;, the server will
+ automatically add people emailed
+ often to the user&apos;s roster.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-accept suggestions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Enable multiple applications signed in
+ as the same user to report the same
+ status message. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Shared Statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Google Talk server disables server-side
+ logging of individual conversations and
+ sends notifications.
+ Enable &quot;Message archiving&quot; option for use!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Off the Record Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Enable &quot;Mail notifications&quot; option!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mail Notifications Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all unread messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show new messages only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start program:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manager</source>
-        <translation type="vanished">Gestionnaire</translation>
+        <translation>Gestionnaire</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">Importer</translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="vanished">Exporter</translation>
+        <translation>Exporter</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="vanished">Informations</translation>
+        <translation>Informations</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Paramètres</translation>
+        <translation>Paramètres</translation>
+    </message>
+    <message>
+        <source>Auto import a key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay between popups</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">secondes</translation>
+        <translation>secondes</translation>
+    </message>
+    <message>
+        <source>Disable popups if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable notifications for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tune</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">Humeur</translation>
+        <translation>Humeur</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="vanished">Activité</translation>
+        <translation>Activité</translation>
+    </message>
+    <message>
+        <source>Geolocation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="obsolete">Fichier :</translation>
+        <translation type="unfinished">Fichier :</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="vanished">Question :</translation>
+        <translation>Question :</translation>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="vanished">Réponse :</translation>
+        <translation>Réponse :</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="vanished">Félicitations :</translation>
+        <translation>Félicitations :</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Salon</translation>
+        <translation>Salon</translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for private messages in groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for affiliations:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="vanished">Propriétaire</translation>
+        <translation>Propriétaire</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="vanished">Administrateur</translation>
+        <translation>Administrateur</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="vanished">Membre</translation>
+        <translation>Membre</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">Aucun</translation>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Enable Stop Spam for roles:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="vanished">Modérateur</translation>
+        <translation>Modérateur</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="vanished">Participant</translation>
+        <translation>Participant</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="vanished">Visiteur</translation>
+        <translation>Visiteur</translation>
+    </message>
+    <message>
+        <source>Block all private messages</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="obsolete">Envoi d&apos;un message :</translation>
+        <translation type="unfinished">Envoi d&apos;un message :</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="vanished">Divers</translation>
+        <translation>Divers</translation>
+    </message>
+    <message>
+        <source>Number of blocked stanzas:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="obsolete">Voir le log</translation>
+        <translation type="unfinished">Voir le log</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="vanished">Réinitialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="obsolete">Envoyer au plus</translation>
+        <translation type="unfinished">Envoyer au plus</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="vanished">fois</translation>
+        <translation>fois</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="obsolete">Délai avant de réinitialiser le compteur :</translation>
+        <translation type="unfinished">Délai avant de réinitialiser le compteur :</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">min.</translation>
+        <translation>min.</translation>
+    </message>
+    <message>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="vanished">Suppr</translation>
+        <translation>Suppr</translation>
+    </message>
+    <message>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">État</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="obsolete">Supprimer la sélection</translation>
+        <translation type="unfinished">Supprimer la sélection</translation>
+    </message>
+    <message>
+        <source>Add row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default sound: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Messages</translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Éditer</translation>
+        <translation>Éditer</translation>
+    </message>
+    <message>
+        <source>Disable sound if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Watch for JID button in contact context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key pair generating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected keys?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ASCII (*.asc)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="obsolete">Tous fichiers (*)</translation>
+        <translation type="unfinished">Tous fichiers (*)</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="obsolete">Choisir un fichier</translation>
+        <translation type="unfinished">Choisir un fichier</translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cookies are removed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="obsolete">Règles</translation>
+        <translation type="unfinished">Règles</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="vanished">Activé</translation>
+        <translation>Activé</translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="vanished">Désactivé</translation>
+        <translation>Désactivé</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
 </context>
 <context>
@@ -9744,43 +10663,219 @@ Les noms d&apos;options ne peuvent être vides, se terminer par &apos;.&apos; ou
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="obsolete">Général</translation>
+        <translation type="unfinished">Général</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For all accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Response mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>allow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not implemented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deny iq time request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contacts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="obsolete">Salons</translation>
+        <translation type="unfinished">Salons</translation>
+    </message>
+    <message>
+        <source>Show popup at version iq</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="obsolete">jamais</translation>
+        <translation type="unfinished">jamais</translation>
+    </message>
+    <message>
+        <source>if iq replaced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="obsolete">Action par défaut</translation>
+        <translation type="unfinished">Action par défaut</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="obsolete">Capturer le bureau</translation>
+        <translation type="unfinished">Capturer le bureau</translation>
+    </message>
+    <message>
+        <source>Capture active window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="obsolete">Sélectionner la zone de capture</translation>
+        <translation type="unfinished">Sélectionner la zone de capture</translation>
+    </message>
+    <message>
+        <source>Servers:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*to specify the order of servers, use the drag-n-drop </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new server</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Ajouter</translation>
+        <translation>Ajouter</translation>
+    </message>
+    <message>
+        <source>Delete current server</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Edit current server</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">Éditer</translation>
+        <translation type="unfinished">Éditer</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable for players:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect full screen applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore old status if player stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay before setting status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay before restoring status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9896,27 +10991,59 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
 <context>
     <name>PepPlugin</name>
     <message>
+        <source>Now listening: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mood changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activity changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
+        <source>Input radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy</source>
-        <translation type="obsolete">Copie</translation>
+        <translation type="unfinished">Copie</translation>
+    </message>
+    <message>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9940,96 +11067,261 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
 <context>
     <name>PluginWindow</name>
     <message>
+        <source>Gomoku Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Opponent:</source>
-        <translation type="obsolete">Adversaire :</translation>
+        <translation type="unfinished">Adversaire :</translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="obsolete">Jeu</translation>
+        <translation type="unfinished">Jeu</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="obsolete">Quitter</translation>
+        <translation type="unfinished">Quitter</translation>
+    </message>
+    <message>
+        <source>Skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="obsolete">Fichier</translation>
+        <translation type="unfinished">Fichier</translation>
+    </message>
+    <message>
+        <source>New game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="obsolete">Charger une partie</translation>
+        <translation type="unfinished">Charger une partie</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="obsolete">Sauver la partie</translation>
+        <translation type="unfinished">Sauver la partie</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="obsolete">Quitter</translation>
+        <translation type="unfinished">Quitter</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="obsolete">Abandonner</translation>
+        <translation type="unfinished">Abandonner</translation>
+    </message>
+    <message>
+        <source>Switch color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for opponent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your turn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End of game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Erreur</translation>
+        <translation type="unfinished">Erreur</translation>
+    </message>
+    <message>
+        <source>Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opp</source>
+        <comment>Opponent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: %2 - swch</source>
+        <comment>Switch color</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gomoku Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game Error!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="obsolete">Votre adversaire a quitté le plateau !
+        <translation type="unfinished">Votre adversaire a quitté le plateau !
 Vous pouvez cependant sauvegarder la partie.</translation>
     </message>
     <message>
+        <source>You want to switch color?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You Lose.</source>
-        <translation type="obsolete">Vous avez perdu.</translation>
+        <translation type="unfinished">Vous avez perdu.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="obsolete">Vous avez gagné !</translation>
+        <translation type="unfinished">Vous avez gagné !</translation>
+    </message>
+    <message>
+        <source>You really want to begin new game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You really want to begin loaded game?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="vanished">Bataille navale</translation>
+        <translation>Bataille navale</translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="obsolete">@utilisateur</translation>
+        <translation type="unfinished">@utilisateur</translation>
+    </message>
+    <message>
+        <source>#post_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; quote</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="obsolete">message</translation>
+        <translation type="unfinished">message</translation>
+    </message>
+</context>
+<context>
+    <name>PreviewFileDialog</name>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not an image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
+        <source>Preview Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Name: </source>
-        <translation type="vanished">Nom :</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Version : </translation>
+        <translation>Version : </translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="vanished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Skin is not valid!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10534,31 +11826,31 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="vanished">Paramètres du proxy</translation>
+        <translation>Paramètres du proxy</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="vanished">Type :</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Hôte :</translation>
+        <translation>Hôte :</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">Port :</translation>
+        <translation>Port :</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="vanished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="vanished">Utilisateur :</translation>
+        <translation>Utilisateur :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Mot de passe :</translation>
+        <translation>Mot de passe :</translation>
     </message>
 </context>
 <context>
@@ -11217,22 +12509,6 @@ Cause: %1.</translation>
         <translation>Site &amp;Internet (en ligne/anglais)</translation>
     </message>
     <message>
-        <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>Signaler un Bug (en ligne/anglais)</translation>
     </message>
@@ -11351,6 +12627,22 @@ Cause: %1.</translation>
     <message>
         <source>Plugins</source>
         <translation type="unfinished">Greffons</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12094,15 +13386,15 @@ Would you like to activate that session now?</source>
         <translation>Supprimer vraiment toutes les options commençant par %1?</translation>
     </message>
     <message>
+        <source>Psi+: Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Really reset options %1 to default value?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13166,13 +14458,161 @@ Description: </source>
         <source>Cannot create a server socket!</source>
         <translation>Impossible de créer un socket (interface de connexion) pour le serveur!</translation>
     </message>
+    <message numerus="yes">
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended by @%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New message posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> recommended your post </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsubscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypting message to %1 failed.
+The message was not sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to generate keys for account &quot;%1&quot;.
+The OTR Plugin will not work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your message was not sent. Either end your private conversation, or restart it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable encrypted message was received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message is unreadable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message contains malformed data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have received a new fingerprint from %1:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Tags</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Yes</source>
-        <translation type="obsolete">Oui</translation>
+        <translation type="unfinished">Oui</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="obsolete">Non</translation>
+        <translation type="unfinished">Non</translation>
     </message>
     <message>
         <source>Status</source>
@@ -13515,6 +14955,19 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now known as %2</source>
         <translation type="unfinished">%1 est désormais connu(e) en tant que %2</translation>
     </message>
@@ -13522,23 +14975,35 @@ Description: </source>
 <context>
     <name>QipXStatuses</name>
     <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13607,20 +15072,47 @@ Cause: %1</translation>
 <context>
     <name>Reminder</name>
     <message>
+        <source>celebrates birthday today!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>celebrates birthday yesterday.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Birthday Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13649,7 +15141,15 @@ Cause: %1</translation>
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13701,173 +15201,173 @@ Cause: %1</translation>
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="vanished">Capture d&apos;écran</translation>
+        <translation>Capture d&apos;écran</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="vanished">Copier vers le presse-papiers</translation>
+        <translation>Copier vers le presse-papiers</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="vanished">Annuler l&apos;envoi</translation>
+        <translation>Annuler l&apos;envoi</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="vanished">Envoyer vers le serveur :</translation>
+        <translation>Envoyer vers le serveur :</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="vanished">Envoyer la capture vers le serveur sélectionné</translation>
+        <translation>Envoyer la capture vers le serveur sélectionné</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="vanished">Enregistrer une copie de la capture</translation>
+        <translation>Enregistrer une copie de la capture</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="vanished">Imprimer la capture</translation>
+        <translation>Imprimer la capture</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="vanished">Ouvrir une image</translation>
+        <translation>Ouvrir une image</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Nouvelle capture d&apos;écran</translation>
+        <translation>Nouvelle capture d&apos;écran</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="vanished">barre d&apos;outils</translation>
+        <translation>barre d&apos;outils</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="vanished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="vanished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="vanished">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Enregistrer</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="vanished">Imprimer</translation>
+        <translation>Imprimer</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Quitter</translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="vanished">Paramètres du proxy</translation>
+        <translation>Paramètres du proxy</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Historique</translation>
+        <translation>Historique</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">À propos de Qt</translation>
+        <translation>À propos de Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="vanished">Page d&apos;accueil</translation>
+        <translation>Page d&apos;accueil</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Envoyer</translation>
+        <translation>Envoyer</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="vanished">Taille : %1x%2px ; %3 octets</translation>
+        <translation>Taille : %1x%2px ; %3 octets</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="vanished">Ouvrir l&apos;image</translation>
+        <translation>Ouvrir l&apos;image</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="vanished">Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="vanished">/%1.</translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="vanished">Enregistrer sous</translation>
+        <translation>Enregistrer sous</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="vanished">Fichiers %1 (*.%2);;Tous les fichiers (*)</translation>
+        <translation>Fichiers %1 (*.%2);;Tous les fichiers (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="vanished">%1.</translation>
+        <translation>%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="vanished">Impossible de lire l&apos;URL (URL de réponse : &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
+        <translation>Impossible de lire l&apos;URL (URL de réponse : &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Êtes-vous certain ?</translation>
+        <translation>Êtes-vous certain ?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="vanished">Nouvelle capture d&apos;écran</translation>
+        <translation>Nouvelle capture d&apos;écran</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="vanished">Capturer le bureau</translation>
+        <translation>Capturer le bureau</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="vanished">Capturer la fenêtre courante</translation>
+        <translation>Capturer la fenêtre courante</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="vanished">Sélectionner la zone de capture</translation>
+        <translation>Sélectionner la zone de capture</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="vanished">Capturer après</translation>
+        <translation>Capturer après</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">secondes</translation>
+        <translation>secondes</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="vanished">Envoyer l&apos;image</translation>
+        <translation>Envoyer l&apos;image</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">Auteurs : </translation>
+        <translation>Auteurs : </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -13876,7 +15376,7 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="vanished">Ce greffon permet de faire des captures d&apos;écran et de les enregistrer, ou de les envoyer sur un serveur FTP ou HTTP.
+        <translation>Ce greffon permet de faire des captures d&apos;écran et de les enregistrer, ou de les envoyer sur un serveur FTP ou HTTP.
 Il dispose des paramètres suivants :
 * Raccourci -- combinaison de touches pour faire une capture (par défaut, Ctrl+Alt+P) ;
 * Format -- format utilisé pour enregistrer l&apos;image (par défaut, .jpg) ;
@@ -13887,7 +15387,7 @@ L&apos;adresse du serveur FTP est spécifiée au format ftp://ftp.domaine.tld/ch
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="vanished">
+        <translation>
 
 Les paramètres d&apos;autorisation de certains hébergeurs peuvent êtres trouvés sur http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
@@ -14347,35 +15847,143 @@ Cause: %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Preview skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update skins list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply selected skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="obsolete">Appliquer</translation>
+        <translation type="unfinished">Appliquer</translation>
+    </message>
+    <message>
+        <source>Open skin file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">Ouvrir</translation>
+        <translation type="unfinished">Ouvrir</translation>
+    </message>
+    <message>
+        <source>Remove selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite selected skin with the current settings </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="obsolete">Enregistrer</translation>
+        <translation type="unfinished">Enregistrer</translation>
+    </message>
+    <message>
+        <source>Create new skin from current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup skin before applying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.skn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="obsolete">Erreur inconnue !</translation>
+        <translation type="unfinished">Erreur inconnue !</translation>
+    </message>
+    <message>
+        <source>Save a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t save skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t save the backup skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite selected skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="obsolete">Êtes-vous certain ?</translation>
+        <translation type="unfinished">Êtes-vous certain ?</translation>
+    </message>
+    <message>
+        <source>Overwrite Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t save the skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14481,23 +16089,71 @@ Cause: %1</translation>
 <context>
     <name>StopSpam</name>
     <message>
+        <source>Block stanza from </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Spam Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> pass the test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in groupchats
+* Choose for which ranks and roles of groupchat participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same groupchat, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in groupchats.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
     <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14939,31 +16595,92 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>ToolBar</name>
     <message>
+        <source>Line Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select</source>
-        <translation type="obsolete">Sélectionner</translation>
+        <translation type="unfinished">Sélectionner</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">Copie</translation>
+        <translation type="unfinished">Copie</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">Rotation</translation>
+        <translation type="unfinished">Rotation</translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
+        <source>from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add</source>
-        <translation type="vanished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>ShortCut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not translating &quot;Nickname:&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Defaults Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
+    </message>
+    <message>
+        <source>This plugin allows you to convert selected text into another language.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14976,7 +16693,27 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>TypeAheadFindBar</name>
     <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15032,128 +16769,206 @@ Note: Some server may disable transport registration to users from different ser
     </message>
 </context>
 <context>
+    <name>UploadManager</name>
+    <message>
+        <source>Getting storage...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t get storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting upload...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploaded successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VideoStatusChanger</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Rechercher</translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Enregistrer les modifications</translation>
+        <translation>Enregistrer les modifications</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="obsolete">Effacer le log</translation>
+        <translation type="unfinished">Effacer le log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="obsolete">Mettre à jour le log</translation>
+        <translation type="unfinished">Mettre à jour le log</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="obsolete">Supprimer le fichier de log</translation>
+        <translation type="unfinished">Supprimer le fichier de log</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Êtes-vous sûr ?</translation>
+        <translation>Êtes-vous sûr ?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="obsolete">Enregistrer le log</translation>
+        <translation type="unfinished">Enregistrer le log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="obsolete">De nouveaux messages ont été ajoutés au log. Si vous sauvegardez vos modifications, ils seront perdus</translation>
+        <translation type="unfinished">De nouveaux messages ont été ajoutés au log. Si vous sauvegardez vos modifications, ils seront perdus</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Voulez-vous sauvegarder les modifications ?</translation>
+        <translation>Voulez-vous sauvegarder les modifications ?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">Courriel</translation>
+        <translation>Courriel</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="vanished">De:</translation>
+        <translation>De:</translation>
+    </message>
+    <message>
+        <source>Subject:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open mail in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open MailBox</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="vanished">Précédent</translation>
+        <translation>Précédent</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="vanished">Suivant</translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermer</translation>
+        <translation>&amp;Fermer</translation>
+    </message>
+    <message>
+        <source>[%1/%2] E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Rechercher</translation>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="vanished">Enregistrer les modifications</translation>
+        <translation>Enregistrer les modifications</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="vanished">Effacer le log</translation>
+        <translation>Effacer le log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="vanished">Mettre à jour le log</translation>
+        <translation>Mettre à jour le log</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="vanished">Supprimer le fichier de log</translation>
+        <translation>Supprimer le fichier de log</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Êtes-vous certain ?</translation>
+        <translation>Êtes-vous certain ?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="vanished">Enregistrer le log</translation>
+        <translation>Enregistrer le log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="vanished">De nouveaux messages ont été ajoutés au log. Si vous sauvegardez vos modifications, ils seront perdus</translation>
+        <translation>De nouveaux messages ont été ajoutés au log. Si vous sauvegardez vos modifications, ils seront perdus</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="vanished">Voulez-vous sauvegarder les modifications ?</translation>
+        <translation>Voulez-vous sauvegarder les modifications ?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="vanished">Sélectionner</translation>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="vanished">Désélectionner</translation>
+        <translation>Désélectionner</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="vanished">Inverser</translation>
+        <translation>Inverser</translation>
     </message>
 </context>
 <context>
@@ -15222,43 +17037,48 @@ Note: Some server may disable transport registration to users from different ser
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="vanished">Élément vide</translation>
+        <translation>Élément vide</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="vanished"> redéfinir le statut à </translation>
+        <translation> redéfinir le statut à </translation>
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation type="vanished">Ne pas surveiller le JID</translation>
+        <translation>Ne pas surveiller le JID</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="vanished">Choisir un fichier audio</translation>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="vanished">Audio (*.wav)</translation>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="vanished">&lt;br&gt;Message d&apos;état : %1</translation>
+        <translation>&lt;br&gt;Message d&apos;état : %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="vanished">Greffon de surveillance</translation>
+        <translation>Greffon de surveillance</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="vanished">Surveiller le JID</translation>
+        <translation>Surveiller le JID</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15820,312 +17640,935 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="vanished">Sélectionner les sons :</translation>
+        <translation>Sélectionner les sons :</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="vanished">Jeu démarré :</translation>
+        <translation>Jeu démarré :</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="vanished">Jeu terminé :</translation>
+        <translation>Jeu terminé :</translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="vanished">Tour :</translation>
+        <translation>Tour :</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="vanished">Message d&apos;erreur :</translation>
+        <translation>Message d&apos;erreur :</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="vanished">Toujours activer (ou désactiver) les sons</translation>
+        <translation>Toujours activer (ou désactiver) les sons</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="vanished">Surcharger les paramètres audio par défaut</translation>
+        <translation>Surcharger les paramètres audio par défaut</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="vanished">Désactiver les invitation si le statut est &quot;Ne pas déranger&quot;</translation>
+        <translation>Désactiver les invitation si le statut est &quot;Ne pas déranger&quot;</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation type="vanished">Désactiver les invitations à partir des salons</translation>
+        <translation>Désactiver les invitations à partir des salons</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="vanished">Enregistrer la taille de la fenêtre</translation>
+        <translation>Enregistrer la taille de la fenêtre</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="vanished">Enregistrer la position de la fenêtre</translation>
+        <translation>Enregistrer la position de la fenêtre</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/plugins#en:gomoku_game_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#en:gomoku_game_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause for next Recv message:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="obsolete">min.</translation>
+        <translation type="unfinished">min.</translation>
+    </message>
+    <message>
+        <source>Max messages to contact:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="obsolete">Désactiver si la fenêtre de discussion est active</translation>
+        <translation type="unfinished">Désactiver si la fenêtre de discussion est active</translation>
+    </message>
+    <message>
+        <source>Transports:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::AuthenticationDialog</name>
+    <message>
+        <source>Authenticate %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authenticate to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Question and answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared secret</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;nswer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Shared Secret:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Authenticate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This contact is already authenticated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1&apos;s fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has canceled the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication successful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been successfully authenticated.
+
+You should authenticate %1 as well by asking your own question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigDialog</name>
+    <message>
+        <source>Known fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My private keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigOtrWidget</name>
+    <message>
+        <source>OTR Policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Require private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End session when contact goes offline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
+        <source>Delete fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account</source>
-        <translation type="obsolete">Compte</translation>
+        <translation type="unfinished">Compte</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="obsolete">Empreinte</translation>
+        <translation type="unfinished">Empreinte</translation>
+    </message>
+    <message>
+        <source>Verified</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">État</translation>
+        <translation type="unfinished">État</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
+        <source>Generate new key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account</source>
-        <translation type="obsolete">Compte</translation>
+        <translation type="unfinished">Compte</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="obsolete">Empreinte</translation>
+        <translation type="unfinished">Empreinte</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to overwrite the following key?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">Supprimer</translation>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrClosure</name>
+    <message>
+        <source>No active encrypted session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unverified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR Messaging [%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refre&amp;sh private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Start private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Authenticate contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show secure session &amp;ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrPlugin</name>
+    <message>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No one else can read your instant messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are assured the correspondent is who you think it is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deniability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perfect forward secrecy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you lose control of your private keys, no previous conversation is compromised.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attempting to refresh the private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attempting to start a private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unverified conversation started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has ended the private conversation with you; you should do the same.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private conversation refreshed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unverified conversation refreshed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact authenticated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact not authenticated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorisation</translation>
+        <translation>Autorisation</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="vanished">Identifiant :</translation>
+        <translation>Identifiant :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Mot de passe :</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="vanished">Retenir</translation>
+        <translation>Retenir</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="vanished">Captcha :</translation>
+        <translation>Captcha :</translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="vanished">paramètres</translation>
+        <translation>paramètres</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="vanished">Éditer les JIDs</translation>
+        <translation>Éditer les JIDs</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="vanished">gras</translation>
+        <translation>gras</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="vanished">italique</translation>
+        <translation>italique</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="vanished">souligné</translation>
+        <translation>souligné</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="vanished">couleur</translation>
+        <translation>couleur</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@utilisateur</translation>
+        <translation>@utilisateur</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="vanished">*label</translation>
+        <translation>*label</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="vanished">#ID message</translation>
+        <translation>#ID message</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="vanished">&gt;citation</translation>
+        <translation>&gt;citation</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="vanished">http://lien</translation>
+        <translation>http://lien</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="vanished">Utiliser l&apos;ID du message comme ressource</translation>
+        <translation>Utiliser l&apos;ID du message comme ressource</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="vanished">Afficher la photo</translation>
+        <translation>Afficher la photo</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="vanished">Afficher les avatars</translation>
+        <translation>Afficher les avatars</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="vanished">Remplace l&apos;ID du message par un lien
+        <translation>Remplace l&apos;ID du message par un lien
 vers ce message dans juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="vanished">Vided le cache d&apos;avatars</translation>
+        <translation>Vided le cache d&apos;avatars</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="vanished">Fichier :</translation>
+        <translation>Fichier :</translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="vanished">Avancement : </translation>
+        <translation>Avancement : </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="vanished">Temps écoulé : </translation>
+        <translation>Temps écoulé : </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="vanished">Débit : </translation>
+        <translation>Débit : </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="vanished"> kb/sec</translation>
+        <translation> kb/sec</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="vanished">Téléchargement terminé. En attente de vérification.</translation>
+        <translation>Téléchargement terminé. En attente de vérification.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="vanished">Terminé</translation>
+        <translation>Terminé</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="vanished">Lien : &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>Lien : &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="vanished">Envoi...</translation>
+        <translation>Envoi...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="vanished">Envoi démarré.</translation>
+        <translation>Envoi démarré.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="vanished">Fichier : </translation>
+        <translation>Fichier : </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">Avancement :</translation>
+        <translation>Avancement :</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="vanished">Temps écoulé :</translation>
+        <translation>Temps écoulé :</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="vanished">Débit :</translation>
+        <translation>Débit :</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="vanished">Lien : </translation>
+        <translation>Lien : </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="vanished">Nom complet :</translation>
+        <translation>Nom complet :</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="vanished">Pseudo :</translation>
+        <translation>Pseudo :</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="vanished">Anniversaire :</translation>
+        <translation>Anniversaire :</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodManage</name>
+    <message>
+        <source>Yandex.Narod file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Formulaire</translation>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Get Filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line1
+line2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Files list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Browser</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">Fermer</translation>
+        <translation>Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodNetMan</name>
+    <message>
+        <source>Downloading filelist...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prolongate files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cookies are obsolete!
+Reathorization...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t get files!
+Try remove cookies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filelist downloaded
+(%1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File(s) deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File(s) prolongated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password is set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password is deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodPlugin</name>
+    <message>
+        <source>Open Yandex Narod Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send file via Yandex Narod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File sent to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yandex Narod Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ported from QutIM Yandex.Narod plugin
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Paramètres</translation>
+        <translation type="unfinished">Paramètres</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="obsolete">Mot de passe</translation>
+        <translation type="unfinished">Mot de passe</translation>
+    </message>
+    <message>
+        <source>status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send file template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%N - file name; %U - file URL; %S - file size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
