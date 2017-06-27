@@ -287,7 +287,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -2504,7 +2504,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="unfinished">&amp;Промяна на сметка...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Users</source>
@@ -2540,7 +2540,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished">&amp;Администратор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join %1</source>
@@ -2551,26 +2551,26 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished">Ще изтрие за постоянно &lt;br&gt;%1&lt;br&gt;от вашия списък с контакти.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished">Изтриване на контакти</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished">Пре&amp;именуване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
@@ -2624,9 +2624,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Всички контакти от тази група няма да са свързани вече с нея.
-
-Да се продължи ли?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2637,18 +2635,18 @@ Proceed?</source>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">Лични съобщения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished">Конференции</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4568,7 +4566,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>Причина: %1</translation>
+        <translation type="unfinished">Причина: %1. {1?}</translation>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
@@ -4684,7 +4682,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5508,7 +5506,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupMenu</name>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Няма</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
@@ -5581,11 +5579,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Не е в списъка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">Лични съобщения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6812,7 +6810,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
@@ -6855,7 +6853,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -8638,7 +8636,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -8969,7 +8967,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9986,7 +9984,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10264,7 +10262,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -10963,7 +10961,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -11177,7 +11175,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -12319,7 +12317,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Не е в списъка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -12330,7 +12328,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished">Пре&amp;именуване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -12338,11 +12336,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="unfinished">&amp;История</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished">Добавяне/Разрешаване към Контактния Списък</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
@@ -12394,7 +12392,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished">&amp;Група</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12430,7 +12428,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Покана за конферентен разговор до &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
@@ -12438,7 +12436,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt; е записано и добавено в списъка с потребители.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authorize</source>
@@ -12446,11 +12444,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Даване на разрешение на &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Поискано е повторно разрешение от &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
@@ -12458,7 +12456,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished">Сигурни ли сте, че искате да отмените разрешението от &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -12694,7 +12692,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="unfinished">Известяване за събитие</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -15913,7 +15911,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -17217,7 +17215,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17264,7 +17262,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
