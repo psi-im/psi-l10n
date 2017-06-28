@@ -2414,13 +2414,6 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">タブを閉じる</translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -2848,13 +2841,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">追加</translation>
     </message>
 </context>
 <context>
@@ -5680,21 +5666,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>All contacts</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">ステータス:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">エラー</translation>
     </message>
 </context>
 <context>
@@ -12739,10 +12710,6 @@ Would you like to activate that session now?</source>
         <translation>編集ウィンドウの切り離されたオプションを開く。</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">高度な設定</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(内部モード)</translation>
     </message>
@@ -12813,13 +12780,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>ツールバーの設定(&amp;C)</translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
 </context>
 <context>
@@ -14890,72 +14850,8 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">サービスディスカバリ</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">コンタクトの追加</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="obsolete">アカウント設定</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">オプション</translation>
-    </message>
-    <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">ツールバー</translation>
-    </message>
-    <message>
-        <source>XML Console</source>
-        <translation type="obsolete">XMLコンソール</translation>
-    </message>
-    <message>
-        <source>Change Profile</source>
-        <translation type="obsolete">プロファイルの変更</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">サウンドを再生</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">終了</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">ステータス</translation>
-    </message>
-    <message>
-        <source>View Groups</source>
-        <translation type="obsolete">グループを参照</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">オフラインコンタクトを表示</translation>
-    </message>
-    <message>
-        <source>Show Hidden Contacts</source>
-        <translation type="obsolete">隠れたコンタクトを表示</translation>
-    </message>
-    <message>
-        <source>Publish Tune</source>
-        <translation type="obsolete">楽曲情報の公開</translation>
-    </message>
-    <message>
         <source>Choose status</source>
         <translation type="vanished">ステータスを選択</translation>
-    </message>
-    <message>
-        <source>Set Mood</source>
-        <translation type="obsolete">気分の設定</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="obsolete">QTについて</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>

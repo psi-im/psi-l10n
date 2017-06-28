@@ -2412,13 +2412,6 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">סגור כרטיסייה</translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -5695,14 +5688,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">מצב:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="obsolete">התקדמות:</translation>
-    </message>
     <message>
         <source>Ok</source>
         <translation type="vanished">אישור</translation>
@@ -12822,10 +12807,6 @@ Would you like to activate that session now?</source>
         <translation>פתח חלון עורך אפשרויות בנפרד.</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">מתקדם</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(קשר פנימי)</translation>
     </message>
@@ -15010,28 +14991,8 @@ Reason: %1</source>
         <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">סרגלי כלים</translation>
-    </message>
-    <message>
-        <source>XML Console</source>
-        <translation type="obsolete">מסוף XML</translation>
-    </message>
-    <message>
         <source>Change Profile</source>
         <translation type="vanished">שינוי דיוקן</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">ניגון צלילים</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">יציאה</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">מצב</translation>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15040,10 +15001,6 @@ Reason: %1</source>
     <message>
         <source>View Groups</source>
         <translation type="vanished">הצגת קבוצות</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">הצג אנשי קשר לא מקוונים</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -16754,13 +16711,6 @@ Do you still want to close the window?</source>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 הזמינך לסשן לוח לבן. האם ברצונך להצטרף?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="obsolete">ציטוט</translation>
     </message>
 </context>
 <context>

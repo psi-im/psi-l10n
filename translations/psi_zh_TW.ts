@@ -2441,13 +2441,6 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">關閉標籤</translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -2878,13 +2871,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation>這個外掛程式的目的是更容易下載並安裝圖片和其他PSI資源</translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="obsolete">&lt;無&gt;</translation>
     </message>
 </context>
 <context>
@@ -5719,29 +5705,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>All contacts</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">狀態:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="obsolete">程式:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">確定</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="obsolete">退出、出口</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">錯誤</translation>
     </message>
 </context>
 <context>

@@ -2346,13 +2346,6 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">Stäng flik</translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -2780,13 +2773,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Lägg till</translation>
     </message>
 </context>
 <context>
@@ -5617,21 +5603,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>All contacts</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">Status:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Fel</translation>
     </message>
 </context>
 <context>
@@ -12680,10 +12651,6 @@ Vill du aktivera den sessionen nu?</translation>
         <translation>Öppna ett frånkopplat inställningsredigeringsfönster.</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Avancerat</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(intern nod)</translation>
     </message>
@@ -12754,13 +12721,6 @@ Vill du aktivera den sessionen nu?</translation>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
 </context>
 <context>
@@ -14837,70 +14797,6 @@ Orsak: %1</translation>
 </context>
 <context>
     <name>Shortcuts</name>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Tjänsteupptäckaren</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Lägg till kontakt</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="obsolete">Kontokonfigurering</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">Inställningar</translation>
-    </message>
-    <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">Verktygsrader</translation>
-    </message>
-    <message>
-        <source>XML Console</source>
-        <translation type="obsolete">XML-konsoll</translation>
-    </message>
-    <message>
-        <source>Change Profile</source>
-        <translation type="obsolete">Byt profil</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">Spela ljud</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">Avsluta</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Status</translation>
-    </message>
-    <message>
-        <source>View Groups</source>
-        <translation type="obsolete">Visa grupper</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">Visa ej anslutna kontakter</translation>
-    </message>
-    <message>
-        <source>Show Hidden Contacts</source>
-        <translation type="obsolete">Visa gömda kontakter</translation>
-    </message>
-    <message>
-        <source>Publish Tune</source>
-        <translation type="obsolete">Publicera låt</translation>
-    </message>
-    <message>
-        <source>Set Mood</source>
-        <translation type="obsolete">Ställ in humör</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="obsolete">Om Qt</translation>
-    </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
         <translation type="unfinished"></translation>

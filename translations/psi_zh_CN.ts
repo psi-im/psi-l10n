@@ -5745,29 +5745,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
-    <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">状态:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="obsolete">程序:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">确定</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="obsolete">退出、出口</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">错误</translation>
-    </message>
-</context>
-<context>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>

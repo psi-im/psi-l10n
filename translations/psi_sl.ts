@@ -2346,13 +2346,6 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">Zapri zavihek</translation>
-    </message>
-</context>
-<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -2780,17 +2773,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Dodaj</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="obsolete">&lt;brez&gt;</translation>
     </message>
 </context>
 <context>
@@ -5620,21 +5602,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>All contacts</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">Stanje:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">V redu</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Napaka</translation>
     </message>
 </context>
 <context>
@@ -12684,10 +12651,6 @@ Ali želite aktivirati to sejo?</translation>
         <translation>Odpri ločeno okno za urejanje možnosti.</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Napredno</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(notranji način)</translation>
     </message>
@@ -12758,13 +12721,6 @@ Ali želite aktivirati to sejo?</translation>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
 </context>
 <context>
@@ -14853,62 +14809,6 @@ Razlog: %1</translation>
 </context>
 <context>
     <name>Shortcuts</name>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Odkrivanje storitev</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Dodaj stik</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="obsolete">Nastavi račun</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">Možnosti</translation>
-    </message>
-    <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">Orodjarne</translation>
-    </message>
-    <message>
-        <source>Change Profile</source>
-        <translation type="obsolete">Zamenjaj profil</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">Predvajaj zvoke</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Stanje</translation>
-    </message>
-    <message>
-        <source>View Groups</source>
-        <translation type="obsolete">Prikaži skupine</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">Prikaži stike brez zveze</translation>
-    </message>
-    <message>
-        <source>Show Hidden Contacts</source>
-        <translation type="obsolete">Prikaži skrite stike</translation>
-    </message>
-    <message>
-        <source>Publish Tune</source>
-        <translation type="obsolete">Objavi skladbo</translation>
-    </message>
-    <message>
-        <source>Set Mood</source>
-        <translation type="obsolete">Nastavi razpoloženje</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="obsolete">O Qt</translation>
-    </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
         <translation type="unfinished"></translation>
