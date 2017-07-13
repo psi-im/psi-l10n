@@ -81,10 +81,6 @@
         <translation>&amp;Bezár</translation>
     </message>
     <message>
-        <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">Jelenlegi Karbantartó és Eredeti Szerző</translation>
-    </message>
-    <message>
         <source>Past Lead Developer and Maintainer</source>
         <translation>Régi Vezető Fejlesztő és Karbantartó</translation>
     </message>
@@ -602,7 +598,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Örökölt SSL</translation>
+        <translation>Hagyományos SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -714,7 +710,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Örökölt SSL csak manuálisan beállított kiszolgáló/port beállításokkal érhető el.</translation>
+        <translation>Hagyományos SSL csak manuálisan beállított kiszolgáló/port beállításokkal érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -844,7 +840,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Örökölt SSL</translation>
+        <translation>Hagyományos SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -868,7 +864,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Örökölt SSL csak manuálisan beállított kiszolgáló/port kombinációban érhető el.</translation>
+        <translation>Hagyományos SSL csak manuálisan beállított kiszolgáló/port kombinációban érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -2610,15 +2606,15 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished">Ez véglegesen törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished">Ismerősök törlése</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2652,20 +2648,12 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
         <translation>Csoport és Ismerősök törlése</translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="vanished">&amp;Eltávolít</translation>
-    </message>
-    <message>
         <source>Remove Group</source>
         <translation>Csoport eltávolítása</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
         <translation>Üzenet küldése a csoportnak</translation>
-    </message>
-    <message>
-        <source>&amp;Add group...</source>
-        <translation type="vanished">&amp;Csoport hozzáadása...</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2691,132 +2679,29 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Ha törlöd a csoportot, akkor a csoport tagjai nem lesznek többé a csoporthoz rendelve.
-
-Folytatod?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
+        <translation type="unfinished">Átjárók/Szolgáltatások</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Private messages</source>
-        <translation type="unfinished">Privát üzenetek</translation>
-    </message>
-    <message>
         <source>Conferences</source>
-        <translation type="unfinished">Konferenciák</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListModel</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Hiba</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="vanished">Nem lehet üres a csoport neve.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Általános</translation>
-    </message>
-    <message>
-        <source>Not in List</source>
-        <translation type="vanished">Nincs a listában</translation>
-    </message>
-    <message>
-        <source>Agents/Transports</source>
-        <translation type="vanished">Ügynökök/Átjárók</translation>
-    </message>
-    <message>
-        <source>Private messages</source>
-        <translation type="vanished">Privát üzenetek</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="vanished">Konferenciák</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListUtil</name>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="vanished">Ez véglegesen törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
-    </message>
-    <message numerus="yes">
-        <source>and %n contacts </source>
-        <translation type="vanished">
-            <numerusform>és %n ismerősök</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="vanished">
-            <numerusform>Ez véglegesen eltávolítja:&lt;br&gt;%1&lt;br&gt;%2 és %n csoportokat a címlistádról.</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="vanished">Ez véglegesen törli: &lt;br&gt;%1&lt;br&gt;%2 és &quot;%3&quot; csoportokat a címlistádról.</translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="vanished">Ez maradandóan törli: &lt;br&gt;%1&lt;br&gt;%2 felhasználót a címlistádról.</translation>
-    </message>
-    <message>
-        <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="vanished">Ez egy rendszercsoport és nem lehet törölni. Eltávolítasz mindenkit belőle?</translation>
-    </message>
-    <message>
-        <source>Clear Group</source>
-        <translation type="vanished">Csoport törlése</translation>
-    </message>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="vanished">Ez maradandóan törli: &lt;br&gt;%1&lt;br&gt; csoportot és minden benne lévő felhasználót.</translation>
-    </message>
-    <message>
-        <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="vanished">Ez maradandóan törli %1 felhasználót a címlistádról. Akár le is tilthatod az üzenetváltás elkerülése érdekében.</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Törlés</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation type="vanished">Letiltás</translation>
-    </message>
-    <message>
-        <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="vanished">Ez eltávolítja %1 felhasználót &quot;%2&quot; csoportból. El is távolíthatod az összes csoportból.</translation>
-    </message>
-    <message>
-        <source>Delete From All Groups</source>
-        <translation type="vanished">Törlés minden csoportból</translation>
-    </message>
-    <message>
-        <source>Deleting contacts</source>
-        <translation type="vanished">Ismerősök törlése</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2987,339 +2872,8 @@ Folytatod?</translation>
         <translation>Általános</translation>
     </message>
     <message>
-        <source>Not in list</source>
-        <translation type="vanished">Nincs a listán</translation>
-    </message>
-    <message>
         <source>Agents/Transports</source>
         <translation>Átjárók/Szolgáltatások</translation>
-    </message>
-    <message>
-        <source>Private Messages</source>
-        <translation type="vanished">Privát üzenetek</translation>
-    </message>
-    <message>
-        <source>Online Users</source>
-        <translation type="vanished">Elérhető felhasználók</translation>
-    </message>
-    <message>
-        <source>Send Server Message</source>
-        <translation type="vanished">Szerverüzenet küldése</translation>
-    </message>
-    <message>
-        <source>Set MOTD</source>
-        <translation type="vanished">A napi üzenet beállítása</translation>
-    </message>
-    <message>
-        <source>Update MOTD</source>
-        <translation type="vanished">A napi üzenet frissítése</translation>
-    </message>
-    <message>
-        <source>Delete MOTD</source>
-        <translation type="vanished">A napi üzenet törlése</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <translation type="vanished">&amp;Állapot</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="vanished">Hangulat</translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="vanished">Tevékenység</translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="vanished">Profilkép beállítása</translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="vanished">Profilkép levétele</translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="vanished">Profilkép</translation>
-    </message>
-    <message>
-        <source>Manage...</source>
-        <translation type="vanished">Kezelés...</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Csatlakozás ehhez: %1</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="vanished">Könyvjelzők</translation>
-    </message>
-    <message>
-        <source>&amp;Add a Contact</source>
-        <translation type="vanished">&amp;Ismerős hozzáadása</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="vanished">&amp;Feltérképezés Szolgáltatás</translation>
-    </message>
-    <message>
-        <source>New &amp;Blank Message</source>
-        <translation type="vanished">Új &amp;üres üzenet</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML konzol</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Account...</source>
-        <translation type="vanished">Fiók &amp;módosítása...</translation>
-    </message>
-    <message>
-        <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Admin</translation>
-    </message>
-    <message>
-        <source>Send Message to Group</source>
-        <translation type="vanished">Üzenet küldése a csoportnak</translation>
-    </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="vanished">Csoport eltávolítása</translation>
-    </message>
-    <message>
-        <source>Remove Group and Contacts</source>
-        <translation type="vanished">Csoport és ismerősök eltávolítása</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="vanished">Elrejt</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">Ha törlöd a csoportot, akkor a csoport tagjai nem lesznek többé a csoporthoz rendelve.
-
-Folytatod?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nem</translation>
-    </message>
-    <message>
-        <source>WARNING!  This will remove all contacts associated with this group!
-
-Proceed?</source>
-        <translation type="vanished">FIGYELEM! Ez törli a csoport összes tagját!
-
-Folytatod?</translation>
-    </message>
-    <message>
-        <source>Add/Authorize to Contact List</source>
-        <translation type="vanished">Címlistához való Hozzáadás/Jóváhagyás</translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Üzenet küldése neki</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Beszélgetés megnyitása</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Rajztábla megnyitása</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">Parancs &amp;végrehajtása</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Aktív beszélgetések</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Hanghívás</translation>
-    </message>
-    <message>
-        <source>Send &amp;File</source>
-        <translation type="vanished">&amp;Fájl küldése</translation>
-    </message>
-    <message>
-        <source>Invite To</source>
-        <translation type="vanished">Meghívás ide</translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <translation type="vanished">&amp;Nincs</translation>
-    </message>
-    <message>
-        <source>&amp;Create New...</source>
-        <translation type="vanished">Új &amp;létrehozása...</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <translation type="vanished">&amp;Csoport</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Kijelentkezés</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Jóváhagyás újraküldése neki</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Jóváhagyás újrakérése tőle</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Jóváhagyás megvonása tőle</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Jóváhagyás</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="vanished">&amp;Kép</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Open&amp;PGP kulcs hozzárendelése</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Open&amp;PGP kulcs hozzárendelés visszavonása</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="vanished">Jóváhagy</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Jóváhagyás elküldve ide &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Új csoport létrehozása</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Add meg az új csoportnevet:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Hozzáad</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; hozzáadva/jóváhagyva a címlistához.</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Jóváhagyás kérve innen &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Eltávolít</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Biztosan el akarod távolítani &lt;b&gt;%1&lt;/b&gt; jóváhagyását?</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="vanished">Meghívás</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Csoportbeszélgetés-meghívó elküldve ide &lt;b&gt;%1&lt;/b&gt; .</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Biztosan törölni akarod a címlistádról őt &lt;b&gt;%1&lt;/b&gt; ?</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Hiba</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank name.</source>
-        <translation type="vanished">Üres nevet nem lehet beállítani.</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank group name.</source>
-        <translation type="vanished">Üres csoportnevet nem lehet beállítani.</translation>
-    </message>
-    <message>
-        <source>You already have a group with that name.</source>
-        <translation type="vanished">Már van egy csoportod ezzel a névvel.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactView</name>
-    <message>
-        <source>Hidden</source>
-        <translation type="vanished">Rejtett</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">&amp;Üzenet küldése</translation>
-    </message>
-    <message>
-        <source>Re&amp;name</source>
-        <translation type="vanished">&amp;Átnevez</translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="vanished">&amp;Egyéni kép hozzárendelése</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="vanished">Egyéni kép &amp;törlése</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">&amp;Beszélgetésablak megnyitása</translation>
-    </message>
-    <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">&amp;Rajztábla megnyitása</translation>
-    </message>
-    <message>
-        <source>&amp;History</source>
-        <translation type="vanished">&amp;Előzmények</translation>
-    </message>
-    <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Bejelentkezés</translation>
-    </message>
-    <message>
-        <source>&amp;Receive Incoming Event</source>
-        <translation type="vanished">&amp;Bejövő esemény fogadása</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Felhasználó &amp;információi</translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="vanished">Válassz egy képet</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Minden fájl (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3416,26 +2970,6 @@ Folytatod?</translation>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
-    <message>
-        <source>Auto</source>
-        <translation type="vanished">Auto</translation>
-    </message>
-    <message>
-        <source>Automatically determine protocol</source>
-        <translation type="vanished">Automatikus protokollmeghatározás</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="vanished">Szolgáltatás feltérképezése</translation>
-    </message>
-    <message>
-        <source>Browse Services</source>
-        <translation type="vanished">Szolgáltatások böngészése</translation>
-    </message>
-    <message>
-        <source>Browse Agents</source>
-        <translation type="vanished">Átjárók böngészése</translation>
-    </message>
     <message>
         <source>Browse</source>
         <translation>Böngészés</translation>
@@ -3554,18 +3088,6 @@ Folytatod?</translation>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hiba az elemek beszerzésekor: &lt;b&gt;%1&lt;/b&gt;. &lt;br&gt;Oka: %2</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">Hiba az elemek böngészésekor: &lt;b&gt;%1&lt;/b&gt;. &lt;br&gt;Oka: %2</translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="vanished">XMPP szolgáltatás</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">Hiba az elemek beszerzésekor: &lt;b&gt;%1&lt;/b&gt;. &lt;br&gt;Oka: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -4932,10 +4454,6 @@ Oka: %3</translation>
         <translation>Válassz egy fájlt</translation>
     </message>
     <message>
-        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="vanished">Képek (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
-    </message>
-    <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6129,11 +5647,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs a listában</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">Privát üzenetek</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -9039,10 +8557,6 @@ Címkék: %1</translation>
         <translation>Méret</translation>
     </message>
     <message>
-        <source>px</source>
-        <translation type="vanished">px</translation>
-    </message>
-    <message>
         <source>Radius of corners</source>
         <translation>Sarkok rádiusza</translation>
     </message>
@@ -10173,7 +9687,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished">Nincs kép</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12024,7 +11538,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Ez a fiók az &quot;Örökölt SSL-port figyelő&quot;-módra van beállítva, de ez a mód többé már nem támogatott. Ha az XMPP szerver amit használsz, egy elavult,régebbi szerver, akkor ez a változtatás nem lesz rád hatással. Ha problémákba ütközöl csatlakozáskor, ellenőrizd a &quot;Fiók beállításokat&quot;, vagy lépj kapcsolatba az XMPP szerver adminisztrátorával.</translation>
+        <translation>Ez a fiók az &quot;Hagyományos SSL-port figyelő&quot;-módra van beállítva, de ez a mód többé már nem támogatott. Ha az XMPP szerver amit használsz, egy elavult,régebbi szerver, akkor ez a változtatás nem lesz rád hatással. Ha problémákba ütközöl csatlakozáskor, ellenőrizd a &quot;Fiók beállításokat&quot;, vagy lépj kapcsolatba az XMPP szerver adminisztrátorával.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -13062,21 +12576,6 @@ Migration is possible with Psi-0.15</source>
         <source>Hidden</source>
         <translation>Rejtett</translation>
     </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="vanished">Válassz egy képet</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Minden fájl (*.png *.jpg *.gif)</translation>
-    </message>
-</context>
-<context>
-    <name>PsiContactListViewDelegate</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
@@ -13089,40 +12588,8 @@ Migration is possible with Psi-0.15</source>
         <translation>&amp;Eltávolítás</translation>
     </message>
     <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Beszélgetés</translation>
-    </message>
-    <message>
         <source>&amp;History</source>
         <translation>&amp;Előzmények</translation>
-    </message>
-    <message>
-        <source>Pro&amp;file</source>
-        <translation type="vanished">&amp;Profil</translation>
-    </message>
-    <message>
-        <source>&amp;Photos</source>
-        <translation type="vanished">&amp;Fényképek</translation>
-    </message>
-    <message>
-        <source>Send &amp;E-mail</source>
-        <translation type="vanished">&amp;E-mail küldése</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Hozzáadás</translation>
-    </message>
-    <message>
-        <source>A&amp;uth</source>
-        <translation type="vanished">&amp;Jóváhagyás</translation>
-    </message>
-    <message>
-        <source>&amp;Block</source>
-        <translation type="vanished">&amp;Letiltás</translation>
-    </message>
-    <message>
-        <source>Disable mood notifications</source>
-        <translation type="vanished">Hangulatjelzések kikapcsolása</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13207,10 +12674,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Picture</source>
         <translation>&amp;Fénykép</translation>
-    </message>
-    <message>
-        <source>&amp;Unblock</source>
-        <translation type="vanished">&amp;Feloldás</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13578,26 +13041,6 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <source>Remove Group</source>
-        <translation type="vanished">Csoport törlése</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">Ha törlöd a csoportot, akkor a csoport tagjai nem lesznek többé a csoporthoz rendelve.
-
-Folytatod?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nem</translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished">Üzenet törlése</translation>
     </message>
@@ -13619,13 +13062,6 @@ Folytatod?</translation>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="vanished">Nincs kép</translation>
     </message>
 </context>
 <context>
@@ -14881,14 +14317,6 @@ Jelszó: %5</translation>
         <translation>Ha a feliratkozás &apos;%1&apos; akkor %2 %3</translation>
     </message>
     <message>
-        <source>%1 Proxy</source>
-        <translation type="vanished">%1 Proxy</translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Esemény értesítő</translation>
-    </message>
-    <message>
         <source> is typing...</source>
         <translation>éppen ír...</translation>
     </message>
@@ -15314,21 +14742,6 @@ Oka: %1</translation>
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation>Ez a kiegészítő a születésnapok emlékeztetésére lett létrehozva.
 Az első alkalomkor, amikor telepítve lesz ez a kiegészítő, be kell jelentkezni az összes fiókba, majd a kiegészítő beállításainál rákattintani a &quot;Születésnapok frissítése&quot; gombra. A kiegészítő ezután összegyűjti a születésnapokról szóló információkat a címlistában lévő partnerekről, de ha a &apos;vCard-ok használata&apos;-opció már használatban van, akkor a partnerekről tárolt vCard-ok lesznek használva, amik a merevlemezen találhatóak.</translation>
-    </message>
-</context>
-<context>
-    <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">Rendben</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Törlés</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Mégsem</translation>
     </message>
 </context>
 <context>
@@ -16703,7 +16116,7 @@ Javítsd és próbáld újra.</translation>
     </message>
     <message>
         <source>Legacy SSL probe</source>
-        <translation>Örökölt SSL figyelés</translation>
+        <translation>Hagyományos SSL figyelés</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -18530,7 +17943,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hitelesítés</translation>
     </message>
     <message>
         <source>Login:</source>

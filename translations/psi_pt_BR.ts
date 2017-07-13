@@ -15982,7 +15982,7 @@ O plugin foi projetado para manter as notas no servidor jabber com a capacidade 
     </message>
     <message>
         <source> is composing</source>
-        <translation>está digitando</translation>
+        <translation> está digitando</translation>
     </message>
 </context>
 <context>

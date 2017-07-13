@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">نگهدارنده و نویسنده اصلی</translation>
+        <translation type="obsolete">نگهدارنده و نویسنده اصلی</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>

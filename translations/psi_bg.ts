@@ -5703,6 +5703,21 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryImport</name>
+    <message>
+        <source>Status:</source>
+        <translation type="obsolete">Състояние:</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="obsolete">Импорт</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="obsolete">Грешка</translation>
+    </message>
+</context>
+<context>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -14880,8 +14895,44 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
+        <source>Service Discovery</source>
+        <translation type="obsolete">Откриване на Услуги</translation>
+    </message>
+    <message>
+        <source>Add Contact</source>
+        <translation type="obsolete">Добавяне на Контакт</translation>
+    </message>
+    <message>
+        <source>Account Setup</source>
+        <translation type="obsolete">Настройка на сметки</translation>
+    </message>
+    <message>
+        <source>XML Console</source>
+        <translation type="obsolete">XML-конзола</translation>
+    </message>
+    <message>
+        <source>Change Profile</source>
+        <translation type="obsolete">Смяна на профил</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="obsolete">Изход</translation>
+    </message>
+    <message>
         <source>Status</source>
         <translation type="vanished">Състояние</translation>
+    </message>
+    <message>
+        <source>View Groups</source>
+        <translation type="obsolete">Показване на групите</translation>
+    </message>
+    <message>
+        <source>Show Offline Contacts</source>
+        <translation type="obsolete">Изключени потребители</translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation type="obsolete">Относно Qt</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16500,6 +16551,17 @@ Do you still want to close the window?</source>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="obsolete">Цитиране</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="obsolete">Ctrl+S</translation>
     </message>
 </context>
 <context>
