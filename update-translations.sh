@@ -3,16 +3,20 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2017-06-18
+# Updated: 2017-07-20
 # Version: N/A
 
 set -e
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
-export MAIN_DIR="${CUR_DIR}/.."
-export PSI_DIR="${MAIN_DIR}/psi"
-export PLUGINS_DIR="${MAIN_DIR}/plugins"
-export PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
+export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
+
+PSI_TAG="1.1.0"
+DEF_COMMIT=000473ebfd463c910ee81d599a7982d8753b83dc
+
+PSI_DIR="${MAIN_DIR}/psi"
+PLUGINS_DIR="${MAIN_DIR}/plugins"
+PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
 
 cd "${CUR_DIR}"
 
@@ -31,9 +35,6 @@ case "${1}" in
 ;;
 "tag")
     # Creating correct git tag.
-
-    PSI_TAG="1.0.1"
-    DEF_COMMIT=2812a0af876f47b9001fcd3a4af9ad89e2ccb1ea
 
     PSI_HASH="$(cd ${PSI_DIR} && git show -s --pretty='format:%h')"
     PSI_NUM="$(cd ${PSI_DIR} && git rev-list --count ${DEF_COMMIT}..HEAD)"
