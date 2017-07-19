@@ -11715,6 +11715,10 @@ Cause: %1.</translation>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Définir un nouveau séparateur pour les groupes imbriqués</translation>
     </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -15137,6 +15141,10 @@ Cause: %1</translation>
         <translation type="vanished">Publier la musique</translation>
     </message>
     <message>
+        <source>Active contacts</source>
+        <translation type="obsolete">Contacts actifs</translation>
+    </message>
+    <message>
         <source>Status Online</source>
         <translation type="vanished">Etat En ligne</translation>
     </message>
@@ -17222,6 +17230,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Non</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

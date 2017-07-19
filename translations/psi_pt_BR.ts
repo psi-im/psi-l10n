@@ -11790,6 +11790,10 @@ Motivo: %1.</translation>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Definir um novo delemitador de grupos aninhados</translation>
     </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -17434,6 +17438,13 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <source>No</source>
         <translation>Não</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

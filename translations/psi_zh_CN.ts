@@ -5745,6 +5745,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryImport</name>
+    <message>
+        <source>Status:</source>
+        <translation type="obsolete">状态:</translation>
+    </message>
+    <message>
+        <source>Progress:</source>
+        <translation type="obsolete">程序:</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">确定</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="obsolete">退出、出口</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="obsolete">错误</translation>
+    </message>
+</context>
+<context>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11741,6 +11764,10 @@ Reason: %1.</source>
         <source>Public Key: %1</source>
         <translation>公钥: %1</translation>
     </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -17349,6 +17376,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>否</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

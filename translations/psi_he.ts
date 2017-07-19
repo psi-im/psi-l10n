@@ -2412,6 +2412,13 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
+    <name>CloseButton</name>
+    <message>
+        <source>Close Tab</source>
+        <translation type="obsolete">סגור כרטיסייה</translation>
+    </message>
+</context>
+<context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
@@ -5688,6 +5695,14 @@ For sending commands, normal messages are used, so this plugin will always work 
 </context>
 <context>
     <name>HistoryImport</name>
+    <message>
+        <source>Status:</source>
+        <translation type="obsolete">מצב:</translation>
+    </message>
+    <message>
+        <source>Progress:</source>
+        <translation type="obsolete">התקדמות:</translation>
+    </message>
     <message>
         <source>Ok</source>
         <translation type="vanished">אישור</translation>
@@ -11634,6 +11649,10 @@ Reason: %1.</source>
         <source>Public Key: %1</source>
         <translation>מפתח פומבי: %1</translation>
     </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12805,6 +12824,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>Open a detached option editor window.</source>
         <translation>פתח חלון עורך אפשרויות בנפרד.</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">מתקדם</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -14991,8 +15014,28 @@ Reason: %1</source>
         <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
+        <source>Toolbars</source>
+        <translation type="obsolete">סרגלי כלים</translation>
+    </message>
+    <message>
+        <source>XML Console</source>
+        <translation type="obsolete">מסוף XML</translation>
+    </message>
+    <message>
         <source>Change Profile</source>
         <translation type="vanished">שינוי דיוקן</translation>
+    </message>
+    <message>
+        <source>Play Sounds</source>
+        <translation type="obsolete">ניגון צלילים</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="obsolete">יציאה</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">מצב</translation>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15001,6 +15044,10 @@ Reason: %1</source>
     <message>
         <source>View Groups</source>
         <translation type="vanished">הצגת קבוצות</translation>
+    </message>
+    <message>
+        <source>Show Offline Contacts</source>
+        <translation type="obsolete">הצג אנשי קשר לא מקוונים</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -16714,6 +16761,13 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>WebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="obsolete">ציטוט</translation>
+    </message>
+</context>
+<context>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
@@ -17047,6 +17101,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>לא</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
