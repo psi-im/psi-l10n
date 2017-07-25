@@ -1964,6 +1964,22 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2333,6 +2349,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2354,6 +2397,33 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <source>Close Tab</source>
         <translation type="obsolete">جدول بند کریں</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3467,6 +3537,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>:نقص</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5762,6 +5839,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6082,6 +6175,26 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7028,24 +7141,6 @@ Reason: %1</source>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8412,11 +8507,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>پیغام</translation>
+        <translation type="vanished">پیغام</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>بات چیت کریں</translation>
+        <translation type="vanished">بات چیت کریں</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8424,19 +8519,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>جب بات چیت دریچہ بند ہو</translation>
+        <translation type="vanished">جب بات چیت دریچہ بند ہو</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>ایک گھنٹے بعد بات چیت دریچہ بند ہو گیا تھا</translation>
+        <translation type="vanished">ایک گھنٹے بعد بات چیت دریچہ بند ہو گیا تھا</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>ایک دن بعد بات چیت دریچہ بند ہو گیا تھا</translation>
+        <translation type="vanished">ایک دن بعد بات چیت دریچہ بند ہو گیا تھا</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>کبھی نہیں</translation>
+        <translation type="vanished">کبھی نہیں</translation>
     </message>
     <message>
         <source>Switch tab on receiving new messages</source>
@@ -8448,6 +8543,34 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">بات چیت کریں</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10012,6 +10135,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15940,6 +16067,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16504,27 +16658,7 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished">تلاش کریں</translation>
     </message>
     <message>
-        <source>Search: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

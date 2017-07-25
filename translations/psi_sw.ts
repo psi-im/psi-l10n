@@ -1963,6 +1963,22 @@ Bado unataka kufunga dirisha?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2332,6 +2348,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2345,6 +2388,33 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3203,6 +3273,13 @@ Endelea?</translation>
     </message>
     <message>
         <source>Error:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5499,6 +5576,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5819,6 +5912,26 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6756,24 +6869,6 @@ available</source>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8088,7 +8183,7 @@ Tags: %1</source>
     <name>OptChat</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Ongea</translation>
+        <translation type="obsolete">Ongea</translation>
     </message>
     <message>
         <source>OptChatUI</source>
@@ -8155,27 +8250,35 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>When chat window is closed</source>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>One hour after chat window was closed</source>
+        <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>One day after chat window was closed</source>
+        <source>&amp;Chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Never</source>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9738,6 +9841,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15529,6 +15636,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16073,27 +16207,7 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished">Tafuta</translation>
     </message>
     <message>
-        <source>Search: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

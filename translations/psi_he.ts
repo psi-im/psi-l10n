@@ -2024,6 +2024,22 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">לבן</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">שחור</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2395,6 +2411,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">חפש: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">עמוד ראשון</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">עמוד אחורה</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">עמוד קדימה</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">עמוד אחרון</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2412,10 +2455,30 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
+    <name>ConfLogger::TypeAheadFindBar</name>
     <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">סגור כרטיסייה</translation>
+        <source>Search: </source>
+        <translation type="unfinished">חפש: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">עמוד ראשון</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">עמוד אחורה</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">עמוד קדימה</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">עמוד אחרון</translation>
     </message>
 </context>
 <context>
@@ -3065,6 +3128,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>שגיאה:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5370,6 +5440,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">לבן</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">שחור</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5692,17 +5778,29 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="obsolete">מצב:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="obsolete">התקדמות:</translation>
-    </message>
     <message>
         <source>Ok</source>
         <translation type="vanished">אישור</translation>
@@ -6665,21 +6763,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>לבן</translation>
+        <translation type="vanished">לבן</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>שחור</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">שחור</translation>
     </message>
     <message>
         <source>second</source>
@@ -8088,11 +8176,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation type="vanished">הודעה</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>שיחה</translation>
+        <translation type="vanished">שיחה</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8100,19 +8188,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>כאשר חלון שיחה נסגר</translation>
+        <translation type="vanished">כאשר חלון שיחה נסגר</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>כעבור שעה אחרי ששיחה נסגרה</translation>
+        <translation type="vanished">כעבור שעה אחרי ששיחה נסגרה</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>כעבור יום אחרי ששיחה נסגרה</translation>
+        <translation type="vanished">כעבור יום אחרי ששיחה נסגרה</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>אף פעם</translation>
+        <translation type="vanished">אף פעם</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;שיחה</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9677,6 +9793,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;אפשרות זו משאירה את רשומת השיחה לתמיד.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12826,10 +12946,6 @@ Would you like to activate that session now?</source>
         <translation>פתח חלון עורך אפשרויות בנפרד.</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">מתקדם</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(קשר פנימי)</translation>
     </message>
@@ -15014,28 +15130,8 @@ Reason: %1</source>
         <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">סרגלי כלים</translation>
-    </message>
-    <message>
-        <source>XML Console</source>
-        <translation type="obsolete">מסוף XML</translation>
-    </message>
-    <message>
         <source>Change Profile</source>
         <translation type="vanished">שינוי דיוקן</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">ניגון צלילים</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">יציאה</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">מצב</translation>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15044,10 +15140,6 @@ Reason: %1</source>
     <message>
         <source>View Groups</source>
         <translation type="vanished">הצגת קבוצות</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">הצג אנשי קשר לא מקוונים</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -15597,6 +15689,33 @@ The plugin keeps a log of blocked messages, which you can view through the plugi
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">חפש: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">עמוד ראשון</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">עמוד אחורה</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">עמוד קדימה</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">עמוד אחרון</translation>
     </message>
 </context>
 <context>
@@ -16164,7 +16283,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>חפש: </translation>
+        <translation type="vanished">חפש: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16172,19 +16291,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>עמוד ראשון</translation>
+        <translation type="vanished">עמוד ראשון</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>עמוד אחורה</translation>
+        <translation type="vanished">עמוד אחורה</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>עמוד קדימה</translation>
+        <translation type="vanished">עמוד קדימה</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>עמוד אחרון</translation>
+        <translation type="vanished">עמוד אחרון</translation>
     </message>
     <message>
         <source>Search</source>
@@ -16758,13 +16877,6 @@ Do you still want to close the window?</source>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 הזמינך לסשן לוח לבן. האם ברצונך להצטרף?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="obsolete">ציטוט</translation>
     </message>
 </context>
 <context>

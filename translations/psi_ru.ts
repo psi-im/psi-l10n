@@ -2068,6 +2068,23 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">белые</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">чёрные</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">Игрок %1 приглашает Вас
+поиграть в шахматы. Он выбрал %2 фигуры.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2444,6 +2461,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Найти: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">Учесть &amp;регистр</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Первая страница</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Предыдущая страница</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Следующая страница</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Последняя страница</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2467,6 +2511,33 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <source>Close Tab</source>
         <translation type="vanished">Закрыть вкладку</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Найти: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">Учесть &amp;регистр</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Первая страница</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Предыдущая страница</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Следующая страница</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Последняя страница</translation>
     </message>
 </context>
 <context>
@@ -3140,6 +3211,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>Ошибка:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation>удаленные</translation>
     </message>
 </context>
 <context>
@@ -5452,6 +5530,23 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">белые</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">чёрные</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">Игрок %1 приглашает Вас 
+поиграть в Гомоку. Он выбрал %2 фигуры.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5775,6 +5870,26 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>All contacts</source>
         <translation>Все контакты</translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation>Найти:</translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation>Все аккаунты</translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation>удаленные</translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation>%1 из %2 совпадений</translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation>Совпадений не найдено</translation>
     </message>
 </context>
 <context>
@@ -6784,22 +6899,22 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>белые</translation>
+        <translation type="vanished">белые</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>чёрные</translation>
+        <translation type="vanished">чёрные</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Игрок %1 приглашает Вас
+        <translation type="vanished">Игрок %1 приглашает Вас
 поиграть в шахматы. Он выбрал %2 фигуры.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Игрок %1 приглашает Вас 
+        <translation type="vanished">Игрок %1 приглашает Вас 
 поиграть в Гомоку. Он выбрал %2 фигуры.</translation>
     </message>
     <message>
@@ -8234,11 +8349,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>Сообщение</translation>
+        <translation type="vanished">Сообщение</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="vanished">Чат</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8246,19 +8361,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>При закрытии окна</translation>
+        <translation type="vanished">При закрытии окна</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Через час после закрытия</translation>
+        <translation type="vanished">Через час после закрытия</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Через день после закрытия</translation>
+        <translation type="vanished">Через день после закрытия</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Никогда</translation>
+        <translation type="vanished">Никогда</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation>Показывать превью для ссылок</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Сообщение</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Чат</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation>&amp;При закрытии окна</translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation>Ч&amp;ерез час после закрытия</translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation>Через &amp;день после закрытия</translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation>&amp;Никогда</translation>
     </message>
 </context>
 <context>
@@ -9842,6 +9985,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation>Показывать по ссылкам превью медиаконтента. Также можно воспроизводить аудио и видео прямо в чате.</translation>
     </message>
 </context>
 <context>
@@ -11831,7 +11978,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
     </message>
 </context>
 <context>
@@ -15969,6 +16116,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Найти: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">Учесть &amp;регистр</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Первая страница</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Предыдущая страница</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Следующая страница</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Последняя страница</translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16554,7 +16728,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Найти: </translation>
+        <translation type="vanished">Найти: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16562,19 +16736,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>Первая страница</translation>
+        <translation type="vanished">Первая страница</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Предыдущая страница</translation>
+        <translation type="vanished">Предыдущая страница</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Следующая страница</translation>
+        <translation type="vanished">Следующая страница</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Последняя страница</translation>
+        <translation type="vanished">Последняя страница</translation>
     </message>
     <message>
         <source>Search</source>
@@ -17517,7 +17691,7 @@ Do you still want to close the window?</source>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хранилище ключей QCA загружается слишком долго. Возможно, зависает &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Обратите внимание, что для защищенного подключения к серверам (с использованием TLS шифрования) требуется загруженное хранилище ключей.</translation>
     </message>
 </context>
 <context>

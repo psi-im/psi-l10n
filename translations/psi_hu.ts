@@ -2058,6 +2058,23 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">fehér</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">fekete</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">%1 meghív téged
+sakkra. Ezt szeretné: %2.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2433,6 +2450,33 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Keresés: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Első oldal</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Előző oldal</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Következő oldal</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Utolsó oldal</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2456,6 +2500,33 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     <message>
         <source>Close Tab</source>
         <translation type="vanished">Lap bezárása</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Keresés: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Első oldal</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Előző oldal</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Következő oldal</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -3127,6 +3198,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>Hiba:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5437,6 +5515,23 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">fehér</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">fekete</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">%1 meghív téged
+gomokura. Ezt szeretné: %2.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5758,6 +5853,26 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6768,22 +6883,22 @@ Oka: %1</translation>
     </message>
     <message>
         <source>white</source>
-        <translation>fehér</translation>
+        <translation type="vanished">fehér</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>fekete</translation>
+        <translation type="vanished">fekete</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>%1 meghív téged
+        <translation type="vanished">%1 meghív téged
 sakkra. Ezt szeretné: %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>%1 meghív téged
+        <translation type="vanished">%1 meghív téged
 gomokura. Ezt szeretné: %2.</translation>
     </message>
     <message>
@@ -8218,11 +8333,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Üzenet</translation>
+        <translation type="vanished">Üzenet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Beszélgetés</translation>
+        <translation type="vanished">Beszélgetés</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8230,19 +8345,47 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>A beszélgetésablak bezárásakor</translation>
+        <translation type="vanished">A beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Egy órával a beszélgetésablak bezárása után</translation>
+        <translation type="vanished">Egy órával a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Egy nappal a beszélgetésablak bezárása után</translation>
+        <translation type="vanished">Egy nappal a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Soha</translation>
+        <translation type="vanished">Soha</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Üzenet</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9828,6 +9971,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15896,6 +16043,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Keresés: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Első oldal</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Előző oldal</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Következő oldal</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Utolsó oldal</translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16468,7 +16642,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Keresés: </translation>
+        <translation type="vanished">Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16476,19 +16650,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>Első oldal</translation>
+        <translation type="vanished">Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Előző oldal</translation>
+        <translation type="vanished">Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Következő oldal</translation>
+        <translation type="vanished">Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Utolsó oldal</translation>
+        <translation type="vanished">Utolsó oldal</translation>
     </message>
     <message>
         <source>Search</source>

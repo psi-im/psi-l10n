@@ -2058,6 +2058,24 @@ Ainda deseja fechar esta janela?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">brancas</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">negras</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">Jogador %1 convida você
+para jogar xadrez.
+Ele quer jogar de %2.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2433,6 +2451,33 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pesquisar: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Maiúsculas de Minusculas</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Primeira página</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Página anterior</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Próxima página</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Última página</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2456,6 +2501,33 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
     <message>
         <source>Close Tab</source>
         <translation type="vanished">Fechar Aba</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pesquisar: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Maiúsculas de Minusculas</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Primeira página</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Página anterior</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Próxima página</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Última página</translation>
     </message>
 </context>
 <context>
@@ -3124,6 +3196,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>Erro:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5436,6 +5515,24 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">brancas</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">negras</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">Jogador %1 convida você
+para jogar gomoku.
+Ele quer jogar de %2.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5757,6 +5854,26 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6761,23 +6878,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>brancas</translation>
+        <translation type="vanished">brancas</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>negras</translation>
+        <translation type="vanished">negras</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Jogador %1 convida você
+        <translation type="vanished">Jogador %1 convida você
 para jogar xadrez.
 Ele quer jogar de %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Jogador %1 convida você
+        <translation type="vanished">Jogador %1 convida você
 para jogar gomoku.
 Ele quer jogar de %2.</translation>
     </message>
@@ -8200,11 +8317,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensagem</translation>
+        <translation type="vanished">Mensagem</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Bate-papo</translation>
+        <translation type="vanished">Bate-papo</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8212,19 +8329,47 @@ Tags: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Quando janela de bate-papo é fechada</translation>
+        <translation type="vanished">Quando janela de bate-papo é fechada</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Uma hora após a janela de bate-papo for fechada</translation>
+        <translation type="vanished">Uma hora após a janela de bate-papo for fechada</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Um dia após a janela de bate-papo for fechada</translation>
+        <translation type="vanished">Um dia após a janela de bate-papo for fechada</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nunca</translation>
+        <translation type="vanished">Nunca</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Mensagem</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Bate-Papo</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9809,6 +9954,10 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Esta opção mantém o histórico de bate-papo para sempre.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15908,6 +16057,33 @@ AVISO!!! Antes de registrar um novo transporte, recomenda-se adicionar o seu jid
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pesquisar: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Maiúsculas de Minusculas</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Primeira página</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Página anterior</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Próxima página</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Última página</translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16484,7 +16660,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Pesquisar: </translation>
+        <translation type="vanished">Pesquisar: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16492,19 +16668,19 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     </message>
     <message>
         <source>First page</source>
-        <translation>Primeira página</translation>
+        <translation type="vanished">Primeira página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Página anterior</translation>
+        <translation type="vanished">Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Próxima página</translation>
+        <translation type="vanished">Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Última página</translation>
+        <translation type="vanished">Última página</translation>
     </message>
     <message>
         <source>Search</source>

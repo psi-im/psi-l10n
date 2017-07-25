@@ -2057,6 +2057,23 @@ Opravdu zavřít toto okno?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">bílí</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">černí</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">Hráč %1 Vás zve ke
+hře v šach. Chce hrát za %2.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2432,6 +2449,33 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Hledat: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Uvažovat velikost písmen</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">První strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Předchozí strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Další strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslední strana</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2455,6 +2499,33 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     <message>
         <source>Close Tab</source>
         <translation type="vanished">Zavřít panel</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Hledat: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Uvažovat velikost písmen</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">První strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Předchozí strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Další strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslední strana</translation>
     </message>
 </context>
 <context>
@@ -3126,6 +3197,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>Chyba:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5432,6 +5510,23 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">bílí</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">černí</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">Hráč %1 Vás zve ke
+hře gomoku. Chce hrát za %2.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5753,6 +5848,26 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6749,22 +6864,22 @@ Příčina: %1</translation>
     </message>
     <message>
         <source>white</source>
-        <translation>bílí</translation>
+        <translation type="vanished">bílí</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>černí</translation>
+        <translation type="vanished">černí</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Hráč %1 Vás zve ke
+        <translation type="vanished">Hráč %1 Vás zve ke
 hře v šach. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Hráč %1 Vás zve ke
+        <translation type="vanished">Hráč %1 Vás zve ke
 hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
@@ -8193,11 +8308,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Zpráva</translation>
+        <translation type="vanished">Zpráva</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8205,19 +8320,47 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Při uzavření okna chatu</translation>
+        <translation type="vanished">Při uzavření okna chatu</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Jednu hodinu po uzavření okna chatu</translation>
+        <translation type="vanished">Jednu hodinu po uzavření okna chatu</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Jeden den po uzavření okna chatu</translation>
+        <translation type="vanished">Jeden den po uzavření okna chatu</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nikdy</translation>
+        <translation type="vanished">Nikdy</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Zpráva</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9806,6 +9949,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15880,6 +16027,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Hledat: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Uvažovat velikost písmen</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">První strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Předchozí strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Další strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslední strana</translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16452,7 +16626,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Hledat: </translation>
+        <translation type="vanished">Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16460,19 +16634,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>První strana</translation>
+        <translation type="vanished">První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Předchozí strana</translation>
+        <translation type="vanished">Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Další strana</translation>
+        <translation type="vanished">Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Poslední strana</translation>
+        <translation type="vanished">Poslední strana</translation>
     </message>
     <message>
         <source>Search</source>

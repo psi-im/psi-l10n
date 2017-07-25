@@ -2042,6 +2042,23 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">beo</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">crn</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">Igrač %1 poziva vas 
+da igrate šah. On želi da igra %2.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2416,6 +2433,33 @@ You can preview items before deleting them from your hard drive.</translation>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pretraži:</translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Prva strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Prethodna strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Sledeća strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslednja strana</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2439,6 +2483,33 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     <message>
         <source>Close Tab</source>
         <translation type="obsolete">Zatvori tab</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pretraži:</translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Prva strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Prethodna strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Sledeća strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslednja strana</translation>
     </message>
 </context>
 <context>
@@ -3550,6 +3621,13 @@ Da nastavim?</translation>
     <message>
         <source>Error:</source>
         <translation>Greška:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5854,6 +5932,23 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">beo</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">crn</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">Igrač %1 poziva vas 
+da igrate gomoku. On želi da igra %2.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6175,6 +6270,26 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7152,22 +7267,22 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>beo</translation>
+        <translation type="vanished">beo</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>crn</translation>
+        <translation type="vanished">crn</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Igrač %1 poziva vas 
+        <translation type="vanished">Igrač %1 poziva vas 
 da igrate šah. On želi da igra %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Igrač %1 poziva vas 
+        <translation type="vanished">Igrač %1 poziva vas 
 da igrate gomoku. On želi da igra %2.</translation>
     </message>
     <message>
@@ -8591,11 +8706,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Poruka</translation>
+        <translation type="vanished">Poruka</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Razgovor</translation>
+        <translation type="vanished">Razgovor</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8603,19 +8718,47 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Kad je prozor grupnog razgovora zatvoren</translation>
+        <translation type="vanished">Kad je prozor grupnog razgovora zatvoren</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Jedan sat od zatvaranja prozora za razgovor</translation>
+        <translation type="vanished">Jedan sat od zatvaranja prozora za razgovor</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Jedan dan od zatvaranja prozora za razgovor</translation>
+        <translation type="vanished">Jedan dan od zatvaranja prozora za razgovor</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nikad</translation>
+        <translation type="vanished">Nikad</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Poruka</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Razgovor</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10190,6 +10333,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16315,6 +16462,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
 </context>
 <context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Pretraži:</translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Prva strana</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Prethodna strana</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Sledeća strana</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Poslednja strana</translation>
+    </message>
+</context>
+<context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -16856,7 +17030,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Pretraži:</translation>
+        <translation type="vanished">Pretraži:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16864,19 +17038,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>Prva strana</translation>
+        <translation type="vanished">Prva strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Prethodna strana</translation>
+        <translation type="vanished">Prethodna strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Sledeća strana</translation>
+        <translation type="vanished">Sledeća strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Poslednja strana</translation>
+        <translation type="vanished">Poslednja strana</translation>
     </message>
     <message>
         <source>Search</source>

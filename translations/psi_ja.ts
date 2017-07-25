@@ -2027,6 +2027,22 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2397,6 +2413,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">次のページ</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2414,10 +2457,30 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
-    <name>CloseButton</name>
+    <name>ConfLogger::TypeAheadFindBar</name>
     <message>
-        <source>Close Tab</source>
-        <translation type="obsolete">タブを閉じる</translation>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">次のページ</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2851,13 +2914,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">追加</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3063,6 +3119,13 @@ Proceed?</source>
     <message>
         <source>Error:</source>
         <translation>エラー:</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5359,6 +5422,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5681,20 +5760,25 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>HistoryImport</name>
     <message>
-        <source>Status:</source>
-        <translation type="obsolete">ステータス:</translation>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">エラー</translation>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6606,24 +6690,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8022,11 +8088,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation type="vanished">メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>チャット</translation>
+        <translation type="vanished">チャット</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8034,19 +8100,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>チャットウィンドウを閉じた時</translation>
+        <translation type="vanished">チャットウィンドウを閉じた時</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>チャットウィンドウを閉じた一時間後</translation>
+        <translation type="vanished">チャットウィンドウを閉じた一時間後</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>チャットウィンドウを閉じた一日後</translation>
+        <translation type="vanished">チャットウィンドウを閉じた一日後</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>消去しない</translation>
+        <translation type="vanished">消去しない</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">メッセージ(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">チャット(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9611,6 +9705,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;このオプションはチャットログを永久に保存します。&lt;P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12743,10 +12841,6 @@ Would you like to activate that session now?</source>
         <translation>編集ウィンドウの切り離されたオプションを開く。</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">高度な設定</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(内部モード)</translation>
     </message>
@@ -12817,13 +12911,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>ツールバーの設定(&amp;C)</translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
 </context>
 <context>
@@ -14894,72 +14981,8 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">サービスディスカバリ</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">コンタクトの追加</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="obsolete">アカウント設定</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">オプション</translation>
-    </message>
-    <message>
-        <source>Toolbars</source>
-        <translation type="obsolete">ツールバー</translation>
-    </message>
-    <message>
-        <source>XML Console</source>
-        <translation type="obsolete">XMLコンソール</translation>
-    </message>
-    <message>
-        <source>Change Profile</source>
-        <translation type="obsolete">プロファイルの変更</translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="obsolete">サウンドを再生</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">終了</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">ステータス</translation>
-    </message>
-    <message>
-        <source>View Groups</source>
-        <translation type="obsolete">グループを参照</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">オフラインコンタクトを表示</translation>
-    </message>
-    <message>
-        <source>Show Hidden Contacts</source>
-        <translation type="obsolete">隠れたコンタクトを表示</translation>
-    </message>
-    <message>
-        <source>Publish Tune</source>
-        <translation type="obsolete">楽曲情報の公開</translation>
-    </message>
-    <message>
         <source>Choose status</source>
         <translation type="vanished">ステータスを選択</translation>
-    </message>
-    <message>
-        <source>Set Mood</source>
-        <translation type="obsolete">気分の設定</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="obsolete">QTについて</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -15441,6 +15464,33 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">次のページ</translation>
+    </message>
+    <message>
+        <source>Last page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16008,28 +16058,12 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>First page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Next page</source>
-        <translation>次のページ</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">次のページ</translation>
     </message>
     <message>
         <source>Search</source>
