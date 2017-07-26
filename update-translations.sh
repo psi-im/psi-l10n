@@ -3,16 +3,13 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2017-07-20
+# Updated: 2017-07-26
 # Version: N/A
 
 set -e
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
-
-PSI_TAG="1.1.0"
-DEF_COMMIT=000473ebfd463c910ee81d599a7982d8753b83dc
 
 PSI_DIR="${MAIN_DIR}/psi"
 PLUGINS_DIR="${MAIN_DIR}/plugins"
@@ -31,23 +28,6 @@ case "${1}" in
     # Creating correct git commit.
 
     git commit -a -m 'Sync translations with Psi+ project.'
-
-;;
-"tag")
-    # Creating correct git tag.
-
-    PSI_HASH="$(cd ${PSI_DIR} && git show -s --pretty='format:%h')"
-    PSI_NUM="$(cd ${PSI_DIR} && git rev-list --count ${DEF_COMMIT}..HEAD)"
-
-    CUR_TAG="${PSI_TAG}.${PSI_NUM}-${PSI_HASH}"
-
-    cd "${CUR_DIR}"
-    echo "git tag \"${CUR_TAG}\""
-    git tag "${CUR_TAG}"
-
-    echo ;
-    echo "Last tags:"
-    git tag | sort -V | tail -n10
 
 ;;
 "push")
@@ -248,7 +228,7 @@ case "${1}" in
     # Help.
 
     echo "Usage:"
-    echo "  up cm tag push make install tarball"
+    echo "  up cm push make install tarball"
     echo "  tr tr_up tr_fu tr_cl tr_co tr_sync"
     echo ;
     echo "Examples:"
