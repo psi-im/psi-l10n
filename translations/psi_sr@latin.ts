@@ -16127,6 +16127,10 @@ Razlog: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Prečice u servisu dijaloga</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>

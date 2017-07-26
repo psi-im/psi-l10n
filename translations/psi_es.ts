@@ -15688,6 +15688,10 @@ Razón: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Atajos en el diálogo de descubrimiento de servicios</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>

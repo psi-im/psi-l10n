@@ -15573,6 +15573,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>查找服務對話方塊中的快速鍵</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
