@@ -2074,16 +2074,16 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">weiß</translation>
+        <translation>weiß</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">schwarz</translation>
+        <translation>schwarz</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished">Spieler %1 lädt Sie zum Schach spielen
+        <translation>Spieler %1 lädt Sie zum Schach spielen
 ein. Er möchte %2 spielen.</translation>
     </message>
 </context>
@@ -2466,27 +2466,27 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Suche: </translation>
+        <translation>Suche: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Groß-/Kleinschreibung</translation>
+        <translation>&amp;Groß-/Kleinschreibung</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Erste Seite</translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Vorherige Seite</translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Nächste Seite</translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Letzte Seite</translation>
+        <translation>Letzte Seite</translation>
     </message>
 </context>
 <context>
@@ -2519,27 +2519,27 @@ Sie können die Version des Clients und des Betriebssystems selbst festlegen ode
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Suche: </translation>
+        <translation>Suche: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Groß-/Kleinschreibung</translation>
+        <translation>&amp;Groß-/Kleinschreibung</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Erste Seite</translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Vorherige Seite</translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Nächste Seite</translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Letzte Seite</translation>
+        <translation>Letzte Seite</translation>
     </message>
 </context>
 <context>
@@ -3219,7 +3219,7 @@ Fortfahren?</translation>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">gelöscht</translation>
+        <translation>gelöscht</translation>
     </message>
 </context>
 <context>
@@ -5535,16 +5535,16 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">weiß</translation>
+        <translation>weiß</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">schwarz</translation>
+        <translation>schwarz</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished">Spieler %1 lädt Sie zum gomoku spielen
+        <translation>Spieler %1 lädt Sie zum gomoku spielen
 ein. Er möchte %2 spielen.</translation>
     </message>
 </context>
@@ -5878,11 +5878,11 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Konten</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">gelöscht</translation>
+        <translation>gelöscht</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
@@ -8370,11 +8370,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Nachricht</translation>
+        <translation>&amp;Nachricht</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Chatten</translation>
+        <translation>&amp;Chatten</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -16104,27 +16104,27 @@ WARNUNG!!! Bevor Sie einen neuen Transport einrichten, wird empfohlen, dessen JI
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Suche: </translation>
+        <translation>Suche: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Groß-/Kleinschreibung</translation>
+        <translation>&amp;Groß-/Kleinschreibung</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Erste Seite</translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Vorherige Seite</translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Nächste Seite</translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Letzte Seite</translation>
+        <translation>Letzte Seite</translation>
     </message>
 </context>
 <context>

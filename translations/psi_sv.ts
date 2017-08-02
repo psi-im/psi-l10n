@@ -302,7 +302,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished">&amp;Koppla ner</translation>
+        <translation>&amp;Koppla ner</translation>
     </message>
 </context>
 <context>
@@ -485,7 +485,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished">Relä:</translation>
+        <translation>Relä:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -921,7 +921,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished">Välj...</translation>
+        <translation>Välj...</translation>
     </message>
     <message>
         <source>Reconnect</source>
@@ -968,22 +968,22 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Beskrivning:</translation>
+        <translation>Beskrivning:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
     <name>ActivityDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished">&lt;ej vald&gt;</translation>
+        <translation>&lt;ej vald&gt;</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1159,7 +1159,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Gömda</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1223,11 +1223,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1270,7 +1270,7 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">Slå på</translation>
+        <translation>Slå på</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -1286,11 +1286,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Tillgänglig</translation>
+        <translation>Tillgänglig</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished">Borta</translation>
+        <translation>Borta</translation>
     </message>
     <message>
         <source>Dnd</source>
@@ -1298,15 +1298,15 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished">Borta länge</translation>
+        <translation>Borta länge</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Chatt</translation>
+        <translation>Chatt</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished">Osynlig</translation>
+        <translation>Osynlig</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -1431,7 +1431,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Save Image</source>
@@ -1450,11 +1450,11 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1545,7 +1545,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Fel!</translation>
+        <translation>Fel!</translation>
     </message>
     <message>
         <source>Export bookmarks</source>
@@ -1669,7 +1669,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -1853,7 +1853,7 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Röstsamtal</translation>
+        <translation>Röstsamtal</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1933,15 +1933,15 @@ Vill du ändå stänga fönstret?</translation>
     <name>ChatView</name>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished">%1 säger:</translation>
+        <translation>%1 säger:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">Ärende:</translation>
+        <translation>Ärende:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished">URL:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Desc:</source>
@@ -2024,11 +2024,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2070,7 +2070,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Avsluta</translation>
+        <translation>Avsluta</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2082,11 +2082,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished">Spel</translation>
+        <translation>Spel</translation>
     </message>
     <message>
         <source>*.chs</source>
@@ -2106,7 +2106,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished">Historik</translation>
+        <translation>Historik</translation>
     </message>
     <message>
         <source>vCards</source>
@@ -2118,11 +2118,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -2134,7 +2134,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
@@ -2154,7 +2154,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
@@ -2162,7 +2162,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Avsluta</translation>
+        <translation>&amp;Avsluta</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2222,7 +2222,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished">Profil:</translation>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2281,11 +2281,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2304,7 +2304,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2315,7 +2315,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Values</source>
@@ -2326,7 +2326,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -2386,6 +2386,13 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <source>%1 has requested your version</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CloseButton</name>
+    <message>
+        <source>Close Tab</source>
+        <translation type="vanished">Stäng flik</translation>
     </message>
 </context>
 <context>
@@ -2485,11 +2492,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished">Hantera bokmärken</translation>
+        <translation>Hantera bokmärken</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished">Gå med i gruppchatt</translation>
+        <translation>Gå med i gruppchatt</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2541,15 +2548,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Gruppchatt</translation>
+        <translation>Gruppchatt</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished">Insticksprogram</translation>
+        <translation>Insticksprogram</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Administrera</translation>
     </message>
     <message>
         <source>Join %1</source>
@@ -2560,19 +2567,19 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta kommer permanentl att ta bort &lt;br&gt;%1&lt;br&gt;från din kontaktlista.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort kontakter</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -2623,28 +2630,30 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Gömda</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Godkännande</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta kommer att löskoppla alla kontakter i gruppen från den.
+
+Fortsätt?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Agenter/Transporter</translation>
+        <translation>Agenter/Transporter</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Privata meddelanden</translation>
     </message>
     <message>
         <source>Conferences</source>
@@ -2655,7 +2664,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2674,15 +2683,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">Utför</translation>
+        <translation>Utför</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Meddelande</translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Auth request</source>
@@ -2718,7 +2727,7 @@ Proceed?</source>
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished">RegExp</translation>
+        <translation>RegExp</translation>
     </message>
     <message>
         <source>Removal confirmation</source>
@@ -2789,11 +2798,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppera</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished">Nod</translation>
+        <translation>Nod</translation>
     </message>
     <message>
         <source>Domain</source>
@@ -2801,7 +2810,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished">Prenumeration</translation>
+        <translation>Prenumeration</translation>
     </message>
 </context>
 <context>
@@ -2843,6 +2852,25 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CreateGroupDlg</name>
+    <message>
+        <source>Create New Group</source>
+        <translation type="vanished">Skapa ny grupp</translation>
+    </message>
+    <message>
+        <source>Enter the new group name:</source>
+        <translation type="vanished">Skriv namnet på den nya gruppen:</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Lägg till</translation>
+    </message>
+    <message>
+        <source>&lt;None&gt;</source>
+        <translation type="vanished">&lt;Inget&gt;</translation>
     </message>
 </context>
 <context>
@@ -3127,7 +3155,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished">Chattar</translation>
+        <translation>Chattar</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3143,11 +3171,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3173,7 +3201,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Namn:</translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <source>Url:</source>
@@ -3535,7 +3563,7 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Chatt</translation>
+        <translation>Chatt</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3547,7 +3575,7 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished">Meny</translation>
+        <translation>Meny</translation>
     </message>
     <message>
         <source>Look</source>
@@ -3559,7 +3587,7 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Div</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
@@ -3619,7 +3647,7 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -3656,7 +3684,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Gruppchatt</translation>
+        <translation>Gruppchatt</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
@@ -4669,11 +4697,11 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4727,11 +4755,11 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Röstsamtal</translation>
+        <translation>Röstsamtal</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">&amp;Utför kommando</translation>
+        <translation>&amp;Utför kommando</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
@@ -5104,7 +5132,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished">Land:</translation>
+        <translation>Land:</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
@@ -5120,7 +5148,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Beskrivning:</translation>
+        <translation>Beskrivning:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
@@ -5128,7 +5156,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished">Fel:</translation>
+        <translation>Fel:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5152,7 +5180,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished">Plats:</translation>
+        <translation>Plats:</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
@@ -5184,7 +5212,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished">Rum:</translation>
+        <translation>Rum:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
@@ -5192,7 +5220,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished">Gata:</translation>
+        <translation>Gata:</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
@@ -5200,7 +5228,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Text:</translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5212,11 +5240,11 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -5227,7 +5255,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Lösenord:</translation>
+        <translation>Lösenord:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
@@ -5258,11 +5286,11 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -5300,11 +5328,11 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5378,11 +5406,11 @@ to play gomoku. He wants to play %2.</source>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5523,11 +5551,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny grupp</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv namnet på den nya gruppen:</translation>
     </message>
 </context>
 <context>
@@ -5580,15 +5608,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Ej i listan</translation>
+        <translation>Ej i listan</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Privata meddelanden</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -5667,7 +5695,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished">Historik</translation>
+        <translation>Historik</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5679,7 +5707,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öppna</translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Open link in browser</source>
@@ -5687,7 +5715,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Close history</source>
@@ -5716,6 +5744,21 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>No matches were found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistoryImport</name>
+    <message>
+        <source>Status:</source>
+        <translation type="vanished">Status:</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">Ok</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Fel</translation>
     </message>
 </context>
 <context>
@@ -5750,7 +5793,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 <context>
@@ -5896,7 +5939,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6452,35 +6495,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarinformation</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished">Alt+T</translation>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Publicera</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hämta</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Stäng</translation>
+        <translation>&amp;Stäng</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
@@ -6507,11 +6550,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">Öppna webbläsare</translation>
+        <translation>Öppna webbläsare</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget datum</translation>
     </message>
     <message>
         <source>Edit birthday</source>
@@ -6519,55 +6562,59 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Varning</translation>
+        <translation>Varning</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har inte publicerat dina ändringar till kontoinformationen.
+Är du säker på att du vill slänga dem?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng och kasta</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng int</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Din kontoinformation har publicerats.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta din kontoinformation. Kanske har du inte skrivit in någon än.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta information om denna kontakt.
+Orsak: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte publicera din kontoinformation.
+Orsak: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ej 
+tillgänglig</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -6608,7 +6655,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -6619,11 +6666,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Svara</translation>
+        <translation>Svara</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Vägra</translation>
+        <translation>Vägra</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
@@ -6649,7 +6696,7 @@ to play battleship. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished">Inbjudan</translation>
+        <translation>Inbjudan</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6661,7 +6708,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6712,7 +6759,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Make dir</source>
@@ -6724,7 +6771,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished">Skicka fil</translation>
+        <translation>Skicka fil</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -6736,7 +6783,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjälp</translation>
+        <translation>Hjälp</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6798,15 +6845,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -6820,7 +6867,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Varning</translation>
+        <translation>Varning</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
@@ -6845,7 +6892,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -6941,7 +6988,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -7300,7 +7347,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished">Statusmeddelande</translation>
+        <translation>Statusmeddelande</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -7417,11 +7464,11 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -7437,7 +7484,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Algorithm</source>
@@ -7561,7 +7608,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
@@ -7928,7 +7975,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished">Reläinställningar</translation>
+        <translation>Reläinställningar</translation>
     </message>
     <message>
         <source>Language</source>
@@ -8058,11 +8105,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Meddelande</translation>
+        <translation>&amp;Meddelande</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Chatt</translation>
+        <translation>&amp;Chatt</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8199,7 +8246,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -8271,7 +8318,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Div</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -8286,7 +8333,7 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8390,7 +8437,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8511,7 +8558,7 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8535,7 +8582,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished">Prioritet:</translation>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <source>Status message:</source>
@@ -8574,7 +8621,7 @@ Tags: %1</source>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8582,27 +8629,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Tillgänglig</translation>
+        <translation>Tillgänglig</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished">Pratglad</translation>
+        <translation>Pratglad</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished">Borta</translation>
+        <translation>Borta</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished">Ej tillgänglig</translation>
+        <translation>Ej tillgänglig</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished">Stör ej</translation>
+        <translation>Stör ej</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ej ansluten</translation>
+        <translation>Ej ansluten</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8622,7 +8669,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Nej</translation>
+        <translation>Nej</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8650,7 +8697,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -8658,7 +8705,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -8666,15 +8713,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Namn:</translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished">Prioritet:</translation>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8689,7 +8736,7 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Tunes</source>
@@ -8720,7 +8767,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Value: </source>
@@ -8755,7 +8802,7 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
@@ -8840,7 +8887,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -8959,11 +9006,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Import</source>
@@ -8979,7 +9026,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
@@ -8991,7 +9038,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9023,7 +9070,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished">Humör</translation>
+        <translation>Humör</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -9059,7 +9106,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Gruppchatt</translation>
+        <translation>Gruppchatt</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
@@ -9083,7 +9130,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ingen</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
@@ -9091,15 +9138,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderator</translation>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Deltagare</translation>
+        <translation>Deltagare</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Besökare</translation>
+        <translation>Besökare</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -9107,11 +9154,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished">Skicka meddelande:</translation>
+        <translation>Skicka meddelande:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Div</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9160,7 +9207,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Delete selected</source>
@@ -9176,7 +9223,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished">Meddelanden</translation>
+        <translation>Meddelanden</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -9212,7 +9259,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
@@ -9232,7 +9279,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Alla filer (*)</translation>
+        <translation>Alla filer (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -9256,7 +9303,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished">Välj fil</translation>
+        <translation>Välj fil</translation>
     </message>
     <message>
         <source>Uploading</source>
@@ -9272,19 +9319,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished">Regler</translation>
+        <translation>Regler</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">På</translation>
+        <translation>På</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -9315,7 +9362,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
 </context>
 <context>
@@ -9548,15 +9595,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished">Några av de inställningar du ändrat får full effekt först efter omstart.</translation>
+        <translation>Några av de inställningar du ändrat får full effekt först efter omstart.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9733,7 +9780,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetAffiliations</name>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Tillhörighet</translation>
+        <translation>Tillhörighet</translation>
     </message>
     <message>
         <source>Select your affiliations iconset</source>
@@ -9819,7 +9866,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -10000,7 +10047,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>General status preferences</source>
@@ -10012,7 +10059,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10040,15 +10087,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished">Du kan inte skapa ett tomt förval!</translation>
+        <translation>Du kan inte skapa ett tomt förval!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished">Du har redan ett förval med det namnet!</translation>
+        <translation>Du har redan ett förval med det namnet!</translation>
     </message>
 </context>
 <context>
@@ -10074,11 +10121,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Chatt</translation>
+        <translation>Chatt</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Gruppchatt</translation>
+        <translation>Gruppchatt</translation>
     </message>
 </context>
 <context>
@@ -10126,11 +10173,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10254,7 +10301,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Default action</source>
-        <translation type="unfinished">Standardhandling</translation>
+        <translation>Standardhandling</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -10282,7 +10329,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Delete current server</source>
@@ -10290,7 +10337,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -10408,11 +10455,11 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10467,11 +10514,11 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -10513,11 +10560,11 @@ Skriv din lösenfras nedanför:</translation>
     <name>PluginInfoDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">Om</translation>
+        <translation>Om</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 <context>
@@ -10539,11 +10586,11 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished">Spel</translation>
+        <translation>Spel</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -10555,7 +10602,7 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <source>New game</source>
@@ -10571,7 +10618,7 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Avsluta</translation>
+        <translation>Avsluta</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -10607,7 +10654,7 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Win!</source>
@@ -10717,7 +10764,7 @@ Skriv din lösenfras nedanför:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>@username</source>
@@ -10737,7 +10784,7 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="unfinished">meddelande</translation>
+        <translation>meddelande</translation>
     </message>
 </context>
 <context>
@@ -10775,11 +10822,11 @@ Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Verkställ</translation>
+        <translation>Verkställ</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
@@ -11292,19 +11339,19 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished">Värd:</translation>
+        <translation>Värd:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished">Port:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished">99999;-</translation>
+        <translation>99999;-</translation>
     </message>
     <message>
         <source>User:</source>
@@ -11312,7 +11359,7 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Lösenord:</translation>
+        <translation>Lösenord:</translation>
     </message>
 </context>
 <context>
@@ -11587,7 +11634,7 @@ Detaljer: %1</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>Notis</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -11848,7 +11895,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished">Ställ in humör</translation>
+        <translation>Ställ in humör</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -11912,7 +11959,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished">Välj...</translation>
+        <translation>Välj...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
@@ -12028,15 +12075,15 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa chattfönster</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Hitta</translation>
+        <translation>Hitta</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;Hitta</translation>
+        <translation>&amp;Hitta</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -12048,35 +12095,35 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished">Lägg till kontakt</translation>
+        <translation>Lägg till kontakt</translation>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ikon</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Röstsamtal</translation>
+        <translation>Röstsamtal</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished">Skicka fil</translation>
+        <translation>Skicka fil</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Slå på/av kryptering</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarinformation</translation>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandehistorik</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla kompakt/full storlek</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -12088,11 +12135,11 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera rum</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished">Insticksprogram</translation>
+        <translation>Insticksprogram</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -12361,7 +12408,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Gömda</translation>
     </message>
 </context>
 <context>
@@ -12440,7 +12487,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Göm</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12452,7 +12499,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Spärra</translation>
     </message>
     <message>
         <source>Always Visible</source>
@@ -12782,6 +12829,10 @@ Vill du aktivera den sessionen nu?</translation>
         <translation>Öppna ett frånkopplat inställningsredigeringsfönster.</translation>
     </message>
     <message>
+        <source>Advanced</source>
+        <translation type="vanished">Avancerat</translation>
+    </message>
+    <message>
         <source>(internal node)</source>
         <translation>(intern nod)</translation>
     </message>
@@ -12825,7 +12876,7 @@ Vill du aktivera den sessionen nu?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Rensa</translation>
+        <translation>Rensa</translation>
     </message>
 </context>
 <context>
@@ -12836,7 +12887,7 @@ Vill du aktivera den sessionen nu?</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Författare</translation>
+        <translation>Författare</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -12852,6 +12903,13 @@ Vill du aktivera den sessionen nu?</translation>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiWindowHeader</name>
+    <message>
+        <source>...</source>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -13026,7 +13084,7 @@ Vill du aktivera den sessionen nu?</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished">Äter</translation>
+        <translation>Äter</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -13414,7 +13472,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished">%1 är nu %2</translation>
+        <translation>%1 är nu %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -13874,7 +13932,7 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Varning</translation>
+        <translation>Varning</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -13994,11 +14052,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Nej</translation>
+        <translation>Nej</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14006,7 +14064,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>Notis</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14126,7 +14184,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished">Inkommande samtal</translation>
+        <translation>Inkommande samtal</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14154,31 +14212,31 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt tillgänglig</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt kopplade ner</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusändring</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Chattmeddelande</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished">Inkommande fil</translation>
+        <translation>Inkommande fil</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkommande samtal</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14246,7 +14304,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished">Namnlös</translation>
+        <translation>Namnlös</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14318,11 +14376,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Aldrig</translation>
+        <translation>Aldrig</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Alltid</translation>
+        <translation>Alltid</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14347,7 +14405,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 är nu känd som %2</translation>
+        <translation>%1 är nu känd som %2</translation>
     </message>
 </context>
 <context>
@@ -14473,11 +14531,11 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14504,7 +14562,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source> min.</source>
@@ -14530,7 +14588,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Nick</source>
@@ -14550,7 +14608,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished">Statusmeddelande</translation>
+        <translation>Statusmeddelande</translation>
     </message>
 </context>
 <context>
@@ -14604,19 +14662,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjälp</translation>
+        <translation>Hjälp</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öppna</translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Save</source>
@@ -14632,19 +14690,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished">Reläinställningar</translation>
+        <translation>Reläinställningar</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished">Historik</translation>
+        <translation>Historik</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished">Om Qt</translation>
+        <translation>Om Qt</translation>
     </message>
     <message>
         <source>Home page</source>
@@ -14652,7 +14710,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Uppladdning</translation>
+        <translation>Uppladdning</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
@@ -14672,7 +14730,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Spara som</translation>
+        <translation>Spara som</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -14929,6 +14987,70 @@ Orsak: %1</translation>
 <context>
     <name>Shortcuts</name>
     <message>
+        <source>Service Discovery</source>
+        <translation type="vanished">TJänsteupptäckaren</translation>
+    </message>
+    <message>
+        <source>Add Contact</source>
+        <translation type="vanished">Lägg till kontakt</translation>
+    </message>
+    <message>
+        <source>Account Setup</source>
+        <translation type="vanished">Kontokonfigurering</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="vanished">Inställningar</translation>
+    </message>
+    <message>
+        <source>Toolbars</source>
+        <translation type="vanished">Verktygsrader</translation>
+    </message>
+    <message>
+        <source>XML Console</source>
+        <translation type="vanished">XML-konsoll</translation>
+    </message>
+    <message>
+        <source>Change Profile</source>
+        <translation type="vanished">Byt profil</translation>
+    </message>
+    <message>
+        <source>Play Sounds</source>
+        <translation type="vanished">Spela ljud</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="vanished">Avsluta</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Status</translation>
+    </message>
+    <message>
+        <source>View Groups</source>
+        <translation type="vanished">Visa grupper</translation>
+    </message>
+    <message>
+        <source>Show Offline Contacts</source>
+        <translation type="vanished">Visa ej anslutna kontakter</translation>
+    </message>
+    <message>
+        <source>Show Hidden Contacts</source>
+        <translation type="vanished">Visa gömda kontakter</translation>
+    </message>
+    <message>
+        <source>Publish Tune</source>
+        <translation type="vanished">Publicera låt</translation>
+    </message>
+    <message>
+        <source>Set Mood</source>
+        <translation type="vanished">Ställ in humör</translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation type="vanished">Om Qt</translation>
+    </message>
+    <message>
         <source>Shortcuts in the chat dialog</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15131,7 +15253,7 @@ Orsak: %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Preview skin</source>
@@ -15155,7 +15277,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Verkställ</translation>
+        <translation>Verkställ</translation>
     </message>
     <message>
         <source>Open skin file</source>
@@ -15163,7 +15285,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öppna</translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
@@ -15171,7 +15293,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
@@ -15933,7 +16055,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Välj</translation>
+        <translation>Välj</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -15949,7 +16071,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Rotera</translation>
+        <translation>Rotera</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -15972,11 +16094,11 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -16019,7 +16141,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>Find next</source>
@@ -16066,7 +16188,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarinformation</translation>
     </message>
 </context>
 <context>
@@ -16127,11 +16249,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Hitta</translation>
+        <translation>Hitta</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16174,11 +16296,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished">Från:</translation>
+        <translation>Från:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">Ärende:</translation>
+        <translation>Ärende:</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -16194,19 +16316,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished">Föregående</translation>
+        <translation>Föregående</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished">Nästa</translation>
+        <translation>Nästa</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Stäng</translation>
+        <translation>&amp;Stäng</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
@@ -16221,11 +16343,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Hitta</translation>
+        <translation>Hitta</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16350,11 +16472,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Välj ljudfil</translation>
+        <translation>Välj ljudfil</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Ljud (*.wav)</translation>
+        <translation>Ljud (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -16657,19 +16779,19 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ingen</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Registrera</translation>
+        <translation>Registrera</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Gruppchatt</translation>
+        <translation>Gruppchatt</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -16677,7 +16799,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">Tjänsteupptäckaren</translation>
+        <translation>TJänsteupptäckaren</translation>
     </message>
     <message>
         <source>VCard</source>
@@ -16685,7 +16807,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished">Utför kommando</translation>
+        <translation>Utför kommando</translation>
     </message>
     <message>
         <source>Query version</source>
@@ -16693,7 +16815,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="unfinished">Lägg till kontaktlista</translation>
+        <translation>Lägg till kontaktlista</translation>
     </message>
     <message>
         <source>Message Carbons</source>
@@ -16751,7 +16873,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished">Internt serverfel</translation>
+        <translation>Internt serverfel</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
@@ -16882,7 +17004,7 @@ Vill du ändå stänga fönstrett?</translation>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished">Nedkopplad</translation>
+        <translation>Nedkopplad</translation>
     </message>
     <message>
         <source>Request timed out</source>
@@ -16938,7 +17060,7 @@ Vill du ändå stänga fönstrett?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17095,7 +17217,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Avbryt</translation>
+        <translation>&amp;Avbryt</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -17214,7 +17336,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Konto</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>User</source>
@@ -17230,7 +17352,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -17258,7 +17380,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17277,7 +17399,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Konto</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -17305,7 +17427,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17470,7 +17592,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Godkännande</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -17478,7 +17600,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Lösenord:</translation>
+        <translation>Lösenord:</translation>
     </message>
     <message>
         <source>Remember</source>
@@ -17593,7 +17715,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -17632,14 +17754,14 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished">Fullständigt namn:</translation>
+        <translation>Fullständigt namn:</translation>
     </message>
     <message>
         <source>Nick:</source>
@@ -17647,15 +17769,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished">Födelsedag:</translation>
+        <translation>Födelsedag:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished">E-post:</translation>
+        <translation>E-post:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 <context>
@@ -17693,7 +17815,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -17742,7 +17864,7 @@ line2</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 <context>
@@ -17821,7 +17943,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Login</source>
@@ -17829,7 +17951,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Lösenord</translation>
+        <translation>Lösenord</translation>
     </message>
     <message>
         <source>status</source>

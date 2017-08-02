@@ -11,6 +11,10 @@
 <context>
     <name>AHCFormDlg</name>
     <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Finish</source>
         <translation>Fini</translation>
     </message>
@@ -22,17 +26,9 @@
         <source>Next</source>
         <translation>Sekva</translation>
     </message>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>AHCommandDlg</name>
-    <message>
-        <source>Execute</source>
-        <translation>Ruli</translation>
-    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
@@ -41,16 +37,48 @@
         <source>Command:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Execute</source>
+        <translation>Ruli</translation>
+    </message>
 </context>
 <context>
     <name>AboutDlg</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">Pri</translation>
+        <translation>Pri</translation>
+    </message>
+    <message>
+        <source>http://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
+        <source>Past Lead Developer and Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Lead Developer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lead Widget Developer</source>
@@ -63,6 +91,10 @@
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
         <translation>Lingva kunordiganto, diversa helpado</translation>
+    </message>
+    <message>
+        <source>Former language coordinator, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
@@ -101,48 +133,16 @@
         <translation>Flikaĵoj</translation>
     </message>
     <message>
-        <source>Security plugin: %1</source>
-        <translation>Sekureca kromaĵo: %1</translation>
-    </message>
-    <message>
-        <source>http://psi-im.org</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thanks To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Past Lead Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Past Lead Developer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Former language coordinator, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sponsor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sponsor (Summer of Code)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security plugin: %1</source>
+        <translation>Sekureca kromaĵo: %1</translation>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -183,18 +183,6 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 <context>
     <name>AccountAdd</name>
     <message>
-        <source>Register new account</source>
-        <translation type="unfinished">Registri novan konton</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
-    <message>
         <source>Add Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -209,6 +197,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Register new account</source>
+        <translation>Registri novan konton</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
+    </message>
+    <message>
         <source>Alt+A</source>
         <translation type="unfinished"></translation>
     </message>
@@ -220,12 +220,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <source>Default</source>
-        <translation>Defaŭlto</translation>
-    </message>
-    <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>Defaŭlto</translation>
     </message>
 </context>
 <context>
@@ -246,28 +246,24 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountManage</name>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nomo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished">Stato</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Forigi</translation>
-    </message>
-    <message>
         <source>XMPP Accounts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Nomo</translation>
+    </message>
+    <message>
         <source>Server</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stato</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -276,6 +272,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>&amp;Modify</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation>&amp;Forigi</translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -307,26 +307,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 </context>
 <context>
     <name>AccountModify</name>
-    <message>
-        <source>OpenPGP</source>
-        <translation type="unfinished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation type="unfinished">Div.</translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished">Uzantonomo:</translation>
-    </message>
     <message>
         <source>Account Properties</source>
         <translation type="unfinished"></translation>
@@ -396,6 +376,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>OpenPGP</source>
+        <translation>OpenPGP</translation>
+    </message>
+    <message>
         <source>placeholder2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -414,6 +398,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Blocked Contacts</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
@@ -441,10 +433,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -476,6 +464,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Misc.</source>
+        <translation>Div.</translation>
+    </message>
+    <message>
         <source>Resource:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -500,6 +492,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Username:</source>
+        <translation>Uzantonomo:</translation>
+    </message>
+    <message>
         <source>Authenticate as:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -515,6 +511,10 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -541,6 +541,30 @@ When you enable this option you will not be able to find your password in config
         <translation>Super ĉifrita konekto</translation>
     </message>
     <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use host name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depends on status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current host from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;don&apos;t use&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>None</source>
         <translation>Neniu</translation>
     </message>
@@ -561,6 +585,10 @@ When you enable this option you will not be able to find your password in config
         <translation>Plej alta</translation>
     </message>
     <message>
+        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Aŭtomate ensaluti tiun ĉi konton je Psi-startigo.  Tio ĉi utilas se Psi-o aŭtomate lanĉiĝas kiam retkonekto rimarkiĝas.</translation>
     </message>
@@ -579,6 +607,30 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Sendi la tiel nomatajn &quot;Restu-vivajn&quot; pakaĵojn periode.  Ĝi estas utila se via konekto estas agordita aŭtomate malkonektiĝi post ia periodo de malaktiveco (ekzemple, far via provizanto de retservoj) kaj vi volas daŭrigi ĝin porĉiame.</translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username:</source>
@@ -613,6 +665,10 @@ When you enable this option you will not be able to find your password in config
         <translation>&lt;i&gt;Uzantonomo&lt;/i&gt; estas nevalida.</translation>
     </message>
     <message>
+        <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation>Atentu</translation>
     </message>
@@ -621,8 +677,20 @@ When you enable this option you will not be able to find your password in config
         <translation>Tiu ĉi konto estas daŭre aktiva, do apartaj ŝanĝoj eble ne efikos ĝis la venonta ensaluto.</translation>
     </message>
     <message>
+        <source>Reconnect &amp;Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect &amp;Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Block contact</source>
         <translation>Bloki kontakton</translation>
+    </message>
+    <message>
+        <source>Enter the XMPP Address of the contact to block:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
@@ -637,84 +705,12 @@ When you enable this option you will not be able to find your password in config
         <translation>Via servilo ne permesas la blokadon.</translation>
     </message>
     <message>
-        <source>Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use host name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Depends on status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reconnect &amp;Later</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reconnect &amp;Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter the XMPP Address of the contact to block:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AccountReg</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Nuligi</translation>
-    </message>
     <message>
         <source>Register Account</source>
         <translation type="unfinished"></translation>
@@ -760,8 +756,12 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Nuligi</translation>
+    </message>
+    <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sekvanta</translation>
     </message>
 </context>
 <context>
@@ -807,6 +807,10 @@ When you enable this option you will not be able to find your password in config
         <translation>SSL eraro</translation>
     </message>
     <message>
+        <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>There was an error retrieving the server list</source>
         <translation>Okazis eraro ĉe la ricevado de la servila listo</translation>
     </message>
@@ -831,18 +835,14 @@ When you enable this option you will not be able to find your password in config
         <translation>Sukceso</translation>
     </message>
     <message>
+        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>There was an error registering the account.
 Reason: %1</source>
         <translation>Okazis eraro registrante la konton.
 Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -868,7 +868,7 @@ Kialo: %1</translation>
     <name>AccountRemoveDlg</name>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">For&amp;igi</translation>
+        <translation>For&amp;igi</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -983,7 +983,7 @@ save the history for this contact.</source>
     <name>ActivityDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished">&lt;sendifina&gt;</translation>
+        <translation>&lt;sendifina&gt;</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1049,15 +1049,7 @@ save the history for this contact.</source>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
-        <translation type="unfinished">Aldoni URL-on</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished">&amp;Bone</translation>
+        <translation>Aldoni URL-on</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -1068,20 +1060,20 @@ save the history for this contact.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;Bone</translation>
+    </message>
+    <message>
         <source>Alt+O</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AddUser</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
     <message>
         <source>Add Contact</source>
         <translation type="unfinished"></translation>
@@ -1143,6 +1135,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
+    </message>
+    <message>
         <source>Alt+A</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1159,11 +1159,20 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Kaŝita</translation>
+        <translation>Kaŝita</translation>
     </message>
     <message>
         <source>Add User: Error</source>
         <translation>Aldoni Uzanton: Eraro</translation>
+    </message>
+    <message>
+        <source>Please fill in the XMPP address of the person you wish to add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XMPP address you entered is not valid!
+Make sure you enter a fully qualified XMPP address.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add User: Success</source>
@@ -1176,15 +1185,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Error</source>
         <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The XMPP address you entered is not valid!
-Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;qt&gt;
@@ -1214,20 +1214,20 @@ There was an error getting the Service ID translation information from &quot;%1&
 <context>
     <name>AttentionPlugin</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
-    <message>
         <source> sends Attention message to you!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send Attention</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1269,22 +1269,6 @@ To work correctly, the plugin requires that the client of the other part support
 <context>
     <name>AutoReply</name>
     <message>
-        <source>Away</source>
-        <translation type="unfinished">For</translation>
-    </message>
-    <message>
-        <source>XA</source>
-        <translation type="unfinished">Ne disponebla</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="unfinished">Babilo</translation>
-    </message>
-    <message>
-        <source>Invisible</source>
-        <translation type="unfinished">Nevidebla</translation>
-    </message>
-    <message>
         <source>Enable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1302,11 +1286,27 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Konektita</translation>
+    </message>
+    <message>
+        <source>Away</source>
+        <translation>For</translation>
     </message>
     <message>
         <source>Dnd</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XA</source>
+        <translation>Ne disponebla</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Babilo</translation>
+    </message>
+    <message>
+        <source>Invisible</source>
+        <translation>Nevidebla</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -1430,7 +1430,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished">Avataro</translation>
+        <translation>Avataro</translation>
     </message>
     <message>
         <source>Save Image</source>
@@ -1449,11 +1449,11 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
+        <translation>Elektu sondosieron</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1500,10 +1500,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1517,6 +1513,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1554,20 +1554,12 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>Call</name>
     <message>
-        <source>To:</source>
-        <translation type="unfinished">Al:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="unfinished">&amp;Malakcepti</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="unfinished">&amp;Akcepti</translation>
-    </message>
-    <message>
         <source>Dialog</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>Al:</translation>
     </message>
     <message>
         <source>Use video</source>
@@ -1581,32 +1573,20 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Call status</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Reject</source>
+        <translation>&amp;Malakcepti</translation>
+    </message>
+    <message>
+        <source>&amp;Accept</source>
+        <translation>&amp;Akcepti</translation>
+    </message>
 </context>
 <context>
     <name>CallDlg::Private</name>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="unfinished">Pretas</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="unfinished">De:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="unfinished">Akceptanta...</translation>
+        <translation>Alvoko</translation>
     </message>
     <message>
         <source>High (1Mbps)</source>
@@ -1621,16 +1601,36 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
         <source>C&amp;all</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready</source>
+        <translation>Pretas</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Accept call?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Nuligi</translation>
+    </message>
+    <message>
         <source>Calling...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepting...</source>
+        <translation>Akceptanta...</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
@@ -1697,10 +1697,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CertificateDisplay</name>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
         <source>Certificate Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1720,13 +1716,13 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Serial Number:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
 </context>
 <context>
     <name>CertificateDisplayDialog</name>
-    <message>
-        <source>Reason: %1.</source>
-        <translation type="unfinished">Kialo: %1.</translation>
-    </message>
     <message>
         <source>The certificate is valid.</source>
         <translation type="unfinished"></translation>
@@ -1734,6 +1730,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>The certificate is NOT valid!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1.</source>
+        <translation type="unfinished">Kialo: %1.</translation>
     </message>
     <message>
         <source>Subject Details:</source>
@@ -1835,24 +1835,44 @@ Kialo: %1</translation>
 <context>
     <name>ChatDlg</name>
     <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Message length</source>
-        <translation type="unfinished">Longeco de mesaĝo</translation>
+        <translation>Longeco de mesaĝo</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
+        <translation>Alvoko</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation type="unfinished">Inversigi aktivecon de ĉifrado</translation>
+        <translation>Inversigi aktivecon de ĉifrado</translation>
     </message>
     <message>
         <source>Select icon</source>
-        <translation type="unfinished">Elekti piktogramon</translation>
+        <translation>Elekti piktogramon</translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished">Avataro</translation>
+        <translation>Avataro</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -1900,26 +1920,6 @@ Do you still want to close the window?</source>
         <source>%1 ended the conversation</source>
         <translation>%1 finis la babiladon</translation>
     </message>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Actions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ChatEdit</name>
@@ -1932,11 +1932,11 @@ Do you still want to close the window?</source>
     <name>ChatView</name>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished">%1 diras:</translation>
+        <translation>%1 diras:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">Temo:</translation>
+        <translation>Temo:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -1976,14 +1976,6 @@ to play chess. He wants to play %2.</source>
 </context>
 <context>
     <name>ChessPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
@@ -2030,6 +2022,14 @@ to play chess. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2046,14 +2046,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 </context>
 <context>
     <name>ChessWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished">Eliri</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="unfinished">Dosiero</translation>
-    </message>
     <message>
         <source>Chess Board</source>
         <translation type="unfinished"></translation>
@@ -2076,12 +2068,20 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Quit</source>
+        <translation>Eliri</translation>
+    </message>
+    <message>
         <source>Resign</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable sound</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Dosiero</translation>
     </message>
     <message>
         <source>Game</source>
@@ -2100,18 +2100,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Eliri</translation>
-    </message>
-    <message>
         <source>Psi+ Cleaner</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2126,6 +2114,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Avatars</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Opcioj</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -2160,8 +2152,16 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
         <source>Choose &amp;Profile</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation>&amp;Eliri</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2280,11 +2280,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished">Avataro</translation>
+        <translation>Avataro</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Grandeco</translation>
+        <translation>Grandeco</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2294,16 +2294,16 @@ You can preview items before deleting them from your hard drive.</source>
 <context>
     <name>ClearingModel</name>
     <message>
-        <source>Size</source>
-        <translation type="unfinished">Grandeco</translation>
-    </message>
-    <message>
         <source>Nick</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Domain</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Grandeco</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2314,7 +2314,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
+        <translation>Opcioj</translation>
     </message>
     <message>
         <source>Values</source>
@@ -2391,7 +2391,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="obsolete">Fermi Langeton</translation>
+        <translation type="vanished">Fermi Langeton</translation>
     </message>
 </context>
 <context>
@@ -2444,6 +2444,13 @@ You can specify the version of the client and OS or to select them from the pres
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
+
+Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2451,79 +2458,16 @@ You can specify the version of the client and OS or to select them from the pres
         <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
-Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
-
-Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ContactListAccountMenu::Private</name>
     <message>
         <source>&amp;Status</source>
-        <translation type="unfinished">&amp;Stato</translation>
+        <translation>&amp;Stato</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished">Humoro</translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="unfinished">Difini Avataron</translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="unfinished">Forigi Avataron</translation>
-    </message>
-    <message>
-        <source>Join Groupchat</source>
-        <translation type="unfinished">Aliĝi al babilejo</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="unfinished">Malkovri &amp;Servojn</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Account...</source>
-        <translation type="unfinished">&amp;Modifi Konton...</translation>
-    </message>
-    <message>
-        <source>Online Users</source>
-        <translation type="unfinished">Enretaj Uzantoj</translation>
-    </message>
-    <message>
-        <source>Set MOTD</source>
-        <translation type="unfinished">Agordi MDLT-on</translation>
-    </message>
-    <message>
-        <source>Update MOTD</source>
-        <translation type="unfinished">Ĝisdatigi MDLT-on</translation>
-    </message>
-    <message>
-        <source>Delete MOTD</source>
-        <translation type="unfinished">Forviŝi MDLT-on</translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="unfinished">Avataro</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
-    </message>
-    <message>
-        <source>Plugins</source>
-        <translation type="unfinished">Kromaĵoj</translation>
-    </message>
-    <message>
-        <source>&amp;Admin</source>
-        <translation type="unfinished">&amp;Administri</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="unfinished">Aliĝi al %1</translation>
+        <translation>Humoro</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -2534,6 +2478,14 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Avatar</source>
+        <translation>Difini Avataron</translation>
+    </message>
+    <message>
+        <source>Unset Avatar</source>
+        <translation>Forigi Avataron</translation>
+    </message>
+    <message>
         <source>&amp;Contacts Manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2542,8 +2494,16 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Groupchat</source>
+        <translation>Aliĝi al babilejo</translation>
+    </message>
+    <message>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service &amp;Discovery</source>
+        <translation>Malkovri &amp;Servojn</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
@@ -2555,11 +2515,51 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XMLa konzolo</translation>
+    </message>
+    <message>
+        <source>&amp;Modify Account...</source>
+        <translation>&amp;Modifi Konton...</translation>
+    </message>
+    <message>
+        <source>Online Users</source>
+        <translation>Enretaj Uzantoj</translation>
     </message>
     <message>
         <source>Send Server Message</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set MOTD</source>
+        <translation>Agordi MDLT-on</translation>
+    </message>
+    <message>
+        <source>Update MOTD</source>
+        <translation>Ĝisdatigi MDLT-on</translation>
+    </message>
+    <message>
+        <source>Delete MOTD</source>
+        <translation>Forviŝi MDLT-on</translation>
+    </message>
+    <message>
+        <source>Avatar</source>
+        <translation>Avataro</translation>
+    </message>
+    <message>
+        <source>Groupchat</source>
+        <translation>Babilejoj</translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation>Kromaĵoj</translation>
+    </message>
+    <message>
+        <source>&amp;Admin</source>
+        <translation>&amp;Administri</translation>
+    </message>
+    <message>
+        <source>Join %1</source>
+        <translation>Aliĝi al %1</translation>
     </message>
 </context>
 <context>
@@ -2585,27 +2585,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished">Re&amp;nomi</translation>
-    </message>
-    <message>
-        <source>Remove Group and Contacts</source>
-        <translation type="unfinished">Forigi Grupon kaj Kontaktulojn</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="obsolete">For&amp;igi</translation>
-    </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="unfinished">Forigi Grupon</translation>
-    </message>
-    <message>
-        <source>Hidden</source>
-        <translation type="unfinished">Kaŝita</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="unfinished">Rajtigo</translation>
+        <translation>Re&amp;nomi</translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
@@ -2624,6 +2604,14 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove Group and Contacts</source>
+        <translation>Forigi Grupon kaj Kontaktulojn</translation>
+    </message>
+    <message>
+        <source>Remove Group</source>
+        <translation>Forigi Grupon</translation>
+    </message>
+    <message>
         <source>Send Message to Group</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2640,10 +2628,18 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hidden</source>
+        <translation>Kaŝita</translation>
+    </message>
+    <message>
+        <source>Authorization</source>
+        <translation>Rajtigo</translation>
+    </message>
+    <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
+        <translation>Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
 
 Ĉu efektivigi?</translation>
     </message>
@@ -2652,7 +2648,7 @@ Proceed?</source>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Agentoj/Kluzoj</translation>
+        <translation>Agentoj/Kluzoj</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -2661,20 +2657,6 @@ Proceed?</source>
     <message>
         <source>Conferences</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ContactListModel</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>Agents/Transports</source>
-        <translation type="obsolete">Agentoj/Kluzoj</translation>
     </message>
 </context>
 <context>
@@ -2687,18 +2669,6 @@ Proceed?</source>
 <context>
     <name>ContactManagerDlg</name>
     <message>
-        <source>Execute</source>
-        <translation type="unfinished">Ruli</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="unfinished">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
         <source>Contacts Manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2709,6 +2679,18 @@ Proceed?</source>
     <message>
         <source>Action</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Execute</source>
+        <translation>Ruli</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Mesaĝo</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Auth request</source>
@@ -2810,24 +2792,24 @@ Proceed?</source>
 <context>
     <name>ContactManagerModel</name>
     <message>
-        <source>Node</source>
-        <translation type="unfinished">Nodo</translation>
-    </message>
-    <message>
-        <source>Subscription</source>
-        <translation type="unfinished">Abono</translation>
-    </message>
-    <message>
         <source>Nick</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupi</translation>
+    </message>
+    <message>
+        <source>Node</source>
+        <translation>Nodo</translation>
     </message>
     <message>
         <source>Domain</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription</source>
+        <translation>Abono</translation>
     </message>
 </context>
 <context>
@@ -2852,227 +2834,8 @@ Proceed?</source>
         <translation>Ĝenerala</translation>
     </message>
     <message>
-        <source>Not in list</source>
-        <translation type="obsolete">Ne estas en listo</translation>
-    </message>
-    <message>
         <source>Agents/Transports</source>
         <translation>Agentoj/Kluzoj</translation>
-    </message>
-    <message>
-        <source>Private Messages</source>
-        <translation type="obsolete">Privataj Mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Online Users</source>
-        <translation type="obsolete">Enretaj Uzantoj</translation>
-    </message>
-    <message>
-        <source>Set MOTD</source>
-        <translation type="obsolete">Agordi MDLT-on</translation>
-    </message>
-    <message>
-        <source>Update MOTD</source>
-        <translation type="obsolete">Ĝisdatigi MDLT-on</translation>
-    </message>
-    <message>
-        <source>Delete MOTD</source>
-        <translation type="obsolete">Forviŝi MDLT-on</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <translation type="obsolete">&amp;Stato</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="obsolete">Humoro</translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="obsolete">Difini Avataron</translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="obsolete">Forigi Avataron</translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="obsolete">Avataro</translation>
-    </message>
-    <message>
-        <source>Manage...</source>
-        <translation type="obsolete">Administri...</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="obsolete">Aliĝi al %1</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="obsolete">Legosignoj</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="obsolete">Malkovri &amp;Servojn</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="obsolete">&amp;XML Konzolo</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Account...</source>
-        <translation type="obsolete">&amp;Modifi Konton...</translation>
-    </message>
-    <message>
-        <source>&amp;Admin</source>
-        <translation type="obsolete">&amp;Administri</translation>
-    </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="obsolete">Forigi Grupon</translation>
-    </message>
-    <message>
-        <source>Remove Group and Contacts</source>
-        <translation type="obsolete">Forigi Grupon kaj Kontaktulojn</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="obsolete">Kaŝi</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="obsolete">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
-
-Ĉu efektivigi?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>WARNING!  This will remove all contacts associated with this group!
-
-Proceed?</source>
-        <translation type="obsolete">ATENTU!  Tio ĉi forigos ĉiujn kontaktulojn kiuj rilatas kun tiu ĉi grupo!
-
-Ĉu efektivigi?</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Alvoko</translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <translation type="obsolete">&amp;Neniu</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <translation type="obsolete">&amp;Grupo</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Rajtigo</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="obsolete">&amp;Bildo</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="obsolete">Rajtigi</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Sendi rajtigilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="obsolete">Krei Novan Grupon</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="obsolete">Aldonintas/Rajtigintas &lt;b&gt;%1&lt;/b&gt; al la kontaktolisto.</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Repetintas rajtigilon de &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Forigi</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="obsolete">Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="obsolete">Invito</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="obsolete">Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="obsolete">Ĉu vi certas ke vi volas elpreni &lt;b&gt;%1&lt;/b&gt; el via kontaktolisto?</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>You already have a group with that name.</source>
-        <translation type="obsolete">Vi jam havas grupon kun tiu nomo.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactView</name>
-    <message>
-        <source>Hidden</source>
-        <translation type="obsolete">Kaŝita</translation>
-    </message>
-    <message>
-        <source>Re&amp;name</source>
-        <translation type="obsolete">Re&amp;nomi</translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="obsolete">&amp;Asigni Propran Bildon</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="obsolete">&amp;Forigi Propran Bildon</translation>
-    </message>
-    <message>
-        <source>&amp;History</source>
-        <translation type="obsolete">&amp;Historio</translation>
-    </message>
-    <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Ensaluti</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="obsolete">&amp;Forigi</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="obsolete">Uzanta &amp;Informo</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="obsolete">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3094,15 +2857,15 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="obsolete">Krei Novan Grupon</translation>
+        <translation type="vanished">Krei Novan Grupon</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
+        <translation type="vanished">Aldoni</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="obsolete">&lt;Neniu&gt;</translation>
+        <translation type="vanished">&lt;Neniu&gt;</translation>
     </message>
 </context>
 <context>
@@ -3116,15 +2879,7 @@ Proceed?</source>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">Malkovri servojn</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="unfinished">&amp;Trarigardi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
+        <translation>Malkovri servojn</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
@@ -3140,6 +2895,10 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Browse</source>
+        <translation>&amp;Trarigardi</translation>
+    </message>
+    <message>
         <source>Filter by JID:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3151,29 +2910,13 @@ Proceed?</source>
         <source>Automatically get item information</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
-    <message>
-        <source>Auto</source>
-        <translation type="obsolete">Aŭtomatike</translation>
-    </message>
-    <message>
-        <source>Automatically determine protocol</source>
-        <translation type="obsolete">Aŭtomatike determini protokolon</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Malkovri servojn</translation>
-    </message>
-    <message>
-        <source>Browse Services</source>
-        <translation type="obsolete">Trarigardi Servojn</translation>
-    </message>
-    <message>
-        <source>Browse Agents</source>
-        <translation type="obsolete">Trarigari Agentojn</translation>
-    </message>
     <message>
         <source>Browse</source>
         <translation>Trarigardi</translation>
@@ -3223,6 +2966,14 @@ Proceed?</source>
         <translation>&amp;Registriĝi</translation>
     </message>
     <message>
+        <source>Unregister</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Unregister</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Search</source>
         <translation>Serĉi</translation>
     </message>
@@ -3263,24 +3014,16 @@ Proceed?</source>
         <translation>&amp;Aldoni al kontaktolisto</translation>
     </message>
     <message>
-        <source>Service Discovery toolbar</source>
-        <translation>Serva Malkrovrilobreto</translation>
-    </message>
-    <message>
-        <source>Unregister</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Unregister</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Query version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Query version</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Discovery toolbar</source>
+        <translation>Serva Malkrovrilobreto</translation>
     </message>
 </context>
 <context>
@@ -3292,14 +3035,6 @@ Proceed?</source>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Okazis eraro akirante la elementojn por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="obsolete">Okazis eraro foliumante la elementojn por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="obsolete">Okazis eraro akirante la agenton por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -3351,14 +3086,6 @@ Proceed?</source>
 <context>
     <name>Drawer</name>
     <message>
-        <source>Yes</source>
-        <translation type="unfinished">Jes</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished">Ne</translation>
-    </message>
-    <message>
         <source>Error moving</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3374,6 +3101,14 @@ Proceed?</source>
         <source>Do you want to castle?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Yes</source>
+        <translation>Jes</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Ne</translation>
+    </message>
 </context>
 <context>
     <name>EDBFlatFile::File</name>
@@ -3388,14 +3123,6 @@ Proceed?</source>
 </context>
 <context>
     <name>EditItemDlg</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
     <message>
         <source>Watch For...</source>
         <translation type="unfinished"></translation>
@@ -3436,6 +3163,14 @@ Proceed?</source>
     <message>
         <source>Sound:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3503,15 +3238,15 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Missed messages: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3825,19 +3560,7 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Babilo</translation>
-    </message>
-    <message>
-        <source>Menu</source>
-        <translation type="unfinished">Menuo</translation>
-    </message>
-    <message>
-        <source>Misc</source>
-        <translation type="unfinished">Diversaĵo</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
+        <translation>Babilo</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3848,12 +3571,20 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Menu</source>
+        <translation>Menuo</translation>
+    </message>
+    <message>
         <source>Look</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CSS</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Misc</source>
+        <translation>Diversaĵo</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
@@ -3913,7 +3644,7 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -3932,22 +3663,6 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow groupchat highlight events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatically accept the default room configuration</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3962,6 +3677,27 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat</source>
+        <translation>Babilejoj</translation>
+    </message>
+    <message>
+        <source>Enable autojoin for bookmarked groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide groupchat on auto-join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable HTML rendering in groupchat chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4133,6 +3869,10 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enable sound notifications for every groupchat message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ToolTip text color:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4193,10 +3933,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable multirow tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Action for mouse middle click on tabs:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4218,10 +3954,6 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable sound notifications for every groupchat message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4256,12 +3988,15 @@ Importantly: a large part of the options are important system settings. These re
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Store MUC private messages in history</source>
+        <source>Allow groupchat highlight events</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable autojoin to following groupchats:
-(specify JIDs)</source>
+        <source>Enable multirow tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store MUC private messages in history</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4365,6 +4100,10 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Ĉiuj dosieroj (*)</translation>
     </message>
     <message>
+        <source>The XMPP address specified is not valid.  Correct this and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>La specifita dosiero ne ekzistas.  Elektu korektan dosieron antaŭ ol sendi.</translation>
     </message>
@@ -4438,17 +4177,9 @@ atingeblas.  Se vi estas malantaŭ fajromuro, vi devos certiĝi
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Ne eblas akcepti la dosieron.  Eble la sendanto nuligis la peton.</translation>
     </message>
-    <message>
-        <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>FileTrans</name>
-    <message>
-        <source>To:</source>
-        <translation type="unfinished">Al:</translation>
-    </message>
     <message>
         <source>Form1</source>
         <translation type="unfinished"></translation>
@@ -4456,6 +4187,10 @@ atingeblas.  Se vi estas malantaŭ fajromuro, vi devos certiĝi
     <message>
         <source>accountlabel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>Al:</translation>
     </message>
     <message>
         <source>File:</source>
@@ -4594,16 +4329,20 @@ Kialo: %3</translation>
         <translation>&amp;Nuligi</translation>
     </message>
     <message>
-        <source>Cl&amp;ear</source>
-        <translation>&amp;Viŝi</translation>
-    </message>
-    <message>
         <source>&amp;Open Containing Folder</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cl&amp;ear</source>
+        <translation>&amp;Viŝi</translation>
     </message>
 </context>
 <context>
     <name>FileTransferHandler</name>
+    <message>
+        <source>Querying proxy...</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Proxy query successful.</source>
         <translation>Demando al prokura kluzo sukcesis.</translation>
@@ -4647,10 +4386,6 @@ Kialo: %3</translation>
     <message>
         <source>Lost connection / Cancelled.</source>
         <translation>Perdiĝis konekto / Nuligitas.</translation>
-    </message>
-    <message>
-        <source>Querying proxy...</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4731,6 +4466,22 @@ Kialo: %3</translation>
 <context>
     <name>GCMainDlg</name>
     <message>
+        <source>Find toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Nickname...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Command...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source> by %1</source>
         <translation> de %1</translation>
     </message>
@@ -4739,6 +4490,18 @@ Kialo: %3</translation>
 Reason: %1</source>
         <translation>
 Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: Cannot parse command: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4763,12 +4526,20 @@ Kialo: %1</translation>
         <translation>Eraro: Vi jam estas ena aŭ enirantas ĉi tiun babilejon!</translation>
     </message>
     <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Neantaŭvidita babileja eraro: %1</translation>
     </message>
     <message>
         <source>Please choose a different nickname</source>
         <translation>Bonvolu elekti malsaman kromnomon</translation>
+    </message>
+    <message>
+        <source>An error occurred (errorcode: %1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New room created</source>
@@ -4787,6 +4558,10 @@ Kialo: %1</translation>
         <translation>%2 aliĝis al la babilejo kiel %1</translation>
     </message>
     <message>
+        <source> and now is %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now %2 and %3</source>
         <translation>%1 estas nun %2 kaj %3</translation>
     </message>
@@ -4795,12 +4570,20 @@ Kialo: %1</translation>
         <translation>%1 estas nun %2</translation>
     </message>
     <message>
+        <source> (Reason: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>This room has been destroyed.</source>
         <translation>Tiu babilejo estis malkonstruita.</translation>
     </message>
     <message>
         <source>Reason: %1</source>
         <translation>Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Room Destroyed</source>
@@ -4813,6 +4596,10 @@ Kialo: %1</translation>
     <message>
         <source>You have been banned from the room</source>
         <translation>Vi estis forbarita el la babilejo</translation>
+    </message>
+    <message>
+        <source>You have been banned from the room by %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 has been banned</source>
@@ -4831,6 +4618,10 @@ Kialo: %1</translation>
         <translation>Vi estis forĵetita el la babilejo</translation>
     </message>
     <message>
+        <source>You have been kicked from the room by %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 has been kicked</source>
         <translation>%1 estis forĵetita</translation>
     </message>
@@ -4847,6 +4638,10 @@ Kialo: %1</translation>
         <translation>Vi estis forigita el la babilejo pro partnera ŝanĝo</translation>
     </message>
     <message>
+        <source>You have been removed from the room by %1 due to an affiliation change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 estis forigita el la babilejo pro partnera ŝanĝo</translation>
     </message>
@@ -4857,6 +4652,10 @@ Kialo: %1</translation>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Vi estis forigita de la babilejo pro ĝi faritis nur por membroj</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 because the room was made members only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
@@ -4875,36 +4674,20 @@ Kialo: %1</translation>
         <translation>%1 foriris de la babilejo</translation>
     </message>
     <message>
+        <source>The topic has been set to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> has unset the topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> has set the topic to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connected.</source>
         <translation>Konektitas.</translation>
-    </message>
-    <message>
-        <source>Find toolbar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change Nickname...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Command...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add to bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error: Cannot parse command: </source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
@@ -4934,54 +4717,6 @@ Kialo: %1</translation>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred (errorcode: %1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> and now is %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> (Reason: %1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have been banned from the room by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have been kicked from the room by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The topic has been set to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> has unset the topic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> has set the topic to</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -5009,16 +4744,40 @@ Kialo: %1</translation>
         <translation>Vizitantoj</translation>
     </message>
     <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
+        <translation>Alvoko</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Kick</source>
         <translation>&amp;Forĵeti</translation>
     </message>
     <message>
+        <source>No reason</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Ban</source>
         <translation>&amp;Forbari</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visitor</source>
@@ -5031,34 +4790,6 @@ Kialo: %1</translation>
     <message>
         <source>Moderator</source>
         <translation>Kontrolanto</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>Malfermi &amp;babilan fenestron</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -5079,6 +4810,10 @@ Kialo: %1</translation>
     <message>
         <source>Owner</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>Malfermi &amp;babilan fenestron</translation>
     </message>
 </context>
 <context>
@@ -5258,6 +4993,10 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You are already playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5265,21 +5004,9 @@ You lost the game.</source>
         <source>From: %1&lt;br /&gt;Game error.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>You are already playing!</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>GeneralGroupchat</name>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
     <message>
         <source>GeneralGroupchatUI</source>
         <translation type="unfinished"></translation>
@@ -5313,8 +5040,16 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
         <source>Removes the selected word from the highlight list</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
@@ -5355,10 +5090,6 @@ You lost the game.</source>
 </context>
 <context>
     <name>GeoLocation</name>
-    <message>
-        <source>Error:</source>
-        <translation type="unfinished">Eraro:</translation>
-    </message>
     <message>
         <source>Set GeoLocation</source>
         <translation type="unfinished"></translation>
@@ -5418,6 +5149,10 @@ You lost the game.</source>
     <message>
         <source>A natural-language name for or description of the location</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error:</source>
+        <translation>Eraro:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5568,14 +5303,6 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
-    <message>
         <source>No-save state for contact %1 is changed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5594,6 +5321,14 @@ You lost the game.</source>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5667,11 +5402,11 @@ to play gomoku. He wants to play %2.</source>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
+        <translation>Elektu sondosieron</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5743,15 +5478,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="unfinished">&amp;Trarigardi</translation>
+        <translation>Babilejoj</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse</source>
+        <translation>&amp;Trarigardi</translation>
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
@@ -5765,16 +5500,16 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Select icon</source>
-        <translation type="unfinished">Elekti piktogramon</translation>
-    </message>
-    <message>
         <source>Topic:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AccountLabel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select icon</source>
+        <translation>Elekti piktogramon</translation>
     </message>
     <message>
         <source>Actions</source>
@@ -5800,11 +5535,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupMenu</name>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Neniu</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="unfinished">Krei Novan Grupon</translation>
+        <translation>&amp;Neniu</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
@@ -5813,6 +5544,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Create New...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create New Group</source>
+        <translation>Krei Novan Grupon</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
@@ -5869,11 +5604,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Ne estas en listo</translation>
+        <translation>Ne estas en listo</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -5891,34 +5626,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>&amp;Previous</source>
-        <translation>&amp;Antaŭa</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation>&amp;Sekvanta</translation>
-    </message>
-    <message>
-        <source>Export message history</source>
-        <translation>Eksporti la mesaĝan historion</translation>
-    </message>
-    <message>
-        <source>Text files (*.txt);;All files (*.*)</source>
-        <translation>Tekstaj dosieroj (*.txt);;Ĉiaj dosieroj (*.*)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Error writing to file.</source>
-        <translation>Eraro skribante en dosieron.</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
         <source>HistoryDlg</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5935,6 +5642,14 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Previous</source>
+        <translation>&amp;Antaŭa</translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation>&amp;Sekvanta</translation>
+    </message>
+    <message>
         <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5945,6 +5660,22 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export message history</source>
+        <translation>Eksporti la mesaĝan historion</translation>
+    </message>
+    <message>
+        <source>Text files (*.txt);;All files (*.*)</source>
+        <translation>Tekstaj dosieroj (*.txt);;Ĉiaj dosieroj (*.*)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>Error writing to file.</source>
+        <translation>Eraro skribante en dosieron.</translation>
     </message>
     <message>
         <source>&amp;Open chat</source>
@@ -5979,6 +5710,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
         <source>Close history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6011,11 +5746,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="obsolete">Stato:</translation>
+        <translation type="vanished">Stato:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
+        <translation type="vanished">Eraro</translation>
     </message>
 </context>
 <context>
@@ -6050,7 +5785,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>Fermi</translation>
     </message>
 </context>
 <context>
@@ -6138,23 +5873,23 @@ p, li { white-space: pre-wrap; }
     <name>HttpProxyGetStream</name>
     <message>
         <source>Authentication failed</source>
-        <translation type="unfinished">Aŭtentikado ne sukcesis</translation>
+        <translation>Aŭtentikado ne sukcesis</translation>
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished">Servilo ne trovitas</translation>
-    </message>
-    <message>
-        <source>Connection refused</source>
-        <translation type="unfinished">La konekto estas rifuzita</translation>
-    </message>
-    <message>
-        <source>Invalid reply</source>
-        <translation type="unfinished">Nevalida respondo</translation>
+        <translation>Servilo ne trovitas</translation>
     </message>
     <message>
         <source>Access denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliro rifuzitas</translation>
+    </message>
+    <message>
+        <source>Connection refused</source>
+        <translation>La konekto estas rifuzita</translation>
+    </message>
+    <message>
+        <source>Invalid reply</source>
+        <translation>Nevalida respondo</translation>
     </message>
 </context>
 <context>
@@ -6183,8 +5918,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image preview width</source>
@@ -6200,14 +5951,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6235,10 +5978,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6248,10 +5987,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6426,16 +6161,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IconsetRoster</name>
     <message>
-        <source>Default</source>
-        <translation type="unfinished">Defaŭlto</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
-    <message>
         <source>IconsetRosterUI</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>Defaŭlto</translation>
     </message>
     <message>
         <source>Default roster iconset:</source>
@@ -6476,6 +6207,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Regular expression:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -6600,6 +6335,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6632,10 +6371,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
         <translation type="unfinished"></translation>
@@ -6644,20 +6379,8 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>Work</source>
-        <translation type="unfinished">Laboro</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="unfinished">Pri</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished">Stato</translation>
-    </message>
-    <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6668,11 +6391,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View in real size</source>
+        <source>Alt+V</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+V</source>
+        <source>View in real size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6706,6 +6429,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Nickname:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation>Laboro</translation>
     </message>
     <message>
         <source>Company:</source>
@@ -6747,13 +6474,17 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>About</source>
+        <translation>Pri</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stato</translation>
+    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -6779,68 +6510,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InfoWidget</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Malfermi foliumilon</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished">Vi ne publikis la ŝanĝojn de informo de via konto.
-Ĉu vi certas ke vi volas forĵeti ilin?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="unfinished">Fermi kaj forĵeti</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="unfinished">Ne fermi</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="unfinished">Sukceso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="unfinished">La informo de via konto publikiĝis.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished">Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="unfinished">Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="unfinished">Ne eblas publikigi la informon de via konto.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="unfinished">Bildo ne
-disponebla</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished">Stato</translation>
-    </message>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6862,6 +6541,10 @@ disponebla</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation>Malfermi foliumilon</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6871,7 +6554,59 @@ disponebla</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Averto</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation>Vi ne publikis la ŝanĝojn de informo de via konto.
+Ĉu vi certas ke vi volas forĵeti ilin?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation>Fermi kaj forĵeti</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation>Ne fermi</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation>Sukceso</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation>La informo de via konto publikiĝis.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation>Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation>Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation>Ne eblas publikigi la informon de via konto.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation>Bildo ne
+disponebla</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stato</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -6918,7 +6653,7 @@ Reason: %1</source>
 <context>
     <name>InvitationDialog</name>
     <message>
-        <source>Gomoku Game Plugin - Invitation</source>
+        <source>Chess Plugin - Invitation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6930,7 +6665,7 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chess Plugin - Invitation</source>
+        <source>Gomoku Game Plugin - Invitation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6953,11 +6688,7 @@ to play battleship. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished">Invito</translation>
-    </message>
-    <message>
-        <source>Battliship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Invito</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6965,14 +6696,6 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I want to play first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I want to play second</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6987,21 +6710,21 @@ to play battleship. He wants to play %2.</source>
         <source>Play Black</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>JDMainWin</name>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="unfinished">Sendi Dosieron</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="unfinished">Helpo</translation>
-    </message>
     <message>
         <source>Refresh</source>
         <translation type="unfinished"></translation>
@@ -7027,6 +6750,10 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
         <source>Make dir</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7035,12 +6762,20 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Send File</source>
+        <translation>Sendi Dosieron</translation>
+    </message>
+    <message>
         <source>Hash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Helpo</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -7097,12 +6832,12 @@ to play battleship. He wants to play %2.</source>
 <context>
     <name>JuickJidDialog</name>
     <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
         <source>Set JIDs of Juick Bot</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7124,7 +6859,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Averto</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
@@ -7173,16 +6908,16 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
 <context>
     <name>LookFeelToolbars</name>
     <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
-    <message>
         <source>LookFeelToolbarsUI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbar:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -7245,7 +6980,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
+    </message>
+    <message>
+        <source>Reason</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Members</source>
@@ -7263,25 +7002,9 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <source>Banned</source>
         <translation>Forbarita</translation>
     </message>
-    <message>
-        <source>Reason</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MUCConfig</name>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
     <message>
         <source>Room Configuration</source>
         <translation type="unfinished"></translation>
@@ -7295,8 +7018,16 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>message</source>
@@ -7307,11 +7038,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;VCard</source>
+        <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply</source>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7378,11 +7113,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCJoin</name>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished">Aliĝi al babilejo</translation>
+        <translation>Aliĝi al babilejo</translation>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished">Identeco:</translation>
+        <translation>Identeco:</translation>
     </message>
     <message>
         <source>Recent:</source>
@@ -7508,20 +7243,20 @@ Kialo: %1</translation>
 <context>
     <name>MUCReasonsEditor</name>
     <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
         <source>Reason editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reasons</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Save</source>
@@ -7575,6 +7310,14 @@ Kialo: %1</translation>
         <translation>LeguMin</translation>
     </message>
     <message>
+        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About GStreamer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Sekureca Kromaĵa Diagnoza Tekso</translation>
     </message>
@@ -7596,27 +7339,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished">Stata mesaĝo</translation>
-    </message>
-    <message>
-        <source>Connecting</source>
-        <translation>Konektantas</translation>
-    </message>
-    <message>
-        <source>1 event received</source>
-        <translation>1 evento riceviĝis</translation>
-    </message>
-    <message>
-        <source>%1 events received</source>
-        <translation>%1 evento riceviĝis</translation>
-    </message>
-    <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="unfinished"></translation>
+        <translation>Stata mesaĝo</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -7636,25 +7359,21 @@ Active accounts:</source>
 Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Connecting</source>
+        <translation>Konektantas</translation>
+    </message>
+    <message>
+        <source>1 event received</source>
+        <translation>1 evento riceviĝis</translation>
+    </message>
+    <message>
+        <source>%1 events received</source>
+        <translation>%1 evento riceviĝis</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished">Eliri</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="unfinished">Helpo</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="unfinished">Pretas</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="unfinished">Pri</translation>
-    </message>
     <message>
         <source>New</source>
         <translation type="unfinished"></translation>
@@ -7664,12 +7383,28 @@ Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Quit</source>
+        <translation>Eliri</translation>
+    </message>
+    <message>
         <source>About the game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Game</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Helpo</translation>
+    </message>
+    <message>
+        <source>Ready</source>
+        <translation>Pretas</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>Pri</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7716,15 +7451,11 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Speco</translation>
+        <translation>Speco</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nomo</translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation type="unfinished">Komento</translation>
+        <translation>Nomo</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -7735,12 +7466,12 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expiration</source>
+        <source>Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished"></translation>
+        <source>Comment</source>
+        <translation>Komento</translation>
     </message>
     <message>
         <source>Algorithm</source>
@@ -7770,16 +7501,20 @@ Details: %1</source>
         <source>Sounds (if empty default sound will be used)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Mood</name>
     <message>
-        <source>Type:</source>
-        <translation type="unfinished">Speco:</translation>
-    </message>
-    <message>
         <source>Set Mood</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Speco:</translation>
     </message>
     <message>
         <source>Text:</source>
@@ -7805,7 +7540,7 @@ Details: %1</source>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
-        <translation type="unfinished">Plata</translation>
+        <translation>Plata</translation>
     </message>
 </context>
 <context>
@@ -7822,10 +7557,6 @@ Tags: %1</source>
 </context>
 <context>
     <name>Notes</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
     <message>
         <source>Notebook</source>
         <translation type="unfinished"></translation>
@@ -7863,6 +7594,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7898,19 +7633,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Request receipts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send receipts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not send composing events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request receipts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send receipts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8089,10 +7824,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8122,6 +7853,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>Popup:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8260,18 +7995,6 @@ Tags: %1</source>
 <context>
     <name>OptChat</name>
     <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="obsolete">Neniam</translation>
-    </message>
-    <message>
         <source>OptChatUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8336,8 +8059,20 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Message</source>
+        <translation type="vanished">Mesaĝo</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="vanished">Babilo</translation>
+    </message>
+    <message>
         <source>Delete chat window contents</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation type="vanished">Neniam</translation>
     </message>
     <message>
         <source>Show previews for links</source>
@@ -8349,7 +8084,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Babili</translation>
+        <translation>&amp;Babili</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8371,20 +8106,12 @@ Tags: %1</source>
 <context>
     <name>OptEvents</name>
     <message>
-        <source>Auto-open new messages</source>
-        <translation type="unfinished">Aŭtomate malfermi la novajn mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Auto-authorize contacts</source>
-        <translation type="unfinished">Aŭtomate rajtigi novajn kontaktulojn</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Neniam</translation>
-    </message>
-    <message>
         <source>OptEventsUI</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-open new messages</source>
+        <translation>Aŭtomate malfermi la novajn mesaĝojn</translation>
     </message>
     <message>
         <source>Auto-open new headlines</source>
@@ -8411,12 +8138,20 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Auto-authorize contacts</source>
+        <translation>Aŭtomate rajtigi novajn kontaktulojn</translation>
+    </message>
+    <message>
         <source>Notify when authorization was received</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bounce dock:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation>Neniam</translation>
     </message>
     <message>
         <source>Once</source>
@@ -8473,10 +8208,6 @@ Tags: %1</source>
 <context>
     <name>OptPopups</name>
     <message>
-        <source>Misc</source>
-        <translation type="unfinished">Diversaĵo</translation>
-    </message>
-    <message>
         <source>OptPopupsUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8490,7 +8221,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -8561,6 +8292,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Misc</source>
+        <translation>Diversaĵo</translation>
+    </message>
+    <message>
         <source>Avatar size:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8571,10 +8306,6 @@ Tags: %1</source>
 </context>
 <context>
     <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="unfinished">Grandeco</translation>
-    </message>
     <message>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
@@ -8613,10 +8344,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8684,7 +8411,15 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>Grandeco</translation>
+    </message>
+    <message>
         <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8694,14 +8429,6 @@ Tags: %1</source>
 </context>
 <context>
     <name>OptShortcuts</name>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Edit...</source>
-        <translation type="unfinished">Redakti...</translation>
-    </message>
     <message>
         <source>OptShortcutsUI</source>
         <translation type="unfinished"></translation>
@@ -8717,6 +8444,14 @@ Tags: %1</source>
     <message>
         <source>Add...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation>Redakti...</translation>
     </message>
     <message>
         <source>Restore defaults</source>
@@ -8797,10 +8532,6 @@ Tags: %1</source>
 <context>
     <name>OptStatusAuto</name>
     <message>
-        <source>Priority:</source>
-        <translation type="unfinished">Prioritato:</translation>
-    </message>
-    <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8823,6 +8554,10 @@ Tags: %1</source>
     <message>
         <source>Auto away after:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Prioritato:</translation>
     </message>
     <message>
         <source>Status message:</source>
@@ -8860,38 +8595,6 @@ Tags: %1</source>
 <context>
     <name>OptStatusGeneral</name>
     <message>
-        <source>Free for Chat</source>
-        <translation type="unfinished">Babilema</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="unfinished">For</translation>
-    </message>
-    <message>
-        <source>Not Available</source>
-        <translation type="unfinished">Ne disponebla</translation>
-    </message>
-    <message>
-        <source>Do not Disturb</source>
-        <translation type="unfinished">Ne ĝeni</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished">Ne</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
-    </message>
-    <message>
-        <source>Priority:</source>
-        <translation type="unfinished">Prioritato:</translation>
-    </message>
-    <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8901,11 +8604,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Konektita</translation>
+    </message>
+    <message>
+        <source>Free for Chat</source>
+        <translation>Babilema</translation>
+    </message>
+    <message>
+        <source>Away</source>
+        <translation>For</translation>
+    </message>
+    <message>
+        <source>Not Available</source>
+        <translation>Ne disponebla</translation>
+    </message>
+    <message>
+        <source>Do not Disturb</source>
+        <translation>Ne ĝeni</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Senkonekta</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8922,6 +8641,10 @@ Tags: %1</source>
     <message>
         <source>With standard statuses</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8948,6 +8671,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8962,6 +8689,14 @@ Tags: %1</source>
     <message>
         <source>Name:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation>Stato:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Prioritato:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -9002,8 +8737,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>OptionEditor</name>
     <message>
+        <source>Option:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Type:</source>
-        <translation type="unfinished">Speco:</translation>
+        <translation>Speco:</translation>
+    </message>
+    <message>
+        <source>Value: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi: Option Editor</source>
@@ -9021,77 +8772,9 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 
 Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&apos;.</translation>
     </message>
-    <message>
-        <source>Option:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Option Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Option %1</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Options</name>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="unfinished">Humoro</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished">Neniu</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="unfinished">Kontrolanto</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="unfinished">Partoprenanto</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="unfinished">Vizitanto</translation>
-    </message>
-    <message>
-        <source>Misc</source>
-        <translation type="unfinished">Diversaĵo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished">Stato</translation>
-    </message>
-    <message>
-        <source>All files (*)</source>
-        <translation type="unfinished">Ĉiuj dosieroj (*)</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">Nomo</translation>
-    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
@@ -9178,6 +8861,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Options</source>
+        <translation>Opcioj</translation>
+    </message>
+    <message>
         <source>Auto-popup Captcha dialog</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9187,22 +8874,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9309,6 +8980,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
         <source>Import</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9341,22 +9020,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rules</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Per contact delay between the popup notifications of the same events</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9379,6 +9042,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Tune</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mood</source>
+        <translation>Humoro</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -9413,6 +9080,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Groupchat</source>
+        <translation>Babilejoj</translation>
+    </message>
+    <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9433,8 +9104,24 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>None</source>
+        <translation>Neniu</translation>
+    </message>
+    <message>
         <source>Enable Stop Spam for roles:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation>Kontrolanto</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation>Partoprenanto</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation>Vizitanto</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -9443,6 +9130,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Send message:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Misc</source>
+        <translation>Diversaĵo</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9490,6 +9181,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Status</source>
+        <translation>Stato</translation>
+    </message>
+    <message>
         <source>Delete selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9519,38 +9214,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorizing...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorizing OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorization failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Canceled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cookies are removed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9590,7 +9253,79 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>All files (*)</source>
+        <translation>Ĉiuj dosieroj (*)</translation>
+    </message>
+    <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorizing OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cookies are removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nomo</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9622,6 +9357,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Enables the sending of events when you end or suspend a conversation</source>
         <translation>Ŝaltas la sendadon de eventoj kiam vi ĉesas aŭ suspendas babilon</translation>
+    </message>
+    <message>
+        <source>Request receipts from contacts on each message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send receipts to contacts by request.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -9678,14 +9421,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
         <translation>Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
-    </message>
-    <message>
-        <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9835,15 +9570,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informo</translation>
+        <translation>Informo</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished">Kelkaj opcioj kiujn vi ŝanĝis plene efikos nur post restarto. </translation>
+        <translation>Kelkaj opcioj kiujn vi ŝanĝis plene efikos nur post restarto. </translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Defaŭlto</translation>
+        <translation>Defaŭlto</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9900,6 +9635,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Psi movu malfermitan babilan fenestron al la supro de via ekrano kiam vi ricevas novan mesaĝon. Ĝi ne prenas la klavaran fokuson, do ĝi ne malhelpos vian laboron.</translation>
     </message>
     <message>
+        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi malfermu babilajn fenestrojn en kompakta maniero.</translation>
     </message>
@@ -9926,10 +9665,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tiu ĉi opcio konservos la babilan historion eterne.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
@@ -10079,16 +9814,16 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Transporto</translation>
     </message>
     <message>
-        <source>Toggles use of transport icons to the contacts, that use that transports.</source>
-        <translation>Inversigas uzadon de portransportaj piktogramoj al la kontaktoj kiuj uzas tiajn transportojn.</translation>
-    </message>
-    <message>
         <source>vk.com</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weather</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggles use of transport icons to the contacts, that use that transports.</source>
+        <translation>Inversigas uzadon de portransportaj piktogramoj al la kontaktoj kiuj uzas tiajn transportojn.</translation>
     </message>
 </context>
 <context>
@@ -10106,7 +9841,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -10286,20 +10021,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabStatusGeneral</name>
     <message>
-        <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
-    </message>
-    <message>
-        <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished">Ne eblas krei malplenan antaŭskribaĵon!</translation>
-    </message>
-    <message>
-        <source>You already have a preset with that name!</source>
-        <translation type="unfinished">Vi jam determinis antaŭskribaĵon per tiu nomo!</translation>
-    </message>
-    <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>General status preferences</source>
@@ -10337,6 +10060,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>Can&apos;t create a blank preset!</source>
+        <translation>Ne eblas krei malplenan antaŭskribaĵon!</translation>
+    </message>
+    <message>
+        <source>You already have a preset with that name!</source>
+        <translation>Vi jam determinis antaŭskribaĵon per tiu nomo!</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabStatusPep</name>
@@ -10361,11 +10096,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Babilo</translation>
+        <translation>Babilo</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
+        <translation>Babilejoj</translation>
     </message>
 </context>
 <context>
@@ -10406,22 +10141,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsUI</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
+        <translation>Opcioj</translation>
     </message>
 </context>
 <context>
     <name>OptionsWidget</name>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerale</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10512,10 +10243,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save queries to log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10576,6 +10303,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
         <source>Delete current server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10627,6 +10358,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -10638,18 +10373,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>PGPKeyDlg</name>
     <message>
-        <source>Error</source>
-        <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Please select a key.</source>
-        <translation>Bonvolu elekti ŝlosilon.</translation>
-    </message>
-    <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation>Ŝlosila Konserva Diagnoza Tekso</translation>
-    </message>
-    <message>
         <source>&amp;Diagnostics</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10660,6 +10383,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>User ID</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation>Bonvolu elekti ŝlosilon.</translation>
+    </message>
+    <message>
+        <source>Key Storage Diagnostic Text</source>
+        <translation>Ŝlosila Konserva Diagnoza Tekso</translation>
     </message>
 </context>
 <context>
@@ -10709,14 +10444,6 @@ Kialo: %1.</translation>
 <context>
     <name>Passphrase</name>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished">&amp;Bone</translation>
-    </message>
-    <message>
         <source>OpenPGP Passphrase</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10729,6 +10456,14 @@ Please enter your passphrase below:</source>
         <source>Remember passphrase</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Nuligi</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;Bone</translation>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
@@ -10740,14 +10475,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PepPlugin</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
-    <message>
         <source>Now listening: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -10758,6 +10485,14 @@ Please enter your passphrase below:</source>
     <message>
         <source>Activity changed to &quot;%1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -10799,11 +10534,11 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">Pri</translation>
+        <translation>Pri</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>Fermi</translation>
     </message>
 </context>
 <context>
@@ -10816,23 +10551,7 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginWindow</name>
     <message>
-        <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="unfinished">Dosiero</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished">Eliri</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
-    </message>
-    <message>
-        <source>Battleship game</source>
+        <source>Gomoku Game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10840,43 +10559,11 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Freeze ships position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press button and make move if you want to propose draw</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press button if you want to resign</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Resign the game</source>
-        <translation type="unfinished"></translation>
+        <source>Status:</source>
+        <translation>Stato:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>--</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10884,15 +10571,15 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resign</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gomoku Game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Dosiero</translation>
+    </message>
+    <message>
+        <source>New game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10901,6 +10588,14 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Save game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Eliri</translation>
+    </message>
+    <message>
+        <source>Resign</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10916,11 +10611,7 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Setting ships position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your turn</source>
+        <source>Waiting for opponent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10928,24 +10619,16 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Waiting for opponent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You Win!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You Lose.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Draw</source>
+        <source>Your turn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End of game</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
     </message>
     <message>
         <source>Win!</source>
@@ -10991,11 +10674,63 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You really want to begin new game?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11040,10 +10775,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>Previewer</name>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
         <source>Preview Skin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11068,24 +10799,16 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
         <source>Skin is not valid!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Privacy</name>
-    <message>
-        <source>New List</source>
-        <translation type="unfinished">Nova Listo</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
     <message>
         <source>Settings</source>
         <translation type="unfinished"></translation>
@@ -11107,6 +10830,10 @@ Please enter your passphrase below:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New List</source>
+        <translation>Nova Listo</translation>
+    </message>
+    <message>
         <source>Rename List</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11121,6 +10848,14 @@ Please enter your passphrase below:</source>
     <message>
         <source>Rules</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Up</source>
@@ -11259,16 +10994,12 @@ Please enter your passphrase below:</source>
 <context>
     <name>ProfileManage</name>
     <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Forigi</translation>
-    </message>
-    <message>
         <source>Manage Profiles</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Aldoni</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -11277,6 +11008,10 @@ Please enter your passphrase below:</source>
     <message>
         <source>&amp;Rename</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation>&amp;Forigi</translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -11342,19 +11077,7 @@ Proceed?</source>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation type="unfinished">Nova Profilon</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="unfinished">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="unfinished">Babilo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
+        <translation>Nova Profilon</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -11373,8 +11096,20 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Message</source>
+        <translation>Mesaĝo</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Babilo</translation>
+    </message>
+    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -11407,10 +11142,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>ProfileOpen</name>
     <message>
-        <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Eliri</translation>
-    </message>
-    <message>
         <source>Open Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11437,6 +11168,10 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>Language:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation>&amp;Eliri</translation>
     </message>
     <message>
         <source>psi/quit</source>
@@ -11477,18 +11212,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>Proxy</name>
     <message>
-        <source>Rem&amp;ove</source>
-        <translation type="unfinished">&amp;Forigi</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="unfinished">Speco:</translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished">Uzantonomo:</translation>
-    </message>
-    <message>
         <source>Proxy Profiles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11501,8 +11224,16 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Rem&amp;ove</source>
+        <translation>&amp;Forigi</translation>
+    </message>
+    <message>
         <source>psi/remove</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Speco:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -11519,6 +11250,10 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>Use authentication</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation>Uzantonomo:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -11539,16 +11274,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>ProxyDlg</name>
     <message>
-        <source>Consult your network administrator if necessary.</source>
-        <translation>Konsultu la administriston de via reto se necesas.</translation>
-    </message>
-    <message>
-        <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>Se vi bezonas prokuran servilon por konektiĝi, elektu la specon tie ĉi.</translation>
-    </message>
-    <message>
         <source>Enter the hostname and port of your proxy server.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Consult your network administrator if necessary.</source>
+        <translation>Konsultu la administriston de via reto se necesas.</translation>
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
@@ -11558,23 +11289,27 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If you require a proxy server to connect, select the type of proxy here.</source>
+        <translation>Se vi bezonas prokuran servilon por konektiĝi, elektu la specon tie ĉi.</translation>
+    </message>
 </context>
 <context>
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished">Sennoma</translation>
+        <translation>Sennoma</translation>
     </message>
 </context>
 <context>
     <name>ProxySettingsDlg</name>
     <message>
-        <source>Type:</source>
-        <translation type="unfinished">Speco:</translation>
-    </message>
-    <message>
         <source>Proxy Server Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Speco:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -11616,6 +11351,26 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 Do you want to log out ?</source>
         <translation>La konto nuntempe aktivas.
 Ĉu vi volas adiaŭi?</translation>
+    </message>
+    <message>
+        <source>Reconnecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feature Removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -11778,6 +11533,10 @@ Do you want to log out ?</source>
         <translation>La SASLa meĥanismo tro malfortas por tiu ĉi konto</translation>
     </message>
     <message>
+        <source>Wrong Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Temporary auth failure</source>
         <translation>Momenta nesukceso de aŭtentikado</translation>
     </message>
@@ -11799,6 +11558,10 @@ Details: %1</source>
         <translation>Okazis eraro komunikante la servilon.Detaloj: %1</translation>
     </message>
     <message>
+        <source>Whiteboard invitation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Incoming file</source>
         <translation>Envenanta dosiero</translation>
     </message>
@@ -11807,8 +11570,40 @@ Details: %1</source>
         <translation>Ĉu vi volas akcepti %1 (%2 ko) el %3?</translation>
     </message>
     <message>
+        <source>Logged out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Vi devas esti konektita al la servilo por fari tion ĉi.</translation>
+    </message>
+    <message>
+        <source>Unregister from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Os:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version Query Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Headline</source>
+        <translation>Ĉeflinio</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -11841,66 +11636,6 @@ Kialo: %1.</translation>
         <translation>Publika ŝlosilo: %1</translation>
     </message>
     <message>
-        <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encryption Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wrong Password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Logged out</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unregister from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name:	</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version:	</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Os:	</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Headline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11918,6 +11653,14 @@ Kialo: %1.</translation>
     <message>
         <source>Toggle visibility of special roster groups</source>
         <translation>Ŝanĝi la videblecon de specialaj grupoj de la kontaktlisto</translation>
+    </message>
+    <message>
+        <source>Show Roster Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/disable groups in roster</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -11984,8 +11727,20 @@ Kialo: %1.</translation>
         <translation>Speciala elemento kiu montras nombron de atendantaj eventoj</translation>
     </message>
     <message>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simple way to find contacts with opened chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Buttons</source>
         <translation>Butonoj</translation>
+    </message>
+    <message>
+        <source>&amp;Add a Contact</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -11994,6 +11749,14 @@ Kialo: %1.</translation>
     <message>
         <source>Service &amp;Discovery</source>
         <translation>Malkovri &amp;Servojn</translation>
+    </message>
+    <message>
+        <source>New Blank Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Blank Message</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join Groupchat</source>
@@ -12032,6 +11795,18 @@ Kialo: %1.</translation>
         <translation>Ŝanĝi profilon</translation>
     </message>
     <message>
+        <source>&amp;Change Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play &amp;Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toggles whether sound should be played or not</source>
         <translation>Ŝanĝas ĉu sonoj devas aŭdiĝi</translation>
     </message>
@@ -12068,8 +11843,48 @@ Kialo: %1.</translation>
         <translation>&amp;Administri ŝutojn</translation>
     </message>
     <message>
+        <source>Opens the transfer manager dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Menu Items</source>
         <translation>Elementoj de la menuo</translation>
+    </message>
+    <message>
+        <source>Publish Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish &amp;Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggles whether the currently playing tune should be published or not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Mood for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Activity for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Geolocation for all active accounts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish</source>
@@ -12077,7 +11892,11 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Set Status</source>
-        <translation type="unfinished">Elekti Staton</translation>
+        <translation>Elekti Staton</translation>
+    </message>
+    <message>
+        <source>Smaller alternative to the Status button</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
@@ -12104,6 +11923,26 @@ Kialo: %1.</translation>
         <translation>Ne ĝeni</translation>
     </message>
     <message>
+        <source>Choose status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show dialog to set your status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>Nevidebla</translation>
     </message>
@@ -12122,6 +11961,10 @@ Kialo: %1.</translation>
     <message>
         <source>&amp;ReadMe</source>
         <translation>&amp;LeguMin</translation>
+    </message>
+    <message>
+        <source>Show ReadMe file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
@@ -12172,6 +12015,14 @@ Kialo: %1.</translation>
         <translation>Pri &amp;Qt</translation>
     </message>
     <message>
+        <source>About GStreamer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About &amp;GStreamer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security Plugins</source>
         <translation>Sekurecaj Kromaĵoj</translation>
     </message>
@@ -12192,144 +12043,16 @@ Kialo: %1.</translation>
         <translation>Helpo</translation>
     </message>
     <message>
+        <source>Clear Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find</source>
-        <translation type="unfinished">Trovi</translation>
+        <translation>Trovi</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;Trovi</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="unfinished">Sendi Dosieron</translation>
-    </message>
-    <message>
-        <source>Plugins</source>
-        <translation type="unfinished">Kromaĵoj</translation>
-    </message>
-    <message>
-        <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add a Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New &amp;Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Change Profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play Sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play &amp;Sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opens the transfer manager dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish Tune</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish &amp;Tune</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Mood</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Activity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Geolocation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smaller alternative to the Status button</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose status...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show dialog to set your status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reconnect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reconnect all active accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show ReadMe file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About &amp;GStreamer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trovi</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -12346,6 +12069,14 @@ Kialo: %1.</translation>
     <message>
         <source>Select Icon</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation>Alvoko</translation>
+    </message>
+    <message>
+        <source>Send File</source>
+        <translation>Sendi Dosieron</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
@@ -12368,12 +12099,16 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Configure Room</source>
+        <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <source>Configure Room</source>
+        <translation>Agordi la Babilejon</translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation>Kromaĵoj</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -12395,15 +12130,6 @@ Kialo: %1.</translation>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <source>Warning</source>
-        <translation>Averto</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to clear the chat window?
-(note: does not affect saved history)</source>
-        <translation>Ĉu vi certas ke vi volas viŝi la babilo-fenestron?(noto: tio ĉi ne influas la konservitan historion)</translation>
-    </message>
-    <message>
         <source>Copy user JID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12422,6 +12148,15 @@ Kialo: %1.</translation>
     <message>
         <source>Contact has been switched: %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Averto</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear the chat window?
+(note: does not affect saved history)</source>
+        <translation>Ĉu vi certas ke vi volas viŝi la babilo-fenestron?(noto: tio ĉi ne influas la konservitan historion)</translation>
     </message>
     <message>
         <source>Error: Can not parse command: </source>
@@ -12548,8 +12283,20 @@ Kialo: %1.</translation>
         <translation>Malkapable enŝargi piktogramon.  Bonvolu certiĝi ke Psio estas ĝuste instalita.</translation>
     </message>
     <message>
+        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Bonvolu malkonektiĝi antaŭ ŝanĝi la profilon.</translation>
+    </message>
+    <message>
+        <source>&amp;Disconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported URI type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Information</source>
@@ -12570,6 +12317,14 @@ Kialo: %1.</translation>
     <message>
         <source>I understand</source>
         <translation>Mi komprenas</translation>
+    </message>
+    <message>
+        <source>Call ended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other party canceled call.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
@@ -12598,26 +12353,6 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation>Uzi estantan konton</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsupported URI type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other party canceled call.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Migration is impossible</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12632,126 +12367,34 @@ Migration is possible with Psi-0.15</source>
 <context>
     <name>PsiContact</name>
     <message>
+        <source>General</source>
+        <translation>Ĝenerale</translation>
+    </message>
+    <message>
         <source>Not in list</source>
-        <translation type="unfinished">Ne estas en listo</translation>
+        <translation>Ne estas en listo</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Kaŝita</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="obsolete">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaŝita</translation>
     </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished">Re&amp;nomi</translation>
+        <translation>Re&amp;nomi</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">For&amp;igi</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="obsolete">&amp;Babili</translation>
+        <translation>For&amp;igi</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="unfinished">&amp;Historio</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="unfinished">&amp;Asigni Propran Bildon</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="unfinished">&amp;Forigi Propran Bildon</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <translation type="unfinished">&amp;Grupo</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Kaŝi</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="unfinished">&amp;Bildo</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="unfinished">Invito</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="unfinished">Aldonintas/Rajtigintas &lt;b&gt;%1&lt;/b&gt; al la kontaktolisto.</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="unfinished">Rajtigi</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Sendi rajtigilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished">Repetintas rajtigilon de &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished">Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="unfinished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
+        <translation>&amp;Historio</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Log On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Log &amp;Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12771,7 +12414,131 @@ Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Voice Call</source>
+        <translation>Alvoko</translation>
+    </message>
+    <message>
         <source>Send &amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sen&amp;d Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Assign Custom Picture</source>
+        <translation>&amp;Asigni Propran Bildon</translation>
+    </message>
+    <message>
+        <source>&amp;Clear Custom Picture</source>
+        <translation>&amp;Forigi Propran Bildon</translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>Malfermi &amp;babilan fenestron</translation>
+    </message>
+    <message>
+        <source>&amp;Group</source>
+        <translation>&amp;Grupo</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Kaŝi</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation>&amp;Bildo</translation>
+    </message>
+    <message>
+        <source>Invitation</source>
+        <translation>Invito</translation>
+    </message>
+    <message>
+        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
+    </message>
+    <message>
+        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
+        <translation>Aldonintas/Rajtigintas &lt;b&gt;%1&lt;/b&gt; al la kontaktolisto.</translation>
+    </message>
+    <message>
+        <source>Authorize</source>
+        <translation>Rajtigi</translation>
+    </message>
+    <message>
+        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Sendi rajtigilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
+        <translation>Repetintas rajtigilon de &lt;b&gt;%1&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
+        <translation>Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation>&amp;Jes</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <translation>&amp;Ne</translation>
+    </message>
+    <message>
+        <source>Choose an Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files (*.png *.jpg *.gif)</source>
+        <translation>Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
+    </message>
+    <message>
+        <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Log On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Log &amp;Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12784,22 +12551,6 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Re&amp;move Authorization From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sen&amp;d Status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12819,39 +12570,11 @@ Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Active Chats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Leave</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Always Visible</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unblock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12871,12 +12594,12 @@ Migration is possible with Psi-0.15</source>
     <name>PsiGroupChatBrowseWindow</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
+        <translation>Eraro</translation>
     </message>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="unfinished">Ne eblis eniri babilejon.
+        <translation>Ne eblis eniri babilejon.
 Kialo: %1</translation>
     </message>
     <message>
@@ -13052,12 +12775,28 @@ Would you like to activate that session now?</source>
         <translation>Montri ĉiujn opciojn kiel plata listo.</translation>
     </message>
     <message>
+        <source>Delete...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit...</source>
-        <translation type="unfinished">Redakti...</translation>
+        <translation>Redakti...</translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open a detached option editor window.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="obsolete">Sperta</translation>
+        <translation type="vanished">Sperta</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13074,22 +12813,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really delete all options starting with %1.?</source>
         <translation>Vere forigi ĉiujn opciojn, kiu komencas pes %1.?</translation>
-    </message>
-    <message>
-        <source>Delete...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
@@ -13117,26 +12840,6 @@ Would you like to activate that session now?</source>
 </context>
 <context>
     <name>PsiRosterWidget</name>
-    <message>
-        <source>Remove Group</source>
-        <translation type="obsolete">Forigi Grupon</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="obsolete">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
-
-Ĉu efektivigi?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
     <message>
         <source>Clear</source>
         <translation type="unfinished"></translation>
@@ -13231,650 +12934,6 @@ Proceed?</source>
         <translation>Diversaĵo</translation>
     </message>
     <message>
-        <source>The server did not present a certificate.</source>
-        <translation>La servilo ne prezentis ateston.</translation>
-    </message>
-    <message>
-        <source>Certificate is valid.</source>
-        <translation>La atesto validas.</translation>
-    </message>
-    <message>
-        <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation>La retnodo ne kongruas kun tiu al kiu la ateston oni eldonis.</translation>
-    </message>
-    <message>
-        <source>General certificate validation error.</source>
-        <translation>Ĝenerala eraro de atesta validado.</translation>
-    </message>
-    <message>
-        <source>Eating</source>
-        <translation type="unfinished">Manĝanta</translation>
-    </message>
-    <message>
-        <source>Choose a file</source>
-        <translation type="unfinished">Elektu dosieron</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="unfinished">Dosiero</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation>Senkonekta</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation>For</translation>
-    </message>
-    <message>
-        <source>Not Available</source>
-        <translation>Ne disponebla</translation>
-    </message>
-    <message>
-        <source>Do not Disturb</source>
-        <translation>Ne ĝeni</translation>
-    </message>
-    <message>
-        <source>Free for Chat</source>
-        <translation>Babilema</translation>
-    </message>
-    <message>
-        <source>Invisible</source>
-        <translation>Nevidebla</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation>Konektita</translation>
-    </message>
-    <message>
-        <source>Invitation to %1 from %2</source>
-        <translation>Invitaĵo al %1 el %2</translation>
-    </message>
-    <message>
-        <source>Invitation to %1</source>
-        <translation>Invitaĵo al %1</translation>
-    </message>
-    <message>
-        <source>%1 is now %2</source>
-        <translation type="unfinished">%1 estas nun %2</translation>
-    </message>
-    <message>
-        <source>Afraid</source>
-        <translation>Tima</translation>
-    </message>
-    <message>
-        <source>Amazed</source>
-        <translation>Impresa</translation>
-    </message>
-    <message>
-        <source>Angry</source>
-        <translation>Kolera</translation>
-    </message>
-    <message>
-        <source>Annoyed</source>
-        <translation>Ĉagrena</translation>
-    </message>
-    <message>
-        <source>Anxious</source>
-        <translation>Anksia</translation>
-    </message>
-    <message>
-        <source>Aroused</source>
-        <translation>Stimula</translation>
-    </message>
-    <message>
-        <source>Ashamed</source>
-        <translation>Honta</translation>
-    </message>
-    <message>
-        <source>Bored</source>
-        <translation>Enua</translation>
-    </message>
-    <message>
-        <source>Brave</source>
-        <translation>Kuraĝa</translation>
-    </message>
-    <message>
-        <source>Calm</source>
-        <translation>Kvieta</translation>
-    </message>
-    <message>
-        <source>Cold</source>
-        <translation>Malvarma</translation>
-    </message>
-    <message>
-        <source>Confused</source>
-        <translation>Konfuza</translation>
-    </message>
-    <message>
-        <source>Contented</source>
-        <translation>Kontenta</translation>
-    </message>
-    <message>
-        <source>Cranky</source>
-        <translation>Ekstravaganca</translation>
-    </message>
-    <message>
-        <source>Curious</source>
-        <translation>Scivola</translation>
-    </message>
-    <message>
-        <source>Depressed</source>
-        <translation>Deprima</translation>
-    </message>
-    <message>
-        <source>Disappointed</source>
-        <translation>Elreviĝa</translation>
-    </message>
-    <message>
-        <source>Disgusted</source>
-        <translation>Naŭziĝa</translation>
-    </message>
-    <message>
-        <source>Distracted</source>
-        <translation>Senatenta</translation>
-    </message>
-    <message>
-        <source>Embarrassed</source>
-        <translation>Embarasa</translation>
-    </message>
-    <message>
-        <source>Excited</source>
-        <translation>Ekscita</translation>
-    </message>
-    <message>
-        <source>Flirtatious</source>
-        <translation>Koketema</translation>
-    </message>
-    <message>
-        <source>Frustrated</source>
-        <translation>Senigita</translation>
-    </message>
-    <message>
-        <source>Grumpy</source>
-        <translation>Grumblema</translation>
-    </message>
-    <message>
-        <source>Guilty</source>
-        <translation>Kulpa</translation>
-    </message>
-    <message>
-        <source>Happy</source>
-        <translation>Gaja</translation>
-    </message>
-    <message>
-        <source>Hot</source>
-        <translation>Varma</translation>
-    </message>
-    <message>
-        <source>Humbled</source>
-        <translation>Humila</translation>
-    </message>
-    <message>
-        <source>Humiliated</source>
-        <translation>Humiligita</translation>
-    </message>
-    <message>
-        <source>Hungry</source>
-        <translation>Malsata</translation>
-    </message>
-    <message>
-        <source>Hurt</source>
-        <translation>Vunda</translation>
-    </message>
-    <message>
-        <source>Impressed</source>
-        <translation>Impresa</translation>
-    </message>
-    <message>
-        <source>In Awe</source>
-        <translation>Admiranta</translation>
-    </message>
-    <message>
-        <source>In Love</source>
-        <translation>Amanta</translation>
-    </message>
-    <message>
-        <source>Indignant</source>
-        <translation>Indigna</translation>
-    </message>
-    <message>
-        <source>Interested</source>
-        <translation>Interesata</translation>
-    </message>
-    <message>
-        <source>Intoxicated</source>
-        <translation>Venenita</translation>
-    </message>
-    <message>
-        <source>Invincible</source>
-        <translation>Nevenkebla</translation>
-    </message>
-    <message>
-        <source>Jealous</source>
-        <translation>Ĵaluza</translation>
-    </message>
-    <message>
-        <source>Lonely</source>
-        <translation>Soleca</translation>
-    </message>
-    <message>
-        <source>Mean</source>
-        <translation>Malafabla</translation>
-    </message>
-    <message>
-        <source>Moody</source>
-        <translation>Humora</translation>
-    </message>
-    <message>
-        <source>Nervous</source>
-        <translation>Nervoza</translation>
-    </message>
-    <message>
-        <source>Neutral</source>
-        <translation>Neŭtra</translation>
-    </message>
-    <message>
-        <source>Offended</source>
-        <translation>Ofenda</translation>
-    </message>
-    <message>
-        <source>Playful</source>
-        <translation>Ludema</translation>
-    </message>
-    <message>
-        <source>Proud</source>
-        <translation>Fiera</translation>
-    </message>
-    <message>
-        <source>Relieved</source>
-        <translation>Malpeziga</translation>
-    </message>
-    <message>
-        <source>Remorseful</source>
-        <translation>Bedaŭra</translation>
-    </message>
-    <message>
-        <source>Restless</source>
-        <translation>Senripoza</translation>
-    </message>
-    <message>
-        <source>Sad</source>
-        <translation>Malgaja</translation>
-    </message>
-    <message>
-        <source>Sarcastic</source>
-        <translation>Sarkasmema</translation>
-    </message>
-    <message>
-        <source>Serious</source>
-        <translation>Serioza</translation>
-    </message>
-    <message>
-        <source>Shocked</source>
-        <translation>Afekcia</translation>
-    </message>
-    <message>
-        <source>Shy</source>
-        <translation>Hontema</translation>
-    </message>
-    <message>
-        <source>Sick</source>
-        <translation>Malsana</translation>
-    </message>
-    <message>
-        <source>Sleepy</source>
-        <translation>Dormema</translation>
-    </message>
-    <message>
-        <source>Stressed</source>
-        <translation>Streĉa</translation>
-    </message>
-    <message>
-        <source>Surprised</source>
-        <translation>Surpriza</translation>
-    </message>
-    <message>
-        <source>Thirsty</source>
-        <translation>Soifa</translation>
-    </message>
-    <message>
-        <source>Worried</source>
-        <translation>Ĝena</translation>
-    </message>
-    <message>
-        <source>a moderator</source>
-        <translation>kontrolanto</translation>
-    </message>
-    <message>
-        <source>moderator</source>
-        <translation>kontrolanto</translation>
-    </message>
-    <message>
-        <source>a participant</source>
-        <translation>partoprenanto</translation>
-    </message>
-    <message>
-        <source>participant</source>
-        <translation>partoprenanto</translation>
-    </message>
-    <message>
-        <source>a visitor</source>
-        <translation>vizitanto</translation>
-    </message>
-    <message>
-        <source>visitor</source>
-        <translation>vizitanto</translation>
-    </message>
-    <message>
-        <source>an owner</source>
-        <translation>posedanto</translation>
-    </message>
-    <message>
-        <source>owner</source>
-        <translation>posedanto</translation>
-    </message>
-    <message>
-        <source>an administrator</source>
-        <translation>administranto</translation>
-    </message>
-    <message>
-        <source>administrator</source>
-        <translation>administranto</translation>
-    </message>
-    <message>
-        <source>a member</source>
-        <translation>membro</translation>
-    </message>
-    <message>
-        <source>member</source>
-        <translation>membro</translation>
-    </message>
-    <message>
-        <source>an outcast</source>
-        <translation>izolulo</translation>
-    </message>
-    <message>
-        <source>outcast</source>
-        <translation>izolulo</translation>
-    </message>
-    <message>
-        <source>unaffiliated</source>
-        <translation>senpartnera</translation>
-    </message>
-    <message>
-        <source>&lt;unnamed%1&gt;</source>
-        <translation>&lt;sennoma%1&gt;</translation>
-    </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation>nevalida pasfrazo</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation>nevalida enigformato</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation>La marko de la ŝlosilo trodatis</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation>Nevalida ŝlosilo</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation>Ĉifra ŝlosilo trodatis</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation>Ĉifra ŝlosilo estas nefidinda</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation>Ĉifra ŝlosilo estas nevalida</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation>PGP karto estas mankanta</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation>Nekonata eraro</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished">Jes</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished">Ne</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Stato</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>There was an error changing the list.</source>
-        <translation>Eraro okazis ŝanĝante la liston.</translation>
-    </message>
-    <message>
-        <source>There was an error processing your request.</source>
-        <translation>Okazis eraro rulante vian peton.</translation>
-    </message>
-    <message>
-        <source>Deny</source>
-        <translation type="unfinished">Malpermesi</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation type="unfinished">Permesi</translation>
-    </message>
-    <message>
-        <source>Else %1 %2</source>
-        <translation>Aliel %1 %2</translation>
-    </message>
-    <message>
-        <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation>Se JID estas &apos;%1&apos;, tiam %2 %3</translation>
-    </message>
-    <message>
-        <source>If Group is &apos;%1&apos; then %2 %3</source>
-        <translation>Se Grupo estas &apos;%1&apos;, tiam %2 %3</translation>
-    </message>
-    <message>
-        <source>If Subscription is &apos;%1&apos; then %2 %3</source>
-        <translation>Se Abono estas &apos;%1&apos;, tiam %2 %3</translation>
-    </message>
-    <message>
-        <source>%1 Proxy</source>
-        <translation type="obsolete">%1 Prokura servilo</translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
-        <translation type="obsolete">Notifilo de eventoj</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation>%1 diras:</translation>
-    </message>
-    <message>
-        <source>Contact becomes Available</source>
-        <translation>Kontakto iĝas Disponebla</translation>
-    </message>
-    <message>
-        <source>Contact becomes Unavailable</source>
-        <translation>Kontakto iĝas Nedisponebla</translation>
-    </message>
-    <message>
-        <source>Contact changes Status</source>
-        <translation>Kontakto ŝanĝas Staton</translation>
-    </message>
-    <message>
-        <source>Incoming Message</source>
-        <translation>Envenanta Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Incoming Headline</source>
-        <translation>Envenanta Ĉeflinio</translation>
-    </message>
-    <message>
-        <source>Incoming File</source>
-        <translation>Envenanta Dosiero</translation>
-    </message>
-    <message>
-        <source>Incoming Call</source>
-        <translation type="unfinished">Eniganta Alvoko</translation>
-    </message>
-    <message>
-        <source>[Incoming File]</source>
-        <translation>[Envenanta Dosiero]</translation>
-    </message>
-    <message>
-        <source>Incoming file</source>
-        <translation type="unfinished">Envenanta dosiero</translation>
-    </message>
-    <message>
-        <source>Set Status</source>
-        <translation>Elekti Staton</translation>
-    </message>
-    <message>
-        <source>Choose the status and status message</source>
-        <translation>Elektu la staton kaj statmesaĝon</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation>Babilo</translation>
-    </message>
-    <message>
-        <source>Extended Away</source>
-        <translation>Fora</translation>
-    </message>
-    <message>
-        <source>Do Not Disturb</source>
-        <translation>Ne Ĝenu</translation>
-    </message>
-    <message>
-        <source>Priority</source>
-        <translation>Prioritato</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation>Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Forward Messages</source>
-        <translation>Antaŭsendi Mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Forwarded %1 messages</source>
-        <translation>Antaŭsendis %1 mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Set Options</source>
-        <translation>Agordi</translation>
-    </message>
-    <message>
-        <source>Set the desired options</source>
-        <translation>Difini la volatajn opciojn</translation>
-    </message>
-    <message>
-        <source>Play sounds</source>
-        <translation>Aŭdigi sonojn</translation>
-    </message>
-    <message>
-        <source>Auto-authorize contacts</source>
-        <translation>Aŭtomate rajtigi novajn kontaktulojn</translation>
-    </message>
-    <message>
-        <source>Auto-open new messages</source>
-        <translation>Aŭtomate malfermi la novajn mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Unnamed</source>
-        <translation type="unfinished">Sennoma</translation>
-    </message>
-    <message>
-        <source>Subscription</source>
-        <translation>Abono</translation>
-    </message>
-    <message>
-        <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation>Humoro</translation>
-    </message>
-    <message>
-        <source>Listening to</source>
-        <translation>Aŭskultanta</translation>
-    </message>
-    <message>
-        <source>[blank]</source>
-        <translation>[nenio]</translation>
-    </message>
-    <message>
-        <source>Signed</source>
-        <translation>Subskribita</translation>
-    </message>
-    <message>
-        <source>Bad signature</source>
-        <translation>Malbona subskribo</translation>
-    </message>
-    <message>
-        <source>Using</source>
-        <translation>Uzanta</translation>
-    </message>
-    <message>
-        <source>Role: %1</source>
-        <translation>Rolo: %1</translation>
-    </message>
-    <message>
-        <source>Affiliation: %1</source>
-        <translation>Partnero: %1</translation>
-    </message>
-    <message>
-        <source>Last Status</source>
-        <translation>Lasta stato</translation>
-    </message>
-    <message>
-        <source>Status Message</source>
-        <translation>Stata mesaĝo</translation>
-    </message>
-    <message>
-        <source>Last Available</source>
-        <translation>Laste disponebla</translation>
-    </message>
-    <message>
-        <source>Presence Error</source>
-        <translation>Eraro de ĉeesto</translation>
-    </message>
-    <message>
-        <source>Last Status Message</source>
-        <translation>Lasta stata mesaĝo</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Neniam</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Ĉiam</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No certificate presented.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13909,6 +12968,22 @@ Proceed?</source>
     <message>
         <source>&amp;Trust this domain</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The server did not present a certificate.</source>
+        <translation>La servilo ne prezentis ateston.</translation>
+    </message>
+    <message>
+        <source>Certificate is valid.</source>
+        <translation>La atesto validas.</translation>
+    </message>
+    <message>
+        <source>The hostname does not match the one the certificate was issued to.</source>
+        <translation>La retnodo ne kongruas kun tiu al kiu la ateston oni eldonis.</translation>
+    </message>
+    <message>
+        <source>General certificate validation error.</source>
+        <translation>Ĝenerala eraro de atesta validado.</translation>
     </message>
     <message>
         <source>Doing Chores</source>
@@ -13965,6 +13040,10 @@ Proceed?</source>
     <message>
         <source>Having Tea</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eating</source>
+        <translation>Manĝanta</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -14223,12 +13302,56 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This computer only</source>
+        <source>Choose a file</source>
+        <translation>Elektu dosieron</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Dosiero</translation>
+    </message>
+    <message>
+        <source>Conversion Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Except this computer</source>
+        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Senkonekta</translation>
+    </message>
+    <message>
+        <source>Away</source>
+        <translation>For</translation>
+    </message>
+    <message>
+        <source>Not Available</source>
+        <translation>Ne disponebla</translation>
+    </message>
+    <message>
+        <source>Do not Disturb</source>
+        <translation>Ne ĝeni</translation>
+    </message>
+    <message>
+        <source>Free for Chat</source>
+        <translation>Babilema</translation>
+    </message>
+    <message>
+        <source>Invisible</source>
+        <translation>Nevidebla</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation>Konektita</translation>
+    </message>
+    <message>
+        <source>Invitation to %1 from %2</source>
+        <translation>Invitaĵo al %1 el %2</translation>
+    </message>
+    <message>
+        <source>Invitation to %1</source>
+        <translation>Invitaĵo al %1</translation>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
@@ -14307,20 +13430,80 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>%1 is now %2</source>
+        <translation>%1 estas nun %2</translation>
+    </message>
+    <message>
+        <source>Afraid</source>
+        <translation>Tima</translation>
+    </message>
+    <message>
+        <source>Amazed</source>
+        <translation>Impresa</translation>
+    </message>
+    <message>
+        <source>Angry</source>
+        <translation>Kolera</translation>
+    </message>
+    <message>
         <source>Amorous</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annoyed</source>
+        <translation>Ĉagrena</translation>
+    </message>
+    <message>
+        <source>Anxious</source>
+        <translation>Anksia</translation>
+    </message>
+    <message>
+        <source>Aroused</source>
+        <translation>Stimula</translation>
+    </message>
+    <message>
+        <source>Ashamed</source>
+        <translation>Honta</translation>
+    </message>
+    <message>
+        <source>Bored</source>
+        <translation>Enua</translation>
+    </message>
+    <message>
+        <source>Brave</source>
+        <translation>Kuraĝa</translation>
+    </message>
+    <message>
+        <source>Calm</source>
+        <translation>Kvieta</translation>
     </message>
     <message>
         <source>Cautious</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cold</source>
+        <translation>Malvarma</translation>
+    </message>
+    <message>
         <source>Confident</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Confused</source>
+        <translation>Konfuza</translation>
+    </message>
+    <message>
         <source>Contemplative</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contented</source>
+        <translation>Kontenta</translation>
+    </message>
+    <message>
+        <source>Cranky</source>
+        <translation>Ekstravaganca</translation>
     </message>
     <message>
         <source>Crazy</source>
@@ -14331,44 +13514,228 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Curious</source>
+        <translation>Scivola</translation>
+    </message>
+    <message>
         <source>Dejected</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depressed</source>
+        <translation>Deprima</translation>
+    </message>
+    <message>
+        <source>Disappointed</source>
+        <translation>Elreviĝa</translation>
+    </message>
+    <message>
+        <source>Disgusted</source>
+        <translation>Naŭziĝa</translation>
     </message>
     <message>
         <source>Dismayed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Distracted</source>
+        <translation>Senatenta</translation>
+    </message>
+    <message>
+        <source>Embarrassed</source>
+        <translation>Embarasa</translation>
+    </message>
+    <message>
         <source>Envious</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excited</source>
+        <translation>Ekscita</translation>
+    </message>
+    <message>
+        <source>Flirtatious</source>
+        <translation>Koketema</translation>
+    </message>
+    <message>
+        <source>Frustrated</source>
+        <translation>Senigita</translation>
+    </message>
+    <message>
+        <source>Grumpy</source>
+        <translation>Grumblema</translation>
+    </message>
+    <message>
+        <source>Guilty</source>
+        <translation>Kulpa</translation>
+    </message>
+    <message>
+        <source>Happy</source>
+        <translation>Gaja</translation>
     </message>
     <message>
         <source>Hopeful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hot</source>
+        <translation>Varma</translation>
+    </message>
+    <message>
+        <source>Humbled</source>
+        <translation>Humila</translation>
+    </message>
+    <message>
+        <source>Humiliated</source>
+        <translation>Humiligita</translation>
+    </message>
+    <message>
+        <source>Hungry</source>
+        <translation>Malsata</translation>
+    </message>
+    <message>
+        <source>Hurt</source>
+        <translation>Vunda</translation>
+    </message>
+    <message>
+        <source>Impressed</source>
+        <translation>Impresa</translation>
+    </message>
+    <message>
+        <source>In Awe</source>
+        <translation>Admiranta</translation>
+    </message>
+    <message>
+        <source>In Love</source>
+        <translation>Amanta</translation>
+    </message>
+    <message>
+        <source>Indignant</source>
+        <translation>Indigna</translation>
+    </message>
+    <message>
+        <source>Interested</source>
+        <translation>Interesata</translation>
+    </message>
+    <message>
+        <source>Intoxicated</source>
+        <translation>Venenita</translation>
+    </message>
+    <message>
+        <source>Invincible</source>
+        <translation>Nevenkebla</translation>
+    </message>
+    <message>
+        <source>Jealous</source>
+        <translation>Ĵaluza</translation>
+    </message>
+    <message>
+        <source>Lonely</source>
+        <translation>Soleca</translation>
+    </message>
+    <message>
         <source>Lucky</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mean</source>
+        <translation>Malafabla</translation>
+    </message>
+    <message>
+        <source>Moody</source>
+        <translation>Humora</translation>
+    </message>
+    <message>
+        <source>Nervous</source>
+        <translation>Nervoza</translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <translation>Neŭtra</translation>
+    </message>
+    <message>
+        <source>Offended</source>
+        <translation>Ofenda</translation>
     </message>
     <message>
         <source>Outraged</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Playful</source>
+        <translation>Ludema</translation>
+    </message>
+    <message>
+        <source>Proud</source>
+        <translation>Fiera</translation>
+    </message>
+    <message>
         <source>Relaxed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relieved</source>
+        <translation>Malpeziga</translation>
+    </message>
+    <message>
+        <source>Remorseful</source>
+        <translation>Bedaŭra</translation>
+    </message>
+    <message>
+        <source>Restless</source>
+        <translation>Senripoza</translation>
+    </message>
+    <message>
+        <source>Sad</source>
+        <translation>Malgaja</translation>
+    </message>
+    <message>
+        <source>Sarcastic</source>
+        <translation>Sarkasmema</translation>
+    </message>
+    <message>
+        <source>Serious</source>
+        <translation>Serioza</translation>
+    </message>
+    <message>
+        <source>Shocked</source>
+        <translation>Afekcia</translation>
+    </message>
+    <message>
+        <source>Shy</source>
+        <translation>Hontema</translation>
+    </message>
+    <message>
+        <source>Sick</source>
+        <translation>Malsana</translation>
+    </message>
+    <message>
+        <source>Sleepy</source>
+        <translation>Dormema</translation>
     </message>
     <message>
         <source>Spontaneous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Stressed</source>
+        <translation>Streĉa</translation>
+    </message>
+    <message>
         <source>Strong</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Surprised</source>
+        <translation>Surpriza</translation>
+    </message>
+    <message>
         <source>Thankful</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thirsty</source>
+        <translation>Soifa</translation>
     </message>
     <message>
         <source>Tired</source>
@@ -14383,12 +13750,108 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name: %1
-Size: %2
-Date prolongate: %3
-URL: %4
-Password: %5</source>
-        <translation type="unfinished"></translation>
+        <source>Worried</source>
+        <translation>Ĝena</translation>
+    </message>
+    <message>
+        <source>a moderator</source>
+        <translation>kontrolanto</translation>
+    </message>
+    <message>
+        <source>moderator</source>
+        <translation>kontrolanto</translation>
+    </message>
+    <message>
+        <source>a participant</source>
+        <translation>partoprenanto</translation>
+    </message>
+    <message>
+        <source>participant</source>
+        <translation>partoprenanto</translation>
+    </message>
+    <message>
+        <source>a visitor</source>
+        <translation>vizitanto</translation>
+    </message>
+    <message>
+        <source>visitor</source>
+        <translation>vizitanto</translation>
+    </message>
+    <message>
+        <source>an owner</source>
+        <translation>posedanto</translation>
+    </message>
+    <message>
+        <source>owner</source>
+        <translation>posedanto</translation>
+    </message>
+    <message>
+        <source>an administrator</source>
+        <translation>administranto</translation>
+    </message>
+    <message>
+        <source>administrator</source>
+        <translation>administranto</translation>
+    </message>
+    <message>
+        <source>a member</source>
+        <translation>membro</translation>
+    </message>
+    <message>
+        <source>member</source>
+        <translation>membro</translation>
+    </message>
+    <message>
+        <source>an outcast</source>
+        <translation>izolulo</translation>
+    </message>
+    <message>
+        <source>outcast</source>
+        <translation>izolulo</translation>
+    </message>
+    <message>
+        <source>unaffiliated</source>
+        <translation>senpartnera</translation>
+    </message>
+    <message>
+        <source>&lt;unnamed%1&gt;</source>
+        <translation>&lt;sennoma%1&gt;</translation>
+    </message>
+    <message>
+        <source>Invalid passphrase</source>
+        <translation>nevalida pasfrazo</translation>
+    </message>
+    <message>
+        <source>Invalid input format</source>
+        <translation>nevalida enigformato</translation>
+    </message>
+    <message>
+        <source>Signing key expired</source>
+        <translation>La marko de la ŝlosilo trodatis</translation>
+    </message>
+    <message>
+        <source>Invalid key</source>
+        <translation>Nevalida ŝlosilo</translation>
+    </message>
+    <message>
+        <source>Encrypting key expired</source>
+        <translation>Ĉifra ŝlosilo trodatis</translation>
+    </message>
+    <message>
+        <source>Encrypting key is untrusted</source>
+        <translation>Ĉifra ŝlosilo estas nefidinda</translation>
+    </message>
+    <message>
+        <source>Encrypting key is invalid</source>
+        <translation>Ĉifra ŝlosilo estas nevalida</translation>
+    </message>
+    <message>
+        <source>PGP card is missing</source>
+        <translation>PGP karto estas mankanta</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation>Nekonata eraro</translation>
     </message>
     <message>
         <source>Socket Error</source>
@@ -14428,7 +13891,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Averto</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14501,19 +13964,6 @@ The message was not sent.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
-%2
-
-Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
@@ -14552,8 +14002,28 @@ The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Headline</source>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Jes</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Ne</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stato</translation>
+    </message>
+    <message>
+        <source>Headline</source>
+        <translation>Ĉeflinio</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14562,6 +14032,26 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Groupchat Message</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
+    </message>
+    <message>
+        <source>There was an error changing the list.</source>
+        <translation>Eraro okazis ŝanĝante la liston.</translation>
+    </message>
+    <message>
+        <source>There was an error processing your request.</source>
+        <translation>Okazis eraro rulante vian peton.</translation>
+    </message>
+    <message>
+        <source>Deny</source>
+        <translation>Malpermesi</translation>
+    </message>
+    <message>
+        <source>Allow</source>
+        <translation>Permesi</translation>
     </message>
     <message>
         <source>All</source>
@@ -14584,8 +14074,28 @@ The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Else %1 %2</source>
+        <translation>Aliel %1 %2</translation>
+    </message>
+    <message>
+        <source>If JID is &apos;%1&apos; then %2 %3</source>
+        <translation>Se JID estas &apos;%1&apos;, tiam %2 %3</translation>
+    </message>
+    <message>
+        <source>If Group is &apos;%1&apos; then %2 %3</source>
+        <translation>Se Grupo estas &apos;%1&apos;, tiam %2 %3</translation>
+    </message>
+    <message>
+        <source>If Subscription is &apos;%1&apos; then %2 %3</source>
+        <translation>Se Abono estas &apos;%1&apos;, tiam %2 %3</translation>
+    </message>
+    <message>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 says:</source>
+        <translation>%1 diras:</translation>
     </message>
     <message>
         <source>Headline from %1</source>
@@ -14600,12 +14110,40 @@ The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Contact becomes Available</source>
+        <translation>Kontakto iĝas Disponebla</translation>
+    </message>
+    <message>
+        <source>Contact becomes Unavailable</source>
+        <translation>Kontakto iĝas Nedisponebla</translation>
+    </message>
+    <message>
+        <source>Contact changes Status</source>
+        <translation>Kontakto ŝanĝas Staton</translation>
+    </message>
+    <message>
+        <source>Incoming Message</source>
+        <translation>Envenanta Mesaĝo</translation>
+    </message>
+    <message>
+        <source>Incoming Headline</source>
+        <translation>Envenanta Ĉeflinio</translation>
+    </message>
+    <message>
+        <source>Incoming File</source>
+        <translation>Envenanta Dosiero</translation>
+    </message>
+    <message>
         <source>Typing notify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming Call</source>
+        <translation>Eniganta Alvoko</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14620,6 +14158,10 @@ The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>[Incoming File]</source>
+        <translation>[Envenanta Dosiero]</translation>
+    </message>
+    <message>
         <source>[Groupchat highlight]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14629,47 +14171,200 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktulo konektitas</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktulo senkonektiĝis</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝo de stato</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"></translation>
+        <translation>Envenanta mesaĝo</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Envenanta babila mesaĝo</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation>Envenanta dosiero</translation>
     </message>
     <message>
         <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Status</source>
+        <translation>Elekti Staton</translation>
+    </message>
+    <message>
+        <source>Choose the status and status message</source>
+        <translation>Elektu la staton kaj statmesaĝon</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Babilo</translation>
+    </message>
+    <message>
+        <source>Extended Away</source>
+        <translation>Fora</translation>
+    </message>
+    <message>
+        <source>Do Not Disturb</source>
+        <translation>Ne Ĝenu</translation>
+    </message>
+    <message>
+        <source>Priority</source>
+        <translation>Prioritato</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Mesaĝo</translation>
+    </message>
+    <message>
+        <source>Forward Messages</source>
+        <translation>Antaŭsendi Mesaĝojn</translation>
+    </message>
+    <message>
+        <source>Forwarded %1 messages</source>
+        <translation>Antaŭsendis %1 mesaĝojn</translation>
+    </message>
+    <message>
+        <source>Set Options</source>
+        <translation>Agordi</translation>
+    </message>
+    <message>
+        <source>Set the desired options</source>
+        <translation>Difini la volatajn opciojn</translation>
+    </message>
+    <message>
+        <source>Play sounds</source>
+        <translation>Aŭdigi sonojn</translation>
+    </message>
+    <message>
         <source>Automatically go offline when idle</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-authorize contacts</source>
+        <translation>Aŭtomate rajtigi novajn kontaktulojn</translation>
+    </message>
+    <message>
+        <source>Auto-open new messages</source>
+        <translation>Aŭtomate malfermi la novajn mesaĝojn</translation>
     </message>
     <message>
         <source>Leave All Conferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unnamed</source>
+        <translation>Sennoma</translation>
+    </message>
+    <message>
+        <source>Subscription</source>
+        <translation>Abono</translation>
+    </message>
+    <message>
+        <source>OpenPGP</source>
+        <translation>OpenPGP</translation>
+    </message>
+    <message>
+        <source>Mood</source>
+        <translation>Humoro</translation>
+    </message>
+    <message>
         <source>Activity</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Listening to</source>
+        <translation>Aŭskultanta</translation>
+    </message>
+    <message>
+        <source>[blank]</source>
+        <translation>[nenio]</translation>
+    </message>
+    <message>
+        <source>Signed</source>
+        <translation>Subskribita</translation>
+    </message>
+    <message>
+        <source>Bad signature</source>
+        <translation>Malbona subskribo</translation>
+    </message>
+    <message>
+        <source>Using</source>
+        <translation>Uzanta</translation>
     </message>
     <message>
         <source>Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Role: %1</source>
+        <translation>Rolo: %1</translation>
+    </message>
+    <message>
+        <source>Affiliation: %1</source>
+        <translation>Partnero: %1</translation>
+    </message>
+    <message>
+        <source>Last Status</source>
+        <translation>Lasta stato</translation>
+    </message>
+    <message>
+        <source>Status Message</source>
+        <translation>Stata mesaĝo</translation>
+    </message>
+    <message>
+        <source>Last Available</source>
+        <translation>Laste disponebla</translation>
+    </message>
+    <message>
+        <source>Presence Error</source>
+        <translation>Eraro de ĉeesto</translation>
+    </message>
+    <message>
+        <source>Last Status Message</source>
+        <translation>Lasta stata mesaĝo</translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation>Neniam</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>Ĉiam</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 estas nun konata kiel %2</translation>
+        <translation>%1 estas nun konata kiel %2</translation>
     </message>
 </context>
 <context>
@@ -14772,14 +14467,6 @@ Kialo: %1</translation>
 <context>
     <name>Reminder</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
-    <message>
         <source>celebrates birthday today!
 </source>
         <translation type="unfinished"></translation>
@@ -14800,6 +14487,14 @@ Kialo: %1</translation>
     <message>
         <source>Birthday Reminder</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14851,10 +14546,6 @@ The first time you install this plugin, you need to log on to all of your accoun
 <context>
     <name>RosterAvatarFrame</name>
     <message>
-        <source>Status Message</source>
-        <translation type="unfinished">Stata mesaĝo</translation>
-    </message>
-    <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14874,6 +14565,10 @@ The first time you install this plugin, you need to log on to all of your accoun
         <source>Set Status for all active accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Status Message</source>
+        <translation>Stata mesaĝo</translation>
+    </message>
 </context>
 <context>
     <name>RosterExchangeEvent</name>
@@ -14884,34 +14579,6 @@ The first time you install this plugin, you need to log on to all of your accoun
 </context>
 <context>
     <name>Screenshot</name>
-    <message>
-        <source>File</source>
-        <translation type="unfinished">Dosiero</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="unfinished">Helpo</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="unfinished">Pri Qt</translation>
-    </message>
-    <message>
-        <source>Upload</source>
-        <translation type="unfinished">Enŝuto</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation type="unfinished">Konservi Kiel</translation>
-    </message>
-    <message>
-        <source>%1.</source>
-        <translation type="unfinished">%1.</translation>
-    </message>
     <message>
         <source>Screenshot</source>
         <translation type="unfinished"></translation>
@@ -14953,8 +14620,16 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>File</source>
+        <translation>Dosiero</translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Helpo</translation>
     </message>
     <message>
         <source>Open</source>
@@ -14977,12 +14652,24 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Options</source>
+        <translation>Opcioj</translation>
+    </message>
+    <message>
         <source>History</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>About Qt</source>
+        <translation>Pri Qt</translation>
+    </message>
+    <message>
         <source>Home page</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>Enŝuto</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
@@ -15001,8 +14688,16 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Save As</source>
+        <translation>Konservi Kiel</translation>
+    </message>
+    <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1.</source>
+        <translation type="unfinished">%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
@@ -15073,26 +14768,6 @@ Settings for authorization on some hostings can be found here: http://code.googl
 <context>
     <name>Search</name>
     <message>
-        <source>&amp;Search</source>
-        <translation type="unfinished">&amp;Serĉi</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="unfinished">Kromnomo</translation>
-    </message>
-    <message>
-        <source>First Name</source>
-        <translation type="unfinished">Antaŭnomo</translation>
-    </message>
-    <message>
-        <source>Last Name</source>
-        <translation type="unfinished">Familia nomo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
         <source>Search: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15105,6 +14780,10 @@ Settings for authorization on some hostings can be found here: http://code.googl
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Search</source>
+        <translation>&amp;Serĉi</translation>
+    </message>
+    <message>
         <source>psi/search</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15115,6 +14794,18 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <source>psi/stop</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Kromnomo</translation>
+    </message>
+    <message>
+        <source>First Name</source>
+        <translation>Antaŭnomo</translation>
+    </message>
+    <message>
+        <source>Last Name</source>
+        <translation>Familia nomo</translation>
     </message>
     <message>
         <source>E-Mail Address</source>
@@ -15134,11 +14825,15 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Malfermi &amp;babilan fenestron</translation>
     </message>
     <message>
         <source>psi/vCard</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
     </message>
 </context>
 <context>
@@ -15175,16 +14870,16 @@ Kialo: %1</translation>
         <source>Add User: Success</source>
         <translation>Aldoni uzanton: Sukceso</translation>
     </message>
-    <message>
-        <source>Added %1 to your roster.</source>
-        <translation>%1 aldonitas al via kontaktolisto.</translation>
-    </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Added %1 to your roster.</source>
+        <translation>%1 aldonitas al via kontaktolisto.</translation>
     </message>
 </context>
 <context>
@@ -15252,51 +14947,51 @@ Kialo: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Service Discovery</source>
-        <translation type="obsolete">Malkovri servojn</translation>
+        <translation type="vanished">Malkovri servojn</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="obsolete">Agordi la kontojn</translation>
+        <translation type="vanished">Agordi la kontojn</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">Opcioj</translation>
+        <translation type="vanished">Opcioj</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="obsolete">Ilobretoj</translation>
+        <translation type="vanished">Ilobretoj</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="obsolete">XMLa Konzolo</translation>
+        <translation type="vanished">XMLa Konzolo</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="obsolete">Ŝanĝi profilon</translation>
+        <translation type="vanished">Ŝanĝi profilon</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="obsolete">Eliri</translation>
+        <translation type="vanished">Eliri</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Stato</translation>
+        <translation type="vanished">Stato</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="obsolete">Vidi grupojn</translation>
+        <translation type="vanished">Vidi grupojn</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="obsolete">Montri la nekonektitajn kontaktulojn</translation>
+        <translation type="vanished">Montri la nekonektitajn kontaktulojn</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="obsolete">Montri Kaŝatajn Kontaktulojn</translation>
+        <translation type="vanished">Montri Kaŝatajn Kontaktulojn</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="obsolete">Pri Qt</translation>
+        <translation type="vanished">Pri Qt</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -15466,10 +15161,6 @@ Kialo: %1</translation>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
-        <source>Save As</source>
-        <translation type="unfinished">Konservi Kiel</translation>
-    </message>
-    <message>
         <source>Photo Preview: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15480,6 +15171,10 @@ Kialo: %1</translation>
     <message>
         <source>&amp;Restore Size</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>Konservi Kiel</translation>
     </message>
     <message>
         <source>photo.png</source>
@@ -15499,10 +15194,6 @@ Kialo: %1</translation>
 </context>
 <context>
     <name>SkinsPlugin</name>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
@@ -15542,6 +15233,10 @@ Kialo: %1</translation>
     <message>
         <source>Remove selected skin</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
@@ -15673,6 +15368,14 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation>Agordu staton: %1</translation>
     </message>
     <message>
+        <source>Set Status for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Status for group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Status:</source>
         <translation>Stato:</translation>
     </message>
@@ -15719,14 +15422,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Vi jam determinis antaŭskribaĵon per tiu nomo!</translation>
-    </message>
-    <message>
-        <source>Set Status for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Status for group</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15840,32 +15535,16 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
 <context>
     <name>TabDlg</name>
     <message>
+        <source>Hide Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Detach Tab</source>
         <translation>Malkroĉi Langeton</translation>
     </message>
     <message>
         <source>Close Tab</source>
         <translation>Fermi Langeton</translation>
-    </message>
-    <message>
-        <source>Detach Current Tab</source>
-        <translation>Malkroĉi Nunan Langeton</translation>
-    </message>
-    <message>
-        <source>Close Current Tab</source>
-        <translation>Fermi Nunan Langeton</translation>
-    </message>
-    <message>
-        <source>%1 Conversations</source>
-        <translation>%1 Babiladoj</translation>
-    </message>
-    <message>
-        <source> is composing</source>
-        <translation> estas tajpante</translation>
-    </message>
-    <message>
-        <source>Hide Tab</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send Tab To</source>
@@ -15880,6 +15559,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Detach Current Tab</source>
+        <translation>Malkroĉi Nunan Langeton</translation>
+    </message>
+    <message>
+        <source>Close Current Tab</source>
+        <translation>Fermi Nunan Langeton</translation>
+    </message>
+    <message>
         <source>Send Current Tab To</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15891,17 +15578,17 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source>Use for New Mucs</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 Conversations</source>
+        <translation>%1 Babiladoj</translation>
+    </message>
+    <message>
+        <source> is composing</source>
+        <translation> estas tajpante</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="unfinished">Pasvorto</translation>
-    </message>
     <message>
         <source>XMPP Test</source>
         <translation type="unfinished"></translation>
@@ -15925,6 +15612,10 @@ Currently supports:
 
 Copyright (C) 2003 Justin Karneges</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Eraro</translation>
     </message>
     <message>
         <source>Please enter the Full JID to connect with.</source>
@@ -15972,28 +15663,16 @@ Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Password</source>
+        <translation>Pasvorto</translation>
+    </message>
+    <message>
         <source>Enter the password for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TestUI</name>
-    <message>
-        <source>None</source>
-        <translation type="unfinished">Neniu</translation>
-    </message>
-    <message>
-        <source>&amp;About</source>
-        <translation type="unfinished">&amp;Pri</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="unfinished">Al:</translation>
-    </message>
-    <message>
-        <source>&amp;Send</source>
-        <translation type="unfinished">&amp;Sendi</translation>
-    </message>
     <message>
         <source>Form1</source>
         <translation type="unfinished"></translation>
@@ -16021,6 +15700,10 @@ Please correct and try again.</source>
     <message>
         <source>SSL</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Neniu</translation>
     </message>
     <message>
         <source>HTTP(S)</source>
@@ -16087,8 +15770,16 @@ Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;About</source>
+        <translation>&amp;Pri</translation>
+    </message>
+    <message>
         <source>Quick XML &gt;&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>Al:</translation>
     </message>
     <message>
         <source>&amp;IM Session</source>
@@ -16107,20 +15798,16 @@ Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Send</source>
+        <translation>&amp;Sendi</translation>
+    </message>
+    <message>
         <source>Alt+S</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="unfinished">&amp;Antaŭa</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
     <message>
         <source>Useful Tips</source>
         <translation type="unfinished"></translation>
@@ -16134,6 +15821,10 @@ Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Previous</source>
+        <translation>&amp;Antaŭa</translation>
+    </message>
+    <message>
         <source>Alt+P</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16143,7 +15834,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sekvanta</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -16152,6 +15843,10 @@ Please correct and try again.</source>
     <message>
         <source>psi/arrowRight</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -16213,12 +15908,24 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
 &lt;/ul&gt;</translation>
     </message>
     <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Ĉu vi sciis ke vi povas uzi elektujojn en la dialogujo pri agori kontojn, por aktivigi/malaktivigi kontojn? Tio eble utilas al vi, se vi uzas iun konton nur maloftege, kaj vi ne volas ke ĝi ĝenu en la kontaktlisto.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Ĉu vi ne ŝatas la nunan lokon de la butonoj?  Ĉu vi volas kroman butonon por ŝanĝi vian staton al Fora?  Rigardu la fenestron pri agordo de ilobretoj, kiu disponeblas per la kunteksta menuo de la ilobretoj.  Vi povas eĉ fari ke ilobreto flosu!</translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16229,8 +15936,18 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
         <translation>Ĉu vi sciis ke la meza musbutono (tiu meza, de tributonaj musoj) uzatas por &quot;ordoni la antaŭsupozitan agon&quot; sur plurajn objektojn en Psio?  Provu klaki per la meza buttono sur kontakton aŭ ŝprucaĵon.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Vi povas dekstre-klaki sur la nomo de servilo en via kontaktolisto por fari diversaĵojn.  Vi povas ŝanĝi vian staton, ŝanĝi la agordojn de via konto, ŝanĝu administraĵojn (se vi rajtas), kaj pli.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16245,39 +15962,9 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
         <source>Contributed by</source>
         <translation>Kontribuita de</translation>
     </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ToolBar</name>
-    <message>
-        <source>Select</source>
-        <translation type="unfinished">Elekti</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="unfinished">Rotacii</translation>
-    </message>
     <message>
         <source>Line Width:</source>
         <translation type="unfinished"></translation>
@@ -16295,6 +15982,10 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Select</source>
+        <translation>Elekti</translation>
+    </message>
+    <message>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16305,6 +15996,10 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Paste</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Rotacii</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -16318,16 +16013,16 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>TranslatePlugin</name>
     <message>
-        <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
-    </message>
-    <message>
         <source>from</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>to</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -16369,12 +16064,12 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Serĉi</translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Serĉi</translation>
     </message>
     <message>
         <source>Find next</source>
@@ -16388,6 +16083,10 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>URLLabel</name>
     <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open mail composer</source>
         <translation>Malfermi retpoŝtilon</translation>
     </message>
@@ -16400,24 +16099,20 @@ Note: Some server may disable transport registration to users from different ser
         <translation>Aldoni al Kontaktlisto</translation>
     </message>
     <message>
-        <source>Join groupchat</source>
-        <translation>Aliĝi al la babilejo</translation>
-    </message>
-    <message>
-        <source>Copy location</source>
-        <translation>Kopiu lokon</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Send message to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chat with</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join groupchat</source>
+        <translation>Aliĝi al la babilejo</translation>
+    </message>
+    <message>
+        <source>Copy location</source>
+        <translation>Kopiu lokon</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -16482,11 +16177,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Trovi</translation>
+        <translation>Trovi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>Fermi</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16524,32 +16219,16 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 <context>
     <name>ViewMailDlg</name>
     <message>
+        <source>E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>From:</source>
-        <translation type="unfinished">De:</translation>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">Temo:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">Antaŭa</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">Sekva</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Temo:</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -16564,6 +16243,22 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Previous</source>
+        <translation>Antaŭa</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Sekva</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermi</translation>
+    </message>
+    <message>
         <source>[%1/%2] E-Mail</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16576,11 +16271,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Trovi</translation>
+        <translation>Trovi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>Fermi</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16631,7 +16326,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>VoiceCall</name>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
+        <translation>Alvoko</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -16692,14 +16387,6 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 <context>
     <name>Watcher</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished">Sono (*.wav)</translation>
-    </message>
-    <message>
         <source>Empty item</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16712,8 +16399,12 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Watch for JID</source>
-        <translation type="unfinished"></translation>
+        <source>Choose a sound file</source>
+        <translation>Elektu sondosieron</translation>
+    </message>
+    <message>
+        <source>Sound (*.wav)</source>
+        <translation>Sono (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -16721,6 +16412,10 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Watcher Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watch for JID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16739,6 +16434,10 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>WbDlg</name>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Save session</source>
         <translation>Konservi la seancon</translation>
@@ -16879,10 +16578,6 @@ Do you still want to close the window?</source>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Skalebla vektora grafiko (*.svg)</translation>
     </message>
-    <message>
-        <source>Whiteboard (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>WbItem</name>
@@ -16914,6 +16609,14 @@ Do you still want to close the window?</source>
 <context>
     <name>WbManager</name>
     <message>
+        <source>Unsupported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact does not support whiteboarding.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open Existing SVG?</source>
         <translation>Ĉu Malfermi Ekzistantan SVG?</translation>
     </message>
@@ -16937,32 +16640,20 @@ Do you still want to close the window?</source>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 invitis vin al blankotabula seanco. Ĉu vi volas aliĝi?</translation>
     </message>
-    <message>
-        <source>Unsupported</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished">XMLa Konzolo</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="unfinished">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>XMLa Konzolo</translation>
     </message>
     <message>
         <source>Filter</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Mesaĝo</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -16970,10 +16661,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>IQ</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16996,6 +16683,14 @@ Do you still want to close the window?</source>
         <source>XML Input...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
+    </message>
+    <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::ClientStream</name>
@@ -17007,48 +16702,48 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
+        <source>ERROR: Incorrect usage of Features class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>None</source>
-        <translation type="unfinished">Neniu</translation>
+        <translation>Neniu</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Registriĝi</translation>
+        <translation>Registriĝi</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Serĉi</translation>
+        <translation>Serĉi</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="unfinished">Malkovri servojn</translation>
-    </message>
-    <message>
-        <source>Execute command</source>
-        <translation type="unfinished">Ruli komandon</translation>
-    </message>
-    <message>
-        <source>Add to roster</source>
-        <translation type="unfinished">Aldoni al kontaktolisto</translation>
-    </message>
-    <message>
-        <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="unfinished"></translation>
+        <translation>Babilejoj</translation>
     </message>
     <message>
         <source>Gateway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Service Discovery</source>
+        <translation>Malkovri servojn</translation>
+    </message>
+    <message>
         <source>VCard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Execute command</source>
+        <translation>Ruli komandon</translation>
+    </message>
+    <message>
         <source>Query version</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to roster</source>
+        <translation>Aldoni al kontaktolisto</translation>
     </message>
     <message>
         <source>Message Carbons</source>
@@ -17064,10 +16759,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>XMPP::Stanza::Error::Private</name>
-    <message>
-        <source>Internal server error</source>
-        <translation type="unfinished">Interna eraro de servilo</translation>
-    </message>
     <message>
         <source>Bad request</source>
         <translation type="unfinished"></translation>
@@ -17107,6 +16798,10 @@ Do you still want to close the window?</source>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Internal server error</source>
+        <translation>Interna eraro de servilo</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
@@ -17237,7 +16932,7 @@ Do you still want to close the window?</source>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished">Senkonekte</translation>
+        <translation>Senkonekte</translation>
     </message>
     <message>
         <source>Request timed out</source>
@@ -17328,7 +17023,7 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable invitations from conference</source>
+        <source>Disable invitations from groupchat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17337,14 +17032,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable invitations from groupchat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17393,13 +17080,17 @@ Do you still want to close the window?</source>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Nuligi</translation>
-    </message>
     <message>
         <source>Authenticate %1</source>
         <translation type="unfinished"></translation>
@@ -17453,6 +17144,10 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Nuligi</translation>
+    </message>
+    <message>
         <source>&amp;Authenticate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17497,6 +17192,10 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17508,10 +17207,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17560,10 +17255,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
-        <source>Status</source>
-        <translation type="unfinished">Stato</translation>
-    </message>
-    <message>
         <source>Delete fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17586,6 +17277,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Verified</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stato</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -17674,15 +17369,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17715,6 +17402,14 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17773,10 +17468,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OTR Plugin: event from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17820,12 +17511,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Contact not authenticated</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished">Rajtigo</translation>
+        <translation>Rajtigo</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -17919,10 +17614,6 @@ to this message in juick@conference.jabber.ru</source>
 <context>
     <name>uploadDialog</name>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
         <source>File: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -17949,6 +17640,10 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Done</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -17993,10 +17688,6 @@ to this message in juick@conference.jabber.ru</source>
 <context>
     <name>vCardView</name>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
-    <message>
         <source>Full Name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18011,6 +17702,10 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
     </message>
 </context>
 <context>
@@ -18046,10 +17741,6 @@ to this message in juick@conference.jabber.ru</source>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
-    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
@@ -18098,6 +17789,10 @@ line2</source>
     <message>
         <source>Open Browser</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermi</translation>
     </message>
 </context>
 <context>
@@ -18175,16 +17870,16 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Pasvorto</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Pasvorto</translation>
     </message>
     <message>
         <source>status</source>
