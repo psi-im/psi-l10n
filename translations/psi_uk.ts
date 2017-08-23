@@ -15753,7 +15753,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлики в діалоговому вікні історії</translation>
     </message>
 </context>
 <context>
