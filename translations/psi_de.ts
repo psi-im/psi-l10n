@@ -11959,10 +11959,6 @@ Grund: %1.</translation>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Setze ein neues Trennzeichen für verschachtelte Gruppen</translation>
     </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -15727,10 +15723,6 @@ Grund: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Tastenkombinationen im &quot;Dienste durchsuchen&quot;-Fenster</translation>
     </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17650,13 +17642,6 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <message>
         <source>No</source>
         <translation>Nein</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

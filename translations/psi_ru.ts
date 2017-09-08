@@ -11978,7 +11978,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
+        <translation type="vanished">Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
     </message>
 </context>
 <context>
@@ -15755,7 +15755,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation>Окно с историей сообщений</translation>
+        <translation type="vanished">Окно с историей сообщений</translation>
     </message>
 </context>
 <context>
@@ -17695,7 +17695,7 @@ Do you still want to close the window?</source>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation>Хранилище ключей QCA загружается слишком долго. Возможно, зависает &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Обратите внимание, что для защищенного подключения к серверам (с использованием TLS шифрования) требуется загруженное хранилище ключей.</translation>
+        <translation type="vanished">Хранилище ключей QCA загружается слишком долго. Возможно, зависает &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Обратите внимание, что для защищенного подключения к серверам (с использованием TLS шифрования) требуется загруженное хранилище ключей.</translation>
     </message>
 </context>
 <context>
