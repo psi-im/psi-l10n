@@ -7281,7 +7281,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Récent:</translation>
+        <translation type="vanished">Récent:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7289,19 +7289,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Serveur:</translation>
+        <translation type="vanished">Serveur:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Salle:</translation>
+        <translation type="vanished">Salle:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Surnom:</translation>
+        <translation type="vanished">Surnom:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mot de passe :</translation>
+        <translation type="vanished">Mot de passe :</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7310,6 +7310,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">Favoris :</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Surnom</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Mot de passe</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8236,7 +8256,7 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Afficher les boutons d&apos;onglet</translation>
+        <translation>Afficher les boutons d&apos;onglet</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11316,11 +11336,11 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation type="vanished">Message</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Discussion</translation>
+        <translation type="vanished">Discussion</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11341,6 +11361,14 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Message</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Discussion</translation>
     </message>
 </context>
 <context>
@@ -11862,6 +11890,10 @@ Cause: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Définir un nouveau séparateur pour les groupes imbriqués</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15528,6 +15560,10 @@ Cause: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17401,6 +17437,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Non</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

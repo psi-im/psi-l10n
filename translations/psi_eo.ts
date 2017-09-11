@@ -7120,31 +7120,31 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation>Identeco:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Request chat history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Kromnomo</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Pasvorto</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8044,6 +8044,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>[customized]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11097,11 +11101,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Mesaĝo</translation>
+        <translation type="vanished">Mesaĝo</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Babilo</translation>
+        <translation type="vanished">Babilo</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11122,6 +11126,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Babili</translation>
     </message>
 </context>
 <context>
@@ -11634,6 +11646,10 @@ Kialo: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Publika ŝlosilo: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15149,6 +15165,10 @@ Kialo: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -16967,6 +16987,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Ne</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

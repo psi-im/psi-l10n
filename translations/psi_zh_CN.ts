@@ -7358,7 +7358,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>最近:</translation>
+        <translation type="vanished">最近:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7366,19 +7366,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>主机:</translation>
+        <translation type="vanished">主机:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>聊天室:</translation>
+        <translation type="vanished">聊天室:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>昵称:</translation>
+        <translation type="vanished">昵称:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation type="vanished">密码:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7387,6 +7387,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">书签:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>昵称</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>密码</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8300,7 +8320,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">显示卷标按钮</translation>
+        <translation>显示卷标按钮</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11379,11 +11399,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>信息</translation>
+        <translation type="vanished">信息</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>对话</translation>
+        <translation type="vanished">对话</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11404,6 +11424,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>信息(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>对话(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -11917,6 +11945,10 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>公钥: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15638,6 +15670,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>查找服务对话框中的快捷键</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17553,6 +17589,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>否</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

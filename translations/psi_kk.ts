@@ -7095,7 +7095,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Соңғы:</translation>
+        <translation type="vanished">Соңғы:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7103,23 +7103,43 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Хост:</translation>
+        <translation type="vanished">Хост:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Бөлме:</translation>
+        <translation type="vanished">Бөлме:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Ник аты:</translation>
+        <translation type="vanished">Ник аты:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="vanished">Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
         <translation>Чат тарихын сұрау</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Ник аты</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Пароль</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8018,6 +8038,10 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[бапталған]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11078,11 +11102,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Хабарлама</translation>
+        <translation type="vanished">Хабарлама</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="vanished">Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11103,6 +11127,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Чат</translation>
     </message>
 </context>
 <context>
@@ -11613,6 +11645,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Public Key: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15145,6 +15181,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -16945,6 +16985,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Жоқ</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

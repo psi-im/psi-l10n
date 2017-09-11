@@ -7339,7 +7339,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Nedávné:</translation>
+        <translation type="vanished">Nedávné:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7347,19 +7347,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Server:</translation>
+        <translation type="vanished">Server:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Místnost:</translation>
+        <translation type="vanished">Místnost:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Přezdívka:</translation>
+        <translation type="vanished">Přezdívka:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Heslo:</translation>
+        <translation type="vanished">Heslo:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7368,6 +7368,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">Záložky:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Přezdívka</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Heslo</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8294,7 +8314,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Zobrazit tlačítka záložek</translation>
+        <translation>Zobrazit tlačítka záložek</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11390,11 +11410,11 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>Message</source>
-        <translation>Zpráva</translation>
+        <translation type="vanished">Zpráva</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11415,6 +11435,14 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Zpráva</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Chat</translation>
     </message>
 </context>
 <context>
@@ -11936,6 +11964,10 @@ Důvod: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Nastav nový oddělovač pro vnořené skupiny</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15690,6 +15722,10 @@ Zdůvodnění: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Klávesové zkratky v okně prohledávání služeb</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17565,6 +17601,13 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>No</source>
         <translation>Ne</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

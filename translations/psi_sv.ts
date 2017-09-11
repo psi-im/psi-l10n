@@ -7129,7 +7129,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Nyligen:</translation>
+        <translation type="vanished">Nyligen:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7137,23 +7137,43 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Värd:</translation>
+        <translation type="vanished">Värd:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Rum:</translation>
+        <translation type="vanished">Rum:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Smeknamn:</translation>
+        <translation type="vanished">Smeknamn:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Lösenord:</translation>
+        <translation type="vanished">Lösenord:</translation>
     </message>
     <message>
         <source>Request chat history</source>
         <translation>Begär chatthistorik</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Smeknamn</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Lösenord</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8058,6 +8078,10 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[anpassad]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11127,11 +11151,11 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Meddelande</translation>
+        <translation type="vanished">Meddelande</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chatt</translation>
+        <translation type="vanished">Chatt</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11152,6 +11176,14 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Meddelande</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Chatt</translation>
     </message>
 </context>
 <context>
@@ -11665,6 +11697,10 @@ Orsak: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Publik nyckel: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15206,6 +15242,10 @@ Orsak: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -17039,6 +17079,13 @@ Vill du ändå stänga fönstrett?</translation>
     <message>
         <source>No</source>
         <translation>Nej</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

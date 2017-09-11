@@ -7384,7 +7384,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Історія:</translation>
+        <translation type="vanished">Історія:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7392,19 +7392,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Сервер:</translation>
+        <translation type="vanished">Сервер:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Кімната:</translation>
+        <translation type="vanished">Кімната:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Нік:</translation>
+        <translation type="vanished">Нік:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="vanished">Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7413,6 +7413,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">Закладки:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Нік</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation>Кімната</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Пароль</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation>Сервер:</translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation>&amp;Обране</translation>
     </message>
 </context>
 <context>
@@ -8339,7 +8359,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Показувати додаткові кнопки вкладок</translation>
+        <translation>Показувати додаткові кнопки вкладок</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11433,11 +11453,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Повідомлення</translation>
+        <translation type="vanished">Повідомлення</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="vanished">Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11458,6 +11478,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Повідомлення</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Розмова</translation>
     </message>
 </context>
 <context>
@@ -11982,7 +12010,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="vanished">Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
+        <translation>Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
     </message>
 </context>
 <context>
@@ -15753,7 +15781,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="vanished">Ярлики в діалоговому вікні історії</translation>
+        <translation>Ярлики в діалоговому вікні історії</translation>
     </message>
 </context>
 <context>
@@ -17692,7 +17720,7 @@ Do you still want to close the window?</source>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="vanished">Менеджер ключів QCA завантажується довше ніж завжди. Можливо відбулося зависання &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Зверніть увагу, що для входу з допомогою функцій TLS та OpenPGP, потрібен менеджер ключів.</translation>
+        <translation>Менеджер ключів QCA завантажується довше ніж завжди. Можливо відбулося зависання &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Зверніть увагу, що для входу з допомогою функцій TLS та OpenPGP, потрібен менеджер ключів.</translation>
     </message>
 </context>
 <context>

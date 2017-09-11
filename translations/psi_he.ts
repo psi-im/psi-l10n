@@ -7251,7 +7251,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>אחרונות:</translation>
+        <translation type="vanished">אחרונות:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7259,19 +7259,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>מארח:</translation>
+        <translation type="vanished">מארח:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>חדר:</translation>
+        <translation type="vanished">חדר:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>שם כינוי:</translation>
+        <translation type="vanished">שם כינוי:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>סיסמה:</translation>
+        <translation type="vanished">סיסמה:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7280,6 +7280,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">סימניות:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>שם כינוי</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>סיסמה</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8189,7 +8209,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">הצג לחצני כרטיסייה</translation>
+        <translation>הצג לחצני כרטיסייה</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11259,11 +11279,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation type="vanished">הודעה</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>שיחה</translation>
+        <translation type="vanished">שיחה</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11284,6 +11304,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;שיחה</translation>
     </message>
 </context>
 <context>
@@ -11797,6 +11825,10 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>מפתח פומבי: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15418,6 +15450,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17277,6 +17313,13 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>לא</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

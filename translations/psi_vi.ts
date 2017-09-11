@@ -7130,7 +7130,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Gần đây:</translation>
+        <translation type="vanished">Gần đây:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7138,23 +7138,43 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Máy:</translation>
+        <translation type="vanished">Máy:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Phòng:</translation>
+        <translation type="vanished">Phòng:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Tên hiệu :</translation>
+        <translation type="vanished">Tên hiệu :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mật khẩu :</translation>
+        <translation type="vanished">Mật khẩu :</translation>
     </message>
     <message>
         <source>Request chat history</source>
         <translation>Yêu cầu lược sử chát</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Tên hiệu</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Mật khẩu</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8058,6 +8078,10 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[tùy chỉnh]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11128,11 +11152,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Tin nhẳn</translation>
+        <translation type="vanished">Tin nhẳn</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chát</translation>
+        <translation type="vanished">Chát</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11153,6 +11177,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Tin nhẳn</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11666,6 +11698,10 @@ Lý do : %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Khoá công: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15202,6 +15238,10 @@ Lý do : %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -17034,6 +17074,13 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <message>
         <source>No</source>
         <translation>Không</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

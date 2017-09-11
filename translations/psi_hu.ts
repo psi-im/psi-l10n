@@ -7364,7 +7364,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Közelmúlt:</translation>
+        <translation type="vanished">Közelmúlt:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7372,19 +7372,19 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Host:</source>
-        <translation>Kiszolgáló:</translation>
+        <translation type="vanished">Kiszolgáló:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Szoba:</translation>
+        <translation type="vanished">Szoba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Becenév:</translation>
+        <translation type="vanished">Becenév:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Jelszó:</translation>
+        <translation type="vanished">Jelszó:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7393,6 +7393,26 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">Könyvjelzők:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Becenév</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Jelszó</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8319,7 +8339,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Lapok gombjainak megjelenítése</translation>
+        <translation>Lapok gombjainak megjelenítése</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11414,11 +11434,11 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Message</source>
-        <translation>Üzenet</translation>
+        <translation type="vanished">Üzenet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Beszélgetés</translation>
+        <translation type="vanished">Beszélgetés</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11439,6 +11459,14 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Üzenet</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11960,6 +11988,10 @@ Oka: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Új határoló megadása a beágyazott csoportokhoz</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15706,6 +15738,10 @@ Oka: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Gyorsgombok a szolgáltatások feltérképezésében</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17581,6 +17617,13 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>No</source>
         <translation>Nem</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

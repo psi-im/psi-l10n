@@ -7343,7 +7343,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Recent:</translation>
+        <translation type="vanished">Recent:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7351,19 +7351,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Host:</translation>
+        <translation type="vanished">Host:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Room:</translation>
+        <translation type="vanished">Room:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Nickname:</translation>
+        <translation type="vanished">Nickname:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Password:</translation>
+        <translation type="vanished">Password:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7372,6 +7372,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Bookmarks:</source>
         <translation type="vanished">Bookmarks:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Nickname</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Password</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8287,7 +8307,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Show tab buttons</translation>
+        <translation>Show tab buttons</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11379,11 +11399,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation type="vanished">Message</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11404,6 +11424,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Message</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
     </message>
 </context>
 <context>
@@ -11917,6 +11945,10 @@ Reason: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Public Key: %1</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15666,6 +15698,10 @@ Reason: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Shortcuts in the service discovery dialog</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17584,6 +17620,13 @@ Do you still want to close the window?</translation>
     <message>
         <source>No</source>
         <translation>No</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
