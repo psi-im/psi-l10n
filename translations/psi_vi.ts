@@ -7158,7 +7158,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Tên hiệu</translation>
+        <translation>Tên hiệu</translation>
     </message>
     <message>
         <source>Room</source>
@@ -7166,7 +7166,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Mật khẩu</translation>
+        <translation>Mật khẩu</translation>
     </message>
     <message>
         <source>Host</source>
@@ -11180,11 +11180,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Tin nhẳn</translation>
+        <translation>&amp;Tin nhẳn</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chát</translation>
     </message>
 </context>
 <context>
