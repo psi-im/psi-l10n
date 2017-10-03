@@ -8403,6 +8403,72 @@ Labels : %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Zone de texte auto-adaptative</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Utiliser le mode Onglet:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">pour les discussions uniquement</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">pour les salons de discussion uniquement</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">pour les discussions et salons de discussion séparément</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">pour les discussions et salons de discussion en fenêtre unique</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="vanished">pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[personnalisé]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Afficher les boutons d&apos;onglet</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Utiliser le formatage du contact pour les messages</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Afficher le compteur de caractères</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Majuscule automatique en début de phrase</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10068,6 +10134,35 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>Select the system iconset</source>
         <translation>Choisissez votre liste d&apos;icônes système</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Cochez cette option si vous voulez activer la vérification orthographique</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Messages</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Fait que Psi ouvre les discussions dans différents onglets d&apos;une même fenêtre.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Fait que Psi affiche le compteur de caractères. Cochez la case si vous voulez connaître la longueur de votre message. Très pratique lors de l&apos;utilisation du transport SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
     </message>
 </context>
 <context>

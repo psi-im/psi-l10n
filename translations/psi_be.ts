@@ -8421,6 +8421,68 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Form</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Зьмяняць памеры поля ўводу самарушна</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Form</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Паказваць карткамі:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">толькі гутаркі</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">толькі нарады</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">асобна гутаркі й асобна нарады</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">у адным вакне разам гутаркі ды нарады</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="vanished">у адным вакне нарады, гутаркі ды сьпіс</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[выбарачна]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Паказваць кнопкі картак</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Аздабленьне вызначае суразмоўца</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Паказваць лічыльнік знакаў</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Пачынаць сказы зь вялікае літары</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10098,6 +10160,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Абярыце набор значкаў сыстэмы</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Абярыце гэта, калі жадаеце спраўджваць правапіс</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">паведамленьняў</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Гутаркі будуць адчыняцца ў картках.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">«Псі» будзе падлічваць даўжыню паведамленьня. Калі жадаеце ведаць, як шмат вы набралі, абярыце гэта. Можа быць зручным, калі ўжываецца транспарт у SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Калі абраць гэта, паведамленьні будуць аздабляцца так, як гэта вызначыў суразмоўца</translation>
     </message>
 </context>
 <context>

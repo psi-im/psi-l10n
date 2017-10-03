@@ -8214,6 +8214,56 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">فارم </translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">متن ان پٹ قطعہ باز سائز کریں</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">فارم </translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">ٹیب موص استعمال کریں</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">صرف بات چیت کےلیے</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">صرف mucs کےلیے</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">بات چیت اور mucs کےلیے، علیحدہ علیحدہ</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">ایک دریچے میں بات چیت اور mucs کےلیے۔</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">(اختصاصی)</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">رابطہ پیغام وضع کاری استعمال کریں</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">کریکٹر شمارندہ نمائش کریں</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -9870,6 +9920,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>نظام شبیہ سیٹ منتخب کریں</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">اگر آپ چاہتے ہیں کہ آپ کے ہجے پڑتال کیے جائیں تو یہ اختیار با نشان کریں</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">پیغامات</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">‫Psiکھلے بات چیت دریچے جدولی دریچے میں بناتا ہے۔</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Psi سے شمارندہ لمبائی پیغام نمائش کرواتا ہے۔  اگر آپ جاننا چاہتے ہیں کہ آپ کا پیغام کتنا لمبا ہے تو اسے بانشان کریں۔ جب آپ ایس ایم ایس ٹرانسپورٹ استعمال کریں تو مفید ہو سکتا ہے۔</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">اگر اہل بنایا گیا Psi، آمدہ وضع کردہ پیغامات اس طرز میں دکھائے گا، جو رابطے سے اختصاص کردہ ہیں</translation>
     </message>
 </context>
 <context>

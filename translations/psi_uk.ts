@@ -8506,6 +8506,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Форма</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Автоматично змінювати розмір поля введення</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="vanished">Увімкнути перевірку правопису</translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="vanished">Доступні словники перевірки правопису</translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="vanished">Словників не знайдено</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Форма</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Використовувати режим вкладок:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">тільки для чатів</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">тільки для конференцій</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">для чатів та конференцій</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">для чатів та конференцій в одному вікні</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="vanished">все в одному вікні</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[Довільно]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Показувати додаткові кнопки вкладок</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Використовувати гарячі клавіші Alt-[0-9] для навігації по табам</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="vanished">Показувати передогляд для посилань</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Використовувати формат тексту відправника</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Показувати лічильник символів</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Автоматично робити першу букву речення заголовною</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10181,6 +10263,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Оберіть системний набір піктограм</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="vanished">Введення</translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="vanished">Налаштування введення</translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Оберіть цю опцію, якщо ви хочете активувати перевірку правопису</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Повідомлення</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="vanished">Налаштування повідомлень</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="vanished">Загальне</translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="vanished">Загальні налаштування для секції повідомлень</translation>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Примушує Psi відкривати розмови у вікні із закладками.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="vanished">Показує під посиланнями передогляд для деякого медіа контенту. Також можливо програвати аудіо та відео прямо в чаті.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Примушує Psi показувати лічильник символів. Оберіть це, якщо ви хочете знати наскільки довге ваше повідомлення. Корисне для SMS транспорту.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Якщо активовано, Psi буде відображати форматування тексту, яке було вказано відправником</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="vanished">Вмикає автоматичну заміну першої букви речення на таку саму заголовну</translation>
     </message>
 </context>
 <context>

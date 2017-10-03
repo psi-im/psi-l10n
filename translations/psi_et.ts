@@ -9813,6 +9813,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Avab Psi vestlused alamakendes.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Psi näitab sõnumi pikkuse loendurit.</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

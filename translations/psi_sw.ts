@@ -9828,6 +9828,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Huifanya Psi ionyeshe urefu wa maneno (ki-hesabu-urefu wa ujumbe).Tiki kwenye kisanduku hiki kama unataka kujua urefu wa ujumbe wako. Inaweza kuwa nzuri zaidi kama unatumia usafiri wa SMS.</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

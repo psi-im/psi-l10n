@@ -8461,6 +8461,72 @@ Tagy: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Formulář</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Automaticky měnit velikost vstupního pole</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Formulář</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Použij režim záložek:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">pouze pro chat</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">pouze pro multi chat</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">odděleně pro chat a multi chat</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">pro chat a multi chat v jednom okně</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="vanished">pro chat, chat více lidí a seznam kontaktů v jednom okně</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[přizpůsobený]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Zobrazit tlačítka záložek</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Povolit Alt-[0-9] zkratky pro záložky</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Používat formátování nastavené kontaktem</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Zobrazit počítadlo znaků</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Automaticky psát velké písmeno na začátku věty</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10141,6 +10207,35 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Select the system iconset</source>
         <translation>Vyber systémové ikony</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Vyber tuto volbu, pokud chceš používat kontrolu pravopisu</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Zprávy</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Zajistí, že se nová okna chatu budou zobrazovat jako panely.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Zobrazování počítadla znaků při psaní zprávy. Zapni tuto volbu, pokud chceš vědět délku zprávy. Může se to hodit při psaní do SMS transportu.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
     </message>
 </context>
 <context>

@@ -9816,6 +9816,17 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Fa que el Psi obri els xats en mode finestra amb pestanyes.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Fa que Psi mostri un comptador de longitud del missatge. Marqui això si desitja saber la longitud del seu missatge. Pot ser útil si està utilitzant un transport de SMS.</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

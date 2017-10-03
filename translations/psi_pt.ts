@@ -9819,6 +9819,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Faz com que o Psi abra janelas de conversa em &quot;tabs&quot;.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Faz com que o Psi mostre o tamanho da mensagem. Active esta opção se desejar saber quão comprida é a sua mensagem. Pode ser útil se estiver a usar um transporte SMS.</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

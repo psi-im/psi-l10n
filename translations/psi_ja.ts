@@ -8293,6 +8293,60 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">フォーム</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">テキスト入力項目を自動調整</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">フォーム</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">タブモードを使用する:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">チャットのみ</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">グループチャットのみ</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">チャットとグループチャットを分ける</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">チャットとグループチャットを一つのウィンドウに</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[カスタマイズ]</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Alt-[0-9] によるタブショートカットを有効にする</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">コンタクトのメッセージ整形を使用</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">文字数を表示</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -9949,6 +10003,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>システムアイコン集を選択してください</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">ペルチェックを行いたい場合このオプションを有効にします</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">メッセージ</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Psiはチャットウィンドウをタブモードで開きます。</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
     </message>
 </context>
 <context>

@@ -9815,6 +9815,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Saa Psin näyttämään viesteille pituuslaskurin. Rastita tämä, jos tahdot tietää kuinka pitkä viestisi on. Voi olla hyödyllinen SMS-välityspalvelua käytettäessä.</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

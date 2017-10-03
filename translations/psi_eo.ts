@@ -9842,6 +9842,28 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Ŝaltu tiun opcion se vi volas, ke via ortografio estas kontrolata</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Malfermigi Psi babilajn fenestrojn en langeta fenestro.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Se ŝaltita, Psi montros la enirantajn mesaĝojn per la formato, kiun difinis la kontakto</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>

@@ -8400,6 +8400,48 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">От</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Авто-оразмеряване на полето за въвеждане на текст</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">От</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Използване табов режим:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">само за чатове</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Подпрозорците с бутони</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="vanished">Показване на превю на линкове</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Показване на броя на символите</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Автоматична промяна в главна буква на първата буква в изречение</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10067,6 +10109,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Избор на системни икони</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Отбележете тази опция ако искате вашия правопис да бъде проверяван</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Съобщения</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Psi да отваря разговорите в подпрозорци.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Включва брояч за дължината на съобщенията. Включете тази настройка, ако искете да знаете колко големи са съобщенията ви. Може да е полезно, ако използвате прехвърляне към SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Ако е включено, Psi ще входящите съобщения форматирани в стила определен от контакта</translation>
     </message>
 </context>
 <context>

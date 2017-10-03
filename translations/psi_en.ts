@@ -8499,6 +8499,76 @@ Tags: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="obsolete">Auto-resize text input field</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="obsolete">Use tabbed mode:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="obsolete">for chats only</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="obsolete">for mucs only</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="obsolete">for chats and mucs separately</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="obsolete">for mucs and chats in one window</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="obsolete">for mucs, chats and roster in one window</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="obsolete">[customized]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="obsolete">Show tab buttons</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="obsolete">Enable Alt-[0-9] tab shortcuts</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="obsolete">Show previews for links</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="obsolete">Use contacts&apos; message formatting</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="obsolete">Show character counter</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Automatically capitalize the first letter in a sentence</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10176,6 +10246,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Select the system iconset</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="obsolete">Check this option if you want your spelling to be checked</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="obsolete">Messages</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="obsolete">Makes Psi open chats in a tabbed window.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="obsolete">Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="obsolete">Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="obsolete">If enabled, Psi will display incoming messages formatted in the style specified by the contact</translation>
     </message>
 </context>
 <context>

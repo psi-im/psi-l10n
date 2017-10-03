@@ -8356,6 +8356,68 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">טופס</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">שנה אוטומטית מידת שדה קלט טקסט</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">טופס</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">השתמש במצב כרטיסיות:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">עבור שיחות בלבד</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">עבור שיחות מרובות משתתפים בלבד</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">הן עבור שיחות והן עבור שיחות מרובות משתתפים בנפרד</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[מותאם]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">הצג לחצני כרטיסייה</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">אפשר קיצורי דרך כרטיסייה Alt-[0-9‪]</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">השתמש בעיצוב הודעה של איש קשר</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">הצג מונה תווים</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10012,6 +10074,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>בחר את מערך סמלי המערכת</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">סמן את אפשרות זו אם ברצונך כי איות ייבדק</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">הודעות</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יפתח שיחות בחלון בעל כרטיסיות.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש בטרנספורט SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">במידה ומאופשרת, Psi יציג הודעות נכנסות מעוצבות עם הסגנון שצוין על ידי איש קשר</translation>
     </message>
 </context>
 <context>

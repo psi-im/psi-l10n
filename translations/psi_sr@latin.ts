@@ -8409,6 +8409,72 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Forma</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Automatska veličina polja za unos teksta</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Forma</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Koristi tabovani mod:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">za razgovor samo</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">za mucs samo</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">za razgovor i mucs odvojeno</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">za mucs i razgovor u jednom prozoru</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="vanished">za mucs, razgovor i spisak u jednom prozoru</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[prilagodjeno]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="vanished">Pokaži dugme kartica</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Omogući Alt-[0-9] tab prečice</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Koristi formatiranje kontakt poruka</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Prikaži brojač znakova</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Automatski prvo slovo u rečenici</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10071,6 +10137,28 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Izaberite sistemsku žbirku ikonica</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Poruke</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
 </context>
 <context>

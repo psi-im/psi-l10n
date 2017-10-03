@@ -8228,6 +8228,56 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Form</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Ändra storlek på textskrivningsrutan automatiskt</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Form</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Använd flikläge:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">för chattar bara</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">för MUCar bara</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">för chattar och MUCar separat</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">för MUCar och chattar i ett fönster</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[anpassad]</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Använd kontakters meddelandeformattering</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Visa teckenräknar</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -9884,6 +9934,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Välj ikonuppsättning för systemet</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Använd detta val om du vill aktivera stavningskontroll</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Meddelanden</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Gör så att Psi öppnar chattar i ett flikfönster.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Gör så att Psi visa en räknare för meddelandelängd. Använd detta val om du vill veta hur långt ditt meddelande är. Kan vara praktiskt när du använder en SMS-transport.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Om på så kommer Psi att visa inkommande meddelanden formaterade som avsändaren angett</translation>
     </message>
 </context>
 <context>

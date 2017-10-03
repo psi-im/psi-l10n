@@ -8228,6 +8228,56 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Đơn</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Tự động thay đổi kích cỡ trường gõ chữ</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Đơn</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Dùng chế độ thẻ:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">chỉ cho chát</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">chỉ cho MUC</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">cho chát và MUC một cách riêng</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">cho MUC và chát cùng cửa sổ</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[tùy chỉnh]</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="vanished">Theo định dạng của tin nhẳn gốc</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation type="vanished">Hiện bộ đếm ký tự</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -9884,6 +9934,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Chọn bộ biểu tượng hệ thống</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="vanished">Bật để bắt lỗi chính tả</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Tin nhẳn</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation type="vanished">Psi mở chát trong cửa sổ thẻ.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation type="vanished">Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="vanished">Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
     </message>
 </context>
 <context>

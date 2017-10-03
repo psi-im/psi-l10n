@@ -8188,6 +8188,52 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Форма</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation type="vanished">Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation type="vanished">Форма</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation type="vanished">Беттерді қолдану:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation type="vanished">тек чаттар үшін</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="vanished">тек чат бөлмелері үшін</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="vanished">чаттар мен чат бөлмелері үшін, бөлек</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="vanished">чаттар мен чат бөлмелері үшін, бір терезеде</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="vanished">[бапталған]</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="vanished">Alt-[0-9] беттерге қатынау жарлықтарын іске қосу</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -9842,6 +9888,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation type="vanished">Хабарламалар</translation>
     </message>
 </context>
 <context>
