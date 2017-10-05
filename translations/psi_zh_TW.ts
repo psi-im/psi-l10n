@@ -8458,10 +8458,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">外形</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">自動調整文字輸入區域大小</translation>
     </message>

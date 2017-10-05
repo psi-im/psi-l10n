@@ -8504,10 +8504,6 @@ Argomento MUC per esempio.</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Modulo</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Dimensiona automaticamente il campo di input per il testo</translation>
     </message>

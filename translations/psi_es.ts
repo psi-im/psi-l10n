@@ -8472,10 +8472,6 @@ Etiquetas: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Form</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Redimensionar automáticamente el campo de entrada de texto</translation>
     </message>

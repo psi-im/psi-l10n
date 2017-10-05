@@ -8229,10 +8229,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Obrazec</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Samodejno spremeni velikost polja za vnos besedila</translation>
     </message>

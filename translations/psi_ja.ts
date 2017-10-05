@@ -8295,10 +8295,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">フォーム</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">テキスト入力項目を自動調整</translation>
     </message>

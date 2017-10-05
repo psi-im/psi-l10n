@@ -8463,10 +8463,6 @@ Tagy: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulář</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Automaticky měnit velikost vstupního pole</translation>
     </message>

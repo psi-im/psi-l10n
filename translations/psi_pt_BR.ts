@@ -8476,10 +8476,6 @@ Tags: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulário</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Ajustar tamanho automaticamente o campo para entrada de texto</translation>
     </message>

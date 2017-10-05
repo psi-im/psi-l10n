@@ -8405,10 +8405,6 @@ Labels : %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formulaire</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Zone de texte auto-adaptative</translation>
     </message>

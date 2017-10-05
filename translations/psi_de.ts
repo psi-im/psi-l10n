@@ -8491,10 +8491,6 @@ Tags: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formular</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Größe des Texteingabe-Feldes automatisch anpassen</translation>
     </message>
