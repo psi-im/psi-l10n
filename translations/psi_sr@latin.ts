@@ -8305,10 +8305,6 @@ Kartice: %1</translation>
         <translation type="vanished">Nikad</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Poruka</translation>
     </message>
@@ -8330,6 +8326,10 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9669,10 +9669,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Omogući udaljenu kontrolu tvog klijenta sa drugih lokacija</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
@@ -9719,6 +9715,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
         <translation>Čini da Psi zanemaruje sve ulazne „naslove“ — sistemske vesti na MSN-u, najave, itd.</translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

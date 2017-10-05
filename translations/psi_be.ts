@@ -8281,10 +8281,6 @@ Tags: %1</source>
         <translation>Зьмяняць памеры поля ўводу самарушна</translation>
     </message>
     <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Звычайнае дзеяньне</translation>
     </message>
@@ -8317,10 +8313,6 @@ Tags: %1</source>
         <translation type="vanished">Ніколі</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Паведамленьне</translation>
     </message>
@@ -8342,6 +8334,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

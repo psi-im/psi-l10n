@@ -8224,10 +8224,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>Okna edycji dopasuje się do ilości tekstu</translation>
     </message>
     <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Domyślna akcja</translation>
     </message>
@@ -8260,10 +8256,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation type="vanished">Nigdy</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8285,6 +8277,14 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

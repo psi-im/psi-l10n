@@ -8058,24 +8058,12 @@ Tags: %1</source>
         <translation>ایک دریچے میں بات چیت اور mucs کےلیے۔</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>(اختصاصی)</translation>
     </message>
     <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>متن ان پٹ قطعہ باز سائز کریں</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8110,10 +8098,6 @@ Tags: %1</source>
         <translation type="vanished">کبھی نہیں</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8135,6 +8119,22 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

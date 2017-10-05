@@ -8137,16 +8137,8 @@ Tags: %1</source>
         <translation>チャットとグループチャットを一つのウィンドウに</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[カスタマイズ]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8189,10 +8181,6 @@ Tags: %1</source>
         <translation type="vanished">消去しない</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>メッセージ(&amp;M)</translation>
     </message>
@@ -8214,6 +8202,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

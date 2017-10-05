@@ -8200,10 +8200,6 @@ Tags: %1</source>
         <translation>הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[מותאם]</translation>
     </message>
@@ -8252,10 +8248,6 @@ Tags: %1</source>
         <translation type="vanished">אף פעם</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8277,6 +8269,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

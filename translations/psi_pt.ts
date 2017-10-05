@@ -7639,14 +7639,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7664,10 +7656,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7704,6 +7692,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check spelling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8005,6 +8005,42 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Default action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="vanished">Conversa</translation>
+    </message>
+    <message>
+        <source>Delete chat window contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Conversa</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use tabbed mode:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8045,43 +8081,7 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Default action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Conversa</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation>&amp;Conversa</translation>
-    </message>
-    <message>
-        <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9351,14 +9351,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Active esta opção se desejar que o texto selecionado em novas mensagens e nos registos de conversação sejam automaticamente copiados para a área de transferência</translation>
     </message>
@@ -9401,6 +9393,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
         <translation>Faz com o Psi ignore todos os novos eventos de &quot;destaque&quot;, como notícias gerais no MSN, anúncios, etc.</translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

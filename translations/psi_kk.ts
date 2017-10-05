@@ -7650,10 +7650,6 @@ Tags: %1</source>
         <translation>Емлені тексеру</translation>
     </message>
     <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7671,10 +7667,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7711,6 +7703,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8032,16 +8032,8 @@ Tags: %1</source>
         <translation>чаттар мен чат бөлмелері үшін, бір терезеде</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[бапталған]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8084,10 +8076,6 @@ Tags: %1</source>
         <translation type="vanished">Ешқашан</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8109,6 +8097,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9424,14 +9424,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9456,10 +9448,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9473,6 +9461,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9696,10 +9696,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9717,6 +9713,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

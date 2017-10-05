@@ -7858,10 +7858,6 @@ Tags: %1</source>
         <translation>Проверка на правописа</translation>
     </message>
     <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>Единично кликване активира действието по подразбиране</translation>
     </message>
@@ -7920,6 +7916,10 @@ Tags: %1</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Съобщения (Чатове ако Чати)</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8232,36 +8232,12 @@ Tags: %1</source>
         <translation>само за чатове</translation>
     </message>
     <message>
-        <source>for mucs only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show tab buttons</source>
         <translation>Подпрозорците с бутони</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
         <translation>Авто-оразмеряване на полето за въвеждане на текст</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8322,6 +8298,30 @@ Tags: %1</source>
     <message>
         <source>&amp;Never</source>
         <translation>&amp;Никога</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

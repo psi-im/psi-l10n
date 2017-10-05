@@ -7655,14 +7655,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7680,10 +7672,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7720,6 +7708,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check spelling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8021,6 +8021,50 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Default action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation type="vanished">Порака</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="vanished">Разговор</translation>
+    </message>
+    <message>
+        <source>Delete chat window contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation type="vanished">Никогаш</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Разговор</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use tabbed mode:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8061,51 +8105,7 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Default action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="vanished">Порака</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Разговор</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Никогаш</translation>
-    </message>
-    <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation>&amp;Разговор</translation>
-    </message>
-    <message>
-        <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

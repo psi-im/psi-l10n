@@ -8385,10 +8385,6 @@ Tags: %1</translation>
         <translation type="vanished">Nie</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Nachricht</translation>
     </message>
@@ -8410,6 +8406,10 @@ Tags: %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
