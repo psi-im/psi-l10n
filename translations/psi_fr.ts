@@ -8299,6 +8299,10 @@ Labels : %1</translation>
         <translation type="vanished">Jamais</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>&amp;Message</translation>
     </message>
@@ -8320,10 +8324,6 @@ Labels : %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17528,13 +17528,6 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Non</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

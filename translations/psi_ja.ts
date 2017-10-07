@@ -8137,8 +8137,16 @@ Tags: %1</source>
         <translation>チャットとグループチャットを一つのウィンドウに</translation>
     </message>
     <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>[customized]</source>
         <translation>[カスタマイズ]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8181,6 +8189,10 @@ Tags: %1</source>
         <translation type="vanished">消去しない</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>メッセージ(&amp;M)</translation>
     </message>
@@ -8202,18 +8214,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17213,13 +17213,6 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>いいえ</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

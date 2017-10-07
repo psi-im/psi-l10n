@@ -8071,12 +8071,24 @@ Tags: %1</source>
         <translation>za skupinske in navadne klepete v enem oknu</translation>
     </message>
     <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>[customized]</source>
         <translation>[po meri]</translation>
     </message>
     <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto-resize text input field</source>
         <translation>Samodejno spremeni velikost polja za vnos besedila</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8111,6 +8123,10 @@ Tags: %1</source>
         <translation type="vanished">Nikoli</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>&amp;Sporočilo</translation>
     </message>
@@ -8132,22 +8148,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17165,13 +17165,6 @@ Ali še vedno želite zapreti okno?</translation>
     <message>
         <source>No</source>
         <translation>Ne</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

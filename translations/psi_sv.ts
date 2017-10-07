@@ -8072,12 +8072,24 @@ Tags: %1</source>
         <translation>för MUCar och chattar i ett fönster</translation>
     </message>
     <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>[customized]</source>
         <translation>[anpassad]</translation>
     </message>
     <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto-resize text input field</source>
         <translation>Ändra storlek på textskrivningsrutan automatiskt</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8112,6 +8124,10 @@ Tags: %1</source>
         <translation type="vanished">Aldrig</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>&amp;Meddelande</translation>
     </message>
@@ -8133,22 +8149,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17154,13 +17154,6 @@ Vill du ändå stänga fönstrett?</translation>
     <message>
         <source>No</source>
         <translation>Nej</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

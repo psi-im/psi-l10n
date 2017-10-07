@@ -8072,12 +8072,24 @@ Tags: %1</source>
         <translation>cho MUC và chát cùng cửa sổ</translation>
     </message>
     <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>[customized]</source>
         <translation>[tùy chỉnh]</translation>
     </message>
     <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto-resize text input field</source>
         <translation>Tự động thay đổi kích cỡ trường gõ chữ</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8112,6 +8124,10 @@ Tags: %1</source>
         <translation type="vanished">Không bao giờ</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>&amp;Tin nhẳn</translation>
     </message>
@@ -8133,22 +8149,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17149,13 +17149,6 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <message>
         <source>No</source>
         <translation>Không</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
