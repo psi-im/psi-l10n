@@ -8523,6 +8523,10 @@ Tags: %1</source>
         <source>No dictionaries found</source>
         <translation type="vanished">Словників не знайдено</translation>
     </message>
+    <message>
+        <source>OptInputUI</source>
+        <translation type="vanished">OptInputUI</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
