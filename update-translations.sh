@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2017-07-26
+# Updated: 2017-10-27
 # Version: N/A
 
 set -e
@@ -14,6 +14,8 @@ export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 PSI_DIR="${MAIN_DIR}/psi"
 PLUGINS_DIR="${MAIN_DIR}/plugins"
 PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
+
+PSI_RELEASE_BRANCH="release-1.x"
 
 cd "${CUR_DIR}"
 
@@ -121,6 +123,8 @@ case "${1}" in
     if [ -d "${PSI_DIR}" ]; then
         echo "Updating ${PSI_DIR}"
         cd "${PSI_DIR}"
+        git checkout .
+        git checkout "${PSI_RELEASE_BRANCH}"
         git pull --all --prune
         git submodule init
         git submodule update
@@ -130,6 +134,7 @@ case "${1}" in
         cd "${MAIN_DIR}"
         git clone https://github.com/psi-im/psi.git
         cd "${PSI_DIR}"
+        git checkout "${PSI_RELEASE_BRANCH}"
         git submodule init
         git submodule update
         echo;
