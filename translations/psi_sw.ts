@@ -7123,22 +7123,30 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Jina bandia</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Jina bandia</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Neno la siri</translation>
+        <translation type="vanished">Neno la siri</translation>
     </message>
     <message>
-        <source>Host</source>
+        <source>Recent:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Favorites</source>
+        <source>Host:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Room:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8074,10 +8082,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11096,7 +11100,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Ongea</translation>
+        <translation>Ongea</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11119,11 +11123,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
+        <source>Message</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11636,10 +11636,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Ufunguo wa umma:%1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15117,10 +15113,6 @@ Sababu: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

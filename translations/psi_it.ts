@@ -7379,7 +7379,7 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Recente:</translation>
+        <translation>Recente:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7387,19 +7387,19 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Host:</translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Stanza:</translation>
+        <translation>Stanza:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Soprannome:</translation>
+        <translation>Soprannome:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7411,23 +7411,11 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Soprannome</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Soprannome</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Password</translation>
     </message>
 </context>
 <context>
@@ -8355,7 +8343,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Mostra pulsanti schede</translation>
+        <translation type="vanished">Mostra pulsanti schede</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11543,11 +11531,11 @@ Spunta la casella &lt;i&gt;Abilita Emoticon&lt;/i&gt; se vuoi che testi come &lt
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Messaggio</translation>
+        <translation>Messaggio</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11571,11 +11559,11 @@ Spunta la casella &lt;i&gt;Abilita Emoticon&lt;/i&gt; se vuoi che testi come &lt
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Messaggio</translation>
+        <translation type="vanished">&amp;Messaggio</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
 </context>
 <context>
@@ -12097,10 +12085,6 @@ Motivo: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Imposta un nuovo delimitatore dei gruppi nidificati</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15862,10 +15846,6 @@ Motivo: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Scorciatoie nella finestra di scoperta servizi</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

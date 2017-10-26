@@ -7129,7 +7129,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Nyligen:</translation>
+        <translation>Nyligen:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7137,19 +7137,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Värd:</translation>
+        <translation>Värd:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Rum:</translation>
+        <translation>Rum:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Smeknamn:</translation>
+        <translation>Smeknamn:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Lösenord:</translation>
+        <translation>Lösenord:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7157,23 +7157,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Smeknamn</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Smeknamn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Lösenord</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Lösenord</translation>
     </message>
 </context>
 <context>
@@ -8078,10 +8066,6 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[anpassad]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11226,11 +11210,11 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Meddelande</translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chatt</translation>
+        <translation>Chatt</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11254,11 +11238,11 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Meddelande</translation>
+        <translation type="vanished">&amp;Meddelande</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chatt</translation>
+        <translation type="vanished">&amp;Chatt</translation>
     </message>
 </context>
 <context>
@@ -11772,10 +11756,6 @@ Orsak: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Publik nyckel: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15315,10 +15295,6 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

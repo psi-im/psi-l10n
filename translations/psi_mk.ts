@@ -7131,22 +7131,30 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Прекар</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Прекар</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Лозинка</translation>
+        <translation type="vanished">Лозинка</translation>
     </message>
     <message>
-        <source>Host</source>
+        <source>Recent:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Favorites</source>
+        <source>Host:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Room:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8090,10 +8098,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11125,11 +11129,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Порака</translation>
+        <translation>Порака</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Разговор</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11152,12 +11156,8 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Разговор</translation>
+        <translation type="vanished">&amp;Разговор</translation>
     </message>
 </context>
 <context>
@@ -11671,10 +11671,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Јавен клуч: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15203,10 +15199,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

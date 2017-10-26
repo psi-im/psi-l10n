@@ -7378,7 +7378,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">История:</translation>
+        <translation>История:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7386,19 +7386,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Комната:</translation>
+        <translation>Комната:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Ник:</translation>
+        <translation>Ник:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7410,23 +7410,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Ник</translation>
+        <translation type="vanished">Ник</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation>Комната</translation>
+        <translation type="vanished">Комната</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation type="vanished">Пароль</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation>Сервер</translation>
+        <translation type="vanished">Сервер</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation>Избранное</translation>
+        <translation type="vanished">Избранное</translation>
     </message>
 </context>
 <context>
@@ -8353,7 +8353,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Показывать дополнительные кнопки вкладок</translation>
+        <translation type="vanished">Показывать дополнительные кнопки вкладок</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11590,11 +11590,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Сообщение</translation>
+        <translation>Сообщение</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Чат</translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11618,11 +11618,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Сообщение</translation>
+        <translation type="vanished">&amp;Сообщение</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Чат</translation>
+        <translation type="vanished">&amp;Чат</translation>
     </message>
 </context>
 <context>
@@ -12149,7 +12149,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
+        <translation type="vanished">Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
     </message>
 </context>
 <context>
@@ -15926,7 +15926,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation>Окно с историей сообщений</translation>
+        <translation type="vanished">Окно с историей сообщений</translation>
     </message>
 </context>
 <context>

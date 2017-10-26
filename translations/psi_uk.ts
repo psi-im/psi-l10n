@@ -7384,7 +7384,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Історія:</translation>
+        <translation>Історія:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7392,19 +7392,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Кімната:</translation>
+        <translation>Кімната:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Нік:</translation>
+        <translation>Нік:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7416,23 +7416,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Нік</translation>
+        <translation type="vanished">Нік</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation>Кімната</translation>
+        <translation type="vanished">Кімната</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation type="vanished">Пароль</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation>Сервер:</translation>
+        <translation type="vanished">Сервер:</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation>&amp;Обране</translation>
+        <translation type="vanished">&amp;Обране</translation>
     </message>
 </context>
 <context>
@@ -8359,7 +8359,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Показувати додаткові кнопки вкладок</translation>
+        <translation type="vanished">Показувати додаткові кнопки вкладок</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11592,11 +11592,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Повідомлення</translation>
+        <translation>Повідомлення</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Чат</translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11620,11 +11620,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Повідомлення</translation>
+        <translation type="vanished">&amp;Повідомлення</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Розмова</translation>
+        <translation type="vanished">&amp;Розмова</translation>
     </message>
 </context>
 <context>
@@ -12149,7 +12149,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
+        <translation type="vanished">Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
     </message>
 </context>
 <context>
@@ -15920,7 +15920,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation>Ярлики в діалоговому вікні історії</translation>
+        <translation type="vanished">Ярлики в діалоговому вікні історії</translation>
     </message>
 </context>
 <context>

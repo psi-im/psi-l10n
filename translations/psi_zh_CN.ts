@@ -7358,7 +7358,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">最近:</translation>
+        <translation>最近:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7366,19 +7366,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">聊天室:</translation>
+        <translation>聊天室:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">昵称:</translation>
+        <translation>昵称:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">密码:</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7390,23 +7390,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>昵称</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">昵称</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>密码</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">密码</translation>
     </message>
 </context>
 <context>
@@ -8320,7 +8308,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>显示卷标按钮</translation>
+        <translation type="vanished">显示卷标按钮</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11490,11 +11478,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11518,11 +11506,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>信息(&amp;M)</translation>
+        <translation type="vanished">信息(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>对话(&amp;C)</translation>
+        <translation type="vanished">对话(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -12036,10 +12024,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>公钥: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15760,10 +15744,6 @@ Reason: %1</source>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>查找服务对话框中的快捷键</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

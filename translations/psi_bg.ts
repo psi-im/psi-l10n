@@ -7278,7 +7278,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Скорошни:</translation>
+        <translation>Скорошни:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7286,19 +7286,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Сървър:</translation>
+        <translation>Сървър:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Стая:</translation>
+        <translation>Стая:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Псевдоним:</translation>
+        <translation>Псевдоним:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Парола:</translation>
+        <translation>Парола:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7310,23 +7310,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Псевдоним</translation>
+        <translation type="vanished">Псевдоним</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation>Стая</translation>
+        <translation type="vanished">Стая</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Парола</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Парола</translation>
     </message>
 </context>
 <context>
@@ -8253,7 +8245,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Подпрозорците с бутони</translation>
+        <translation type="vanished">Подпрозорците с бутони</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11403,11 +11395,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Съобщение</translation>
+        <translation>Съобщение</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Чат</translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11431,11 +11423,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Съобщение</translation>
+        <translation type="vanished">&amp;Съобщение</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Разговор</translation>
+        <translation type="vanished">&amp;Разговор</translation>
     </message>
 </context>
 <context>
@@ -11960,7 +11952,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>Не може да свърже: Криптирането е включено, но QCA съхранителя на ключове не е наличен.</translation>
+        <translation type="vanished">Не може да свърже: Криптирането е включено, но QCA съхранителя на ключове не е наличен.</translation>
     </message>
 </context>
 <context>
@@ -15643,10 +15635,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

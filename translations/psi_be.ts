@@ -7310,7 +7310,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Нядаўнія:</translation>
+        <translation>Нядаўнія:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7318,19 +7318,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Вузел:</translation>
+        <translation>Вузел:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Пакой:</translation>
+        <translation>Пакой:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Мянушка:</translation>
+        <translation>Мянушка:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7342,23 +7342,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Мянушка</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Мянушка</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Пароль</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Пароль</translation>
     </message>
 </context>
 <context>
@@ -8274,7 +8262,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Паказваць кнопкі картак</translation>
+        <translation type="vanished">Паказваць кнопкі картак</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11457,11 +11445,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Паведамленьне</translation>
+        <translation>Паведамленьне</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Гутарка</translation>
+        <translation>Гутарка</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11485,11 +11473,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Паведамленьне</translation>
+        <translation type="vanished">&amp;Паведамленьне</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Гутарыць</translation>
+        <translation type="vanished">&amp;Гутарыць</translation>
     </message>
 </context>
 <context>
@@ -12003,10 +11991,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Агульнадаступны ключ: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15762,10 +15746,6 @@ Reason: %1</source>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Выклічнікі ў вакне шукаць службы</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

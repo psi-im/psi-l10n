@@ -7377,7 +7377,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Recent:</translation>
+        <translation>Recent:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7385,19 +7385,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Host:</translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Room:</translation>
+        <translation>Room:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Nickname:</translation>
+        <translation>Nickname:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7409,23 +7409,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Nickname</translation>
+        <translation type="vanished">Nickname</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation>Room</translation>
+        <translation type="vanished">Room</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation>Host</translation>
+        <translation type="vanished">Host</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation>&amp;Favorites</translation>
+        <translation type="vanished">&amp;Favorites</translation>
     </message>
 </context>
 <context>
@@ -8352,7 +8352,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Show tab buttons</translation>
+        <translation type="vanished">Show tab buttons</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11550,11 +11550,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Message</translation>
+        <translation>Message</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11578,11 +11578,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Message</translation>
+        <translation type="vanished">&amp;Message</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
 </context>
 <context>
@@ -12107,7 +12107,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</translation>
+        <translation type="vanished">Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</translation>
     </message>
 </context>
 <context>
@@ -15875,7 +15875,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation>Shortcuts in the history dialog</translation>
+        <translation type="vanished">Shortcuts in the history dialog</translation>
     </message>
 </context>
 <context>

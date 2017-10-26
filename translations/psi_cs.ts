@@ -7339,7 +7339,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Nedávné:</translation>
+        <translation>Nedávné:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7347,19 +7347,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Server:</translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Místnost:</translation>
+        <translation>Místnost:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Přezdívka:</translation>
+        <translation>Přezdívka:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7371,23 +7371,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Přezdívka</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Přezdívka</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Heslo</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Heslo</translation>
     </message>
 </context>
 <context>
@@ -8314,7 +8302,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Zobrazit tlačítka záložek</translation>
+        <translation type="vanished">Zobrazit tlačítka záložek</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11501,11 +11489,11 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Zpráva</translation>
+        <translation>Zpráva</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11529,11 +11517,11 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Zpráva</translation>
+        <translation type="vanished">&amp;Zpráva</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
 </context>
 <context>
@@ -12055,10 +12043,6 @@ Důvod: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Nastav nový oddělovač pro vnořené skupiny</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15812,10 +15796,6 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Klávesové zkratky v okně prohledávání služeb</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

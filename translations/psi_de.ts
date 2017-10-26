@@ -7367,7 +7367,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Letzte:</translation>
+        <translation>Letzte:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7375,19 +7375,19 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Server:</translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Raum:</translation>
+        <translation>Raum:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Spitzname:</translation>
+        <translation>Spitzname:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Kennwort:</translation>
+        <translation>Kennwort:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7399,23 +7399,11 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Spitzname</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Spitzname</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Passwort</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Passwort</translation>
     </message>
 </context>
 <context>
@@ -8342,7 +8330,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Zeige Tab Schaltfläche</translation>
+        <translation type="vanished">Zeige Tab Schaltfläche</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11523,11 +11511,11 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Nachricht</translation>
+        <translation>Nachricht</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11551,11 +11539,11 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Nachricht</translation>
+        <translation type="vanished">&amp;Nachricht</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chatten</translation>
+        <translation type="vanished">&amp;Chatten</translation>
     </message>
 </context>
 <context>
@@ -12077,10 +12065,6 @@ Grund: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Setze ein neues Trennzeichen für verschachtelte Gruppen</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15845,10 +15829,6 @@ Grund: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Tastenkombinationen im &quot;Dienste durchsuchen&quot;-Fenster</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

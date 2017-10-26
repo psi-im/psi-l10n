@@ -7128,7 +7128,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Nedavno:</translation>
+        <translation>Nedavno:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7136,19 +7136,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Gostitelj:</translation>
+        <translation>Gostitelj:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Klepetalnica:</translation>
+        <translation>Klepetalnica:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Vzdevek:</translation>
+        <translation>Vzdevek:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Geslo:</translation>
+        <translation>Geslo:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7156,23 +7156,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Vzdevek</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Vzdevek</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Geslo</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Geslo</translation>
     </message>
 </context>
 <context>
@@ -8077,10 +8065,6 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[po meri]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11225,11 +11209,11 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Sporočilo</translation>
+        <translation>Sporočilo</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Klepet</translation>
+        <translation>Klepet</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11253,11 +11237,11 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Sporočilo</translation>
+        <translation type="vanished">&amp;Sporočilo</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Klepet</translation>
+        <translation type="vanished">&amp;Klepet</translation>
     </message>
 </context>
 <context>
@@ -11772,10 +11756,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Public Key: %1</source>
         <translation>Javni ključ: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15327,10 +15307,6 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

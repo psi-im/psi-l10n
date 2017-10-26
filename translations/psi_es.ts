@@ -7360,7 +7360,7 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Reciente:</translation>
+        <translation>Reciente:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7368,19 +7368,19 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Anfitrión</translation>
+        <translation>Anfitrión</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Sala:</translation>
+        <translation>Sala:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Nick/Apodo:</translation>
+        <translation>Nick/Apodo:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Contraseña:</translation>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7392,23 +7392,11 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Apodo</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Apodo</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Contraseña</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Contraseña</translation>
     </message>
 </context>
 <context>
@@ -8323,7 +8311,7 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Mostrar botones de las pestañas</translation>
+        <translation type="vanished">Mostrar botones de las pestañas</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11506,11 +11494,11 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Mensaje</translation>
+        <translation>Mensaje</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Conversación</translation>
+        <translation>Conversación</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11534,11 +11522,11 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Mensaje</translation>
+        <translation type="vanished">&amp;Mensaje</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Conversar</translation>
+        <translation type="vanished">&amp;Conversar</translation>
     </message>
 </context>
 <context>
@@ -12060,10 +12048,6 @@ Motivo: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Establecer un nuevo delimitador de grupos anidados</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15813,10 +15797,6 @@ Razón: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Atajos en el diálogo de descubrimiento de servicios</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

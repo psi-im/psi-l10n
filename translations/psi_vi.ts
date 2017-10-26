@@ -7130,7 +7130,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Gần đây:</translation>
+        <translation>Gần đây:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7138,19 +7138,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Máy:</translation>
+        <translation>Máy:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Phòng:</translation>
+        <translation>Phòng:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Tên hiệu :</translation>
+        <translation>Tên hiệu :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Mật khẩu :</translation>
+        <translation>Mật khẩu :</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7158,23 +7158,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Tên hiệu</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tên hiệu</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Mật khẩu</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mật khẩu</translation>
     </message>
 </context>
 <context>
@@ -8078,10 +8066,6 @@ Tags: %1</source>
     <message>
         <source>[customized]</source>
         <translation>[tùy chỉnh]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11227,11 +11211,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Tin nhẳn</translation>
+        <translation>Tin nhẳn</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Chát</translation>
+        <translation>Chát</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11255,11 +11239,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Tin nhẳn</translation>
+        <translation type="vanished">&amp;Tin nhẳn</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chát</translation>
+        <translation type="vanished">&amp;Chát</translation>
     </message>
 </context>
 <context>
@@ -11773,10 +11757,6 @@ Lý do : %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Khoá công: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15311,10 +15291,6 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

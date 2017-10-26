@@ -7364,7 +7364,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Közelmúlt:</translation>
+        <translation>Közelmúlt:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7372,19 +7372,19 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Kiszolgáló:</translation>
+        <translation>Kiszolgáló:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Szoba:</translation>
+        <translation>Szoba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Becenév:</translation>
+        <translation>Becenév:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Jelszó:</translation>
+        <translation>Jelszó:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7396,23 +7396,11 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Becenév</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Becenév</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Jelszó</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Jelszó</translation>
     </message>
 </context>
 <context>
@@ -8339,7 +8327,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Lapok gombjainak megjelenítése</translation>
+        <translation type="vanished">Lapok gombjainak megjelenítése</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11529,11 +11517,11 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Üzenet</translation>
+        <translation>Üzenet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Beszélgetés</translation>
+        <translation>Beszélgetés</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11557,11 +11545,11 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Üzenet</translation>
+        <translation type="vanished">&amp;Üzenet</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Beszélgetés</translation>
+        <translation type="vanished">&amp;Beszélgetés</translation>
     </message>
 </context>
 <context>
@@ -12083,10 +12071,6 @@ Oka: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Új határoló megadása a beágyazott csoportokhoz</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15832,10 +15816,6 @@ Oka: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Gyorsgombok a szolgáltatások feltérképezésében</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

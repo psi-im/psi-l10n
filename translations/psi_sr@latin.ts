@@ -7297,7 +7297,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Skorašnje:</translation>
+        <translation>Skorašnje:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7305,19 +7305,19 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Domaćin:</translation>
+        <translation>Domaćin:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Soba:</translation>
+        <translation>Soba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Korisničko ime:</translation>
+        <translation>Korisničko ime:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Lozinka</translation>
+        <translation>Lozinka</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7329,23 +7329,11 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Korisničko ime</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Korisničko ime</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Lozinka</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Lozinka</translation>
     </message>
 </context>
 <context>
@@ -8262,7 +8250,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Pokaži dugme kartica</translation>
+        <translation type="vanished">Pokaži dugme kartica</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11424,11 +11412,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Poruka</translation>
+        <translation>Poruka</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Razgovor</translation>
+        <translation>Razgovor</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11452,11 +11440,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Poruka</translation>
+        <translation type="vanished">&amp;Poruka</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Razgovor</translation>
+        <translation type="vanished">&amp;Razgovor</translation>
     </message>
 </context>
 <context>
@@ -11968,10 +11956,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Javni ključ: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15701,10 +15685,6 @@ Razlog: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Prečice u servisu dijaloga</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

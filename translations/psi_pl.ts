@@ -7258,7 +7258,7 @@ Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona 
     </message>
     <message>
         <source>Recent:</source>
-        <translation type="vanished">Ostatni:</translation>
+        <translation>Ostatni:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7266,19 +7266,19 @@ Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona 
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Serwer:</translation>
+        <translation>Serwer:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="vanished">Pokój:</translation>
+        <translation>Pokój:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="vanished">Pseudonim:</translation>
+        <translation>Pseudonim:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Hasło:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7290,23 +7290,11 @@ Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona 
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Pseudonim</translation>
-    </message>
-    <message>
-        <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Pseudonim</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Hasło</translation>
-    </message>
-    <message>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Hasło</translation>
     </message>
 </context>
 <context>
@@ -8217,7 +8205,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Pokaż karty</translation>
+        <translation type="vanished">Pokaż karty</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -11380,11 +11368,11 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
     </message>
     <message>
         <source>Message</source>
-        <translation type="vanished">Wiadomość</translation>
+        <translation>Wiadomość</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="vanished">Rozmowa</translation>
+        <translation>Rozmowa</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11407,12 +11395,8 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
         <translation>psi/addContact</translation>
     </message>
     <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Rozmowa</translation>
+        <translation type="vanished">&amp;Rozmowa</translation>
     </message>
 </context>
 <context>
@@ -11926,10 +11910,6 @@ Przyczyna: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Klucz publiczny: %1</translation>
-    </message>
-    <message>
-        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15602,10 +15582,6 @@ Przyczyna: %1</translation>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Linki w oknie wyszukiwarki usług</translation>
-    </message>
-    <message>
-        <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
