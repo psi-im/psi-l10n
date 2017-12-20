@@ -8349,6 +8349,10 @@ Tags: %1</source>
         <source>Auto-resize text input field</source>
         <translation type="vanished">שנה אוטומטית מידת שדה קלט טקסט</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8395,10 +8399,6 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">הצג מונה תווים</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
     </message>
 </context>
 <context>

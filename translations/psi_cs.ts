@@ -8454,6 +8454,10 @@ Tagy: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Automaticky měnit velikost vstupního pole</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Automaticky psát velké písmeno na začátku věty</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8504,10 +8508,6 @@ Tagy: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Zobrazit počítadlo znaků</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automaticky psát velké písmeno na začátku věty</translation>
     </message>
 </context>
 <context>

@@ -8460,6 +8460,10 @@ Tags: %1</source>
         <source>Auto-resize text input field</source>
         <translation type="vanished">自动调整文字输入区域大小</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">自动大写句子的第一个字母</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8510,10 +8514,6 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">显示字符计数器</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">自动大写句子的第一个字母</translation>
     </message>
 </context>
 <context>

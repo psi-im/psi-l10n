@@ -5874,7 +5874,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche:</translation>
     </message>
     <message>
         <source>All accounts</source>
@@ -5886,11 +5886,11 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 von %2 Treffern</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"></translation>
+        <translation>Es wurden keine Treffer gefunden</translation>
     </message>
 </context>
 <context>
@@ -7402,8 +7402,20 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
         <translation type="vanished">Spitzname</translation>
     </message>
     <message>
+        <source>Room</source>
+        <translation type="vanished">Raum</translation>
+    </message>
+    <message>
         <source>Password</source>
         <translation type="vanished">Passwort</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="vanished">Host</translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="vanished">&amp;Favoriten</translation>
     </message>
 </context>
 <context>
@@ -8374,7 +8386,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Vorschau für Links</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8386,19 +8398,19 @@ Tags: %1</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beim Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eine Stunde nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Einen &amp;Tag nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nie</translation>
     </message>
 </context>
 <context>
@@ -8482,6 +8494,22 @@ Tags: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Größe des Texteingabe-Feldes automatisch anpassen</translation>
     </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="vanished">Aktiviere Rechtschreibprüfung</translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="vanished">Verfügbare Rechtschreibwörterbücher</translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="vanished">Keine Wörterbücher gefunden</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Automatisch ersten Buchstaben im Satz groß schreiben</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8526,16 +8554,16 @@ Tags: %1</translation>
         <translation type="vanished">Aktiviere Alt-[0-9]-Tab-Tastenkombinationen</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="vanished">Zeige Vorschau für Links</translation>
+    </message>
+    <message>
         <source>Use contacts&apos; message formatting</source>
         <translation type="vanished">Nachrichten-Formatierung des Kontakts verwenden</translation>
     </message>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Zeichenzähler anzeigen</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatisch ersten Buchstaben im Satz groß schreiben</translation>
     </message>
 </context>
 <context>
@@ -10041,7 +10069,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige eine Vorschau bestimmter Medieninhalte. Es ist ebenfalls möglich, Audio und Video direkt im Chat abzuspielen.</translation>
     </message>
 </context>
 <context>
@@ -10216,8 +10244,20 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
 <context>
     <name>OptionsTabInput</name>
     <message>
+        <source>Input</source>
+        <translation type="vanished">Eingabe</translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="vanished">Eingabeoptionen</translation>
+    </message>
+    <message>
         <source>Check this option if you want your spelling to be checked</source>
         <translation type="vanished">Aktivieren Sie diese Option wenn Sie möchten, dass ihre Rechtschreibung geprüft wird</translation>
+    </message>
+    <message>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="vanished">Aktiviert automatische Ersetzung des ersten Buchstabens eines Satzes mit dessen Großbuchstaben</translation>
     </message>
 </context>
 <context>
@@ -10226,12 +10266,28 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
         <source>Messages</source>
         <translation type="vanished">Nachrichten</translation>
     </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="vanished">Nachrichtenoptionen</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
+        <source>Common</source>
+        <translation type="vanished">Allgemein</translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="vanished">Allgemeine Optionen für den Nachrichtenbereich</translation>
+    </message>
+    <message>
         <source>Makes Psi open chats in a tabbed window.</source>
         <translation type="vanished">Psi öffnet Chatfenster im Tab-Modus.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="vanished">Zeige eine Vorschau bestimmter Medieninhalte. Es ist ebenfalls möglich, Audio und Video direkt im Chat abzuspielen.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
@@ -12065,6 +12121,10 @@ Grund: %1.</translation>
     <message>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Setze ein neues Trennzeichen für verschachtelte Gruppen</translation>
+    </message>
+    <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="vanished">Verbindung fehlgeschlagen: Verschlüsselung ist aktiviert, aber es ist keine QCA-Schlüsselspeicherverwaltung verfügbar.</translation>
     </message>
 </context>
 <context>
@@ -15830,6 +15890,10 @@ Grund: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Tastenkombinationen im &quot;Dienste durchsuchen&quot;-Fenster</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="vanished">Tastenkombinationen in der Nachrichtenchronik</translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -17749,6 +17813,13 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <message>
         <source>No</source>
         <translation>Nein</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
+        <translation type="vanished">Die von QCA zur Verfügung gestellte Schlüsselverwaltung braucht länger zu laden als gewöhnlich. Vielleicht hat sich &lt;i&gt;gpg&lt;/i&gt; aufgehangen. &lt;br&gt;&lt;br&gt;Beachte, dass das Einloggen mit TLS und mit OpenPGP zusammenhängende Funtionalitäten die Schlüsselspeicherverwaltung benötigen.</translation>
     </message>
 </context>
 <context>

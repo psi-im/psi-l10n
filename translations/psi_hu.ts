@@ -8483,6 +8483,10 @@ Címkék: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Beviteli mező automatikus átméretezése</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Automatikusan nagy kezdőbetű a mondat eleje</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>

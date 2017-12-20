@@ -8467,6 +8467,10 @@ Tags: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Ajustar tamanho automaticamente o campo para entrada de texto</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Automaticamente escrever com letra maíscula a primeira letra de uma sentença</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8517,10 +8521,6 @@ Tags: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Exibir contador de caracteres</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automaticamente escrever com letra maíscula a primeira letra de uma sentença</translation>
     </message>
 </context>
 <context>

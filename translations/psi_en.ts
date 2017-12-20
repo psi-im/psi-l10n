@@ -8508,6 +8508,10 @@ Tags: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="obsolete">Auto-resize text input field</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Automatically capitalize the first letter in a sentence</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>

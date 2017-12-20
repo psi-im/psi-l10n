@@ -8397,6 +8397,10 @@ Tags: %1</source>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Авто-оразмеряване на полето за въвеждане на текст</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Автоматична промяна в главна буква на първата буква в изречение</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8423,10 +8427,6 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Показване на броя на символите</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Автоматична промяна в главна буква на първата буква в изречение</translation>
     </message>
 </context>
 <context>

@@ -8406,6 +8406,10 @@ Kartice: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Automatska veličina polja za unos teksta</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Automatski prvo slovo u rečenici</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>

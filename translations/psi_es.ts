@@ -8463,6 +8463,10 @@ Etiquetas: %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Redimensionar automáticamente el campo de entrada de texto</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Poner en mayúsculas automáticamente la primera letra en la oración</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8513,10 +8517,6 @@ Etiquetas: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Mostrar contador de caracteres</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Poner en mayúsculas automáticamente la primera letra en la oración</translation>
     </message>
 </context>
 <context>

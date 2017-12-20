@@ -8396,6 +8396,10 @@ Labels : %1</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Zone de texte auto-adaptative</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="vanished">Majuscule automatique en début de phrase</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8446,10 +8450,6 @@ Labels : %1</translation>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Afficher le compteur de caractères</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Majuscule automatique en début de phrase</translation>
     </message>
 </context>
 <context>

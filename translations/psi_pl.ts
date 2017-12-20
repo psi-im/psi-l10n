@@ -8361,6 +8361,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Okna edycji dopasuje się do ilości tekstu</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Automatyczna duża pierwsza litera</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>

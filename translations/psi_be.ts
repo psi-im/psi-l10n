@@ -8418,6 +8418,10 @@ Tags: %1</source>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Зьмяняць памеры поля ўводу самарушна</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="obsolete">Пачынаць сказы зь вялікае літары</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
