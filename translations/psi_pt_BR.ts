@@ -5658,6 +5658,13 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="vanished">Idioma</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

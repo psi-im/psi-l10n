@@ -4512,10 +4512,6 @@ Reason: %1</source>
         <translation>Chyba: Už si v miestnosti, alebo sa ju opäť pokúšaš navštíviť!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Neznáma chyba skupinového chatu: %1</translation>
     </message>
@@ -4701,6 +4697,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

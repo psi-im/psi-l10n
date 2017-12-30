@@ -5652,6 +5652,13 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="vanished">Jazyk</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

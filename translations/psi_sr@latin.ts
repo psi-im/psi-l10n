@@ -5612,6 +5612,13 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Jezik</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

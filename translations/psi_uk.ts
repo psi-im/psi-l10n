@@ -4866,6 +4866,10 @@ Reason: %1</source>
         <source>Bookmark conference</source>
         <translation>Закладка конференції</translation>
     </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="vanished">Неможливо увійти до конференції. Причина: %1</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -5676,6 +5680,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="vanished">Додати Мову</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="vanished">Мова</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="vanished">Сценарій</translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="vanished">Країна</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5718,6 +5741,18 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Text of topic</source>
         <translation>Текст теми</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="vanished">Будь-яка Мова</translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="vanished">Будь-яка Країна</translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="vanished">Будь-який Сценарій</translation>
     </message>
 </context>
 <context>
@@ -14955,6 +14990,10 @@ Thanks for your patience.</source>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 відтепер відомий як %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="vanished">Будь-яка Мова</translation>
     </message>
 </context>
 <context>

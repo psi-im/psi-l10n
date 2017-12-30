@@ -4508,10 +4508,6 @@ Reason: %1</source>
         <translation>Viga: Sa juba oled selles toas!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Ootamatu grupivestluse viga: %1</translation>
     </message>
@@ -4697,6 +4693,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -4511,10 +4511,6 @@ Reason: %1</source>
         <translation>Virhe: Olet jo tässä huoneessa tai liittymässä siihen!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Odottamaton virhe ryhmäkeskustelussa: %1</translation>
     </message>
@@ -4700,6 +4696,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

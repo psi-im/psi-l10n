@@ -5672,6 +5672,13 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="vanished">Sprache</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

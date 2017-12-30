@@ -5625,6 +5625,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Мова</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

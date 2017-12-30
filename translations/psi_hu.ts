@@ -5657,6 +5657,13 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Nyelv</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>

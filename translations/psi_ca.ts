@@ -4510,10 +4510,6 @@ Reason: %1</source>
         <translation>Error: Ja s&apos;està unint o es troba en aquesta sala!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Error inesperat en el grup de xerrada: %1</translation>
     </message>
@@ -4699,6 +4695,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

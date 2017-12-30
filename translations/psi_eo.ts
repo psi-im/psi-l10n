@@ -4526,10 +4526,6 @@ Kialo: %1</translation>
         <translation>Eraro: Vi jam estas ena aŭ enirantas ĉi tiun babilejon!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Neantaŭvidita babileja eraro: %1</translation>
     </message>
@@ -4715,6 +4711,10 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

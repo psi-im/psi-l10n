@@ -4519,10 +4519,6 @@ Reason: %1</source>
         <translation>Imekosewa: Uko ndani au umeshaingia kwenye chumba hicho tayari!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected groupchat error: %1</source>
         <translation>Kuna kosa lisilotegemewa kwenye mazungumzo ya kikundi: %1</translation>
     </message>
@@ -4708,6 +4704,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

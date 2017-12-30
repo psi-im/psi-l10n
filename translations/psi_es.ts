@@ -5654,6 +5654,13 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Language</source>
+        <translation type="vanished">Idioma</translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
