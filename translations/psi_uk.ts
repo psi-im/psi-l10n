@@ -8201,6 +8201,14 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation>Виділення:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">Посилання</translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="vanished">Відвідане посилання</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -10986,6 +10994,10 @@ Please enter your passphrase below:</source>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="vanished">psi/keys64</translation>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
@@ -13171,6 +13183,10 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Advanc&amp;ed</source>
         <translation>Додатко&amp;во</translation>
+    </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="vanished">Додати закладку</translation>
     </message>
 </context>
 <context>

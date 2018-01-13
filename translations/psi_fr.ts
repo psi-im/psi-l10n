@@ -8058,6 +8058,10 @@ Labels : %1</translation>
         <source>Highlight:</source>
         <translation>Surligner:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">Lien</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

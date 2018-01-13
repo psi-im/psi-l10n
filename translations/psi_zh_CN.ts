@@ -8122,6 +8122,10 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">链接</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

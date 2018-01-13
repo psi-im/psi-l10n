@@ -8125,6 +8125,10 @@ Etiquetas: %1</translation>
         <source>Highlight:</source>
         <translation>Resaltar:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">Enlace</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

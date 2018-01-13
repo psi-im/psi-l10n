@@ -8011,6 +8011,10 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">קישור</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

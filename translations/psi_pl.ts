@@ -8018,6 +8018,10 @@ Etykiety: %1</translation>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="obsolete">Link</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

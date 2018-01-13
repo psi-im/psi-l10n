@@ -8129,6 +8129,10 @@ Tags: %1</translation>
         <source>Highlight:</source>
         <translation>Destaque:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">Link</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

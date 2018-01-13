@@ -8197,6 +8197,10 @@ Argomento MUC per esempio.</translation>
         <source>Highlight:</source>
         <translation>Evidenzia:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="vanished">Collegamento</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
