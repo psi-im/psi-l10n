@@ -8201,6 +8201,10 @@ Argomento MUC per esempio.</translation>
         <source>Link</source>
         <translation type="vanished">Collegamento</translation>
     </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="vanished">Link Visitato</translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -8313,6 +8317,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Language</source>
         <translation>Lingua</translation>
+    </message>
+    <message>
+        <source>99999</source>
+        <translation type="vanished">99999</translation>
     </message>
 </context>
 <context>
@@ -9240,7 +9248,7 @@ I nomi delle opzioni non possono essere vuoti, finire con &apos;.&apos; o conten
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Non nascondere il popup se lo stato è Assente o XA</translation>
+        <translation>Non nascondere il popup se lo stato è Assente o Indisponibile</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
@@ -10985,6 +10993,10 @@ Inserisci la tua password qui sotto:</translation>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;Ok</translation>
+    </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="vanished">psi/keys64</translation>
     </message>
 </context>
 <context>
@@ -13170,6 +13182,10 @@ La migrazione è possibile con Psi-0.15</translation>
     <message>
         <source>Advanc&amp;ed</source>
         <translation>A&amp;vanzato</translation>
+    </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="vanished">Aggiungi Ai Segnalibri</translation>
     </message>
 </context>
 <context>

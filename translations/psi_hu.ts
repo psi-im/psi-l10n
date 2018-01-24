@@ -8258,6 +8258,10 @@ Címkék: %1</translation>
         <source>Language</source>
         <translation>Nyelv</translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>

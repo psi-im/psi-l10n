@@ -8322,6 +8322,18 @@ Tags: %1</source>
         <source>Language</source>
         <translation>Мова</translation>
     </message>
+    <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="vanished">Зберігати паролі облікових записів в більш безпечному системному менеджері паролів замість налаштувань профілю.</translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="vanished">Використовувати системний менеджер паролів</translation>
+    </message>
+    <message>
+        <source>99999</source>
+        <translation type="vanished">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
