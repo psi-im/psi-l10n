@@ -4805,6 +4805,62 @@ Reason: %1</translation>
         <source>Bookmark conference</source>
         <translation>Označeno konferencija</translation>
     </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">&amp;Izvrši komandu</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Kick</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Bez razloga</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Custom reason</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Zabrani</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Promeni ulogu</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Posetilac</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Učesnik</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Promeni pripadnost</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">Nepripadanje</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Član</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">Vlasnik</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4815,6 +4871,21 @@ Reason: %1</translation>
     <message>
         <source>Command</source>
         <translation>Komanda</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderatori</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Učesnici</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Posetioci</translation>
     </message>
 </context>
 <context>
@@ -8731,6 +8802,164 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Spisak uvek na vrhu</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Automatska veličina liste kontakata</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Levi klik za meni</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Pokaži menibar</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Onemogući skrolbar u prozoru aplikacije</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Omoguće avatar na vrhu spiska</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Omogući avatar spiska</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Auto sakrivanje spiska posle</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikone</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Pokaži geolokaciju na spisku</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">Geolokacija</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">POkaži modove u spisku</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Pokaži avatare na spisku</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatari</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Pokaži aktivnosti u spisku</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Aktivnosti</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Pokaži ikonu kada kontakt sluša muziku</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Sada emituje</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Klijenti</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">sve ikone klijenta</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">samo ikona klijenta sa visokim prioritetom</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Podešavanje avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Veličina</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Prečnik ugla</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikone</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Klijenti</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Pripadnosti</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Pokaži avatare na spisku</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatari</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Podešavanje avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Veličina</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Prečnik ugla</translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
@@ -10239,6 +10468,40 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Pokaži meni bar u prozoru aplikacija</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Spisak</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Opcije prozora sa spiskom</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Čini da glavni prozor uvek bude ispred ostalih.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Pokaži meni bar u prozoru aplikacija</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Grupni razgovor</translation>
     </message>
 </context>
 <context>
@@ -15310,6 +15573,29 @@ Razlog: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Dodaj</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Izmeni</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">Ok</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="obsolete">Gore</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="obsolete">Dole</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16145,6 +16431,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source> is composing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (neaktivan)</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
@@ -16415,14 +16705,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16504,6 +16786,14 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Priložio</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17925,6 +18215,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Kopiraj otisak</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

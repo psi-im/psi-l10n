@@ -4723,6 +4723,50 @@ Lý do : %1</translation>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">Mở &amp;cửa sổ chát</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">&amp;Chạy lệnh</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">Đã &amp;ra</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Không có lý do</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Lý do đặt riêng</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Cấm</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Đổi vai trò</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Khách</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Người tham dự</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Điều tiết viên</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">Thông t&amp;in người dùng</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4733,6 +4777,21 @@ Lý do : %1</translation>
     <message>
         <source>Command</source>
         <translation>Lệnh</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Điều tiết viên</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Người tham dự</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Khách</translation>
     </message>
 </context>
 <context>
@@ -4798,6 +4857,10 @@ Lý do : %1</translation>
         <translation>Điều tiết viên</translation>
     </message>
     <message>
+        <source>User &amp;Info</source>
+        <translation>Thông t&amp;in người dùng</translation>
+    </message>
+    <message>
         <source>Change Affiliation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4816,10 +4879,6 @@ Lý do : %1</translation>
     <message>
         <source>Owner</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>Thông t&amp;in người dùng</translation>
     </message>
 </context>
 <context>
@@ -7989,6 +8048,10 @@ Tags: %1</source>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
@@ -8060,20 +8123,12 @@ Tags: %1</source>
         <translation>cho MUC và chát cùng cửa sổ</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[tùy chỉnh]</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
         <translation>Tự động thay đổi kích cỡ trường gõ chữ</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8108,10 +8163,6 @@ Tags: %1</source>
         <translation type="vanished">Không bao giờ</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Tin nhẳn</translation>
     </message>
@@ -8133,6 +8184,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8390,6 +8453,10 @@ Tags: %1</source>
         <translation>OptApplicationUI</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>Cỡ</translation>
+    </message>
+    <message>
         <source>Roster window always on top</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8426,15 +8493,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show avatars in roster</source>
+        <source>Show geolocation in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatars</source>
+        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8446,19 +8517,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8490,20 +8561,42 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation>Cỡ</translation>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
     </message>
     <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Size</source>
+        <translation type="obsolete">Cỡ</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Trạng thái</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Nhập hội</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Cỡ</translation>
     </message>
 </context>
 <context>
@@ -10016,6 +10109,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Chát nhóm</translation>
     </message>
 </context>
 <context>
@@ -15038,6 +15138,33 @@ Lý do : %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Thêm</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Bỏ</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Thôi</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Lên</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Xuống</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15721,6 +15848,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation>đang gõ</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (bị động)</translation>
     </message>
 </context>
 <context>
@@ -17502,6 +17633,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

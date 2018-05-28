@@ -243,6 +243,10 @@ Copyright © 2001-2017 Il Team Psi.&lt;br&gt;
         <translation>Capo Sviluppatore e Manutentore Corrente</translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="vanished">https://psi-im.org</translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">Informazioni su Psi</translation>
     </message>
@@ -4863,6 +4867,82 @@ Motivo: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="vanished">Impossibile unirsi alla conferenza. Motivo: %1</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Incolla e Invia</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Invia &amp;Messaggio</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">Apri Finestra di &amp;Chat</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Chiamata Vocale</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">E&amp;segui Comando</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Caccia</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">Nessun motivo</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">Motivo personalizzato</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">&amp;Banna</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Cambia Ruolo</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Visitatore</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Partecipante</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Moderatore</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="vanished">Cambia Affiliazione</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="vanished">Non Affiliato</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="vanished">Membro</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="vanished">Amministratore</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="vanished">Proprietario</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Informazioni Utente</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4873,6 +4953,21 @@ Motivo: %1</translation>
     <message>
         <source>Command</source>
         <translation>Comando</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderatori</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Partecipanti</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Visitatori</translation>
     </message>
 </context>
 <context>
@@ -6355,6 +6450,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Nome:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -8319,6 +8418,14 @@ Argomento MUC per esempio.</translation>
         <translation>Lingua</translation>
     </message>
     <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="vanished">Tieni le password dell&apos;account al sicuro nel keyring manager di sistema invece che nelle impostazioni del profilo.</translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="vanished">Usa keyring manager di sistema</translation>
+    </message>
+    <message>
         <source>99999</source>
         <translation type="vanished">99999</translation>
     </message>
@@ -8877,6 +8984,176 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>pt</source>
         <translation>pt</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Lista contatti sempre sopra</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Ridimensiona automaticamente la lista dei contatti</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Usa il pulsante sinistro per il menu</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Mostra la barra dei menu</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Disattiva barra di scorrimento nella finestra dell&apos;applicazione.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Disabilita barra di scorrimento</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Abilita framte avatar sopra la lista contatti</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Abilita frame avatar della lista contatti</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Nascondi lista contatti dopo</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="obsolete">secondi (0 - mai)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Icone</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Mostra geolocalizzazione nella lista contatti</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">Geolocalizzazione</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Mostra umori nella lista contatti</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Umori</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Mostra avatar nella lista contatti</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatar</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Mostra attività nella lista contatti</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Attività</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Mostra un icona quando un contatto sta ascoltando musica</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Sta ascoltando</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Mostra l&apos;icona del client dell&apos;utente</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">Tutte le icone dei client</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">solo icone del client con la priorità più alta</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Impostazioni avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Dimensione</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Raggio degli angoli</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Disabilita barra di scorrimento</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Icone</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Stato</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Mostra l&apos;icona del client dell&apos;utente</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Affiliazioni</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Mostra avatar nella lista contatti</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatar</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Impostazioni avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Dimensione</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Raggio degli angoli</translation>
     </message>
 </context>
 <context>
@@ -10437,6 +10714,40 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Mostra la barra dei menu nella finestra dell&apos;applicazione</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Lista Contatti</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Opzioni lista contatti</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Fa in modo che la finestra principale di Psi sia sempre in primo piano.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Fa in modo che la finestra principale di ridimensioni automaticamente per adattarsi ai contatti.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Normalmente, il click destro del mouse su un contatto attiverà il menu contestuale. Seleziona questa opzione se preferisci usare il tasto sinistro.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Mostra la barra dei menu nella finestra dell&apos;applicazione</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Conferenza</translation>
     </message>
 </context>
 <context>
@@ -12701,6 +13012,10 @@ Motivo: %1.</translation>
         <translation type="vanished">Sblocca Scheda</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">Modelli</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Forum Psi (In linea)</translation>
     </message>
@@ -12764,6 +13079,10 @@ Motivo: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>Accendi autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Incolla e Invia</translation>
     </message>
 </context>
 <context>
@@ -12861,6 +13180,10 @@ Motivo: %1.</translation>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Compilato con Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="vanished">Visita &lt;https://psi-im.org/&gt; per maggiori informazioni riguardo Psi.</translation>
     </message>
 </context>
 <context>
@@ -13177,7 +13500,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>Copia Groupchat JID</translation>
+        <translation>Copia JID Conferenza</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -15563,6 +15886,100 @@ Motivo: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">Editor del modello</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">Modelli</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Aggiungi</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">Modifica</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Rimuovi</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Annulla</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">Aggiungi stringa modello</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">Aggiungi stringa modello come sottomenu</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">Aggiungi separatore</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">Aggiungi separatore come sottomenu</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Sopra</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Sotto</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;separator&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">Modifica modello</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">Immetti testo del nuovo template</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">Salva modello</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">Il modello &quot;%1&quot; non è stato salvato!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">Continua?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">Copia e &amp;Incolla</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">&amp;Modifica modelli</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">&amp;Incolla solo</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16446,6 +16863,10 @@ Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità
         <source>Pin Tab</source>
         <translation type="vanished">Blocca Scheda</translation>
     </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (Inattivo)</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
@@ -16830,6 +17251,18 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     <message>
         <source>Contributed by</source>
         <translation>Fornito da</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="vanished">Ciao! Grazie per aver installato Psi!
+Speriamo che ti divertirai ad utilizzarlo come noi nel averlo sviluppato!
+&lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, set di icone, o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page&lt;/a&gt; di Psi.
+&lt;br&gt;&lt;br&gt;Se pensi di aver riscontrato un problema o vuoi solo chiacchierare con altri utenti di Psi, visita il &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt; Forum di Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Il Team di Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
@@ -18282,6 +18715,17 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copia impronta digitale</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

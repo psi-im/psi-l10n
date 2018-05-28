@@ -4848,6 +4848,70 @@ Oka: %1</translation>
         <source>Bookmark conference</source>
         <translation>Konferencia könyvjelzőhöz</translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">&amp;Üzenet küldése</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">&amp;Beszélgetésablak megnyitása</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">&amp;Parancs végrehajtása</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Kirúgás</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Nincs ok</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Egyéni ok</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Kitiltás</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Szerepkör megváltoztatása</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Látogató</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Résztvevő</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderátor</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Kapcsolat változtatása</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">Független</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Tag</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Adminisztrátor</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">Tulajdonos</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4858,6 +4922,21 @@ Oka: %1</translation>
     <message>
         <source>Command</source>
         <translation>Parancs</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderátorok</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Résztvevők</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Látogatók</translation>
     </message>
 </context>
 <context>
@@ -8808,6 +8887,172 @@ Címkék: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Címlista mindig felül</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Címlista automatikus átméretezése</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Bal gomb használata menühöz</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Menüsáv megjelenítése</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Görgetősáv kikapcsolása a programablakban</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Görgetősáv kikapcsolása</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Engedélyezze a profilkép előnézetét a címlistában</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Ezután a címlista automatikus elrejtése</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="obsolete">másodpercek (0 - soha)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikonok</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Földrajzi helyzet megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Hangulatok megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Hangulatok</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Profilképek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Profilképek</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Tevékenységek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Tevékenységek</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Ikon mutatása ha az ismerős zenét hallgat</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Jelenleg játszik</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Az ismerős kliensikonjának megjelenítése</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Kliensek</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">minden kliensikon</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">Csak a legmagasabb prioritású kliensikon</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Profilkép beállítások</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Méret</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Sarkok rádiusza</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Görgetősáv kikapcsolása</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikonok</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Állapot</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Az ismerős kliensikonjának megjelenítése</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Kliensek</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Kapcsolatok</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Profilképek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Profilképek</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Profilkép beállítások</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Méret</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Sarkok rádiusza</translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
@@ -10339,6 +10584,33 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Menüsáv mutatása az alkalmazás ablakában.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Címlista</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Címlistaablak beállításai</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Psi főablaka mindig felül.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
 </context>
 <context>
@@ -15433,6 +15705,29 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Szerkesztés</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">Rendben</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Mégsem</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="obsolete">Fel</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="obsolete">Le</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16275,6 +16570,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation>éppen ír</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (tétlen)</translation>
     </message>
 </context>
 <context>
@@ -18088,6 +18387,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

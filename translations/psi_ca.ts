@@ -49,10 +49,6 @@
         <translation>En quant a</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation type="unfinished"></translation>
     </message>
@@ -177,6 +173,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>psi/logo_48</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://psi-im.org</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4698,6 +4698,10 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">&amp;Informació de l&apos;usuari</translation>
+    </message>
+    <message>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4715,6 +4719,10 @@ Reason: %1</source>
 </context>
 <context>
     <name>GCUserView</name>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>&amp;Informació de l&apos;usuari</translation>
+    </message>
     <message>
         <source>Moderators</source>
         <translation type="unfinished"></translation>
@@ -4794,10 +4802,6 @@ Reason: %1</source>
     <message>
         <source>Owner</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>&amp;Informació de l&apos;usuari</translation>
     </message>
 </context>
 <context>
@@ -6061,10 +6065,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6090,6 +6090,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8289,6 +8293,10 @@ Tags: %1</source>
 <context>
     <name>OptRoster</name>
     <message>
+        <source>Size</source>
+        <translation>Mida</translation>
+    </message>
+    <message>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8329,15 +8337,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show avatars in roster</source>
+        <source>Show geolocation in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatars</source>
+        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8349,19 +8361,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8393,20 +8405,30 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation>Mida</translation>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>Size</source>
+        <translation type="obsolete">Mida</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Estat</translation>
     </message>
     <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Size</source>
+        <translation type="obsolete">Mida</translation>
     </message>
 </context>
 <context>
@@ -9901,6 +9923,13 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Grup de xerrada</translation>
     </message>
 </context>
 <context>
@@ -12255,12 +12284,12 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
+        <source>Compiled with Qt %1</source>
+        <comment>%1 will contain Qt version number</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Compiled with Qt %1</source>
-        <comment>%1 will contain Qt version number</comment>
+        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14900,6 +14929,17 @@ Raó: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Afegeix</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">Eliminar</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15830,14 +15870,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15918,6 +15950,14 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17308,6 +17348,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

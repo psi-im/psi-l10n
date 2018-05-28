@@ -4845,6 +4845,70 @@ Motivo: %1</translation>
         <source>Bookmark conference</source>
         <translation>Marcar sala</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Pegar y Enviar</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">Enviar &amp;mensaje</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">Abrir ventana de &amp;conversación</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">E&amp;jecutar comando</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Expulsar</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Sin razón</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Razón personalizada</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Banear</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Cambiar rol</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Visitante</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Participante</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderador</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Cambiar afiliación</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">No afiliado</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Miembro</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Administrador</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4855,6 +4919,21 @@ Motivo: %1</translation>
     <message>
         <source>Command</source>
         <translation>Comando</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderadores</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Participantes</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Visitantes</translation>
     </message>
 </context>
 <context>
@@ -8242,6 +8321,10 @@ Etiquetas: %1</translation>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
@@ -8365,10 +8448,6 @@ Etiquetas: %1</translation>
         <translation type="vanished">Nunca</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Mensaje</translation>
     </message>
@@ -8390,6 +8469,10 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8777,6 +8860,168 @@ Etiquetas: %1</translation>
     <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Ventana de contactos siempre encima</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Redimensionar automáticamente la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Usar clic derecho para el menú</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Mostrar barra de menús</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Inhabilita la barra de desplazamiento en la ventana de la aplicación.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Inhabilitar barra de desplazamiento</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Habilita marco de avatar en la parte superior de la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Habilita marco del avatar en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Ocultar automáticamente la lista de contactos después de</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Iconos</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Mostrar geolocalización en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Mostrar estados de ánimo en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Estados de ánimo</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Mostrar avatares en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatares</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Mostrar actividades en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Actividades</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Mostrar icono cuando el contacto escuche música</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Reproduciendo ahora</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Mostrar icono del cliente del usuario</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Clientes</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">todos los iconos de los clientes</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">solo el icono del cliente con mayor prioridad</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Configuraciones del avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Tamaño</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Radio en las esquinas</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Inhabilitar barra de desplazamiento</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Iconos</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Estado</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Mostrar icono del cliente del usuario</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Clientes</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Afiliaciones</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Mostrar avatares en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avatares</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Configuraciones del avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Tamaño</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Radio en las esquinas</translation>
     </message>
 </context>
 <context>
@@ -10310,6 +10555,33 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Mostrar la barra de menús en la ventana de la aplicación.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Lista de contactos</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Opciones de la ventana de contactos</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Hace que la ventana principal de Psi siempre permanezca por encima de las demás.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Hace que la ventana principal de Psi se redimensione automáticamente para encajar con todos los contactos.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Normalmente, hacer clic derecho con el ratón sobre un contacto activará el menú contextual. Activa esta opción si deseas mejor usar clic izquierdo.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Mostrar la barra de menús en la ventana de la aplicación.</translation>
     </message>
 </context>
 <context>
@@ -12556,6 +12828,10 @@ Motivo: %1.</translation>
         <translation>Complementos</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">Plantillas</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Foro de Psi (Online)</translation>
     </message>
@@ -12619,6 +12895,10 @@ Motivo: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>encender jid automático</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Pegar y Enviar</translation>
     </message>
 </context>
 <context>
@@ -15406,6 +15686,100 @@ Razón: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">Editor de plantilla</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">Plantillas</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Añadir</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">Editar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Eliminar</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">Añadir cadena de plantilla</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">Añadir cadena de plantilla como submenú</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">Añadir separador</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">Añadir separador como submenú</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Subir</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Bajar</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;separador&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">Editar plantilla</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">Insertar nuevo texto de plantilla</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">Guardar plantillas</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">¿Continuar?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">Pegar y en&amp;viar</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">&amp;Editar plantillas</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">Solo &amp;pegar</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16277,6 +16651,10 @@ El complemento ha sido diseñado para mantener las notas en el servidor jabber c
     <message>
         <source> is composing</source>
         <translation> está escribiendo</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (Inactivo)</translation>
     </message>
 </context>
 <context>
@@ -18112,6 +18490,17 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copiar huella</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

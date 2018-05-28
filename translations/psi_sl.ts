@@ -4718,6 +4718,54 @@ Razlog: %1</translation>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">Pošlji &amp;sporočilo</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">Odpri okno za &amp;klepet</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="obsolete">Glasovni klic</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">&amp;Izvedi ukaz</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Brcni</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Brez razloga</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Razlog po meri</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Izloči</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Spremeni vlogo</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Obiskovalec</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Sodelujoči</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderator</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4728,6 +4776,21 @@ Razlog: %1</translation>
     <message>
         <source>Command</source>
         <translation>Ukaz</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderatorji</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Sodelujoči</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Obiskovalci</translation>
     </message>
 </context>
 <context>
@@ -4793,6 +4856,10 @@ Razlog: %1</translation>
         <translation>Moderator</translation>
     </message>
     <message>
+        <source>User &amp;Info</source>
+        <translation>&amp;Podatki o stiku</translation>
+    </message>
+    <message>
         <source>Change Affiliation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4811,10 +4878,6 @@ Razlog: %1</translation>
     <message>
         <source>Owner</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>&amp;Podatki o stiku</translation>
     </message>
 </context>
 <context>
@@ -7988,6 +8051,10 @@ Tags: %1</source>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
@@ -8059,20 +8126,12 @@ Tags: %1</source>
         <translation>za skupinske in navadne klepete v enem oknu</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[po meri]</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
         <translation>Samodejno spremeni velikost polja za vnos besedila</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8107,10 +8166,6 @@ Tags: %1</source>
         <translation type="vanished">Nikoli</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Sporočilo</translation>
     </message>
@@ -8132,6 +8187,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8389,6 +8456,10 @@ Tags: %1</source>
         <translation>OptApplicationUI</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>Velikost</translation>
+    </message>
+    <message>
         <source>Roster window always on top</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8425,15 +8496,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show avatars in roster</source>
+        <source>Show geolocation in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatars</source>
+        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8445,19 +8520,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8489,20 +8564,42 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation>Velikost</translation>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
     </message>
     <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Size</source>
+        <translation type="obsolete">Velikost</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Stanje</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Pripadnosti</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Velikost</translation>
     </message>
 </context>
 <context>
@@ -10015,6 +10112,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Skupinski klepet</translation>
     </message>
 </context>
 <context>
@@ -15054,6 +15158,33 @@ Razlog: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Dodaj</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Odstrani</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">V redu</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Prekliči</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Gor</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Dol</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15737,6 +15868,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> piše</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (nedejaven)</translation>
     </message>
 </context>
 <context>
@@ -17518,6 +17653,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

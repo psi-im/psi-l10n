@@ -4428,16 +4428,16 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
+        <source>&amp;Close</source>
+        <translation>بستن</translation>
+    </message>
+    <message>
         <source>Find</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation>بستن</translation>
     </message>
     <message>
         <source>&amp;Find</source>
@@ -6056,10 +6056,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6086,6 +6082,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>نام:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8327,15 +8327,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show avatars in roster</source>
+        <source>Show geolocation in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatars</source>
+        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8347,19 +8351,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8395,16 +8399,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Status</source>
+        <translation type="obsolete">وضعیت</translation>
     </message>
 </context>
 <context>
@@ -11480,10 +11487,6 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11497,10 +11500,6 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11607,6 +11606,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Public Key: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bad server response</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid realm</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12233,12 +12240,12 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
+        <source>Compiled with Qt %1</source>
+        <comment>%1 will contain Qt version number</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Compiled with Qt %1</source>
-        <comment>%1 will contain Qt version number</comment>
+        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14867,6 +14874,17 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">افزودن</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">خذف کردن</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15761,14 +15779,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15849,6 +15859,14 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17239,6 +17257,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

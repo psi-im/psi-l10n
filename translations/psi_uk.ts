@@ -244,6 +244,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation>Провідний Розробник і Поточний Супроводжуючий</translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="vanished">https://psi-im.org</translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">Про Psi+</translation>
     </message>
@@ -2063,6 +2067,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation>Описання:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="vanished">Повідомлення відкориговано</translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3183,6 +3191,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Сталася помилка під час отримання інформації для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="vanished">більше елементів</translation>
     </message>
 </context>
 <context>
@@ -4870,6 +4883,98 @@ Reason: %1</source>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="vanished">Неможливо увійти до конференції. Причина: %1</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Вставити та відправити</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Створити пові&amp;домлення</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">Відкрити вікно &amp;чату</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Подзвонити</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">В&amp;иконати команду</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Вигнати</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">Без причини</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">Вказати причину</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">&amp;Заблокувати</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Змінити роль</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Гість</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Учасник</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Модератор</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="vanished">Змінити ранг</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="vanished">Відвідувач</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="vanished">Зареєстрований користувач</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="vanished">Адміністратор</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="vanished">Власник</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;vCard</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="vanished">Вас видалили з кімнати через технічні проблеми</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="vanished">%1 видалив вас із кімнати через технічні проблеми</translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="vanished">%1 був видалений із кімнати через технічні проблеми</translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="vanished">%1 був видалений із кімнати %2 через технічні проблеми</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4880,6 +4985,21 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>Команда</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Модератори</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Учасники</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Відвідувачі</translation>
     </message>
 </context>
 <context>
@@ -6360,6 +6480,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Ім&apos;я:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -8892,6 +9016,204 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="vanished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="vanished">Вікно ростера завжди нагорі</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="vanished">Автоматично змінювати висоту ростера</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="vanished">Виклик меню лівою кнопкою миші</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="vanished">Показувати панель меню в ростері</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="vanished">Відключає смугу прокрутки в вікні програми.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="vanished">Відключити смугу прокрутки</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="vanished">Включити панель з аватаром зверху ростера</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="vanished">Включити панель з аватаром</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="vanished">Автоматично ховати ростер після</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="vanished">секунд (0 - ніколи)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="vanished">Іконки</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="vanished">Показувати геолокацію в ростері</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="vanished">Геолокація</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="vanished">Показувати настрої в ростері</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="vanished">Настрої</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="vanished">Показувати аватари в ростері</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="vanished">Аватари</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="vanished">Показувати зайняття в ростері</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="vanished">Зайняття</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="vanished">Показувати іконку мелодії, коли контакт слухає музику</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="vanished">Музика</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="vanished">Показувати іконки клієнтів</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="vanished">Клієнти</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="vanished">всі іконки клієнтів</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="vanished">тільки з найвищим пріоритетом</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="vanished">Налаштування аватарів</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Розмір</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="vanished">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="vanished">Радіус кутів</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="vanished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="vanished">Вимикає смугу прокрутки у ростері.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="vanished">Відключити смугу прокрутки</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="vanished">Іконки</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="vanished">Показувати іконку якщо статус контакту онлайн, відсутній та інше</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Статус</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="vanished">Показувати іконки клієнтів</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="vanished">Клієнти</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="vanished">Показати хто бос, а хто ніщо</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="vanished">Ролі</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="vanished">Показувати аватари в ростері</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="vanished">Аватари</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="vanished">Налаштування аватарів</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Розмір</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="vanished">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="vanished">Радіус кутів</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="vanished">Вирівняти аватари до лівого краю ростеру. Інакше праворуч.</translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="vanished">Вирівняно ліворуч</translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
@@ -10449,6 +10771,48 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Показувати меню у вікні програми.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="vanished">Налаштування ростеру</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="vanished">Ростер</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="vanished">Налаштування вікна списку контактів</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="vanished">Розміщувати основне вікно Psi поверх всії інших вікон.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="vanished">Автоматично змінювати розмір основного вікна для відображення всіх контактів.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="vanished">Зазвичай клік правою кнопкою миші по контакту відкриваєт контекстне меню. Позначте цю опцію, якщо хочете використовувати для цього ліву кнопку.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="vanished">Показувати меню у вікні програми.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="vanished">Конференція</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="vanished">Налаштування ростеру конференцій</translation>
     </message>
 </context>
 <context>
@@ -12210,6 +12574,10 @@ Reason: %1.</source>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
         <translation type="vanished">Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="vanished">Сервер відмовив у подовженні сесії (СМ)</translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12714,6 +13082,10 @@ Reason: %1.</source>
         <translation type="vanished">Відкріпити вкладку</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">Шаблони</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Форум Psi</translation>
     </message>
@@ -12777,6 +13149,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation>Увімкнути autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Вставити та відправити</translation>
     </message>
 </context>
 <context>
@@ -12874,6 +13250,10 @@ Reason: %1.</source>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Cкомпільовано з Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="vanished">Відвідайте &lt;https://psi-im.org/&gt; для отримання інформації про Psi.</translation>
     </message>
 </context>
 <context>
@@ -15582,6 +15962,100 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">Редактор шаблонів</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">Шаблони</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Додати</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">Редагувати</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Видалити</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">Ок</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Скасувати</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">Додати рядок шаблону</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">Додати рядок шаблону як підменю</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">Додати роздилювач</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">Додати роздилювач як підменю</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Вгору</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Донизу</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;розділювач&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">Редагувати шаблон</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">Введіть текст шаблону</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">Зберегти шаблони</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">Шаблон &quot;%1&quot; не було збережено!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">Продовжити?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">Вставити та &amp;надіслати</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">&amp;Редагувати шаблони</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">Тільки &amp;вставити</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16466,6 +16940,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source>Pin Tab</source>
         <translation type="vanished">Закріпити вкладку</translation>
     </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (Неактивний)</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
@@ -16858,6 +17336,18 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Надано</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="vanished">Доброго дня! Дякуємо за те, що ви обрали Psi!
+Ми сподіваємося, що вам сподобається користуватися ним, як нам подобалося створювати його!
+&lt;br&gt;&lt;br&gt;Якщо ви хочете завантажити іншу мову, набір піктограм чи нову версію Psi, тоді завітайте на &lt;a href=&quot;https://psi-im.org&quot;&gt;домашню сторінку Psi&lt;/a&gt; .
+&lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форум Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
@@ -18313,6 +18803,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Копіювати відбиток</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

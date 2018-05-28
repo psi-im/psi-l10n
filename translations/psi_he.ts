@@ -4790,6 +4790,70 @@ Reason: %1</source>
         <source>Bookmark conference</source>
         <translation>סימון ועידה</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">הדבק ושלח</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">שלח &amp;הודעה</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="obsolete">שיחה קולית</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;בעט</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">בלי סיבה</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">סיבה מותאמת</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;אסור</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">שנה תפקיד</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">מבקר</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">משתתף</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">אחראי</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">שינוי סינוף</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">נטול סינוף</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">חבר</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">מנהל</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">בעלים</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4800,6 +4864,21 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>פקודה</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">אחראים</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">משתתפים</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">מבקרים</translation>
     </message>
 </context>
 <context>
@@ -6206,10 +6285,6 @@ p, li { white-space: pre-wrap; }
         <translation>פרטי מערך סמל: %1</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation>תיאור:</translation>
     </message>
@@ -6236,6 +6311,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>שם:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8109,10 +8188,6 @@ Tags: %1</source>
         <translation>פורט בסיס מסירת נתונים:</translation>
     </message>
     <message>
-        <source>99999; </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(1 TCP, 4 UDP)</source>
         <translation>(1 TCP, 4 UDP)</translation>
     </message>
@@ -8127,6 +8202,14 @@ Tags: %1</source>
     <message>
         <source>Language</source>
         <translation>שפה</translation>
+    </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
+    <message>
+        <source>99999; </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8199,10 +8282,6 @@ Tags: %1</source>
         <translation>הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
     </message>
     <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[customized]</source>
         <translation>[מותאם]</translation>
     </message>
@@ -8251,10 +8330,6 @@ Tags: %1</source>
         <translation type="vanished">אף פעם</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8276,6 +8351,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8541,20 +8624,8 @@ Tags: %1</source>
 <context>
     <name>OptRoster</name>
     <message>
-        <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto-resize contact list</source>
         <translation>שינוי גודל אוטומטי של רשימת קשר</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show menubar</source>
@@ -8567,18 +8638,6 @@ Tags: %1</source>
     <message>
         <source>Disable scrollbar</source>
         <translation>נטרל פס גלילה</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8637,10 +8696,6 @@ Tags: %1</source>
         <translation>כל צלמיות לקוח</translation>
     </message>
     <message>
-        <source>only highest priority client icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Avatar settings</source>
         <translation>הגדרות אווטאר</translation>
     </message>
@@ -8653,12 +8708,162 @@ Tags: %1</source>
         <translation>רדיוס של פינות</translation>
     </message>
     <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">שינוי גודל אוטומטי של רשימת קשר</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">הצג שורת תפריט</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">נטרל פס גלילה בחלון היישום.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">נטרל פס גלילה</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">צלמיות</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">הצגת מיקום גאוגרפי ברשימה</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">מיקום גאוגרפי</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">הצגת מצבי רוח ברשימה</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">מצבי רוח</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">הצגת אווטארים ברשימה</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">אווטארים</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">הצגת פעילויות ברשימה</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">פעילויות</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">מנגן עכשיו</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">הצג צלמית של לקוח משתמש</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">לקוחות</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">כל צלמיות לקוח</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">רדיוס של פינות</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">נטרל פס גלילה</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">צלמיות</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">מצב</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">הצג צלמית של לקוח משתמש</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">לקוחות</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">הצגת אווטארים ברשימה</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">אווטארים</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">רדיוס של פינות</translation>
     </message>
 </context>
 <context>
@@ -10171,6 +10376,32 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">רשימה</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">אפשרויות חלון רשימה</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">שיחת קבוצה</translation>
     </message>
 </context>
 <context>
@@ -12396,6 +12627,10 @@ Reason: %1.</source>
         <translation>תוספים</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">תבניות</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">פורום Psi (מקוון)</translation>
     </message>
@@ -12459,6 +12694,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">הדבק ושלח</translation>
     </message>
 </context>
 <context>
@@ -12549,12 +12788,12 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
+        <source>Compiled with Qt %1</source>
+        <comment>%1 will contain Qt version number</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Compiled with Qt %1</source>
-        <comment>%1 will contain Qt version number</comment>
+        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15213,6 +15452,100 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">עורך תבנית</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">תבניות</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">הוסף</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">ערוך</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">הסר</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">אישור</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">ביטול</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">הוספת מחרוזת תבנית</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">הוספת מחרוזת תבנית כתפריט משנה</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">הוספת חוצץ</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">הוספת חוצץ כתפריט משנה</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">מעלה</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">מטה</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;חוצץ&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">עריכת תבנית</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">הזנת תמליל תבנית חדשה</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">שמירת תבניות</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">התבנית &quot;%1&quot; לא נשמרה!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">המשך?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">הדבק ו&amp;שלח</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">&amp;ערוך תבניות</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">ה&amp;דבק בלבד</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15963,6 +16296,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> כותב/ת כעת</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (חוסר פעילות)</translation>
     </message>
 </context>
 <context>
@@ -17765,6 +18102,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>העתקת טביעת אצבע</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

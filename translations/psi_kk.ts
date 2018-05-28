@@ -4691,6 +4691,54 @@ Reason: %1</source>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">Хабарла&amp;маны жіберу</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">&amp;Чат терезесін ашу</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="obsolete">Дауыс қоңырауы</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">Команданы ор&amp;ындау</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Тебу</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Себебі жоқ</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Таңдауыңызша себеп</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Ролін ауыстыру</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Қонақ</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Қатысушы</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Модератор</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">Пайдаланушы ақ&amp;параты</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4701,6 +4749,21 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>Команда</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Модераторлар</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Қатысушылар</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Қонақтар</translation>
     </message>
 </context>
 <context>
@@ -4746,10 +4809,6 @@ Reason: %1</source>
         <translation>Таңдауыңызша себеп</translation>
     </message>
     <message>
-        <source>&amp;Ban</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Role</source>
         <translation>Ролін ауыстыру</translation>
     </message>
@@ -4764,6 +4823,14 @@ Reason: %1</source>
     <message>
         <source>Moderator</source>
         <translation>Модератор</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>Пайдаланушы ақ&amp;параты</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4784,10 +4851,6 @@ Reason: %1</source>
     <message>
         <source>Owner</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>Пайдаланушы ақ&amp;параты</translation>
     </message>
 </context>
 <context>
@@ -6055,10 +6118,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation>Сипаттамасы:</translation>
     </message>
@@ -6085,6 +6144,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Аты:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8354,6 +8417,10 @@ Tags: %1</source>
         <translation>OptApplicationUI</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>Өлшемі</translation>
+    </message>
+    <message>
         <source>Roster window always on top</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8390,15 +8457,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show avatars in roster</source>
+        <source>Show geolocation in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatars</source>
+        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8410,19 +8481,19 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8454,20 +8525,34 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation>Өлшемі</translation>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
     </message>
     <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Size</source>
+        <translation type="obsolete">Өлшемі</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Өлшемі</translation>
     </message>
 </context>
 <context>
@@ -9956,6 +10041,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Чат бөлмесі</translation>
     </message>
 </context>
 <context>
@@ -11555,10 +11647,6 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11572,10 +11660,6 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11682,6 +11766,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Public Key: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bad server response</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid realm</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14959,6 +15051,33 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Қосу</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">Өшіру</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">ОК</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Бас тарту</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="obsolete">Жоғары</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="obsolete">Төмен</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -15643,6 +15762,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source> is composing</source>
         <translation> жазуда</translation>
     </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (Белсенді емес)</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
@@ -15913,14 +16036,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16001,6 +16116,14 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17391,6 +17514,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -4804,6 +4804,70 @@ Przyczyna: %1</translation>
         <source>Bookmark conference</source>
         <translation>Zakładka konferencji</translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">Wyślij &amp;wiadomość</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">Otwórz okno &amp;rozmowy</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">&amp;Wyrzuć</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Bez przyczyny</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Własna przyczyna</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">Za&amp;blokuj</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Zmień rolę</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Gość</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Uczestnik</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Zmiana przynależności</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">Brak przynależności</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Członek</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">Właściciel</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">&amp;Informacje o użytkowniku</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4814,6 +4878,21 @@ Przyczyna: %1</translation>
     <message>
         <source>Command</source>
         <translation>Polecenie</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderatorzy</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Uczestnicy</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Goście</translation>
     </message>
 </context>
 <context>
@@ -6185,10 +6264,6 @@ p, li { white-space: pre-wrap; }
         <translation>Informacje o zestawie ikon: %1</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation>Opis:</translation>
     </message>
@@ -6215,6 +6290,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Nazwa:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8561,10 +8640,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
 <context>
     <name>OptRoster</name>
     <message>
-        <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Roster window always on top</source>
         <translation>Okno z listą zawsze na wierzchu</translation>
     </message>
@@ -8601,10 +8676,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>Chowaj listę kontaktów po</translation>
     </message>
     <message>
-        <source>Icons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show avatars in roster</source>
         <translation>Pokaż awatary na liście kontaktów</translation>
     </message>
@@ -8625,10 +8696,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>Pokaż aktywność na liście kontaktów</translation>
     </message>
     <message>
-        <source>Activities</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show geolocation in roster</source>
         <translation>Pokaż geolokalizację na liście kontaktów</translation>
     </message>
@@ -8641,12 +8708,36 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>Pokaż ikonę, kiedy kontakt słucha muzyki</translation>
     </message>
     <message>
-        <source>Now playing</source>
+        <source>Show icon of user client</source>
+        <translation>Pokaż ikonę klienta użytkownika</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation>Ustawienia awatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Wielkość</translation>
+    </message>
+    <message>
+        <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show icon of user client</source>
-        <translation>Pokaż ikonę klienta użytkownika</translation>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clients</source>
@@ -8661,24 +8752,122 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Avatar settings</source>
-        <translation>Ustawienia awatara</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Wielkość</translation>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Okno z listą zawsze na wierzchu</translation>
     </message>
     <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Automatyczna zmiana wielkości listy</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Lewy przycisk myszy - menu</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Pokaż pasek menu</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Wyłączenie paska przewijania w oknie aplikacji.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Wyłącz pasek przewijania</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Pokazuje ramkę z własnym avatarem oraz polem zmiany statusu na górze listy kontaktów</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Pokazuj ramkę własnego avatara na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Chowaj listę kontaktów po</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Pokaż geolokalizację na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">Geolokalizacja</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Pokazuj nastroje na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Nastroje</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Pokaż awatary na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Awatary</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Pokaż aktywność na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Pokaż ikonę, kiedy kontakt słucha muzyki</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Pokaż ikonę klienta użytkownika</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Ustawienia awatara</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Wyłącz pasek przewijania</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Status</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Pokaż ikonę klienta użytkownika</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Przynależności</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Pokaż awatary na liście kontaktów</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Awatary</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Ustawienia awatara</translation>
     </message>
 </context>
 <context>
@@ -10178,6 +10367,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Opcje okna listy</translation>
     </message>
     <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation>Pokazuje pasek menu w oknie aplikacji</translation>
+    </message>
+    <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10189,9 +10382,20 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Lista</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Opcje okna listy</translation>
+    </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Pokazuje pasek menu w oknie aplikacji</translation>
+        <translation type="obsolete">Pokazuje pasek menu w oknie aplikacji</translation>
     </message>
 </context>
 <context>
@@ -15227,6 +15431,33 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Dodaj</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Edytuj</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">Usuń</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="obsolete">W górę</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="obsolete">W dół</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16032,6 +16263,10 @@ Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością d
     <message>
         <source> is composing</source>
         <translation> pisze</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (nieaktywny)</translation>
     </message>
 </context>
 <context>
@@ -17825,6 +18060,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

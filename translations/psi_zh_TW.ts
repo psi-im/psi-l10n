@@ -4820,6 +4820,62 @@ Reason: %1</source>
         <source>Bookmark conference</source>
         <translation>書簽會議</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">粘貼並發送</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">執行指令(&amp;X)</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">踢掉(&amp;K)</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">沒有原因</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">自訂原因</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">封鎖(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">改變角色</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">參與者</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">改變從屬關係</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">無黨派</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">成員</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">管理員</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">所有者</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">使用者資訊(&amp;I)</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4830,6 +4886,21 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>指令</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">主持人</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">參與者</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">參觀者</translation>
     </message>
 </context>
 <context>
@@ -8228,6 +8299,10 @@ Tags: %1</source>
         <source>Language</source>
         <translation>語言</translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
@@ -8351,10 +8426,6 @@ Tags: %1</source>
         <translation type="vanished">從不</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>信息(&amp;M)</translation>
     </message>
@@ -8376,6 +8447,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8763,6 +8838,156 @@ Tags: %1</source>
     <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">名單窗口永遠在最上方</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">自動縮放連絡人清單</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">使用左鍵來選擇功能表</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">顯示功能表</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">禁用應用程式視窗中的捲軸。</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">禁用滾動</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">啟用名單頂部的頭像幀</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">啟用名單頭像框架</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">自動隱藏名單後</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">圖示</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">顯示名單地理位置</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">地理位置</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">在名單顯示情緒</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">情緒</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">名單中顯示圖片</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">頭像</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">在名單中顯示的活動</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">活動</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">接觸時聽音樂，顯示圖示</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">現在播放</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">顯示使用者用戶端的圖示</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">客戶</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">所有用戶端圖示</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">唯一的最高優先順序的用戶端圖示</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">頭像設置</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">園角</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">禁用滾動</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">圖示</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">狀態</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">顯示使用者用戶端的圖示</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">客戶</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">附屬</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">名單中顯示圖片</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">頭像</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">頭像設置</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">園角</translation>
     </message>
 </context>
 <context>
@@ -10284,6 +10509,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>在應用視窗顯示功能表。</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">名單視窗選項</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">讓 Psi 的主視窗永遠在其他視窗前面。</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">讓 Psi 的主視窗自動縮放到能夠放入所有的連絡人。</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">通常來說, 在連絡人上按右鍵會觸發內容功能表。如果你想要改成按左鍵, 則核取這個選項。</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">在應用視窗顯示功能表。</translation>
     </message>
 </context>
 <context>
@@ -12521,6 +12769,10 @@ Reason: %1.</source>
         <translation>外掛程式</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">範本</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psi論壇(線上)</translation>
     </message>
@@ -12584,6 +12836,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation>自動打開JID</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">粘貼並發送</translation>
     </message>
 </context>
 <context>
@@ -15342,6 +15598,100 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">範本編輯器</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">範本</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">添加</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">編輯</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">刪除</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">取消</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">添加範本字串</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">加入子功能表範本字串</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">添加分隔</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">作為子功能表中添加分隔</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">上</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">下</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;separator&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">編輯範本</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">輸入新的範本文本</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">保存範本</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">&quot;%1&quot;並沒有被保存！</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">繼續嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">粘貼並發送(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">編輯範本(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">只和粘貼(&amp;P)</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16210,6 +16560,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> 正在輸入</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (不活躍)</translation>
     </message>
 </context>
 <context>
@@ -18046,6 +18400,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>複製手紋印</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

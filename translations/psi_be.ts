@@ -4816,6 +4816,78 @@ Reason: %1</source>
         <source>Bookmark conference</source>
         <translation>Закласьці нараду</translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="obsolete">Даслаць &amp;паведамленьне</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="obsolete">Адчыніць вакно &amp;гутаркі</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="obsolete">Размаўляць голасам</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">Выканаць &amp;загад</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">Вы&amp;кінуць</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Без падставы</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Абраць падставу</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">&amp;Выгнаць</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Зьмяніць ролю</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Наведнік</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Удзельнік</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Старшыня</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Зьмяніць прыналежнасьць</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">Няма прыналежнасьці</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Чалец</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Спраўнік</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">Уладальнік</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="obsolete">Пра &amp;карыстальніка</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4826,6 +4898,21 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>Загад</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Старшыні</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Удзельнікі</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Наведнікі</translation>
     </message>
 </context>
 <context>
@@ -8739,6 +8826,172 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Вакно сьпісу заўжды наверсе</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Дапасоўваць памеры сьпісу</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Выклікаць мэню левым пстрыкам</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Паказваць паліцу мэню</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Забараніць стужку пракручваньня</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Рамка з увасабленьнем уверсе сьпісу</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Хаваць сьпіс, як міне</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Значкі</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Паказваць у сьпісе месцазнаходжаньні</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">Месцазнаходжаньне</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Паказваць у сьпісе настроі</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Настроі</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Паказваць у сьпісе ўвасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Увасабленьні</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Паказваць у сьпісе дзейнасьці</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Дзейнасьці</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Паказваць, калі суразмоўца слухае музыку</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Музыка</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Паказваць значак кліента суразмоўцы</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Кліенты</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">усе кліенты</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">кліент з найвышэйшым пяршынствам</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Налады ўвасабленьня</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Памер</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Радыюс вуглоў</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Забараніць стужку пракручваньня</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Значкі</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Стан</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Паказваць значак кліента суразмоўцы</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Кліенты</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="obsolete">Прыналежнасьць</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Паказваць у сьпісе ўвасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Увасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Налады ўвасабленьня</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Памер</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Радыюс вуглоў</translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
@@ -10269,6 +10522,40 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Паказваць паліцу мэню ў вакне праґрамы.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="obsolete">Сьпіс</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Можнасьці вакна сьпісу</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Паказваць паліцу мэню ў вакне праґрамы.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Нарада</translation>
     </message>
 </context>
 <context>
@@ -15363,6 +15650,33 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Дадаць</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">Правіць</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">Добра</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Скасаваць</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="obsolete">Дагары</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="obsolete">Долу</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16215,6 +16529,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> набірае</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (бязьдзейнічае)</translation>
     </message>
 </context>
 <context>
@@ -18052,6 +18370,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Перапісаць адбітак</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

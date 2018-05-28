@@ -4843,6 +4843,66 @@ Zdůvodnění: %1</translation>
         <source>Bookmark conference</source>
         <translation>Zazáložkovat konferenci</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Vložit a poslat</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="obsolete">Vy&amp;konat příkaz</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="obsolete">Vy&amp;kopnout</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="obsolete">Žádný důvod</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="obsolete">Vlastní důvod</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="obsolete">Ode&amp;přít přístup do místnosti</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="obsolete">Změnit Postavení</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="obsolete">Návštěvník</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="obsolete">Účastník</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="obsolete">Moderátor</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="obsolete">Změnit přiřazení</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="obsolete">Nepřiřazen</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="obsolete">Člen</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="obsolete">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="obsolete">Vlastník</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4853,6 +4913,21 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Command</source>
         <translation>Příkaz</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="obsolete">Moderátoři</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="obsolete">Účastníci</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="obsolete">Návštěvníci</translation>
     </message>
 </context>
 <context>
@@ -8233,6 +8308,10 @@ Tagy: %1</translation>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
+    <message>
+        <source>99999</source>
+        <translation type="obsolete">99999</translation>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>
@@ -8356,10 +8435,6 @@ Tagy: %1</translation>
         <translation type="vanished">Nikdy</translation>
     </message>
     <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Zpráva</translation>
     </message>
@@ -8381,6 +8456,10 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8768,6 +8847,172 @@ Tagy: %1</translation>
     <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="obsolete">Okno s kontakty vždy navrchu</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="obsolete">Automaticky měnit velikost seznamu kontaktů</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="obsolete">Levé tlačítko zobrazí menu</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="obsolete">Zobrazit hlavní nabídku</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="obsolete">Zakáže posuvník v okně aplikace.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Zakázat posuvník</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="obsolete">Povolí rámec avatara nahoře okna kontaktů</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="obsolete">Povolit rámec avatara v seznamu kontaktů</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="obsolete">Automaticky skrýt roster po</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="obsolete">vteřin (0 = nikdy)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikony</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="obsolete">Zobrazit geolokaci v seznamu kontaktů</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="obsolete">GeoLokace</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="obsolete">Zobrazovat nálady v rosteru</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="obsolete">Nálady</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Zobrazovat avatary v rosteru</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avataři</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="obsolete">Zobrazit činnosti v rosteru</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="obsolete">Činnosti</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="obsolete">Zobrazit ikonu, když kontakt poslouchá hudbu</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="obsolete">Nyní hraje</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Zobrazovat ikonu uživatelova klienta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Klienti</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="obsolete">ikony všech klientů</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="obsolete">pouze ikony klientů s nejvyšší prioritou</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Nastavení avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Velikost</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Poloměr rohů</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="obsolete">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="obsolete">Zakázat posuvník</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="obsolete">Ikony</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Stav</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="obsolete">Zobrazovat ikonu uživatelova klienta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="obsolete">Klienti</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="obsolete">Zobrazovat avatary v rosteru</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="obsolete">Avataři</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="obsolete">Nastavení avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Velikost</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="obsolete">Poloměr rohů</translation>
     </message>
 </context>
 <context>
@@ -10305,6 +10550,36 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Shows the menubar in the application window.</source>
         <translation>Zobrazí panel nabídek v okně aplikace.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster window options</source>
+        <translation type="obsolete">Možnosti seznamu kontaktů</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="obsolete">Způsobí, že hlavní oko Psí bude vždy nad ostatními okny.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="obsolete">Způsobí, že hlavní okno Psí automaticky změní velikost tak, aby se do něj vešly všechny kontakty.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="obsolete">Pravé tlačítko myši na kontaktu standardně aktivuje kontextovou nabídku.  Zatržením této volby způsobí aktivaci levým tlačítkem.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="obsolete">Zobrazí panel nabídek v okně aplikace.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="obsolete">Skupinový chat</translation>
     </message>
 </context>
 <context>
@@ -12551,6 +12826,10 @@ Důvod: %1.</translation>
         <translation>Zásuvné moduly</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">Šablony</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psí fórum (Online)</translation>
     </message>
@@ -12614,6 +12893,10 @@ Důvod: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>Zapnout autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Vložit a poslat</translation>
     </message>
 </context>
 <context>
@@ -15405,6 +15688,100 @@ Zdůvodnění: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="vanished">Editor šablon</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">Šablony</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Přidat</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="vanished">Upravit</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Odstranit</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="vanished">Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="vanished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">Přidat řětězec šablony</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">Přidat řětězec šablony jako podnabídku</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">Přidat oddělovač</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">Přidat oddělovač jako podnabídku</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="vanished">Nahoru</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="vanished">Dolů</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;oddělovač&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">Upravit šablonu</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">Vlož text nové šablony</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">Uložit šablony</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">Šablona &quot;%1&quot; nebyla uložena!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">Pokračovat?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">Vložit a &amp;poslat</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">&amp;Upravit šablony</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">Jenom &amp;Vložit</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
@@ -16247,6 +16624,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> právě píše</translation>
+    </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="obsolete">%1 (neaktivní)</translation>
     </message>
 </context>
 <context>
@@ -18069,6 +18450,17 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <source>Copy fingerprint</source>
         <translation>Kopírovat otisk klíče</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
