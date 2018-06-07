@@ -5833,7 +5833,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>刷新(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>最早(&amp;E)</translation>
     </message>
     <message>
@@ -5845,7 +5845,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>下一个(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>最新的(&amp;L)</translation>
     </message>
     <message>

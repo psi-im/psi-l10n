@@ -5798,7 +5798,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;רענן</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>ר&amp;אשונה</translation>
     </message>
     <message>
@@ -5810,7 +5810,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>ה&amp;באה</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>א&amp;חרונה</translation>
     </message>
     <message>

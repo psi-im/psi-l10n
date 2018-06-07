@@ -5880,8 +5880,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Refresh</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>&amp;Earliest</translation>
+        <source>&amp;First</source>
+        <translation>&amp;First</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5892,8 +5892,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Next</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>&amp;Lastest</translation>
+        <source>&amp;Last</source>
+        <translation>&amp;Last</translation>
     </message>
     <message>
         <source>Remove history</source>

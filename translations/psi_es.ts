@@ -5857,7 +5857,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
         <translation>&amp;Refrescar</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Anterior</translation>
     </message>
     <message>
@@ -5869,7 +5869,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
         <translation>&amp;Siguiente</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Último</translation>
     </message>
     <message>

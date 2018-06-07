@@ -5948,7 +5948,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Оновити</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Пе&amp;рше</translation>
     </message>
     <message>
@@ -5960,7 +5960,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Наступне</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>Оста&amp;ннє</translation>
     </message>
     <message>

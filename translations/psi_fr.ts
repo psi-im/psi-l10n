@@ -5845,7 +5845,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Rafraîchir</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Plus anci&amp;ens</translation>
     </message>
     <message>
@@ -5857,7 +5857,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Suivant</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>P&amp;lus récents</translation>
     </message>
     <message>

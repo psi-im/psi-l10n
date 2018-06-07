@@ -5851,7 +5851,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>&amp;Obnovit</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Nej&amp;starší</translation>
     </message>
     <message>
@@ -5863,7 +5863,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>&amp;Následující</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>Nej&amp;novější</translation>
     </message>
     <message>

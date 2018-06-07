@@ -5944,7 +5944,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
         <translation>&amp;Aktualisieren</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Ä&amp;lteste</translation>
     </message>
     <message>
@@ -5956,7 +5956,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
         <translation>&amp;Weiter</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Jüngste</translation>
     </message>
     <message>

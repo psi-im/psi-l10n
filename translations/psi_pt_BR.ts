@@ -5865,7 +5865,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>&amp;Atualizar</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Mais Antigas</translation>
     </message>
     <message>
@@ -5877,7 +5877,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>&amp;Próximo</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Mais Recentes</translation>
     </message>
     <message>

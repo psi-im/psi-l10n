@@ -5772,7 +5772,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>更新(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>最古(&amp;E)</translation>
     </message>
     <message>
@@ -5784,7 +5784,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>次へ(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>最新(&amp;L)</translation>
     </message>
     <message>

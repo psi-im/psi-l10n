@@ -5860,7 +5860,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Frissítés</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Korábbi</translation>
     </message>
     <message>
@@ -5872,7 +5872,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Következő</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Utóbbi</translation>
     </message>
     <message>

@@ -5918,7 +5918,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
         <translation>&amp;Aggiorna</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Iniziale</translation>
     </message>
     <message>
@@ -5930,7 +5930,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
         <translation>&amp;Successivo</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Ultimo</translation>
     </message>
     <message>

@@ -5816,7 +5816,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
         <translation>&amp;Odśwież</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Wczesniejsze</translation>
     </message>
     <message>
@@ -5828,7 +5828,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
         <translation>&amp;Następne</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Późniejsze</translation>
     </message>
     <message>
