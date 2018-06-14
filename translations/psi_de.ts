@@ -5944,8 +5944,8 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
         <translation>&amp;Aktualisieren</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>Ä&amp;lteste</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">Ä&amp;lteste</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5956,8 +5956,8 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
         <translation>&amp;Weiter</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>&amp;Jüngste</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">&amp;Jüngste</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -6046,6 +6046,14 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     <message>
         <source>No matches were found</source>
         <translation>Es wurden keine Treffer gefunden</translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6377,6 +6385,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Hochladefehler %1; HTTP-Code %2, Nachricht: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16950,7 +16962,7 @@ Das Plugin ist dafür konzipiert, Notizen auf dem Jabber Server zu speichern mit
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (Inaktiv)</translation>
+        <translation type="vanished">%1 (Inaktiv)</translation>
     </message>
 </context>
 <context>

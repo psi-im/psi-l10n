@@ -4794,67 +4794,67 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">Изпращане на &amp;Съобщение</translation>
+        <translation type="vanished">Изпращане на &amp;Съобщение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">Отваряне на Прозорец &amp;Чат</translation>
+        <translation type="vanished">Отваряне на Прозорец &amp;Чат</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Гласово Обаждане</translation>
+        <translation type="vanished">Гласово Обаждане</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">Из&amp;пълнение на Команда</translation>
+        <translation type="vanished">Из&amp;пълнение на Команда</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;Изритване</translation>
+        <translation type="vanished">&amp;Изритване</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">Без причина</translation>
+        <translation type="vanished">Без причина</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">Специфична причина</translation>
+        <translation type="vanished">Специфична причина</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;Баннване</translation>
+        <translation type="vanished">&amp;Баннване</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">Смяна на Роля</translation>
+        <translation type="vanished">Смяна на Роля</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Посетител</translation>
+        <translation type="vanished">Посетител</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Участник</translation>
+        <translation type="vanished">Участник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Модератор</translation>
+        <translation type="vanished">Модератор</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="obsolete">Член</translation>
+        <translation type="vanished">Член</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="obsolete">Администратор</translation>
+        <translation type="vanished">Администратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Собственик</translation>
+        <translation type="vanished">Собственик</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">&amp;Данни за потребител</translation>
+        <translation type="vanished">&amp;Данни за потребител</translation>
     </message>
 </context>
 <context>
@@ -4872,15 +4872,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Модератори</translation>
+        <translation type="vanished">Модератори</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Участници</translation>
+        <translation type="vanished">Участници</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Посетители</translation>
+        <translation type="vanished">Посетители</translation>
     </message>
 </context>
 <context>
@@ -5804,8 +5804,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Опресняване </translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>&amp;Най-ранни</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">&amp;Най-ранни</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5816,8 +5816,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Следващи</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>&amp;Последни</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">&amp;Последни</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5906,6 +5906,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>No matches were found</source>
         <translation>Не бяха намерени съвпадения</translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6225,6 +6233,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Грешка при качване %1; HTTP код %2, съобщение: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8776,166 +8788,170 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>Roster window always on top</source>
-        <translation type="obsolete">Прозореца на списъка с контакти винаги най-отгоре</translation>
+        <translation type="vanished">Прозореца на списъка с контакти винаги най-отгоре</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="obsolete">Авто-оразмеряванена списъка с контакти</translation>
+        <translation type="vanished">Авто-оразмеряванена списъка с контакти</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">Използване на ляво кликване за меню</translation>
+        <translation type="vanished">Използване на ляво кликване за меню</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="obsolete">Показване на лента с меню</translation>
+        <translation type="vanished">Показване на лента с меню</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="obsolete">Изключване на скрол бара в прозореца на приложението.</translation>
+        <translation type="vanished">Изключване на скрол бара в прозореца на приложението.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Изключване на скрол бара</translation>
+        <translation type="vanished">Изключване на скрол бара</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="obsolete">Ативиране на аватаровата рамка най-отгоре на списъка с контакти</translation>
+        <translation type="vanished">Ативиране на аватаровата рамка най-отгоре на списъка с контакти</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="obsolete">Активиране на аватаровата рамка на спискъка с контакти</translation>
+        <translation type="vanished">Активиране на аватаровата рамка на спискъка с контакти</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="obsolete">Авто-скриване на списъка с контакти след</translation>
+        <translation type="vanished">Авто-скриване на списъка с контакти след</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="obsolete">секунди (0 - никога)</translation>
+        <translation type="vanished">секунди (0 - никога)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Икони</translation>
+        <translation type="vanished">Икони</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="obsolete">Показване на геолокации в списъка с контакти</translation>
+        <translation type="vanished">Показване на геолокации в списъка с контакти</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="obsolete">Геолокация</translation>
+        <translation type="vanished">Геолокация</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="obsolete">Показване на настроения в списъка с контакти</translation>
+        <translation type="vanished">Показване на настроения в списъка с контакти</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="obsolete">Настроения</translation>
+        <translation type="vanished">Настроения</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Показване на аватари в списъка с контакти</translation>
+        <translation type="vanished">Показване на аватари в списъка с контакти</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Аватари</translation>
+        <translation type="vanished">Аватари</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="obsolete">Показване на дейности в списъка с контакти</translation>
+        <translation type="vanished">Показване на дейности в списъка с контакти</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="obsolete">Дейности</translation>
+        <translation type="vanished">Дейности</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="obsolete">Показване на икона, след като контакт започне да слуша музика</translation>
+        <translation type="vanished">Показване на икона, след като контакт започне да слуша музика</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="obsolete">Сега свири</translation>
+        <translation type="vanished">Сега свири</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Показване на икона от потребителския клиент</translation>
+        <translation type="vanished">Показване на икона от потребителския клиент</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Клиенти</translation>
+        <translation type="vanished">Клиенти</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="obsolete">всички клиентски икони</translation>
+        <translation type="vanished">всички клиентски икони</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="obsolete">само с най-висок приоритет клиентска икона</translation>
+        <translation type="vanished">само с най-висок приоритет клиентска икона</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Настройки на аватар</translation>
+        <translation type="vanished">Настройки на аватар</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Размер</translation>
+        <translation type="vanished">Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="obsolete">тч</translation>
+        <translation type="vanished">тч</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Радиус на ъгли</translation>
+        <translation type="vanished">Радиус на ъгли</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Изключване на скрол бара</translation>
+        <translation type="vanished">Изключване на скрол бара</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Икони</translation>
+        <translation type="vanished">Икони</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Състояние</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Показване на икона от потребителския клиент</translation>
+        <translation type="vanished">Показване на икона от потребителския клиент</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Клиенти</translation>
+        <translation type="vanished">Клиенти</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">Сдружавания</translation>
+        <translation type="vanished">Сдружавания</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Показване на аватари в списъка с контакти</translation>
+        <translation type="vanished">Показване на аватари в списъка с контакти</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Аватари</translation>
+        <translation type="vanished">Аватари</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Настройки на аватар</translation>
+        <translation type="vanished">Настройки на аватар</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Размер</translation>
+        <translation type="vanished">Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="obsolete">тч</translation>
+        <translation type="vanished">тч</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Радиус на ъгли</translation>
+        <translation type="vanished">Радиус на ъгли</translation>
     </message>
 </context>
 <context>
@@ -10466,27 +10482,34 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">Списък с Контакти</translation>
+        <translation type="vanished">Списък с Контакти</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="obsolete">Настройки на прозореца на листа с контактите</translation>
+        <translation type="vanished">Настройки на прозореца на листа с контактите</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Главният прозорец на Psi да бъде винаги над другите прозорци.</translation>
+        <translation type="vanished">Главният прозорец на Psi да бъде винаги над другите прозорци.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">Главният прозорец на Psi да променя автоматично размерите си, за да помести всички контакти.</translation>
+        <translation type="vanished">Главният прозорец на Psi да променя автоматично размерите си, за да помести всички контакти.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Обикновено, дясно кликване с мишката върху контакт ще активира контекстното меню. Изберете тази опция ако използвате ляво кликване.</translation>
+        <translation type="vanished">Обикновено, дясно кликване с мишката върху контакт ще активира контекстното меню. Изберете тази опция ако използвате ляво кликване.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="obsolete">Показва меню бара в прозореца на приложението.</translation>
+        <translation type="vanished">Показва меню бара в прозореца на приложението.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="vanished">Груповчат</translation>
     </message>
 </context>
 <context>
@@ -16397,7 +16420,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (неактивно)</translation>
+        <translation type="vanished">%1 (неактивно)</translation>
     </message>
 </context>
 <context>

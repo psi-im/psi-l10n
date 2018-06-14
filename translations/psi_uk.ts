@@ -5948,8 +5948,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Оновити</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>Пе&amp;рше</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">Пе&amp;рше</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5960,8 +5960,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Наступне</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>Оста&amp;ннє</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">Оста&amp;ннє</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -6050,6 +6050,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>No matches were found</source>
         <translation>Жодної збігу не знайдено</translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6389,6 +6397,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Помилка завантаження %1; HTTP код %2, повідомлення: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7818,6 +7830,14 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>%1 подій отримано</translation>
+    </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="vanished">psimedia недоступна</translation>
+    </message>
+    <message>
+        <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="vanished">Бібліотека Psi media не завантажена або не ініціалізована.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
 </context>
 <context>
@@ -12578,6 +12598,30 @@ Reason: %1.</source>
         <source>Server refused to resume the session (SM)</source>
         <translation type="vanished">Сервер відмовив у подовженні сесії (СМ)</translation>
     </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="vanished">Невірна Форма</translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="vanished">Скидання потоку (з міркувань безпеки)</translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="vanished">Аутентифікація прервана</translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="vanished">Аккаунт вимкнено</translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="vanished">Термін повноважень закінчився</translation>
+    </message>
+    <message>
+        <source>Malformed request</source>
+        <translation type="vanished">Неправильний запит</translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -16942,7 +16986,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (Неактивний)</translation>
+        <translation type="vanished">%1 (Неактивний)</translation>
     </message>
 </context>
 <context>
@@ -18806,14 +18850,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Any changes to private keys may lead to a crash!</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь-які зміни у приватних ключах можуть призвести до аварії!</translation>
     </message>
     <message>
         <source>Libotr according to its authors has a bug in reading private keys file procedure.
 And while it may work properly, additional modifications to the private keys list
 may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
 change to the private keys list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Libotr, зі слів авторів, має баг при читанні файлу приватних ключів.
+І хоча вона може працювати належним чином, додаткові зміни у списку приватних ключів
+можуть призвести до аварії. Деінціалізація libotr/плагіну також розглядається
+як зміна списку приватних ключів.</translation>
     </message>
 </context>
 <context>

@@ -4700,7 +4700,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">Gebruikers&amp;informatie</translation>
+        <translation type="vanished">Gebruikers&amp;informatie</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
@@ -5627,20 +5627,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Vorige</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>V&amp;olgende</translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5728,6 +5720,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6004,6 +6004,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8419,18 +8423,18 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Grootte</translation>
+        <translation type="vanished">Grootte</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Grootte</translation>
+        <translation type="vanished">Grootte</translation>
     </message>
 </context>
 <context>
@@ -9929,7 +9933,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Groepchat</translation>
+        <translation type="vanished">Groepchat</translation>
     </message>
 </context>
 <context>
@@ -14931,7 +14935,11 @@ Reden: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">Toevoegen</translation>
+        <translation type="vanished">Toevoegen</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Verwijder</translation>
     </message>
 </context>
 <context>

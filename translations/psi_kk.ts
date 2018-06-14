@@ -4693,51 +4693,51 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">Хабарла&amp;маны жіберу</translation>
+        <translation type="vanished">Хабарла&amp;маны жіберу</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">&amp;Чат терезесін ашу</translation>
+        <translation type="vanished">&amp;Чат терезесін ашу</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Дауыс қоңырауы</translation>
+        <translation type="vanished">Дауыс қоңырауы</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">Команданы ор&amp;ындау</translation>
+        <translation type="vanished">Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;Тебу</translation>
+        <translation type="vanished">&amp;Тебу</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">Себебі жоқ</translation>
+        <translation type="vanished">Себебі жоқ</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">Таңдауыңызша себеп</translation>
+        <translation type="vanished">Таңдауыңызша себеп</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">Ролін ауыстыру</translation>
+        <translation type="vanished">Ролін ауыстыру</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Қонақ</translation>
+        <translation type="vanished">Қонақ</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Қатысушы</translation>
+        <translation type="vanished">Қатысушы</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Модератор</translation>
+        <translation type="vanished">Модератор</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">Пайдаланушы ақ&amp;параты</translation>
+        <translation type="vanished">Пайдаланушы ақ&amp;параты</translation>
     </message>
 </context>
 <context>
@@ -4755,15 +4755,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Модераторлар</translation>
+        <translation type="vanished">Модераторлар</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Қатысушылар</translation>
+        <translation type="vanished">Қатысушылар</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Қонақтар</translation>
+        <translation type="vanished">Қонақтар</translation>
     </message>
 </context>
 <context>
@@ -5675,20 +5675,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Ж&amp;аңарту</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>А&amp;лдыңғы</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>Ке&amp;лесі</translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5776,6 +5768,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6056,6 +6056,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8241,10 +8245,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
     </message>
@@ -8537,22 +8537,26 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Өлшемі</translation>
+        <translation type="vanished">Өлшемі</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Қалып-күй</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Өлшемі</translation>
+        <translation type="vanished">Өлшемі</translation>
     </message>
 </context>
 <context>
@@ -10047,7 +10051,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Чат бөлмесі</translation>
+        <translation type="vanished">Чат бөлмесі</translation>
     </message>
 </context>
 <context>
@@ -15054,27 +15058,27 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">Қосу</translation>
+        <translation type="vanished">Қосу</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Өшіру</translation>
+        <translation type="vanished">Өшіру</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
+        <translation type="vanished">ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Бас тарту</translation>
+        <translation type="vanished">Бас тарту</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="obsolete">Жоғары</translation>
+        <translation type="vanished">Жоғары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="obsolete">Төмен</translation>
+        <translation type="vanished">Төмен</translation>
     </message>
 </context>
 <context>
@@ -15764,7 +15768,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (Белсенді емес)</translation>
+        <translation type="vanished">%1 (Белсенді емес)</translation>
     </message>
 </context>
 <context>

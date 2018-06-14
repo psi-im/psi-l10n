@@ -4837,67 +4837,75 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">Envoyer un &amp;message</translation>
+        <translation type="vanished">Envoyer un &amp;message</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">Ouvrir une fenêtre de dis&amp;cussion</translation>
+        <translation type="vanished">Ouvrir une fenêtre de dis&amp;cussion</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Appel vocal</translation>
+        <translation type="vanished">Appel vocal</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">E&amp;xécuter la commande</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">E&amp;xclure</translation>
+        <translation type="vanished">E&amp;xclure</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">Aucune raison</translation>
+        <translation type="vanished">Aucune raison</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">Raison personnalisée</translation>
+        <translation type="vanished">Raison personnalisée</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;Bannir</translation>
+        <translation type="vanished">&amp;Bannir</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">Changer de rôle</translation>
+        <translation type="vanished">Changer de rôle</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Visiteur</translation>
+        <translation type="vanished">Visiteur</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Participant</translation>
+        <translation type="vanished">Participant</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Modérateur</translation>
+        <translation type="vanished">Modérateur</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="obsolete">Changer l&apos;affiliation</translation>
+        <translation type="vanished">Changer l&apos;affiliation</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="obsolete">Non affilié</translation>
+        <translation type="vanished">Non affilié</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="obsolete">Membre</translation>
+        <translation type="vanished">Membre</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="obsolete">Administrateur</translation>
+        <translation type="vanished">Administrateur</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Propriétaire</translation>
+        <translation type="vanished">Propriétaire</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Informations de l&apos;utilisateur</translation>
     </message>
 </context>
 <context>
@@ -4915,15 +4923,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Modérateurs</translation>
+        <translation type="vanished">Modérateurs</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Participants</translation>
+        <translation type="vanished">Participants</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Visiteurs</translation>
+        <translation type="vanished">Visiteurs</translation>
     </message>
 </context>
 <context>
@@ -5845,8 +5853,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Rafraîchir</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>Plus anci&amp;ens</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">Plus anci&amp;ens</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5857,8 +5865,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Suivant</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>P&amp;lus récents</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">P&amp;lus récents</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5946,6 +5954,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6238,6 +6254,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8799,166 +8819,170 @@ Labels : %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">Interface utilisateur pour les options de l&apos;application</translation>
+        <translation type="vanished">Interface utilisateur pour les options de l&apos;application</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="obsolete">Garder la fenêtre de contacts au premier plan</translation>
+        <translation type="vanished">Garder la fenêtre de contacts au premier plan</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="obsolete">Redimensionner automatiquement la liste de contacts</translation>
+        <translation type="vanished">Redimensionner automatiquement la liste de contacts</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">Utiliser le clic gauche pour le menu</translation>
+        <translation type="vanished">Utiliser le clic gauche pour le menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="obsolete">Afficher la barre de menu</translation>
+        <translation type="vanished">Afficher la barre de menu</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="obsolete">Désactiver la barre de défilement dans la fenêtre de l&apos;application.</translation>
+        <translation type="vanished">Désactiver la barre de défilement dans la fenêtre de l&apos;application.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Désactiver la barre de défilement</translation>
+        <translation type="vanished">Désactiver la barre de défilement</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="obsolete">Activer le cadre de l&apos;avatar en haut de la liste de contacts</translation>
+        <translation type="vanished">Activer le cadre de l&apos;avatar en haut de la liste de contacts</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="obsolete">Activer le cadre de l&apos;avatar</translation>
+        <translation type="vanished">Activer le cadre de l&apos;avatar</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="obsolete">Cacher la liste après</translation>
+        <translation type="vanished">Cacher la liste après</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="obsolete">secondes (0 - jamais)</translation>
+        <translation type="vanished">secondes (0 - jamais)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Icônes</translation>
+        <translation type="vanished">Icônes</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="obsolete">Afficher la géolocalisation dans la liste</translation>
+        <translation type="vanished">Afficher la géolocalisation dans la liste</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="obsolete">GéoLocalisation</translation>
+        <translation type="vanished">GéoLocalisation</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="obsolete">Afficher les humeurs dans la liste</translation>
+        <translation type="vanished">Afficher les humeurs dans la liste</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="obsolete">Humeurs</translation>
+        <translation type="vanished">Humeurs</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Afficher les avatars dans la liste</translation>
+        <translation type="vanished">Afficher les avatars dans la liste</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Avatars</translation>
+        <translation type="vanished">Avatars</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="obsolete">Afficher les activités dans la liste</translation>
+        <translation type="vanished">Afficher les activités dans la liste</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="obsolete">Activités</translation>
+        <translation type="vanished">Activités</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="obsolete">Afficher un icône quand un contact écoute de la musique</translation>
+        <translation type="vanished">Afficher un icône quand un contact écoute de la musique</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="obsolete">Ecoute actuellement</translation>
+        <translation type="vanished">Ecoute actuellement</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Afficher l&apos;icône du client de l&apos;utilisateur</translation>
+        <translation type="vanished">Afficher l&apos;icône du client de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Clients</translation>
+        <translation type="vanished">Clients</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="obsolete">Tous les icones des clients</translation>
+        <translation type="vanished">Tous les icones des clients</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="obsolete">Seulement l&apos;icône client avec la plus haute priorité</translation>
+        <translation type="vanished">Seulement l&apos;icône client avec la plus haute priorité</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Configuration des avatars</translation>
+        <translation type="vanished">Configuration des avatars</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Taille</translation>
+        <translation type="vanished">Taille</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Arrondi des angles</translation>
+        <translation type="vanished">Arrondi des angles</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">Interface utilisateur pour les options de l&apos;application</translation>
+        <translation type="vanished">Interface utilisateur pour les options de l&apos;application</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Désactiver la barre de défilement</translation>
+        <translation type="vanished">Désactiver la barre de défilement</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Icônes</translation>
+        <translation type="vanished">Icônes</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Etat</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Afficher l&apos;icône du client de l&apos;utilisateur</translation>
+        <translation type="vanished">Afficher l&apos;icône du client de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Clients</translation>
+        <translation type="vanished">Clients</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">Affiliations</translation>
+        <translation type="vanished">Affiliations</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Afficher les avatars dans la liste</translation>
+        <translation type="vanished">Afficher les avatars dans la liste</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Avatars</translation>
+        <translation type="vanished">Avatars</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Configuration des avatars</translation>
+        <translation type="vanished">Configuration des avatars</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Taille</translation>
+        <translation type="vanished">Taille</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Arrondi des angles</translation>
+        <translation type="vanished">Arrondi des angles</translation>
     </message>
 </context>
 <context>
@@ -10486,27 +10510,34 @@ notifications pour les mails non lus.</translation>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">Liste de contacts</translation>
+        <translation type="vanished">Liste de contacts</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="obsolete">Options de la fenêtre de contacts</translation>
+        <translation type="vanished">Options de la fenêtre de contacts</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Fait que la fenêtre principale de Psi reste toujours devant les autres fenêtres.</translation>
+        <translation type="vanished">Fait que la fenêtre principale de Psi reste toujours devant les autres fenêtres.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">Redimensionne automatiquement la fenêtre de Psi pour afficher tous les contacts.</translation>
+        <translation type="vanished">Redimensionne automatiquement la fenêtre de Psi pour afficher tous les contacts.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Normalement, cliquer avec le bouton droit de la souris sur un contact active le menu contextuel. Cochez cette option si vous préférez utiliser un clic gauche.</translation>
+        <translation type="vanished">Normalement, cliquer avec le bouton droit de la souris sur un contact active le menu contextuel. Cochez cette option si vous préférez utiliser un clic gauche.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="obsolete">Voir la barre de menu dans la fenêtre de l&apos;application.</translation>
+        <translation type="vanished">Voir la barre de menu dans la fenêtre de l&apos;application.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="vanished">Salon</translation>
     </message>
 </context>
 <context>
@@ -16404,7 +16435,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (Inactif]</translation>
+        <translation type="vanished">%1 (Inactif]</translation>
     </message>
 </context>
 <context>

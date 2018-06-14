@@ -5943,8 +5943,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Обновить</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>Пе&amp;рвое</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">Пе&amp;рвое</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5955,8 +5955,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Следующее</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>Пос&amp;леднее</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">Пос&amp;леднее</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -6045,6 +6045,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>No matches were found</source>
         <translation>Совпадений не найдено</translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6384,6 +6392,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Ошибка отправки %1; код HTTP %2, сообщение: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

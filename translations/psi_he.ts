@@ -4796,63 +4796,75 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">שלח &amp;הודעה</translation>
+        <translation type="vanished">שלח &amp;הודעה</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">פתח &amp;חלון שיחה</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">שיחה קולית</translation>
+        <translation type="vanished">שיחה קולית</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">ה&amp;רץ פקודה</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;בעט</translation>
+        <translation type="vanished">&amp;בעט</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">בלי סיבה</translation>
+        <translation type="vanished">בלי סיבה</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">סיבה מותאמת</translation>
+        <translation type="vanished">סיבה מותאמת</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;אסור</translation>
+        <translation type="vanished">&amp;אסור</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">שנה תפקיד</translation>
+        <translation type="vanished">שנה תפקיד</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">מבקר</translation>
+        <translation type="vanished">מבקר</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">משתתף</translation>
+        <translation type="vanished">משתתף</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">אחראי</translation>
+        <translation type="vanished">אחראי</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="obsolete">שינוי סינוף</translation>
+        <translation type="vanished">שינוי סינוף</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="obsolete">נטול סינוף</translation>
+        <translation type="vanished">נטול סינוף</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="obsolete">חבר</translation>
+        <translation type="vanished">חבר</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="obsolete">מנהל</translation>
+        <translation type="vanished">מנהל</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">בעלים</translation>
+        <translation type="vanished">בעלים</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;מידע משתמש</translation>
     </message>
 </context>
 <context>
@@ -4870,15 +4882,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">אחראים</translation>
+        <translation type="vanished">אחראים</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">משתתפים</translation>
+        <translation type="vanished">משתתפים</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">מבקרים</translation>
+        <translation type="vanished">מבקרים</translation>
     </message>
 </context>
 <context>
@@ -5798,8 +5810,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;רענן</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>ר&amp;אשונה</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">ר&amp;אשונה</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5810,8 +5822,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>ה&amp;באה</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>א&amp;חרונה</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">א&amp;חרונה</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5899,6 +5911,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6223,6 +6243,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8748,122 +8772,134 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="obsolete">שינוי גודל אוטומטי של רשימת קשר</translation>
+        <translation type="vanished">שינוי גודל אוטומטי של רשימת קשר</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="obsolete">הצג שורת תפריט</translation>
+        <translation type="vanished">הצג שורת תפריט</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="obsolete">נטרל פס גלילה בחלון היישום.</translation>
+        <translation type="vanished">נטרל פס גלילה בחלון היישום.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">נטרל פס גלילה</translation>
+        <translation type="vanished">נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">צלמיות</translation>
+        <translation type="vanished">צלמיות</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="obsolete">הצגת מיקום גאוגרפי ברשימה</translation>
+        <translation type="vanished">הצגת מיקום גאוגרפי ברשימה</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="obsolete">מיקום גאוגרפי</translation>
+        <translation type="vanished">מיקום גאוגרפי</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="obsolete">הצגת מצבי רוח ברשימה</translation>
+        <translation type="vanished">הצגת מצבי רוח ברשימה</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="obsolete">מצבי רוח</translation>
+        <translation type="vanished">מצבי רוח</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">הצגת אווטארים ברשימה</translation>
+        <translation type="vanished">הצגת אווטארים ברשימה</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">אווטארים</translation>
+        <translation type="vanished">אווטארים</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="obsolete">הצגת פעילויות ברשימה</translation>
+        <translation type="vanished">הצגת פעילויות ברשימה</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="obsolete">פעילויות</translation>
+        <translation type="vanished">פעילויות</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="obsolete">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
+        <translation type="vanished">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="obsolete">מנגן עכשיו</translation>
+        <translation type="vanished">מנגן עכשיו</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">הצג צלמית של לקוח משתמש</translation>
+        <translation type="vanished">הצג צלמית של לקוח משתמש</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">לקוחות</translation>
+        <translation type="vanished">לקוחות</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="obsolete">כל צלמיות לקוח</translation>
+        <translation type="vanished">כל צלמיות לקוח</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">הגדרות אווטאר</translation>
+        <translation type="vanished">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">גודל</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">רדיוס של פינות</translation>
+        <translation type="vanished">רדיוס של פינות</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">נטרל פס גלילה</translation>
+        <translation type="vanished">נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">צלמיות</translation>
+        <translation type="vanished">צלמיות</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">מצב</translation>
+        <translation type="vanished">מצב</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">הצג צלמית של לקוח משתמש</translation>
+        <translation type="vanished">הצג צלמית של לקוח משתמש</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">לקוחות</translation>
+        <translation type="vanished">לקוחות</translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="vanished">סינופים</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">הצגת אווטארים ברשימה</translation>
+        <translation type="vanished">הצגת אווטארים ברשימה</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">אווטארים</translation>
+        <translation type="vanished">אווטארים</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">הגדרות אווטאר</translation>
+        <translation type="vanished">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">גודל</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">רדיוס של פינות</translation>
+        <translation type="vanished">רדיוס של פינות</translation>
     </message>
 </context>
 <context>
@@ -10382,26 +10418,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">רשימה</translation>
+        <translation type="vanished">רשימה</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="obsolete">אפשרויות חלון רשימה</translation>
+        <translation type="vanished">אפשרויות חלון רשימה</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">שיחת קבוצה</translation>
+        <translation type="vanished">שיחת קבוצה</translation>
     </message>
 </context>
 <context>
@@ -16299,7 +16335,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (חוסר פעילות)</translation>
+        <translation type="vanished">%1 (חוסר פעילות)</translation>
     </message>
 </context>
 <context>

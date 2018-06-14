@@ -4715,31 +4715,31 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Alvoko</translation>
+        <translation type="vanished">Alvoko</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;Forĵeti</translation>
+        <translation type="vanished">&amp;Forĵeti</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;Forbari</translation>
+        <translation type="vanished">&amp;Forbari</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Vizitanto</translation>
+        <translation type="vanished">Vizitanto</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Partoprenanto</translation>
+        <translation type="vanished">Partoprenanto</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Kontrolanto</translation>
+        <translation type="vanished">Kontrolanto</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">Malfermi &amp;babilan fenestron</translation>
+        <translation type="vanished">Malfermi &amp;babilan fenestron</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
@@ -4761,15 +4761,15 @@ Kialo: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Kontrolantoj</translation>
+        <translation type="vanished">Kontrolantoj</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Partoprenantoj</translation>
+        <translation type="vanished">Partoprenantoj</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Vizitantoj</translation>
+        <translation type="vanished">Vizitantoj</translation>
     </message>
 </context>
 <context>
@@ -5681,20 +5681,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Antaŭa</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>&amp;Sekvanta</translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5782,6 +5774,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6058,6 +6058,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8482,18 +8486,18 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Grandeco</translation>
+        <translation type="vanished">Grandeco</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Stato</translation>
+        <translation type="vanished">Stato</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Grandeco</translation>
+        <translation type="vanished">Grandeco</translation>
     </message>
 </context>
 <context>
@@ -10005,7 +10009,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Babilejoj</translation>
+        <translation type="vanished">Babilejoj</translation>
     </message>
 </context>
 <context>
@@ -15015,11 +15019,11 @@ Kialo: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
+        <translation type="vanished">Aldoni</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">Forigi</translation>
+        <translation type="vanished">Forigi</translation>
     </message>
 </context>
 <context>
@@ -15693,7 +15697,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (Neaktiva)</translation>
+        <translation type="vanished">%1 (Neaktiva)</translation>
     </message>
 </context>
 <context>

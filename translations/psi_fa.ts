@@ -5621,19 +5621,11 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5722,6 +5714,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5994,6 +5994,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8145,13 +8149,6 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OptInput</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">فرم</translation>
-    </message>
-</context>
-<context>
     <name>OptMsgCommon</name>
     <message>
         <source>Form</source>
@@ -8411,7 +8408,7 @@ Tags: %1</source>
     <name>OptRosterMuc</name>
     <message>
         <source>Status</source>
-        <translation type="obsolete">وضعیت</translation>
+        <translation type="vanished">وضعیت</translation>
     </message>
 </context>
 <context>
@@ -14877,11 +14874,11 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">افزودن</translation>
+        <translation type="vanished">افزودن</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">خذف کردن</translation>
+        <translation type="vanished">خذف کردن</translation>
     </message>
 </context>
 <context>

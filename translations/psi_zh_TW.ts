@@ -4825,56 +4825,76 @@ Reason: %1</source>
         <translation type="vanished">粘貼並發送</translation>
     </message>
     <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">發送資訊(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">打開對話視窗(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">語音視頻</translation>
+    </message>
+    <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">執行指令(&amp;X)</translation>
+        <translation type="vanished">執行指令(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">踢掉(&amp;K)</translation>
+        <translation type="vanished">踢掉(&amp;K)</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">沒有原因</translation>
+        <translation type="vanished">沒有原因</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">自訂原因</translation>
+        <translation type="vanished">自訂原因</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">封鎖(&amp;B)</translation>
+        <translation type="vanished">封鎖(&amp;B)</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">改變角色</translation>
+        <translation type="vanished">改變角色</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">遊客</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">參與者</translation>
+        <translation type="vanished">參與者</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">版主</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="obsolete">改變從屬關係</translation>
+        <translation type="vanished">改變從屬關係</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="obsolete">無黨派</translation>
+        <translation type="vanished">無黨派</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="obsolete">成員</translation>
+        <translation type="vanished">成員</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="obsolete">管理員</translation>
+        <translation type="vanished">管理員</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">所有者</translation>
+        <translation type="vanished">所有者</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">使用者資訊(&amp;I)</translation>
+        <translation type="vanished">使用者資訊(&amp;I)</translation>
     </message>
 </context>
 <context>
@@ -4892,15 +4912,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">主持人</translation>
+        <translation type="vanished">主持人</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">參與者</translation>
+        <translation type="vanished">參與者</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">參觀者</translation>
+        <translation type="vanished">參觀者</translation>
     </message>
 </context>
 <context>
@@ -5822,8 +5842,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>刷新(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>最早(&amp;E)</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">最早(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5834,8 +5854,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>下一個(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>最新的(&amp;L)</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">最新的(&amp;L)</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5923,6 +5943,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6286,6 +6314,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8843,151 +8875,167 @@ Tags: %1</source>
 <context>
     <name>OptRosterMain</name>
     <message>
+        <source>OptApplicationUI</source>
+        <translation type="vanished">選擇外觀UI</translation>
+    </message>
+    <message>
         <source>Roster window always on top</source>
-        <translation type="obsolete">名單窗口永遠在最上方</translation>
+        <translation type="vanished">名單窗口永遠在最上方</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="obsolete">自動縮放連絡人清單</translation>
+        <translation type="vanished">自動縮放連絡人清單</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">使用左鍵來選擇功能表</translation>
+        <translation type="vanished">使用左鍵來選擇功能表</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="obsolete">顯示功能表</translation>
+        <translation type="vanished">顯示功能表</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="obsolete">禁用應用程式視窗中的捲軸。</translation>
+        <translation type="vanished">禁用應用程式視窗中的捲軸。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">禁用滾動</translation>
+        <translation type="vanished">禁用滾動</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="obsolete">啟用名單頂部的頭像幀</translation>
+        <translation type="vanished">啟用名單頂部的頭像幀</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="obsolete">啟用名單頭像框架</translation>
+        <translation type="vanished">啟用名單頭像框架</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="obsolete">自動隱藏名單後</translation>
+        <translation type="vanished">自動隱藏名單後</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">圖示</translation>
+        <translation type="vanished">圖示</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="obsolete">顯示名單地理位置</translation>
+        <translation type="vanished">顯示名單地理位置</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="obsolete">地理位置</translation>
+        <translation type="vanished">地理位置</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="obsolete">在名單顯示情緒</translation>
+        <translation type="vanished">在名單顯示情緒</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="obsolete">情緒</translation>
+        <translation type="vanished">情緒</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">名單中顯示圖片</translation>
+        <translation type="vanished">名單中顯示圖片</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">頭像</translation>
+        <translation type="vanished">頭像</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="obsolete">在名單中顯示的活動</translation>
+        <translation type="vanished">在名單中顯示的活動</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="obsolete">活動</translation>
+        <translation type="vanished">活動</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="obsolete">接觸時聽音樂，顯示圖示</translation>
+        <translation type="vanished">接觸時聽音樂，顯示圖示</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="obsolete">現在播放</translation>
+        <translation type="vanished">現在播放</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">顯示使用者用戶端的圖示</translation>
+        <translation type="vanished">顯示使用者用戶端的圖示</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">客戶</translation>
+        <translation type="vanished">客戶</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="obsolete">所有用戶端圖示</translation>
+        <translation type="vanished">所有用戶端圖示</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="obsolete">唯一的最高優先順序的用戶端圖示</translation>
+        <translation type="vanished">唯一的最高優先順序的用戶端圖示</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">頭像設置</translation>
+        <translation type="vanished">頭像設置</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">大小</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">園角</translation>
+        <translation type="vanished">園角</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
+        <source>OptApplicationUI</source>
+        <translation type="vanished">選擇外觀UI</translation>
+    </message>
+    <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">禁用滾動</translation>
+        <translation type="vanished">禁用滾動</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">圖示</translation>
+        <translation type="vanished">圖示</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">狀態</translation>
+        <translation type="vanished">狀態</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">顯示使用者用戶端的圖示</translation>
+        <translation type="vanished">顯示使用者用戶端的圖示</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">客戶</translation>
+        <translation type="vanished">客戶</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">附屬</translation>
+        <translation type="vanished">附屬</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">名單中顯示圖片</translation>
+        <translation type="vanished">名單中顯示圖片</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">頭像</translation>
+        <translation type="vanished">頭像</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">頭像設置</translation>
+        <translation type="vanished">頭像設置</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">大小</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">園角</translation>
+        <translation type="vanished">園角</translation>
     </message>
 </context>
 <context>
@@ -10514,24 +10562,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabRosterMain</name>
     <message>
+        <source>Roster</source>
+        <translation type="vanished">名單</translation>
+    </message>
+    <message>
         <source>Roster window options</source>
-        <translation type="obsolete">名單視窗選項</translation>
+        <translation type="vanished">名單視窗選項</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">讓 Psi 的主視窗永遠在其他視窗前面。</translation>
+        <translation type="vanished">讓 Psi 的主視窗永遠在其他視窗前面。</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">讓 Psi 的主視窗自動縮放到能夠放入所有的連絡人。</translation>
+        <translation type="vanished">讓 Psi 的主視窗自動縮放到能夠放入所有的連絡人。</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">通常來說, 在連絡人上按右鍵會觸發內容功能表。如果你想要改成按左鍵, 則核取這個選項。</translation>
+        <translation type="vanished">通常來說, 在連絡人上按右鍵會觸發內容功能表。如果你想要改成按左鍵, 則核取這個選項。</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="obsolete">在應用視窗顯示功能表。</translation>
+        <translation type="vanished">在應用視窗顯示功能表。</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="vanished">群聊</translation>
     </message>
 </context>
 <context>
@@ -16563,7 +16622,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (不活躍)</translation>
+        <translation type="vanished">%1 (不活躍)</translation>
     </message>
 </context>
 <context>

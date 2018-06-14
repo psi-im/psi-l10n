@@ -4715,55 +4715,55 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">پیغام بھیجیں</translation>
+        <translation type="vanished">پیغام بھیجیں</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">بات چیت دریچہ کھولیں</translation>
+        <translation type="vanished">بات چیت دریچہ کھولیں</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">آواز کال</translation>
+        <translation type="vanished">آواز کال</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">حکم کا نفاذ کریں</translation>
+        <translation type="vanished">حکم کا نفاذ کریں</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">باہر دھکیلیں</translation>
+        <translation type="vanished">باہر دھکیلیں</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">کوئی وجہ نہیں</translation>
+        <translation type="vanished">کوئی وجہ نہیں</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">کسٹم وجہ</translation>
+        <translation type="vanished">کسٹم وجہ</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">روک دیں</translation>
+        <translation type="vanished">روک دیں</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">رول تبدیل کریں</translation>
+        <translation type="vanished">رول تبدیل کریں</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">ملاحظہ کار</translation>
+        <translation type="vanished">ملاحظہ کار</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">شریک</translation>
+        <translation type="vanished">شریک</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">ثالث</translation>
+        <translation type="vanished">ثالث</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">صارف معلومات</translation>
+        <translation type="vanished">صارف معلومات</translation>
     </message>
 </context>
 <context>
@@ -4781,15 +4781,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">ثالثین</translation>
+        <translation type="vanished">ثالثین</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">شرکا</translation>
+        <translation type="vanished">شرکا</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">ملاحظہ کار</translation>
+        <translation type="vanished">ملاحظہ کار</translation>
     </message>
 </context>
 <context>
@@ -5701,20 +5701,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>پچھلا</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>اگلا</translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5802,6 +5794,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6082,6 +6082,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8271,10 +8275,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">فارم </translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">متن ان پٹ قطعہ باز سائز کریں</translation>
     </message>
@@ -8571,30 +8571,30 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI </translation>
+        <translation type="vanished">OptApplicationUI </translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">سائز</translation>
+        <translation type="vanished">سائز</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI </translation>
+        <translation type="vanished">OptApplicationUI </translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">حالت</translation>
+        <translation type="vanished">حالت</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">تعلق داریاں</translation>
+        <translation type="vanished">تعلق داریاں</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">سائز</translation>
+        <translation type="vanished">سائز</translation>
     </message>
 </context>
 <context>
@@ -10113,7 +10113,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">گروپ بات چیت</translation>
+        <translation type="vanished">گروپ بات چیت</translation>
     </message>
 </context>
 <context>
@@ -15134,27 +15134,27 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="obsolete">اضافہ کریں</translation>
+        <translation type="vanished">اضافہ کریں</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="obsolete">ہٹائیں</translation>
+        <translation type="vanished">ہٹائیں</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">ٹھیک ہے</translation>
+        <translation type="vanished">ٹھیک ہے</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">منسوخ کریں</translation>
+        <translation type="vanished">منسوخ کریں</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="obsolete">اوپر</translation>
+        <translation type="vanished">اوپر</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="obsolete">نیچے</translation>
+        <translation type="vanished">نیچے</translation>
     </message>
 </context>
 <context>
@@ -15844,7 +15844,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1(غیرفعال)</translation>
+        <translation type="vanished">%1(غیرفعال)</translation>
     </message>
 </context>
 <context>

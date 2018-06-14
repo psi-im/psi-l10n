@@ -4721,55 +4721,55 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">Skicka &amp;meddelande</translation>
+        <translation type="vanished">Skicka &amp;meddelande</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">Öppna &amp;chattfönster</translation>
+        <translation type="vanished">Öppna &amp;chattfönster</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Röstsamtal</translation>
+        <translation type="vanished">Röstsamtal</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">&amp;Utför kommando</translation>
+        <translation type="vanished">&amp;Utför kommando</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;Sparka</translation>
+        <translation type="vanished">&amp;Sparka</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">Ingen anledning</translation>
+        <translation type="vanished">Ingen anledning</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">Anpassad anledning</translation>
+        <translation type="vanished">Anpassad anledning</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;Bannlys</translation>
+        <translation type="vanished">&amp;Bannlys</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">Ändra roll</translation>
+        <translation type="vanished">Ändra roll</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Besökare</translation>
+        <translation type="vanished">Besökare</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Deltagare</translation>
+        <translation type="vanished">Deltagare</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Moderator</translation>
+        <translation type="vanished">Moderator</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="obsolete">Användar&amp;information</translation>
+        <translation type="vanished">Användar&amp;information</translation>
     </message>
 </context>
 <context>
@@ -4787,15 +4787,15 @@ Anledning: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Moderatorer</translation>
+        <translation type="vanished">Moderatorer</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Deltagare</translation>
+        <translation type="vanished">Deltagare</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Besökare</translation>
+        <translation type="vanished">Besökare</translation>
     </message>
 </context>
 <context>
@@ -5709,20 +5709,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Föregående</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>&amp;Nästa</translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5810,6 +5802,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6090,6 +6090,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8581,30 +8585,30 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Storlek</translation>
+        <translation type="vanished">Storlek</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">Tillhörighet</translation>
+        <translation type="vanished">Tillhörighet</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Storlek</translation>
+        <translation type="vanished">Storlek</translation>
     </message>
 </context>
 <context>
@@ -10123,7 +10127,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="obsolete">Gruppchatt</translation>
+        <translation type="vanished">Gruppchatt</translation>
     </message>
 </context>
 <context>
@@ -15863,7 +15867,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (inaktiv)</translation>
+        <translation type="vanished">%1 (inaktiv)</translation>
     </message>
 </context>
 <context>

@@ -4849,68 +4849,80 @@ Oka: %1</translation>
         <translation>Konferencia könyvjelzőhöz</translation>
     </message>
     <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Beillesztés és küldés</translation>
+    </message>
+    <message>
         <source>Send &amp;Message</source>
-        <translation type="obsolete">&amp;Üzenet küldése</translation>
+        <translation type="vanished">&amp;Üzenet küldése</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="obsolete">&amp;Beszélgetésablak megnyitása</translation>
+        <translation type="vanished">&amp;Beszélgetésablak megnyitása</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Hang hívás</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="obsolete">&amp;Parancs végrehajtása</translation>
+        <translation type="vanished">&amp;Parancs végrehajtása</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="obsolete">&amp;Kirúgás</translation>
+        <translation type="vanished">&amp;Kirúgás</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="obsolete">Nincs ok</translation>
+        <translation type="vanished">Nincs ok</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="obsolete">Egyéni ok</translation>
+        <translation type="vanished">Egyéni ok</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="obsolete">&amp;Kitiltás</translation>
+        <translation type="vanished">&amp;Kitiltás</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="obsolete">Szerepkör megváltoztatása</translation>
+        <translation type="vanished">Szerepkör megváltoztatása</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="obsolete">Látogató</translation>
+        <translation type="vanished">Látogató</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="obsolete">Résztvevő</translation>
+        <translation type="vanished">Résztvevő</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="obsolete">Moderátor</translation>
+        <translation type="vanished">Moderátor</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="obsolete">Kapcsolat változtatása</translation>
+        <translation type="vanished">Kapcsolat változtatása</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="obsolete">Független</translation>
+        <translation type="vanished">Független</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="obsolete">Tag</translation>
+        <translation type="vanished">Tag</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="obsolete">Adminisztrátor</translation>
+        <translation type="vanished">Adminisztrátor</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="obsolete">Tulajdonos</translation>
+        <translation type="vanished">Tulajdonos</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">Felhasználó &amp;adatai</translation>
     </message>
 </context>
 <context>
@@ -4928,15 +4940,15 @@ Oka: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="obsolete">Moderátorok</translation>
+        <translation type="vanished">Moderátorok</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="obsolete">Résztvevők</translation>
+        <translation type="vanished">Résztvevők</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="obsolete">Látogatók</translation>
+        <translation type="vanished">Látogatók</translation>
     </message>
 </context>
 <context>
@@ -5739,7 +5751,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Language</source>
-        <translation type="obsolete">Nyelv</translation>
+        <translation type="vanished">Nyelv</translation>
     </message>
 </context>
 <context>
@@ -5860,8 +5872,8 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Frissítés</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
-        <translation>&amp;Korábbi</translation>
+        <source>&amp;First</source>
+        <translation type="vanished">&amp;Korábbi</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5872,8 +5884,8 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Következő</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
-        <translation>&amp;Utóbbi</translation>
+        <source>&amp;Last</source>
+        <translation type="vanished">&amp;Utóbbi</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5961,6 +5973,14 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Earliest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lastest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6300,6 +6320,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8222,7 +8246,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="obsolete">Link</translation>
+        <translation type="vanished">Link</translation>
     </message>
 </context>
 <context>
@@ -8570,16 +8594,12 @@ Címkék: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Űrlap</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="vanished">Beviteli mező automatikus átméretezése</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="obsolete">Automatikusan nagy kezdőbetű a mondat eleje</translation>
+        <translation type="vanished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
     </message>
 </context>
 <context>
@@ -8631,10 +8651,6 @@ Címkék: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation type="vanished">Karakterszámláló megjelenítése</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
     </message>
 </context>
 <context>
@@ -8890,166 +8906,170 @@ Címkék: %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="obsolete">Címlista mindig felül</translation>
+        <translation type="vanished">Címlista mindig felül</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="obsolete">Címlista automatikus átméretezése</translation>
+        <translation type="vanished">Címlista automatikus átméretezése</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="obsolete">Bal gomb használata menühöz</translation>
+        <translation type="vanished">Bal gomb használata menühöz</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="obsolete">Menüsáv megjelenítése</translation>
+        <translation type="vanished">Menüsáv megjelenítése</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="obsolete">Görgetősáv kikapcsolása a programablakban</translation>
+        <translation type="vanished">Görgetősáv kikapcsolása a programablakban</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Görgetősáv kikapcsolása</translation>
+        <translation type="vanished">Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="obsolete">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
+        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="obsolete">Engedélyezze a profilkép előnézetét a címlistában</translation>
+        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlistában</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="obsolete">Ezután a címlista automatikus elrejtése</translation>
+        <translation type="vanished">Ezután a címlista automatikus elrejtése</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="obsolete">másodpercek (0 - soha)</translation>
+        <translation type="vanished">másodpercek (0 - soha)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Ikonok</translation>
+        <translation type="vanished">Ikonok</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="obsolete">Földrajzi helyzet megjelenítése a címlistában</translation>
+        <translation type="vanished">Földrajzi helyzet megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="vanished">Földrajzi helyzet</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="obsolete">Hangulatok megjelenítése a címlistában</translation>
+        <translation type="vanished">Hangulatok megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="obsolete">Hangulatok</translation>
+        <translation type="vanished">Hangulatok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Profilképek megjelenítése a címlistában</translation>
+        <translation type="vanished">Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Profilképek</translation>
+        <translation type="vanished">Profilképek</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="obsolete">Tevékenységek megjelenítése a címlistában</translation>
+        <translation type="vanished">Tevékenységek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="obsolete">Tevékenységek</translation>
+        <translation type="vanished">Tevékenységek</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="obsolete">Ikon mutatása ha az ismerős zenét hallgat</translation>
+        <translation type="vanished">Ikon mutatása ha az ismerős zenét hallgat</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="obsolete">Jelenleg játszik</translation>
+        <translation type="vanished">Jelenleg játszik</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Az ismerős kliensikonjának megjelenítése</translation>
+        <translation type="vanished">Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Kliensek</translation>
+        <translation type="vanished">Kliensek</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="obsolete">minden kliensikon</translation>
+        <translation type="vanished">minden kliensikon</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="obsolete">Csak a legmagasabb prioritású kliensikon</translation>
+        <translation type="vanished">Csak a legmagasabb prioritású kliensikon</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Profilkép beállítások</translation>
+        <translation type="vanished">Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Méret</translation>
+        <translation type="vanished">Méret</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Sarkok rádiusza</translation>
+        <translation type="vanished">Sarkok rádiusza</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="obsolete">OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="obsolete">Görgetősáv kikapcsolása</translation>
+        <translation type="vanished">Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="obsolete">Ikonok</translation>
+        <translation type="vanished">Ikonok</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Állapot</translation>
+        <translation type="vanished">Állapot</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="obsolete">Az ismerős kliensikonjának megjelenítése</translation>
+        <translation type="vanished">Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="obsolete">Kliensek</translation>
+        <translation type="vanished">Kliensek</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="obsolete">Kapcsolatok</translation>
+        <translation type="vanished">Kapcsolatok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="obsolete">Profilképek megjelenítése a címlistában</translation>
+        <translation type="vanished">Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="obsolete">Profilképek</translation>
+        <translation type="vanished">Profilképek</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="obsolete">Profilkép beállítások</translation>
+        <translation type="vanished">Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="obsolete">Méret</translation>
+        <translation type="vanished">Méret</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="obsolete">Sarkok rádiusza</translation>
+        <translation type="vanished">Sarkok rádiusza</translation>
     </message>
 </context>
 <context>
@@ -10590,27 +10610,34 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="obsolete">Címlista</translation>
+        <translation type="vanished">Címlista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="obsolete">Címlistaablak beállításai</translation>
+        <translation type="vanished">Címlistaablak beállításai</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Psi főablaka mindig felül.</translation>
+        <translation type="vanished">Psi főablaka mindig felül.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="obsolete">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
+        <translation type="vanished">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+        <translation type="vanished">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="obsolete">Menüsáv mutatása az alkalmazás ablakában.</translation>
+        <translation type="vanished">Menüsáv mutatása az alkalmazás ablakában.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="vanished">Csoportbeszélgetés</translation>
     </message>
 </context>
 <context>
@@ -12859,6 +12886,10 @@ Oka: %1.</translation>
         <translation>Kiegészítők</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="vanished">Minták</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psi+ fórum (Online)</translation>
     </message>
@@ -12922,6 +12953,10 @@ Oka: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>AutoJID bekapcsolása</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Beillesztés és küldés</translation>
     </message>
 </context>
 <context>
@@ -15707,24 +15742,95 @@ Oka: %1</translation>
 <context>
     <name>SendButtonTemplatesEditor</name>
     <message>
+        <source>Template editor</source>
+        <translation type="vanished">Mintaszerkesztő</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="vanished">Minták</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="vanished">Hozzáadás</translation>
+    </message>
+    <message>
         <source>Edit</source>
-        <translation type="obsolete">Szerkesztés</translation>
+        <translation type="vanished">Szerkesztés</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="vanished">Eltávolítás</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">Rendben</translation>
+        <translation type="vanished">Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="vanished">Mintaelemek hozzáadása</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="vanished">Mintaelemek hozzáadása almenüként</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="vanished">Elválasztó hozzáadása</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="vanished">Elválasztó hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="obsolete">Fel</translation>
+        <translation type="vanished">Fel</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="obsolete">Le</translation>
+        <translation type="vanished">Le</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="vanished">&lt;elválasztó&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="vanished">Minta szerkesztése</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="vanished">Új mintaszöveg megadása</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="vanished">Minták mentése</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="vanished">&quot;%1&quot; minta nem lett mentve!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="vanished">Folytatás?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="vanished">Beillesztés és &amp;küldés</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="vanished">Minták &amp;szerkesztése</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="vanished">Csak &amp;beillesztés</translation>
     </message>
 </context>
 <context>
@@ -16573,7 +16679,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="obsolete">%1 (tétlen)</translation>
+        <translation type="vanished">%1 (tétlen)</translation>
     </message>
 </context>
 <context>
