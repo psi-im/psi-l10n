@@ -4531,11 +4531,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>探索　(&amp;F)</translation>
+        <translation>探索&#x3000;(&amp;F)</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>&apos;%1&apos;　は見つかりませんでした。</translation>
+        <translation>&apos;%1&apos;&#x3000;は見つかりませんでした。</translation>
     </message>
 </context>
 <context>
@@ -6336,7 +6336,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Services</source>
-        <translation>サービス　</translation>
+        <translation>サービス&#x3000;</translation>
     </message>
     <message>
         <source>Use transport specific icons for contacts</source>

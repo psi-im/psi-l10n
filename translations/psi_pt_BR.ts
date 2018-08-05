@@ -214,7 +214,15 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>I. M. Anonymous&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp; nbsp; &amp; nbsp; &lt;a href=&quot;http://me.com&quot;&gt;http: //me.com&lt;/a&gt;&lt;br&gt;
+&amp; nbsp; &amp; nbsp; XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/a&gt;&lt;br&gt;
+&amp; nbsp; &amp; nbsp; &lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp; nbsp; &amp; nbsp; Tradutor&lt;br&gt;
+&lt;br&gt;
+Junte-se à equipe de tradução hoje! Vamos para
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; para mais detalhes!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -225,11 +233,11 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor Original</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenvolvedor líder e mantenedor atual</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -3204,7 +3212,7 @@ Proceder?</translation>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>deletado</translation>
     </message>
 </context>
 <context>
@@ -3372,7 +3380,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Enum Mensagens</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
@@ -3577,7 +3585,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>Para todos</translation>
     </message>
 </context>
 <context>
@@ -5855,7 +5863,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>deletado</translation>
     </message>
 </context>
 <context>
@@ -5966,7 +5974,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>deletado</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
@@ -6269,7 +6277,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Não suportado</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
@@ -6277,11 +6285,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar arquivo</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar imagem</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
@@ -6309,7 +6317,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao enviar</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
@@ -6664,23 +6672,23 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7509,8 +7517,16 @@ Nota: Para funcionar corretamente, a opção options.html.chat.render	deve ser d
         <translation type="vanished">Apelido</translation>
     </message>
     <message>
+        <source>Room</source>
+        <translation type="vanished">Sala</translation>
+    </message>
+    <message>
         <source>Password</source>
         <translation type="vanished">Senha</translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="vanished">&amp;Favoritos</translation>
     </message>
 </context>
 <context>
@@ -8351,7 +8367,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>99999</source>
-        <translation type="obsolete">99999</translation>
+        <translation type="vanished">99999</translation>
     </message>
 </context>
 <context>
@@ -8882,11 +8898,11 @@ Tags: %1</translation>
         <translation>Raio dos cantos</translation>
     </message>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <source>pt</source>
+        <translation>pt</translation>
     </message>
     <message>
-        <source>pt</source>
+        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9001,6 +9017,10 @@ Tags: %1</translation>
         <translation type="vanished">Tamanho</translation>
     </message>
     <message>
+        <source>pt</source>
+        <translation type="vanished">pt</translation>
+    </message>
+    <message>
         <source>Radius of corners</source>
         <translation type="vanished">Raio dos cantos</translation>
     </message>
@@ -9050,6 +9070,10 @@ Tags: %1</translation>
     <message>
         <source>Size</source>
         <translation type="vanished">Tamanho</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="vanished">pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9963,7 +9987,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desabilitado</translation>
     </message>
     <message>
         <source>Conditions</source>
@@ -10157,7 +10181,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Psi</translation>
     </message>
     <message>
         <source>Adium Theme</source>
