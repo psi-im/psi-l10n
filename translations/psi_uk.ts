@@ -6400,7 +6400,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Щось не так, будь ласка спробуйте ще раз або вимкніть шифрування OMEMO</translation>
     </message>
 </context>
 <context>
@@ -7838,6 +7838,10 @@ Incoming event(s) from:</source>
     <message>
         <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="vanished">Бібліотека Psi media не завантажена або не ініціалізована.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
+    </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="vanished">Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
 </context>
 <context>
@@ -12596,7 +12600,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="vanished">Сервер відмовив у подовженні сесії (СМ)</translation>
+        <translation>Сервер відмовив у подовженні сесії (СМ)</translation>
     </message>
     <message>
         <source>Invalid From</source>

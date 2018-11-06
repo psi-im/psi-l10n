@@ -11653,6 +11653,10 @@ Reason: %1.</source>
         <source>Public Key: %1</source>
         <translation>Julkinen avain: %1</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>

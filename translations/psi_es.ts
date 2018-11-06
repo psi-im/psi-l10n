@@ -12367,6 +12367,10 @@ Motivo: %1.</translation>
         <source>Set a new delimiter of nested groups</source>
         <translation type="vanished">Establecer un nuevo delimitador de grupos anidados</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>

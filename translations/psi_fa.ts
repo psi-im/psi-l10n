@@ -11606,6 +11606,10 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bad server response</source>
         <translation type="unfinished"></translation>
     </message>

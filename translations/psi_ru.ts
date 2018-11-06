@@ -12596,7 +12596,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="vanished">Сервер отказал в востановлении сессии (SM)</translation>
+        <translation>Сервер отказал в востановлении сессии (SM)</translation>
     </message>
     <message>
         <source>Invalid From</source>

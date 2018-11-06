@@ -12567,7 +12567,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="vanished">Der Server hat das Fortsetzen der Sitzung verweigert (SM)</translation>
+        <translation>Der Server hat das Fortsetzen der Sitzung verweigert (SM)</translation>
     </message>
     <message>
         <source>Invalid From</source>

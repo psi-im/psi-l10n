@@ -12165,6 +12165,10 @@ Przyczyna: %1.</translation>
         <source>Public Key: %1</source>
         <translation>Klucz publiczny: %1</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>

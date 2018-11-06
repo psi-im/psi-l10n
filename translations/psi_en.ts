@@ -7832,6 +7832,10 @@ Incoming event(s) from:</translation>
         <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="vanished">Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</translation>
     </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="vanished">PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -12590,7 +12594,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="vanished">Server refused to resume the session (SM)</translation>
+        <translation>Server refused to resume the session (SM)</translation>
     </message>
     <message>
         <source>Invalid From</source>
