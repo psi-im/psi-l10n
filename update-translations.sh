@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2018-08-06
+# Updated: 2018-12-18
 # Version: N/A
 
 set -e
@@ -15,7 +15,8 @@ PSI_DIR="${MAIN_DIR}/psi"
 PLUGINS_DIR="${MAIN_DIR}/plugins"
 PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
 
-PSI_RELEASE_BRANCH="release-1.x"
+# master release-1.x
+PSI_RELEASE_BRANCH="master"
 
 cd "${CUR_DIR}"
 
