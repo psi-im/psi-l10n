@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="vanished">http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -232,6 +232,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished"></translation>
     </message>
@@ -295,15 +299,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>%1 のパスワードを入力してください:</translation>
+        <translation type="vanished">%1 のパスワードを入力してください:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>パスワードを入力してください:</translation>
+        <translation type="vanished">パスワードを入力してください:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>パスワードが必要です</translation>
+        <translation type="vanished">パスワードが必要です</translation>
     </message>
 </context>
 <context>
@@ -2018,6 +2022,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -2464,7 +2472,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="vanished">タブを閉じる</translation>
+        <translation>タブを閉じる</translation>
     </message>
 </context>
 <context>
@@ -4518,24 +4526,24 @@ Reason: %3</source>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>探索</translation>
+        <translation type="vanished">探索</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>探索:
+        <translation type="vanished">探索:
 </translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>閉じる(&amp;C)</translation>
+        <translation type="vanished">閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>探索&#x3000;(&amp;F)</translation>
+        <translation type="vanished">探索&#x3000;(&amp;F)</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>&apos;%1&apos;&#x3000;は見つかりませんでした。</translation>
+        <translation type="vanished">&apos;%1&apos;&#x3000;は見つかりませんでした。</translation>
     </message>
 </context>
 <context>
@@ -4602,7 +4610,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>グループチャットに参加できません	理由: %1</translation>
+        <translation type="vanished">グループチャットに参加できません	理由: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4793,8 +4801,141 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send &amp;Message</source>
-        <translation type="vanished">メッセージを送信(&amp;M)</translation>
+        <translation>メッセージを送信(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation>チャットウィンドウを開く(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation>音声通話</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation>コマンド実行(&amp;x)</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation>キック(&amp;K)</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation>理由なし</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation>理由の変更</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation>バン(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation>役割の変更</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation>傍聴者</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation>参加者</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation>モデレータ</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>ユーザー情報(&amp;I)</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>新しいニックネーム</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>コマンド</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation>モデレータ</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation>参加者</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation>傍聴者</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">モデレータ</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">参加者</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">傍聴者</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">メッセージ(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -4843,119 +4984,6 @@ Reason: %1</source>
     <message>
         <source>User &amp;Info</source>
         <translation type="vanished">ユーザー情報(&amp;I)</translation>
-    </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>新しいニックネーム</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>コマンド</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserModel</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">モデレータ</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">参加者</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">傍聴者</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>モデレータ</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>参加者</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>傍聴者</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation>メッセージ(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation>チャットウィンドウを開く(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation>音声通話</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation>コマンド実行(&amp;x)</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation>キック(&amp;K)</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation>理由なし</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation>理由の変更</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation>バン(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation>役割の変更</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation>傍聴者</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation>参加者</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation>モデレータ</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>ユーザー情報(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5663,6 +5691,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5703,7 +5750,15 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text of topic</source>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5781,7 +5836,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;First</source>
-        <translation type="vanished">最古(&amp;E)</translation>
+        <translation>最古(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5793,7 +5848,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Last</source>
-        <translation type="vanished">最新(&amp;L)</translation>
+        <translation>最新(&amp;L)</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5883,28 +5938,45 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="vanished">ステータス:</translation>
+        <translation>ステータス:</translation>
+    </message>
+    <message>
+        <source>Progress:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">エラー</translation>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5946,51 +6018,15 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HomeDirMigration</name>
     <message>
         <source>Import Wizard</source>
-        <translation>インポートウィザード</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">インポートウィザード</translation>
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
-        <translation>Psiプロファイルをインポートし、古いぷとファイルを削除する</translation>
+        <translation type="vanished">Psiプロファイルをインポートし、古いぷとファイルを削除する</translation>
     </message>
     <message>
         <source>Create new profile</source>
-        <translation>新規プロファイルを作成</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">新規プロファイルを作成</translation>
     </message>
 </context>
 <context>
@@ -6236,7 +6272,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6265,6 +6301,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>名前:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6529,7 +6569,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin shows the preview image for an image URL.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6777,6 +6817,30 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation>管理者</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7286,7 +7350,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>最近の:</translation>
+        <translation type="vanished">最近の:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7294,19 +7358,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>ホスト:</translation>
+        <translation type="vanished">ホスト:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>ルーム:</translation>
+        <translation type="vanished">ルーム:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>ニックネーム:</translation>
+        <translation type="vanished">ニックネーム:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>パスワード:</translation>
+        <translation type="vanished">パスワード:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7314,11 +7378,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="vanished">ニックネーム</translation>
+        <translation>ニックネーム</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">パスワード</translation>
+        <translation>パスワード</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7542,6 +7618,14 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>%1個のメッセージを受信しました</translation>
+    </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7831,11 +7915,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>スペルをチェック</translation>
+        <translation type="vanished">スペルをチェック</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>コンタクトのメッセージ整形を使用</translation>
+        <translation type="vanished">コンタクトのメッセージ整形を使用</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7859,7 +7943,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>文字数を表示</translation>
+        <translation type="vanished">文字数を表示</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8036,6 +8120,14 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -8127,7 +8219,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>99999; </source>
-        <translation>99999;</translation>
+        <translation type="vanished">99999;</translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8146,8 +8238,16 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>99999</source>
-        <translation type="obsolete">99999</translation>
+        <translation type="unfinished">99999</translation>
     </message>
 </context>
 <context>
@@ -8201,35 +8301,35 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>タブモードを使用する:</translation>
+        <translation type="vanished">タブモードを使用する:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>チャットのみ</translation>
+        <translation type="vanished">チャットのみ</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>グループチャットのみ</translation>
+        <translation type="vanished">グループチャットのみ</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>チャットとグループチャットを分ける</translation>
+        <translation type="vanished">チャットとグループチャットを分ける</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>チャットとグループチャットを一つのウィンドウに</translation>
+        <translation type="vanished">チャットとグループチャットを一つのウィンドウに</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[カスタマイズ]</translation>
+        <translation type="vanished">[カスタマイズ]</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>テキスト入力項目を自動調整</translation>
+        <translation type="vanished">テキスト入力項目を自動調整</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Alt-[0-9] によるタブショートカットを有効にする</translation>
+        <translation type="vanished">Alt-[0-9] によるタブショートカットを有効にする</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8285,14 +8385,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8375,50 +8467,82 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Auto-resize text input field</source>
-        <translation type="vanished">テキスト入力項目を自動調整</translation>
+        <translation>テキスト入力項目を自動調整</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation type="vanished">タブモードを使用する:</translation>
+        <translation>タブモードを使用する:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation type="vanished">チャットのみ</translation>
+        <translation>チャットのみ</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation type="vanished">グループチャットのみ</translation>
+        <translation>グループチャットのみ</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation type="vanished">チャットとグループチャットを分ける</translation>
+        <translation>チャットとグループチャットを分ける</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation type="vanished">チャットとグループチャットを一つのウィンドウに</translation>
+        <translation>チャットとグループチャットを一つのウィンドウに</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="vanished">[カスタマイズ]</translation>
+        <translation>[カスタマイズ]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Alt-[0-9] によるタブショートカットを有効にする</translation>
+        <translation>Alt-[0-9] によるタブショートカットを有効にする</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">コンタクトのメッセージ整形を使用</translation>
+        <translation>コンタクトのメッセージ整形を使用</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation type="vanished">文字数を表示</translation>
+        <translation>文字数を表示</translation>
     </message>
 </context>
 <context>
@@ -8551,15 +8675,22 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>アバター</translation>
+        <translation type="vanished">アバター</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>サイズ</translation>
+        <translation type="vanished">サイズ</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8626,6 +8757,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Avatars</source>
+        <translation>アバター</translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8662,6 +8797,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>サイズ</translation>
+    </message>
+    <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8671,41 +8810,78 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OptRosterMain</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation type="vanished">アバター</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">サイズ</translation>
-    </message>
-</context>
-<context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">ステータス</translation>
+        <translation>ステータス</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="vanished">提携</translation>
+        <translation>提携</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">アバター</translation>
+        <translation>アバター</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">サイズ</translation>
+        <translation>サイズ</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9653,11 +9829,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>ペルチェックを行いたい場合このオプションを有効にします</translation>
+        <translation type="vanished">ペルチェックを行いたい場合このオプションを有効にします</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
+        <translation type="vanished">有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9685,7 +9861,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
+        <translation type="vanished">Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9925,7 +10101,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Psiはチャットウィンドウをタブモードで開きます。</translation>
+        <translation type="vanished">Psiはチャットウィンドウをタブモードで開きます。</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9946,10 +10122,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;このオプションはチャットログを永久に保存します。&lt;P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10121,30 +10293,58 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabInput</name>
     <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">ペルチェックを行いたい場合このオプションを有効にします</translation>
+        <translation>ペルチェックを行いたい場合このオプションを有効にします</translation>
+    </message>
+    <message>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
     <message>
         <source>Messages</source>
-        <translation type="vanished">メッセージ</translation>
+        <translation>メッセージ</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Psiはチャットウィンドウをタブモードで開きます。</translation>
+        <translation>Psiはチャットウィンドウをタブモードで開きます。</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
+        <translation>Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
+        <translation>有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
     </message>
 </context>
 <context>
@@ -10200,6 +10400,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Roster window options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10224,7 +10435,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">グループチャット</translation>
+        <translation>グループチャット</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10781,6 +10996,10 @@ Please enter your passphrase below:</source>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11419,11 +11638,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation type="vanished">メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>チャット</translation>
+        <translation type="vanished">チャット</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11447,11 +11666,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="vanished">メッセージ(&amp;M)</translation>
+        <translation>メッセージ(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">チャット(&amp;C)</translation>
+        <translation>チャット(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -11836,7 +12055,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>不正なサーバーレスポンス</translation>
+        <translation type="vanished">不正なサーバーレスポンス</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -11856,7 +12075,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>無効なレルム</translation>
+        <translation type="vanished">無効なレルム</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -11967,7 +12186,35 @@ Reason: %1.</source>
         <translation>公開鍵: %1</translation>
     </message>
     <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12596,12 +12843,16 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Psiに関する詳しい情報は &lt;http://psi-im.org/&gt; を参照してください。</translation>
+        <translation type="vanished">Psiに関する詳しい情報は &lt;http://psi-im.org/&gt; を参照してください。</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>コンパイル時の Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12921,6 +13172,10 @@ Migration is possible with Psi-0.15</source>
         <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -13127,7 +13382,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="vanished">高度な設定</translation>
+        <translation>高度な設定</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13649,11 +13904,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation>変換エラー</translation>
+        <translation type="vanished">変換エラー</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation>古いバージョンの設定データが見つかりましたが現在のバージョンで動作するように変換できませんでした。
+        <translation type="vanished">古いバージョンの設定データが見つかりましたが現在のバージョンで動作するように変換できませんでした。
 パーミッションとPsiが動作していないことを確認し再試行してみてください。</translation>
     </message>
     <message>
@@ -14701,6 +14956,10 @@ Thanks for your patience.</source>
         <source>%1 is now known as %2</source>
         <translation>%1 は %2 にニックネームを変更しました</translation>
     </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15531,6 +15790,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -15962,7 +16225,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="vanished">%1 (不活性)</translation>
+        <translation>%1 (不活性)</translation>
     </message>
 </context>
 <context>
@@ -15989,7 +16252,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 v1.0
+        <translation type="vanished">%1 v1.0
 
 Iris XMPPライブラリのデモユーティリティ.
 
@@ -16056,6 +16319,18 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>%1 のパスワードを入力してください</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16248,7 +16523,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>こんにちは! Psiをダウンロードしてくれてありがとう!
+        <translation type="vanished">こんにちは! Psiをダウンロードしてくれてありがとう!
 私たちは皆さんにPsiを楽しんで使ってもらえるように、私たちも楽しみながら開発をしています!
 &lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href=&quot;http://psi-im.org&quot;&gt;Psiホームページ&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psiフォーラム&lt;/a&gt;。
@@ -16346,6 +16621,14 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>貢献 - </translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

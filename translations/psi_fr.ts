@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="vanished">http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -232,6 +232,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation>Développeur principal et mainteneur actuel</translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">A propos de Psi</translation>
     </message>
@@ -294,15 +298,15 @@ Cochez &lt;b&gt;Enregistrer un nouveau compte&lt;/b&gt; pour que Psi crée un no
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Veuillez saisir le mot de passe pour %1 :</translation>
+        <translation type="vanished">Veuillez saisir le mot de passe pour %1 :</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Veuillez saisir votre mot de passe :</translation>
+        <translation type="vanished">Veuillez saisir votre mot de passe :</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Mot de passe requis</translation>
+        <translation type="vanished">Mot de passe requis</translation>
     </message>
 </context>
 <context>
@@ -2044,6 +2048,10 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
         <source>Desc:</source>
         <translation>Description :</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -2497,7 +2505,7 @@ Vous pouvez spécifier la version du client ou le système ou sélectionner une 
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="vanished">Fermer l&apos;onglet</translation>
+        <translation>Fermer l&apos;onglet</translation>
     </message>
 </context>
 <context>
@@ -4563,23 +4571,23 @@ Raison: %3</translation>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Rechercher</translation>
+        <translation type="vanished">Rechercher</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Rechercher:</translation>
+        <translation type="vanished">Rechercher:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Fermer</translation>
+        <translation type="vanished">&amp;Fermer</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Rechercher</translation>
+        <translation type="vanished">&amp;Rechercher</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>La chaîne &apos;%1&apos; n&apos;a pas été trouvée.</translation>
+        <translation type="vanished">La chaîne &apos;%1&apos; n&apos;a pas été trouvée.</translation>
     </message>
 </context>
 <context>
@@ -4645,7 +4653,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Impossible de rejoindre le groupe de discussion.	Raison: %1</translation>
+        <translation type="vanished">Impossible de rejoindre le groupe de discussion.	Raison: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4836,117 +4844,8 @@ Reason: %1</source>
         <translation>Ajouter la conférence aux favoris</translation>
     </message>
     <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Envoyer un &amp;message</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Ouvrir une fenêtre de dis&amp;cussion</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Appel vocal</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">E&amp;xécuter la commande</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">E&amp;xclure</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Aucune raison</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Raison personnalisée</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Bannir</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Changer de rôle</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Visiteur</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Participant</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Modérateur</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">Changer l&apos;affiliation</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">Non affilié</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">Membre</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">Administrateur</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">Propriétaire</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Informations de l&apos;utilisateur</translation>
-    </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>Nouveau surnom</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>Commande</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserModel</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Modérateurs</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Participants</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Visiteurs</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Modérateurs</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Participants</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Visiteurs</translation>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5018,7 +4917,136 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Informations du contact</translation>
+        <translation>&amp;Informations de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>Nouveau surnom</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>Commande</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation>Modérateurs</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation>Participants</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation>Visiteurs</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Modérateurs</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Participants</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Visiteurs</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Envoyer un &amp;message</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">Ouvrir une fenêtre de dis&amp;cussion</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Appel vocal</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">E&amp;xécuter la commande</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">E&amp;xclure</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">Aucune raison</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">Raison personnalisée</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">&amp;Bannir</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Changer de rôle</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Visiteur</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Participant</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Modérateur</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="vanished">Changer l&apos;affiliation</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="vanished">Non affilié</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="vanished">Membre</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="vanished">Administrateur</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="vanished">Propriétaire</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Informations du contact</translation>
     </message>
 </context>
 <context>
@@ -5731,8 +5759,20 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>GroupChatTopicAddLangDlg</name>
     <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Language</source>
-        <translation type="vanished">Langue</translation>
+        <translation>Langue</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5777,7 +5817,19 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Texte du sujet</translation>
+        <translation type="vanished">Texte du sujet</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5854,7 +5906,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;First</source>
-        <translation type="vanished">Plus anci&amp;ens</translation>
+        <translation>Plus anci&amp;ens</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5866,7 +5918,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Last</source>
-        <translation type="vanished">P&amp;lus récents</translation>
+        <translation>P&amp;lus récents</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5956,40 +6008,45 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="vanished">État :</translation>
+        <translation>État :</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">Avancement :</translation>
+        <translation>Avancement :</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Quitter</translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">Importer</translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Erreur</translation>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6031,51 +6088,11 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HomeDirMigration</name>
     <message>
         <source>Import Wizard</source>
-        <translation>Assistant d&apos;import</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Assistant d&apos;import</translation>
     </message>
     <message>
         <source>Create new profile</source>
-        <translation>Créer un nouveau profil</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Créer un nouveau profil</translation>
     </message>
 </context>
 <context>
@@ -6321,7 +6338,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6350,6 +6367,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Nom:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6616,7 +6637,7 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin shows the preview image for an image URL.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6865,6 +6886,30 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation>Administrateurs</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7387,7 +7432,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Récent:</translation>
+        <translation type="vanished">Récent:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7395,19 +7440,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Serveur:</translation>
+        <translation type="vanished">Serveur:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Salle:</translation>
+        <translation type="vanished">Salle:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Surnom:</translation>
+        <translation type="vanished">Surnom:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mot de passe :</translation>
+        <translation type="vanished">Mot de passe :</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7419,11 +7464,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="vanished">Surnom</translation>
+        <translation>Surnom</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Mot de passe</translation>
+        <translation>Mot de passe</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7650,6 +7707,14 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>%1 évènements reçus</translation>
+    </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7952,11 +8017,11 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Vérifier l&apos;orthographe</translation>
+        <translation type="vanished">Vérifier l&apos;orthographe</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Utiliser le formatage du contact pour les messages</translation>
+        <translation type="vanished">Utiliser le formatage du contact pour les messages</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7980,7 +8045,7 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Afficher le compteur de caractères</translation>
+        <translation type="vanished">Afficher le compteur de caractères</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8159,7 +8224,11 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">Lien</translation>
+        <translation>Lien</translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8256,7 +8325,7 @@ Labels : %1</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation>99999;</translation>
+        <translation type="vanished">99999;</translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8275,8 +8344,16 @@ Labels : %1</translation>
         <translation>Langue</translation>
     </message>
     <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>99999</source>
-        <translation type="obsolete">99999</translation>
+        <translation type="unfinished">99999</translation>
     </message>
 </context>
 <context>
@@ -8330,31 +8407,31 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Utiliser le mode Onglet:</translation>
+        <translation type="vanished">Utiliser le mode Onglet:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>pour les discussions uniquement</translation>
+        <translation type="vanished">pour les discussions uniquement</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>pour les salons de discussion uniquement</translation>
+        <translation type="vanished">pour les salons de discussion uniquement</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>pour les discussions et salons de discussion séparément</translation>
+        <translation type="vanished">pour les discussions et salons de discussion séparément</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>pour les discussions et salons de discussion en fenêtre unique</translation>
+        <translation type="vanished">pour les discussions et salons de discussion en fenêtre unique</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
+        <translation type="vanished">pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[personnalisé]</translation>
+        <translation type="vanished">[personnalisé]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
@@ -8362,11 +8439,11 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Zone de texte auto-adaptative</translation>
+        <translation type="vanished">Zone de texte auto-adaptative</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
+        <translation type="vanished">Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8422,10 +8499,6 @@ Labels : %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8508,62 +8581,82 @@ Labels : %1</translation>
     <name>OptInput</name>
     <message>
         <source>Auto-resize text input field</source>
-        <translation type="vanished">Zone de texte auto-adaptative</translation>
+        <translation>Zone de texte auto-adaptative</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Majuscule automatique en début de phrase</translation>
+        <translation>Majuscule automatique en début de phrase</translation>
     </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation type="vanished">Utiliser le mode Onglet:</translation>
+        <translation>Utiliser le mode Onglet:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation type="vanished">pour les discussions uniquement</translation>
+        <translation>pour les discussions uniquement</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation type="vanished">pour les salons de discussion uniquement</translation>
+        <translation>pour les salons de discussion uniquement</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation type="vanished">pour les discussions et salons de discussion séparément</translation>
+        <translation>pour les discussions et salons de discussion séparément</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation type="vanished">pour les discussions et salons de discussion en fenêtre unique</translation>
+        <translation>pour les discussions et salons de discussion en fenêtre unique</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
+        <translation>pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="vanished">[personnalisé]</translation>
+        <translation>[personnalisé]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Afficher les boutons d&apos;onglet</translation>
+        <translation>Afficher les boutons d&apos;onglet</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
+        <translation>Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Utiliser le formatage du contact pour les messages</translation>
+        <translation>Utiliser le formatage du contact pour les messages</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation type="vanished">Afficher le compteur de caractères</translation>
+        <translation>Afficher le compteur de caractères</translation>
     </message>
 </context>
 <context>
@@ -8696,129 +8789,6 @@ Labels : %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>Interface utilisateur pour les options de l&apos;application</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation>Garder la fenêtre de contacts au premier plan</translation>
-    </message>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation>Redimensionner automatiquement la liste de contacts</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation>Utiliser le clic gauche pour le menu</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation>Afficher la barre de menu</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation>Désactiver la barre de défilement dans la fenêtre de l&apos;application.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation>Désactiver la barre de défilement</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation>Activer le cadre de l&apos;avatar en haut de la liste de contacts</translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation>Activer le cadre de l&apos;avatar</translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation>Cacher la liste après</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation>Icônes</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation>Afficher les avatars dans la liste</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation>Avatars</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation>Afficher les humeurs dans la liste</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation>Humeurs</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation>Afficher les activités dans la liste</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation>Activités</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation>Afficher la géolocalisation dans la liste</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation>GéoLocalisation</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation>Afficher un icône quand un contact écoute de la musique</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation>Ecoute actuellement</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation>Afficher l&apos;icône du client de l&apos;utilisateur</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation>Clients</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation>Tous les icones des clients</translation>
-    </message>
-    <message>
-        <source>only highest priority client icon</source>
-        <translation>Seulement l&apos;icône client avec la plus haute priorité</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation>Configuration des avatars</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Taille</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation>Arrondi des angles</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
-        <translation>secondes (0 - jamais)</translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRosterMain</name>
-    <message>
-        <source>OptApplicationUI</source>
         <translation type="vanished">Interface utilisateur pour les options de l&apos;application</translation>
     </message>
     <message>
@@ -8858,28 +8828,8 @@ Labels : %1</translation>
         <translation type="vanished">Cacher la liste après</translation>
     </message>
     <message>
-        <source>seconds (0 - never)</source>
-        <translation type="vanished">secondes (0 - jamais)</translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation type="vanished">Icônes</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">Afficher la géolocalisation dans la liste</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">GéoLocalisation</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">Afficher les humeurs dans la liste</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">Humeurs</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8890,12 +8840,28 @@ Labels : %1</translation>
         <translation type="vanished">Avatars</translation>
     </message>
     <message>
+        <source>Show moods in roster</source>
+        <translation type="vanished">Afficher les humeurs dans la liste</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="vanished">Humeurs</translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="vanished">Afficher les activités dans la liste</translation>
     </message>
     <message>
         <source>Activities</source>
         <translation type="vanished">Activités</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="vanished">Afficher la géolocalisation dans la liste</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="vanished">GéoLocalisation</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
@@ -8933,56 +8899,207 @@ Labels : %1</translation>
         <source>Radius of corners</source>
         <translation type="vanished">Arrondi des angles</translation>
     </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="vanished">secondes (0 - jamais)</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation>Interface utilisateur pour les options de l&apos;application</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation>Garder la fenêtre de contacts au premier plan</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation>Redimensionner automatiquement la liste de contacts</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation>Utiliser le clic gauche pour le menu</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation>Afficher la barre de menu</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation>Désactiver la barre de défilement dans la fenêtre de l&apos;application.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation>Désactiver la barre de défilement</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation>Activer le cadre de l&apos;avatar en haut de la liste de contacts</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation>Activer le cadre de l&apos;avatar</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation>Cacher la liste après</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation>secondes (0 - jamais)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation>Icônes</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation>Afficher la géolocalisation dans la liste</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation>GéoLocalisation</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation>Afficher les humeurs dans la liste</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation>Humeurs</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation>Afficher les avatars dans la liste</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation>Avatars</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation>Afficher les activités dans la liste</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation>Activités</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation>Afficher un icône quand un contact écoute de la musique</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation>Ecoute actuellement</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation>Afficher l&apos;icône du client de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation>Clients</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation>Tous les icones des clients</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation>Seulement l&apos;icône client avec la plus haute priorité</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation>Configuration des avatars</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation>Arrondi des angles</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="vanished">Interface utilisateur pour les options de l&apos;application</translation>
+        <translation>Interface utilisateur pour les options de l&apos;application</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="vanished">Désactiver la barre de défilement</translation>
+        <translation>Désactiver la barre de défilement</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="vanished">Icônes</translation>
+        <translation>Icônes</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Etat</translation>
+        <translation>Etat</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="vanished">Afficher l&apos;icône du client de l&apos;utilisateur</translation>
+        <translation>Afficher l&apos;icône du client de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="vanished">Clients</translation>
+        <translation>Clients</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="vanished">Affiliations</translation>
+        <translation>Affiliations</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="vanished">Afficher les avatars dans la liste</translation>
+        <translation>Afficher les avatars dans la liste</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">Avatars</translation>
+        <translation>Avatars</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="vanished">Configuration des avatars</translation>
+        <translation>Configuration des avatars</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Taille</translation>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="vanished">Arrondi des angles</translation>
+        <translation>Arrondi des angles</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9935,11 +10052,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Cochez cette option si vous voulez activer la vérification orthographique</translation>
+        <translation type="vanished">Cochez cette option si vous voulez activer la vérification orthographique</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
+        <translation type="vanished">Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9967,7 +10084,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Fait que Psi affiche le compteur de caractères. Cochez la case si vous voulez connaître la longueur de votre message. Très pratique lors de l&apos;utilisation du transport SMS.</translation>
+        <translation type="vanished">Fait que Psi affiche le compteur de caractères. Cochez la case si vous voulez connaître la longueur de votre message. Très pratique lors de l&apos;utilisation du transport SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10211,7 +10328,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Fait que Psi ouvre les discussions dans différents onglets d&apos;une même fenêtre.</translation>
+        <translation type="vanished">Fait que Psi ouvre les discussions dans différents onglets d&apos;une même fenêtre.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10232,10 +10349,6 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Cette option conserve l&apos;historique de discussion indéfiniment.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10407,30 +10520,58 @@ notifications pour les mails non lus.</translation>
 <context>
     <name>OptionsTabInput</name>
     <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Cochez cette option si vous voulez activer la vérification orthographique</translation>
+        <translation>Cochez cette option si vous voulez activer la vérification orthographique</translation>
+    </message>
+    <message>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Messages</translation>
+        <translation>Messages</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Fait que Psi ouvre les discussions dans différents onglets d&apos;une même fenêtre.</translation>
+        <translation>Fait que Psi ouvre les discussions dans différents onglets d&apos;une même fenêtre.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Fait que Psi affiche le compteur de caractères. Cochez la case si vous voulez connaître la longueur de votre message. Très pratique lors de l&apos;utilisation du transport SMS.</translation>
+        <translation>Fait que Psi affiche le compteur de caractères. Cochez la case si vous voulez connaître la longueur de votre message. Très pratique lors de l&apos;utilisation du transport SMS.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
+        <translation>Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
     </message>
 </context>
 <context>
@@ -10487,6 +10628,37 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Roster window options</source>
+        <translation type="vanished">Options de la fenêtre de contacts</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="vanished">Fait que la fenêtre principale de Psi reste toujours devant les autres fenêtres.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="vanished">Redimensionne automatiquement la fenêtre de Psi pour afficher tous les contacts.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="vanished">Normalement, cliquer avec le bouton droit de la souris sur un contact active le menu contextuel. Cochez cette option si vous préférez utiliser un clic gauche.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="vanished">Voir la barre de menu dans la fenêtre de l&apos;application.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation>Liste de contacts</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
         <translation>Options de la fenêtre de contacts</translation>
     </message>
     <message>
@@ -10507,37 +10679,14 @@ notifications pour les mails non lus.</translation>
     </message>
 </context>
 <context>
-    <name>OptionsTabRosterMain</name>
-    <message>
-        <source>Roster</source>
-        <translation type="vanished">Liste de contacts</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">Options de la fenêtre de contacts</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">Fait que la fenêtre principale de Psi reste toujours devant les autres fenêtres.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">Redimensionne automatiquement la fenêtre de Psi pour afficher tous les contacts.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="vanished">Normalement, cliquer avec le bouton droit de la souris sur un contact active le menu contextuel. Cochez cette option si vous préférez utiliser un clic gauche.</translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="vanished">Voir la barre de menu dans la fenêtre de l&apos;application.</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Salon</translation>
+        <translation>Salon</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11094,6 +11243,10 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11733,11 +11886,11 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation type="vanished">Message</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Discussion</translation>
+        <translation type="vanished">Discussion</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11761,11 +11914,11 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="vanished">&amp;Message</translation>
+        <translation>&amp;Message</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Discussion</translation>
+        <translation>&amp;Discussion</translation>
     </message>
 </context>
 <context>
@@ -12150,7 +12303,7 @@ Voulez-vous vous déconnecter ?</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Mauvaise réponse du serveur</translation>
+        <translation type="vanished">Mauvaise réponse du serveur</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12170,7 +12323,7 @@ Voulez-vous vous déconnecter ?</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Domaine non valide</translation>
+        <translation type="vanished">Domaine non valide</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12289,7 +12442,35 @@ Cause: %1.</translation>
         <translation type="vanished">Définir un nouveau séparateur pour les groupes imbriqués</translation>
     </message>
     <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12942,12 +13123,16 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Aller sur &lt;http://psi-im.org/&gt; pour plus d&apos;informations à propos de Psi.</translation>
+        <translation type="vanished">Aller sur &lt;http://psi-im.org/&gt; pour plus d&apos;informations à propos de Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Compilé avec Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13267,6 +13452,10 @@ Migration is possible with Psi-0.15</source>
         <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -13475,7 +13664,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="vanished">Avancées</translation>
+        <translation>Avancées</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13998,14 +14187,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>File</source>
         <translation>Fichier</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Offline</source>
@@ -15059,6 +15240,10 @@ Thanks for your patience.</source>
         <source>%1 is now known as %2</source>
         <translation>%1 est désormais connu(e) en tant que %2</translation>
     </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15988,6 +16173,10 @@ Cause: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -16439,7 +16628,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="vanished">%1 (Inactif]</translation>
+        <translation>%1 (Inactif]</translation>
     </message>
 </context>
 <context>
@@ -16466,7 +16655,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 v1.0
+        <translation type="vanished">%1 v1.0
 Utilitaire pour présenter la librairie XMPP Iris.
 Supporte actuellement:
   draft-ietf-xmpp-core-21
@@ -16530,6 +16719,18 @@ SVP corrigez et réessayez.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Entrez le mot de passe pour %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16722,7 +16923,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Bonjour! Merci d&apos;avoir téléchargé Psi!Nous espérons que vous prendrez autant de plaisir à l&apos;utiliser que nous à le faire!&lt;br&gt;&lt;br&gt;Si vous voulez télécharger d&apos;autres langues, listes d&apos;icônes ou une nouvelle version de Psi, visitez le &lt;a href=&quot;http://psi-im.org&quot;&gt;Site Web de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Si vous pensez que vous avez trouvé un bug ou si vous souhaitez juste dialoguer avec d&apos;autres utilisateurs de Psi, alors visitez les &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Forums de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;l&apos;équipe de Psi&lt;/i&gt;&lt;/div&gt;</translation>
+        <translation type="vanished">Bonjour! Merci d&apos;avoir téléchargé Psi!Nous espérons que vous prendrez autant de plaisir à l&apos;utiliser que nous à le faire!&lt;br&gt;&lt;br&gt;Si vous voulez télécharger d&apos;autres langues, listes d&apos;icônes ou une nouvelle version de Psi, visitez le &lt;a href=&quot;http://psi-im.org&quot;&gt;Site Web de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Si vous pensez que vous avez trouvé un bug ou si vous souhaitez juste dialoguer avec d&apos;autres utilisateurs de Psi, alors visitez les &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Forums de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;l&apos;équipe de Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -16821,6 +17022,14 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Contribution</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

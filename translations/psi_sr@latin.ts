@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="vanished">http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -224,6 +224,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">O Psi</translation>
     </message>
@@ -284,15 +288,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Molim, unesite lozinku za  %1:</translation>
+        <translation type="vanished">Molim, unesite lozinku za  %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Molim unesite vašu lozinku:</translation>
+        <translation type="vanished">Molim unesite vašu lozinku:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Potrebna je lozinka</translation>
+        <translation type="vanished">Potrebna je lozinka</translation>
     </message>
 </context>
 <context>
@@ -2025,6 +2029,10 @@ Da li i dalje želite da zatvorite prozor?</translation>
         <source>Desc:</source>
         <translation>Desc:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -2478,7 +2486,7 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="vanished">Zatvori tab</translation>
+        <translation>Zatvori tab</translation>
     </message>
 </context>
 <context>
@@ -4532,23 +4540,23 @@ Razlog: %3</translation>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Nađi</translation>
+        <translation type="vanished">Nađi</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Nađi:</translation>
+        <translation type="vanished">Nađi:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zatvori</translation>
+        <translation type="vanished">&amp;Zatvori</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Nađi</translation>
+        <translation type="vanished">&amp;Nađi</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Nisam pronašao traženi niz „%1“.</translation>
+        <translation type="vanished">Nisam pronašao traženi niz „%1“.</translation>
     </message>
 </context>
 <context>
@@ -4615,7 +4623,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Onemogući pristup grupnom razgovoru.	Razlog: %1</translation>
+        <translation type="vanished">Onemogući pristup grupnom razgovoru.	Razlog: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4806,129 +4814,20 @@ Reason: %1</translation>
         <translation>Označeno konferencija</translation>
     </message>
     <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste and Send</source>
         <translation type="vanished">Nalepi i pošalji</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="vanished">Pošalji &amp;Poruku</translation>
+        <translation>Pošalji &amp;Poruku</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Otvori &amp;Prozor za razgovor</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Glasovni poziv</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">&amp;Izvrši komandu</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Kick</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Bez razloga</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Custom reason</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Zabrani</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Promeni ulogu</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Posetilac</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Učesnik</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Moderator</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">Promeni pripadnost</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">Nepripadanje</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">Član</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">Administrator</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">Vlasnik</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Korisnik &amp;Info</translation>
-    </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>novi nadimak</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>Komanda</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserModel</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Moderatori</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Učesnici</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Posetioci</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Moderatori</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Učesnici</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Posetioci</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation>Pošalji&amp;Poruka</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation>Otvori&amp;Prozor razgovora</translation>
+        <translation>Otvori &amp;Prozor za razgovor</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -4992,7 +4891,136 @@ Reason: %1</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Podaci o korisniku</translation>
+        <translation>Korisnik &amp;Info</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>novi nadimak</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>Komanda</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation>Moderatori</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation>Učesnici</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation>Posetioci</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderatori</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Učesnici</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Posetioci</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Pošalji&amp;Poruka</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">Otvori&amp;Prozor razgovora</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Glasovni poziv</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">&amp;Izvrši komandu</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Kick</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">Bez razloga</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">Custom reason</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">&amp;Zabrani</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Promeni ulogu</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Posetilac</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Učesnik</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="vanished">Promeni pripadnost</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="vanished">Nepripadanje</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="vanished">Član</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="vanished">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="vanished">Vlasnik</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Podaci o korisniku</translation>
     </message>
 </context>
 <context>
@@ -5705,8 +5733,20 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
 <context>
     <name>GroupChatTopicAddLangDlg</name>
     <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Language</source>
-        <translation type="vanished">Jezik</translation>
+        <translation>Jezik</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5751,7 +5791,19 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Tekst teme</translation>
+        <translation type="vanished">Tekst teme</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5828,7 +5880,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>&amp;First</source>
-        <translation type="vanished">&amp;Najranije</translation>
+        <translation>&amp;Najranije</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5840,7 +5892,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>&amp;Last</source>
-        <translation type="vanished">&amp;Najkasnije</translation>
+        <translation>&amp;Najkasnije</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5930,40 +5982,45 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="vanished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="vanished">Napredak:</translation>
+        <translation>Napredak:</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="vanished">Izadji</translation>
+        <translation>Izadji</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="vanished">Uvezi</translation>
+        <translation>Uvezi</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Greška</translation>
+        <translation>Greška</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6006,7 +6063,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     <name>HomeDirMigration</name>
     <message>
         <source>Import Wizard</source>
-        <translation>Uvezi čarobnjak</translation>
+        <translation type="vanished">Uvezi čarobnjak</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6014,7 +6071,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -6034,7 +6091,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Psi profile</source>
-        <translation>Uvezi Psi profil</translation>
+        <translation type="vanished">Uvezi Psi profil</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6042,7 +6099,7 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -6050,7 +6107,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
-        <translation>Uvezi Psi profil i obriši to</translation>
+        <translation type="vanished">Uvezi Psi profil i obriši to</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6066,23 +6123,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create new profile</source>
-        <translation>Kreiraj novi profil</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kreiraj novi profil</translation>
     </message>
 </context>
 <context>
@@ -6328,7 +6369,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6357,6 +6398,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Ime:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6630,7 +6675,7 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin shows the preview image for an image URL.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6879,6 +6924,30 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation>Administratori</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7407,7 +7476,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Skorašnje:</translation>
+        <translation type="vanished">Skorašnje:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7415,19 +7484,19 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Host:</source>
-        <translation>Domaćin:</translation>
+        <translation type="vanished">Domaćin:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Soba:</translation>
+        <translation type="vanished">Soba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Korisničko ime:</translation>
+        <translation type="vanished">Korisničko ime:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Lozinka</translation>
+        <translation type="vanished">Lozinka</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7439,11 +7508,23 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="vanished">Korisničko ime</translation>
+        <translation>Korisničko ime</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Lozinka</translation>
+        <translation>Lozinka</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7670,6 +7751,14 @@ Dolazni dogadjaj(i) od:</translation>
     <message>
         <source>%1 events received</source>
         <translation>Broj primljenih događaja: %1</translation>
+    </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7962,11 +8051,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Provera pravopisa</translation>
+        <translation type="vanished">Provera pravopisa</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Koristi formatiranje kontakt poruka</translation>
+        <translation type="vanished">Koristi formatiranje kontakt poruka</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7990,7 +8079,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Prikaži brojač znakova</translation>
+        <translation type="vanished">Prikaži brojač znakova</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8169,7 +8258,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="vanished">Link</translation>
+        <translation>Link</translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8266,7 +8359,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation>99999; </translation>
+        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8285,8 +8378,16 @@ Kartice: %1</translation>
         <translation>Jezik</translation>
     </message>
     <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>99999</source>
-        <translation type="obsolete">99999</translation>
+        <translation type="unfinished">99999</translation>
     </message>
 </context>
 <context>
@@ -8340,31 +8441,31 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Koristi tabovani mod:</translation>
+        <translation type="vanished">Koristi tabovani mod:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>za razgovor samo</translation>
+        <translation type="vanished">za razgovor samo</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>za mucs samo</translation>
+        <translation type="vanished">za mucs samo</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>za razgovor i mucs odvojeno</translation>
+        <translation type="vanished">za razgovor i mucs odvojeno</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>za mucs i razgovor u jednom prozoru</translation>
+        <translation type="vanished">za mucs i razgovor u jednom prozoru</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>za mucs, razgovor i spisak u jednom prozoru</translation>
+        <translation type="vanished">za mucs, razgovor i spisak u jednom prozoru</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[prilagodjeno]</translation>
+        <translation type="vanished">[prilagodjeno]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
@@ -8372,11 +8473,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Automatska veličina polja za unos teksta</translation>
+        <translation type="vanished">Automatska veličina polja za unos teksta</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Omogući Alt-[0-9] tab prečice</translation>
+        <translation type="vanished">Omogući Alt-[0-9] tab prečice</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8432,10 +8533,6 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8518,62 +8615,82 @@ Kartice: %1</translation>
     <name>OptInput</name>
     <message>
         <source>Auto-resize text input field</source>
-        <translation type="vanished">Automatska veličina polja za unos teksta</translation>
+        <translation>Automatska veličina polja za unos teksta</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatski prvo slovo u rečenici</translation>
+        <translation>Automatski prvo slovo u rečenici</translation>
     </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation type="vanished">Koristi tabovani mod:</translation>
+        <translation>Koristi tabovani mod:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation type="vanished">za razgovor samo</translation>
+        <translation>za razgovor samo</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation type="vanished">za mucs samo</translation>
+        <translation>za mucs samo</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation type="vanished">za razgovor i mucs odvojeno</translation>
+        <translation>za razgovor i mucs odvojeno</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation type="vanished">za mucs i razgovor u jednom prozoru</translation>
+        <translation>za mucs i razgovor u jednom prozoru</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">za mucs, razgovor i spisak u jednom prozoru</translation>
+        <translation>za mucs, razgovor i spisak u jednom prozoru</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="vanished">[prilagodjeno]</translation>
+        <translation>[prilagodjeno]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="vanished">Pokaži dugme kartica</translation>
+        <translation>Pokaži dugme kartica</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Omogući Alt-[0-9] tab prečice</translation>
+        <translation>Omogući Alt-[0-9] tab prečice</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Koristi formatiranje kontakt poruka</translation>
+        <translation>Koristi formatiranje kontakt poruka</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation type="vanished">Prikaži brojač znakova</translation>
+        <translation>Prikaži brojač znakova</translation>
     </message>
 </context>
 <context>
@@ -8706,129 +8823,6 @@ Kartice: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation>Spisak uvek na vrhu</translation>
-    </message>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation>Automatska veličina liste kontakata</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation>Levi klik za meni</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation>Pokaži menibar</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation>Onemogući skrolbar u prozoru aplikacije</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation>Onemogući skrolbar</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation>Omoguće avatar na vrhu spiska</translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation>Omogući avatar spiska</translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation>Auto sakrivanje spiska posle</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation>Ikone</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation>Pokaži avatare na spisku</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation>Avatari</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation>POkaži modove u spisku</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation>Modovi </translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation>Pokaži aktivnosti u spisku</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation>Aktivnosti</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation>Pokaži geolokaciju na spisku</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation>Geolokacija</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation>Pokaži ikonu kada kontakt sluša muziku</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation>Sada emituje</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation>Pokaži ikonu klijenta</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation>Klijenti</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation>sve ikone klijenta</translation>
-    </message>
-    <message>
-        <source>only highest priority client icon</source>
-        <translation>samo ikona klijenta sa visokim prioritetom</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation>Podešavanje avatara</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Veličina</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation>Prečnik ugla</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRosterMain</name>
-    <message>
-        <source>OptApplicationUI</source>
         <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
@@ -8872,22 +8866,6 @@ Kartice: %1</translation>
         <translation type="vanished">Ikone</translation>
     </message>
     <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">Pokaži geolokaciju na spisku</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">Geolokacija</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">POkaži modove u spisku</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">Modovi</translation>
-    </message>
-    <message>
         <source>Show avatars in roster</source>
         <translation type="vanished">Pokaži avatare na spisku</translation>
     </message>
@@ -8896,12 +8874,28 @@ Kartice: %1</translation>
         <translation type="vanished">Avatari</translation>
     </message>
     <message>
+        <source>Show moods in roster</source>
+        <translation type="vanished">POkaži modove u spisku</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="vanished">Modovi </translation>
+    </message>
+    <message>
         <source>Show activities in roster</source>
         <translation type="vanished">Pokaži aktivnosti u spisku</translation>
     </message>
     <message>
         <source>Activities</source>
         <translation type="vanished">Aktivnosti</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="vanished">Pokaži geolokaciju na spisku</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="vanished">Geolokacija</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
@@ -8941,54 +8935,201 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptRosterMuc</name>
+    <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation>Spisak uvek na vrhu</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation>Automatska veličina liste kontakata</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation>Levi klik za meni</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation>Pokaži menibar</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation>Onemogući skrolbar u prozoru aplikacije</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="vanished">Onemogući skrolbar</translation>
+        <translation>Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation>Omoguće avatar na vrhu spiska</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation>Omogući avatar spiska</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation>Auto sakrivanje spiska posle</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="vanished">Ikone</translation>
+        <translation>Ikone</translation>
     </message>
     <message>
-        <source>Status</source>
-        <translation type="vanished">Statrus</translation>
+        <source>Show geolocation in roster</source>
+        <translation>Pokaži geolokaciju na spisku</translation>
     </message>
     <message>
-        <source>Show icon of user client</source>
-        <translation type="vanished">Pokaži ikonu klijenta</translation>
+        <source>GeoLocation</source>
+        <translation>Geolokacija</translation>
     </message>
     <message>
-        <source>Clients</source>
-        <translation type="vanished">Klijenti</translation>
+        <source>Show moods in roster</source>
+        <translation>POkaži modove u spisku</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Pripadnosti</translation>
+        <source>Moods</source>
+        <translation>Modovi</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="vanished">Pokaži avatare na spisku</translation>
+        <translation>Pokaži avatare na spisku</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="vanished">Avatari</translation>
+        <translation>Avatari</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation>Pokaži aktivnosti u spisku</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation>Aktivnosti</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation>Pokaži ikonu kada kontakt sluša muziku</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation>Sada emituje</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation>Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation>Klijenti</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation>sve ikone klijenta</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation>samo ikona klijenta sa visokim prioritetom</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="vanished">Podešavanje avatara</translation>
+        <translation>Podešavanje avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Veličina</translation>
+        <translation>Veličina</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="vanished">Prečnik ugla</translation>
+        <translation>Prečnik ugla</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation>OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation>Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation>Ikone</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Statrus</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation>Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation>Klijenti</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation>Pripadnosti</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation>Pokaži avatare na spisku</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation>Avatari</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation>Podešavanje avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Veličina</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation>Prečnik ugla</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9938,7 +10079,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
+        <translation type="vanished">Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9966,7 +10107,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
+        <translation type="vanished">Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9983,10 +10124,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
         <translation>Čini da Psi zanemaruje sve ulazne „naslove“ — sistemske vesti na MSN-u, najave, itd.</translation>
-    </message>
-    <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10214,7 +10351,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
+        <translation type="vanished">Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10235,10 +10372,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10408,25 +10541,60 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabMessages</name>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Poruke</translation>
+        <translation>Poruke</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
+        <translation>Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
+        <translation>Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
+        <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
 </context>
 <context>
@@ -10483,6 +10651,37 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
+        <translation type="vanished">Opcije prozora sa spiskom</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="vanished">Čini da glavni prozor uvek bude ispred ostalih.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="vanished">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="vanished">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="vanished">Pokaži meni bar u prozoru aplikacija</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation>Spisak</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
         <translation>Opcije prozora sa spiskom</translation>
     </message>
     <message>
@@ -10503,37 +10702,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
-    <name>OptionsTabRosterMain</name>
-    <message>
-        <source>Roster</source>
-        <translation type="vanished">Spisak</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">Opcije prozora sa spiskom</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">Čini da glavni prozor uvek bude ispred ostalih.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="vanished">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="vanished">Pokaži meni bar u prozoru aplikacija</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Grupni razgovor</translation>
+        <translation>Grupni razgovor</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11090,6 +11266,10 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11726,11 +11906,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Poruka</translation>
+        <translation type="vanished">Poruka</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Razgovor</translation>
+        <translation type="vanished">Razgovor</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11754,11 +11934,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="vanished">&amp;Poruka</translation>
+        <translation>&amp;Poruka</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Razgovor</translation>
+        <translation>&amp;Razgovor</translation>
     </message>
 </context>
 <context>
@@ -12143,7 +12323,7 @@ Da li želite da ga odjavite?</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Loš odziv servera</translation>
+        <translation type="vanished">Loš odziv servera</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12163,7 +12343,7 @@ Da li želite da ga odjavite?</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Neispravno područje</translation>
+        <translation type="vanished">Neispravno područje</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12272,7 +12452,35 @@ Reason: %1.</source>
         <translation>Javni ključ: %1</translation>
     </message>
     <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12933,12 +13141,16 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Idi na&lt;http://psi-im.org/&gt; za više informacija o Psi.</translation>
+        <translation type="vanished">Idi na&lt;http://psi-im.org/&gt; za više informacija o Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Kompajlirano sa Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13257,6 +13469,10 @@ Migration is possible with Psi-0.15</source>
         <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -13463,7 +13679,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="vanished">Napredno</translation>
+        <translation>Napredno</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13989,11 +14205,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation>Greška konverzije</translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Greška konverzije</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -15060,6 +15272,10 @@ Thanks for your patience.</source>
         <source>%1 is now known as %2</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -16106,6 +16322,10 @@ Razlog: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Prečice u servisu dijaloga</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -16548,7 +16768,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="vanished">%1 (neaktivan)</translation>
+        <translation>%1 (neaktivan)</translation>
     </message>
 </context>
 <context>
@@ -16564,18 +16784,6 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source>About %1</source>
         <translation>O %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  JEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -16633,6 +16841,18 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>Unesi lozinku za %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16905,7 +17125,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>

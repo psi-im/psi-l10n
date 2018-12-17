@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="vanished">http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -172,6 +172,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished"></translation>
     </message>
@@ -232,15 +236,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Hãy gõ mật khẩu cho %1:</translation>
+        <translation type="vanished">Hãy gõ mật khẩu cho %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Hãy gõ mật khẩu của bạn:</translation>
+        <translation type="vanished">Hãy gõ mật khẩu của bạn:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Cần mật khẩu</translation>
+        <translation type="vanished">Cần mật khẩu</translation>
     </message>
 </context>
 <context>
@@ -1947,6 +1951,10 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
         <source>Desc:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -2392,7 +2400,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="vanished">Đóng thẻ</translation>
+        <translation>Đóng thẻ</translation>
     </message>
 </context>
 <context>
@@ -4449,23 +4457,23 @@ Lý do : %3</translation>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Tìm</translation>
+        <translation type="vanished">Tìm</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Tìm:</translation>
+        <translation type="vanished">Tìm:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Đón&amp;g</translation>
+        <translation type="vanished">Đón&amp;g</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Tìm</translation>
+        <translation type="vanished">&amp;Tìm</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Không tìm thấy chuỗi « %1 ».</translation>
+        <translation type="vanished">Không tìm thấy chuỗi « %1 ».</translation>
     </message>
 </context>
 <context>
@@ -4532,7 +4540,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Không thể tham gia nhóm chát.	Lý do : %1</translation>
+        <translation type="vanished">Không thể tham gia nhóm chát.	Lý do : %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4724,8 +4732,141 @@ Lý do : %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send &amp;Message</source>
-        <translation type="vanished">Gử&amp;i tin nhẳn</translation>
+        <translation>Gử&amp;i tin nhẳn</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation>Mở &amp;cửa sổ chát</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation>Gói thoại</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation>&amp;Chạy lệnh</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation>Đã &amp;ra</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation>Không có lý do</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation>Lý do đặt riêng</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation>&amp;Cấm</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation>Đổi vai trò</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation>Khách</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation>Người tham dự</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation>Điều tiết viên</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation>Thông t&amp;in người dùng</translation>
+    </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>tên hiệu mới</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>Lệnh</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation>Điều tiết viên</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation>Người tham dự</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation>Khách</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Điều tiết viên</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Người tham dự</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Khách</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Gửi t&amp;in nhắn</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -4774,119 +4915,6 @@ Lý do : %1</translation>
     <message>
         <source>User &amp;Info</source>
         <translation type="vanished">Thông t&amp;in người dùng</translation>
-    </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>tên hiệu mới</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>Lệnh</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserModel</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Điều tiết viên</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Người tham dự</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Khách</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Điều tiết viên</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Người tham dự</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Khách</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation>Gửi t&amp;in nhắn</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation>Mở &amp;cửa sổ chát</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation>Gói thoại</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation>&amp;Chạy lệnh</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation>Đã &amp;ra</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation>Không có lý do</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation>Lý do đặt riêng</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation>&amp;Cấm</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation>Đổi vai trò</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation>Khách</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation>Người tham dự</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation>Điều tiết viên</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation>Thông t&amp;in người dùng</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5594,6 +5622,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5634,7 +5681,15 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text of topic</source>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5711,12 +5766,20 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Lùi</translation>
     </message>
     <message>
         <source>&amp;Next</source>
         <translation>&amp;Tiếp</translation>
+    </message>
+    <message>
+        <source>&amp;Last</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5806,28 +5869,45 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>No matches were found</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Earliest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lastest</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="vanished">Trạng thái:</translation>
+        <translation>Trạng thái:</translation>
+    </message>
+    <message>
+        <source>Progress:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">OK</translation>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Lỗi</translation>
+        <translation>Lỗi</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5863,57 +5943,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Close</source>
         <translation>Đóng</translation>
-    </message>
-</context>
-<context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Import Wizard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6159,7 +6188,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6188,6 +6217,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Tên:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6452,7 +6485,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin shows the preview image for an image URL.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6700,6 +6733,30 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation>Quản trị</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7201,7 +7258,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Gần đây:</translation>
+        <translation type="vanished">Gần đây:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7209,19 +7266,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Máy:</translation>
+        <translation type="vanished">Máy:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Phòng:</translation>
+        <translation type="vanished">Phòng:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Tên hiệu :</translation>
+        <translation type="vanished">Tên hiệu :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mật khẩu :</translation>
+        <translation type="vanished">Mật khẩu :</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7229,11 +7286,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="vanished">Tên hiệu</translation>
+        <translation>Tên hiệu</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Mật khẩu</translation>
+        <translation>Mật khẩu</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7457,6 +7526,14 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>%1 sự việc được nhận rồi</translation>
+    </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7746,11 +7823,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Kiểm tra chính tả</translation>
+        <translation type="vanished">Kiểm tra chính tả</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Theo định dạng của tin nhẳn gốc</translation>
+        <translation type="vanished">Theo định dạng của tin nhẳn gốc</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7774,7 +7851,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Hiện bộ đếm ký tự</translation>
+        <translation type="vanished">Hiện bộ đếm ký tự</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -7951,6 +8028,14 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -8042,7 +8127,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>99999; </source>
-        <translation>99999; </translation>
+        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8061,8 +8146,16 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>99999</source>
-        <translation type="obsolete">99999</translation>
+        <translation type="unfinished">99999</translation>
     </message>
 </context>
 <context>
@@ -8116,31 +8209,31 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Dùng chế độ thẻ:</translation>
+        <translation type="vanished">Dùng chế độ thẻ:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>chỉ cho chát</translation>
+        <translation type="vanished">chỉ cho chát</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>chỉ cho MUC</translation>
+        <translation type="vanished">chỉ cho MUC</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>cho chát và MUC một cách riêng</translation>
+        <translation type="vanished">cho chát và MUC một cách riêng</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>cho MUC và chát cùng cửa sổ</translation>
+        <translation type="vanished">cho MUC và chát cùng cửa sổ</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[tùy chỉnh]</translation>
+        <translation type="vanished">[tùy chỉnh]</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Tự động thay đổi kích cỡ trường gõ chữ</translation>
+        <translation type="vanished">Tự động thay đổi kích cỡ trường gõ chữ</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8196,18 +8289,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8290,46 +8371,82 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Auto-resize text input field</source>
-        <translation type="vanished">Tự động thay đổi kích cỡ trường gõ chữ</translation>
+        <translation>Tự động thay đổi kích cỡ trường gõ chữ</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Đơn</translation>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation type="vanished">Dùng chế độ thẻ:</translation>
+        <translation>Dùng chế độ thẻ:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation type="vanished">chỉ cho chát</translation>
+        <translation>chỉ cho chát</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation type="vanished">chỉ cho MUC</translation>
+        <translation>chỉ cho MUC</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation type="vanished">cho chát và MUC một cách riêng</translation>
+        <translation>cho chát và MUC một cách riêng</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation type="vanished">cho MUC và chát cùng cửa sổ</translation>
+        <translation>cho MUC và chát cùng cửa sổ</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation type="vanished">[tùy chỉnh]</translation>
+        <translation>[tùy chỉnh]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Theo định dạng của tin nhẳn gốc</translation>
+        <translation>Theo định dạng của tin nhẳn gốc</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation type="vanished">Hiện bộ đếm ký tự</translation>
+        <translation>Hiện bộ đếm ký tự</translation>
     </message>
 </context>
 <context>
@@ -8462,11 +8579,18 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Cỡ</translation>
+        <translation type="vanished">Cỡ</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8573,6 +8697,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation>Cỡ</translation>
+    </message>
+    <message>
         <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8582,33 +8710,78 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OptRosterMain</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Cỡ</translation>
-    </message>
-</context>
-<context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Trạng thái</translation>
+        <translation>Trạng thái</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="vanished">Nhập hội</translation>
+        <translation>Nhập hội</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="vanished">Cỡ</translation>
+        <translation>Cỡ</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9556,11 +9729,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Bật để bắt lỗi chính tả</translation>
+        <translation type="vanished">Bật để bắt lỗi chính tả</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
+        <translation type="vanished">Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9588,7 +9761,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
+        <translation type="vanished">Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9828,7 +10001,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Psi mở chát trong cửa sổ thẻ.</translation>
+        <translation type="vanished">Psi mở chát trong cửa sổ thẻ.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9849,10 +10022,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tùy chọn này nhớ luôn bản ghi chát.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10024,30 +10193,58 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabInput</name>
     <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Bật để bắt lỗi chính tả</translation>
+        <translation>Bật để bắt lỗi chính tả</translation>
+    </message>
+    <message>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
     <message>
         <source>Messages</source>
-        <translation type="vanished">Tin nhẳn</translation>
+        <translation>Tin nhẳn</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Psi mở chát trong cửa sổ thẻ.</translation>
+        <translation>Psi mở chát trong cửa sổ thẻ.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
+        <translation>Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
+        <translation>Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
     </message>
 </context>
 <context>
@@ -10103,6 +10300,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Roster window options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10127,7 +10335,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="vanished">Chát nhóm</translation>
+        <translation>Chát nhóm</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10684,6 +10896,10 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11323,11 +11539,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Tin nhẳn</translation>
+        <translation type="vanished">Tin nhẳn</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chát</translation>
+        <translation type="vanished">Chát</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11351,11 +11567,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="vanished">&amp;Tin nhẳn</translation>
+        <translation>&amp;Tin nhẳn</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Chát</translation>
+        <translation>&amp;Chát</translation>
     </message>
 </context>
 <context>
@@ -11740,7 +11956,7 @@ Bạn vẫn muốn đăng xuất không?</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Đáp ứng máy phục vụ sai</translation>
+        <translation type="vanished">Đáp ứng máy phục vụ sai</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -11760,7 +11976,7 @@ Bạn vẫn muốn đăng xuất không?</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Miền không hợp lệ</translation>
+        <translation type="vanished">Miền không hợp lệ</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -11871,7 +12087,35 @@ Lý do : %1.</translation>
         <translation>Khoá công: %1</translation>
     </message>
     <message>
+        <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12500,12 +12744,16 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Hãy thăm trang chủ &lt;http://psi-im.org/&gt;để tìm thêm thông tin về Psi.</translation>
+        <translation type="vanished">Hãy thăm trang chủ &lt;http://psi-im.org/&gt;để tìm thêm thông tin về Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Biên dịch dùng Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12825,6 +13073,10 @@ Migration is possible with Psi-0.15</source>
         <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -13035,7 +13287,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="vanished">Cấp cao</translation>
+        <translation>Cấp cao</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13554,14 +13806,6 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <message>
         <source>File</source>
         <translation>Tập tin</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Offline</source>
@@ -14608,6 +14852,10 @@ Thanks for your patience.</source>
         <source>%1 is now known as %2</source>
         <translation>%1 giờ được gọi là %2</translation>
     </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15436,6 +15684,10 @@ Lý do : %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
@@ -15867,7 +16119,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="vanished">%1 (bị động)</translation>
+        <translation>%1 (bị động)</translation>
     </message>
 </context>
 <context>
@@ -15894,7 +16146,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 pb1.0
+        <translation type="vanished">%1 pb1.0
 
 Tiện ích để thao diễn thư viện XMPP Iris.
 
@@ -15961,6 +16213,18 @@ Hãy sửa chữa và thử lại.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Gõ mật khẩu cho %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16153,7 +16417,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Chào bạn. Cám ơn bạn đã tải về Psi.&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">Chào bạn. Cám ơn bạn đã tải về Psi.&lt;br&gt;&lt;br&gt;
 Chúng tôi mong bạn thích thú sử dụng Psi, đúng như chúng tôi đã thích thú tạo nó.
 &lt;br&gt;&lt;br&gt;Muốn tải về bản dịch khác, bộ biểu tượng hay phiên bản Psi mới, hãy thăm &lt;a href=&quot;http://psi-im.org&quot;&gt;Trang chủ Psi&lt;/a&gt; (rồi nhấn vào liên kết « Download »).
 &lt;br&gt;&lt;br&gt;Nếu bạn bắt lỗi, gặp khó khăn hoặc muốn nói chuyện với người dùng Psi thân thiện khác, hãy thăm &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Diễn đàn Psi&lt;/a&gt;.
@@ -16258,6 +16522,14 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Đóng góp bởi</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
