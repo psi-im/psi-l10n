@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Lead Widget Developer</source>
-        <translation>מפתח תוכנית תרשימית מוביל</translation>
+        <translation type="vanished">מפתח תוכנית תרשימית מוביל</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>מתאם שפה, סיוע מעורב</translation>
+        <translation type="vanished">מתאם שפה, סיוע מעורב</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -225,15 +225,27 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Lead Widget Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer and Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">אודות Psi</translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
