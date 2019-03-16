@@ -4151,6 +4151,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Store MUC private messages in history</source>
         <translation>Ukládat soukromé MUC zprávy v historii</translation>
     </message>
+    <message>
+        <source>Place current tab at the bottom row in multirow mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -7994,6 +7998,52 @@ Detaily: %1</translation>
     <message>
         <source>&lt;unset&gt;</source>
         <translation>&lt;unset&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation>[Zamrzl]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation>%1%2/s</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation>zbývá %1h%2m%3s</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation>[Hotovo]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>Odmítnout</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferDlg</name>
+    <message>
+        <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 File(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17192,18 +17242,6 @@ Opravte ho a zkuste to znovu.</translation>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Ahoj! Děkujeme za stažení Psi!
-Doufáme, že si jeho používání budete užívat stejně, jako si my užíváme jeho vytváření!
-&lt;br&gt;&lt;br&gt;Pro stažení jiné jazykové verze, sady ikon nebo nové verze Psi, je možné navštívit &lt;a href=&quot;http://psi-im.org&quot;&gt;domovskou stránku Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Pro nahlášení nalezené chyby nebo pro diskuzi s jinými uživateli Psi, je možné navštívit &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;diskusní fóra Psi&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi tým&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation>Můžeš si vybrat několik různých sad smajlíků a nastavit jim různé priority v konfiguračním dialogu.</translation>
     </message>
@@ -17295,9 +17333,9 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>Toto je poslední tip.
-&lt;br&gt;&lt;br&gt;Pokud chcete přispět vlastním &quot;Tipem dne&quot;, napište ho na &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;fóra Psi&lt;/a&gt; (nebo ho pošlete e-mailem některému z vývojářů) a my ho rádi přidáme do příštího vydání Psi.</translation>
+&lt;br&gt;&lt;br&gt;Pokud chcete přispět vlastním &quot;Tipem dne&quot;, napište ho na &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;fóra Psi&lt;/a&gt; (nebo ho pošlete e-mailem některému z vývojářů) a my ho rádi přidáme do příštího vydání Psi.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -17307,7 +17345,7 @@ Note: Some server may disable transport registration to users from different ser
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18742,17 +18780,6 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <source>Copy fingerprint</source>
         <translation>Kopírovat otisk klíče</translation>
-    </message>
-    <message>
-        <source>Any changes to private keys may lead to a crash!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Libotr according to its authors has a bug in reading private keys file procedure.
-And while it may work properly, additional modifications to the private keys list
-may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
-change to the private keys list.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

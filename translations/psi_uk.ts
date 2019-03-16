@@ -53,10 +53,6 @@
         <translation type="vanished">psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Автори</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>Колишній провідний розробник</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Розробка віджетів</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -147,10 +139,6 @@
     <message>
         <source>Language coordinator; Debian Packager</source>
         <translation type="vanished">Координатор перекладачів; супроводжуючий пакунку для Debian</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Мова, різні питання</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -226,16 +214,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
 &lt;br&gt;Дата поточного перекладу: 12.10.2014</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation>Перший автор</translation>
     </message>
@@ -246,15 +224,6 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     <message>
         <source>https://psi-im.org</source>
         <translation>https://psi-im.org</translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2019 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2019 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -329,21 +298,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Default</source>
         <translation>За замовчуванням</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">Введіть пароль для %1:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">Введіть ваш пароль:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">Введіть пароль</translation>
     </message>
 </context>
 <context>
@@ -4193,6 +4147,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Store MUC private messages in history</source>
         <translation>Зберігати історію приватних повідомлень у конференціях</translation>
     </message>
+    <message>
+        <source>Place current tab at the bottom row in multirow mode</source>
+        <translation>Розмістити поточну вкладку в нижньому ряду в багаторядковому режимі</translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4642,29 +4600,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Знайти</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Знайти:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Закрити</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Знайти</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Текст &apos;%1&apos; не знайдено.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4725,10 +4660,6 @@ Reason: %1</source>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>Помилка: Ви вже в кімнаті чи приєднуєтесь до неї!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Неможливо зайти до конференції. Причина: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -5039,93 +4970,6 @@ Reason: %1</source>
     <message>
         <source>Visitors</source>
         <translation>Відвідувачі</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Модератори</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Учасники</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Відвідувачі</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Надіслати &amp;повідомлення</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Відкрити вікно &amp;чату</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Голосовий виклик</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">Ви&amp;конати команду</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Вигнати</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Без причини</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Вказати причину</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Заблокувати</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Змінити роль</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Відвідувач</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Учасник</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Модератор</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">Змінити ранг</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">Відвідувач</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">Член</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">Адміністратор</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">Власник</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Інформація про &amp;користувача</translation>
     </message>
 </context>
 <context>
@@ -5787,10 +5631,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Set Keys</source>
         <translation>Комбінація клавіш</translation>
     </message>
-    <message>
-        <source>New Shortcut</source>
-        <translation type="vanished">Комбінація клавіш</translation>
-    </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
@@ -5896,10 +5736,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Set Groupchat Topic</source>
         <translation>Тема конференції</translation>
-    </message>
-    <message>
-        <source>Text of topic</source>
-        <translation type="vanished">Текст теми</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6169,73 +6005,6 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
 </context>
 <context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Import Wizard</source>
-        <translation type="vanished">Майстер імпорту</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Імпорт наліштувань та даних&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Копіювати існуючий профіль до нового каталогу, необхідно для роботи Psi+. Старий каталог з даними не буде видалено. В подальшому Ви зможете видалити його вручну.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Рекомендовано)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="vanished">Імпортувати профіль Psi</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Перемістити існуючий профіль до нового каталогу. Старий каталог буде видалено автоматично після завершення процесу імпортування.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="vanished">Імпортувати профіль та видалити стару копію</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Створити новий профіль Psi+. Старий профіль  не буде видалено, але він буде недоступний для вибору та роботи.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Не рекомендовано)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation type="vanished">Створити новий профіль</translation>
-    </message>
-</context>
-<context>
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
@@ -6475,10 +6244,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Iconset Details: %1</source>
         <translation>Опис набору іконок: %1</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6734,10 +6499,6 @@ The plugin has a number of simple settings that can help you:
         <translation>Отримано %1 байт зображення.</translation>
     </message>
     <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">Зображення %1 надіслано &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Автори: </translation>
     </message>
@@ -6795,12 +6556,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation>Дозволити збільшення</translation>
-    </message>
-    <message>
-        <source>This plugin shows the preview image for an image URL.
-</source>
-        <translation type="vanished">Цей плагин показує попередній перегляд зображення для URL з зображенням.
-</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7128,26 +6883,6 @@ Reason: %1</source>
         <translation>Запрошення погати в Гомоку</translation>
     </message>
     <message>
-        <source>white</source>
-        <translation type="vanished">білі</translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="vanished">чорні</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="vanished">Гравець %1 запрошує Вас
-пограти у шахи. Він обрав %2 фігури.</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">Гравець %1 запрошує Вас 
-пограти у Гомоку. Він обрав %2 фігури.</translation>
-    </message>
-    <message>
         <source>second</source>
         <comment>He wants to play second</comment>
         <translation>другий</translation>
@@ -7382,22 +7117,6 @@ Currently, the plugin is able to:
 * Detect &gt;quotes in messages
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
-Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="vanished">Цей плагін призначено для ефективної та зручної роботи з сервісом мікроблогів Juick.
-На даний момент плагін вміє:
- * Розфарбовувати @ніки, *тегі, #id_повідомлень в повідомленнях від боту juick@juick.com
- * Розпізнавати&gt; цитати в повідомленнях
- * Клікабельні @ніки, * теги, # id_повідомлень та інші керуючі елементи для підстановки їх в рядок введення.
-
-Примітка: для коректної роботи плагіну опція &quot;options.html.chat.render&quot; повинна бути &quot;true&quot;.</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
-Currently, the plugin is able to: 
-* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
-* Detect &gt;quotes in messages
-* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
-
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
         <translation>Даний плагін розроблено для ефективної та зручної роботи з сервісом мікроблогів Juick.
 На даний момент плагін вміє: 
@@ -7623,36 +7342,12 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Аккаунт:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">Історія:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>Інформація про кімнату</translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">Сервер:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">Кімната:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">Нік:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Пароль:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation>Запит історії чату</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="vanished">Закладки:</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7905,10 +7600,6 @@ Incoming event(s) from:</source>
         <translation>psimedia недоступна</translation>
     </message>
     <message>
-        <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="vanished">Бібліотека Psi media не завантажена або не ініціалізована.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
-    </message>
-    <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
@@ -8084,6 +7775,52 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation>[Очікування]</translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation>[Зупинилось]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation>%1%2/с</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation>залишилось %1г%2хв%3с</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation>[Не вдалося]</translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation>[Закінчено]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>Відхилити</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferDlg</name>
+    <message>
+        <source>Not selected</source>
+        <translation>Не вибрано</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>Надіслати</translation>
+    </message>
+    <message>
+        <source>%1 File(s)</source>
+        <translation>%1 Файл(и)</translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
@@ -8212,14 +7949,6 @@ Tags: %1</source>
         <translation>Включити віддалене керування</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">Перевірка орфографії</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Використовувати формат тексту відправника</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>Поодинокий клік викликає дію за умовчанням</translation>
     </message>
@@ -8238,10 +7967,6 @@ Tags: %1</source>
     <message>
         <source>Show subject line in events</source>
         <translation>Показувати рядок теми у подіях</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">Показувати лічильник символів</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8488,10 +8213,6 @@ Tags: %1</source>
         <translation>Використовувати іконку в треї</translation>
     </message>
     <message>
-        <source>Decorate windows</source>
-        <translation type="vanished">Декоровані вікна</translation>
-    </message>
-    <message>
         <source>Docklet</source>
         <translation>Трей</translation>
     </message>
@@ -8518,10 +8239,6 @@ Tags: %1</source>
     <message>
         <source>Data transfer base port:</source>
         <translation>Базовий порт для передачі даних:</translation>
-    </message>
-    <message>
-        <source>99999; </source>
-        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8602,80 +8319,12 @@ Tags: %1</source>
         <translation>Компактне вікно чатів</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">Використовувати режим вкладок:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">тільки дял чатів</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">тільки для конференцій</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">для чатів та конференцій</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">для чатів та конференцій в одному вікні</translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">все в одному вікні</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[Довільно]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="vanished">Показувати додаткові кнопки вкладок</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">Автоматично змінювати розмір поля введення</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Використовувати гарячі клавіші Alt-[0-9] для навігації по табам</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Дія за замовчуванням</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Повідомлення</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Чат</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation>Очищувати вікно чату</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">При закритті вікна</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">Через годину після закриття</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">Через день після закриття</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Ніколи</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="vanished">Показувати передогляд для посилань</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8983,129 +8632,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation>Тривалість, сек.</translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="vanished">Вікно ростера завжди нагорі</translation>
-    </message>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation type="vanished">Автоматично змінювати висоту ростера</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="vanished">Виклик меню лівою кнопкою миші</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation type="vanished">Показувати панель меню в ростері</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Відключає смугу прокрутки в вікні програми.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Відключити смугу прокрутки</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation type="vanished">Включити панель з аватаром зверху ростера</translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation type="vanished">Включити панель з аватаром</translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation type="vanished">Автоматично ховати ростер після</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation type="vanished">Іконки</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation type="vanished">Показувати аватари в ростері</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation type="vanished">Аватари</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">Показувати настрої в ростері</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">Настрої</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation type="vanished">Показувати зайняття в ростері</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation type="vanished">Зайняття</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">Показувати геолокацію в ростері</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">Геолокація</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation type="vanished">Показувати іконку мелодії, коли контакт слухає музику</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation type="vanished">Музика</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation type="vanished">Показувати іконки клієнтів</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation type="vanished">Клієнти</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation type="vanished">всі іконки клієнтів</translation>
-    </message>
-    <message>
-        <source>only highest priority client icon</source>
-        <translation type="vanished">тільки з найвищим пріоритетом</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation type="vanished">Налаштування аватарів</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Розмір</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation type="vanished">Радіус кутів</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
-        <translation type="vanished">секунд (0 - ніколи)</translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="vanished">pt</translation>
     </message>
 </context>
 <context>
@@ -10265,14 +9791,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Активує віддалений контроль вашого клієнту з інших місць</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Оберіть цю опцію, якщо ви хочете активувати перевірку правопису</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Якщо активовано, Psi буде відображати форматування тексту, яке було вказано відправником</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Оберіть цю опцію, якщо ви хочете, щоб обраний текст в повідомленні чи в розмові був автоматично скопійований до буферу обміну</translation>
     </message>
@@ -10295,10 +9813,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Примушує Psi розділяти строку теми на повідомлення. Не обирайте це, якщо ви хочете зберегти трохи місця на екрані.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Примушує Psi показувати лічильник символів. Оберіть це, якщо ви хочете знати наскільки довге ваше повідомлення. Корисне для SMS транспорту.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10447,10 +9961,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Загальні налаштунки</translation>
     </message>
     <message>
-        <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="vanished">Увімкнути або вимкнути декорації вікон для ростеру та чатів. Для чатів є спеціальний заголовок з кнопками закрити, сховати та разгорнути</translation>
-    </message>
-    <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Примушує Psi показувати іконку в системному лотку.</translation>
     </message>
@@ -10541,10 +10051,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Примушує Psi відкривати вікна розмов в компактному режимі.</translation>
     </message>
     <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Примушує Psi відкривати розмови у вікні із закладками.</translation>
-    </message>
-    <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Контролює, наскільки довго буде зберігатися у пам&apos;яті історія розмови.&lt;/P&gt;</translation>
     </message>
@@ -10563,10 +10069,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>P&gt;Ця опція вказує зберігати історію розмови завжди.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="vanished">Показує під посиланнями передогляд для деякого медіа контенту. Також можливо програвати аудіо та відео прямо в чаті.</translation>
     </message>
 </context>
 <context>
@@ -10844,26 +10346,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Roster</source>
         <translation>Ростер</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">Налаштування вікна списку контактів</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">Розміщувати основне вікно Psi поверх всії інших вікон.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">Автоматично змінювати розмір основного вікна для відображення всіх контактів.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="vanished">Зазвичай клік правою кнопкою миші по контакту відкриваєт контекстне меню. Позначте цю опцію, якщо хочете використовувати для цього ліву кнопку.</translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="vanished">Показувати меню у вікні програми.</translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -12107,14 +11589,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Дія за замовчуванням</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Повідомлення</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Чат</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>Дозволити смайли</translation>
     </message>
@@ -12524,10 +11998,6 @@ Do you want to log out ?</source>
         <translation>Немає належних механізмів для наданих налаштунків безпеки (SASL бібліотека дуже слаба, або аутентифікація відкритим текстом не активована)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Погана відповідь від сервера</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Ручна аутентифікація на сервері завершилася з помилкою</translation>
     </message>
@@ -12542,10 +12012,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Невірний механізм SASL</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Недійсне ім&apos;я</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -13023,14 +12489,6 @@ Reason: %1.</source>
         <translation>Показати файл з інструкціями</translation>
     </message>
     <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Інструкція (онлайн)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Інструкція (онлайн)</translation>
-    </message>
-    <message>
         <source>Wiki (Online)</source>
         <translation>Вікіпедія (онлайн)</translation>
     </message>
@@ -13358,10 +12816,6 @@ Reason: %1.</source>
     <message>
         <source>Options:</source>
         <translation>Параметри:</translation>
-    </message>
-    <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Відвідайте &lt;http://psi-im.org/&gt; для отримання інформації про Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -14429,14 +13883,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>File</source>
         <translation>Файл</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="vanished">Помилка перетворення</translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="vanished">Було знайдено файли налаштувань старої версії Psi, але переконвертувати їх для використання з поточною версією не вдалося. Переконайтесь, що ви маєте необхідні права доступу до файлів та що не запущено іншу копію програми Psi. Потім спробуйте ще раз.</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -17340,18 +16786,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Доброго дня! Дякуємо за те, що ви обрали Psi!
-Ми сподіваємося, що вам сподобається користуватися ним, як нам подобалося створювати його!
-&lt;br&gt;&lt;br&gt;Якщо ви хочете завантажити іншу мову, набір піктограм чи нову версію Psi, тоді завітайте на &lt;a href=&quot;http://psi-im.org&quot;&gt;домашню сторінку Psi &lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форум Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation>Ви можете обрати різні набори піктограм і призначити їм пріоритети, використовуючи діалог налаштунків.</translation>
     </message>
@@ -17446,9 +16880,9 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>Це остання порада. 
-&lt;br&gt;&lt;br&gt;Якщо ви хочете надати свою пораду, будь ласка, опублікуйте ії на &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;форумі Psi&lt;/a&gt; (або надішліть поштою до одного з розробників), і ми неодмінно долучимо ії в наступному релізі.</translation>
+&lt;br&gt;&lt;br&gt;Якщо ви хочете надати свою пораду, будь ласка, опублікуйте ії на &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумі Psi&lt;/a&gt; (або надішліть поштою до одного з розробників), і ми неодмінно долучимо ії в наступному релізі.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -17458,12 +16892,12 @@ Note: Some server may disable transport registration to users from different ser
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>Доброго дня! Дякуємо за те, що ви обрали Psi!
 Ми сподіваємося, що вам сподобається користуватися ним, як нам подобалося створювати його!
 &lt;br&gt;&lt;br&gt;Якщо ви хочете завантажити іншу мову, набір піктограм чи нову версію Psi, тоді завітайте на &lt;a href=&quot;https://psi-im.org&quot;&gt;домашню сторінку Psi&lt;/a&gt; .
-&lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форум Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форум Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
@@ -17569,28 +17003,8 @@ We hope that you will enjoy using it as we have enjoyed making it!
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search: </source>
-        <translation type="vanished">Пошук: </translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation>Врахувати &amp;регістр</translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">Перша сторінка</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">Попередня сторінка</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">Наступна сторінка</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">Остання сторінка</translation>
     </message>
     <message>
         <source>Search</source>
@@ -18183,17 +17597,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Цитувати</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-</context>
-<context>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
@@ -18527,13 +17930,6 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation>Ні</translation>
-    </message>
-</context>
-<context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="vanished">Менеджер ключів QCA завантажується довше ніж завжди. Можливо відбулося зависання &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Зверніть увагу, що для входу з допомогою функцій TLS та OpenPGP, потрібен менеджер ключів.</translation>
     </message>
 </context>
 <context>
@@ -18921,20 +18317,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Копіювати відбиток</translation>
     </message>
-    <message>
-        <source>Any changes to private keys may lead to a crash!</source>
-        <translation>Будь-які зміни у приватних ключах можуть призвести до аварії!</translation>
-    </message>
-    <message>
-        <source>Libotr according to its authors has a bug in reading private keys file procedure.
-And while it may work properly, additional modifications to the private keys list
-may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
-change to the private keys list.</source>
-        <translation>Libotr, зі слів авторів, має баг при читанні файлу приватних ключів.
-І хоча вона може працювати належним чином, додаткові зміни у списку приватних ключів
-можуть призвести до аварії. Деінціалізація libotr/плагіну також розглядається
-як зміна списку приватних ключів.</translation>
-    </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
@@ -19169,10 +18551,6 @@ change to the private keys list.</source>
     <message>
         <source>&gt;quote</source>
         <translation>&gt;цитата</translation>
-    </message>
-    <message>
-        <source>http://link</source>
-        <translation type="vanished">http://посилання</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
