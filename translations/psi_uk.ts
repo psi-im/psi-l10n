@@ -242,6 +242,46 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Координатор мови, порт macOS, різноманітна допомога</translation>
     </message>
     <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="vanished">Засновник, автор патчів та колишній супроводжуючий пакетів MS Windows</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="vanished">Засновник, автор патчів та колишній дизайнер</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="vanished">Провідний автор патчів, плагинів; колишній супроводжуючий пакетів macOS</translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="vanished">Координатор перекладів; автор патчів; супроводжуючий пакетів Debian, Ubuntu, MS Windows та macOS</translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="vanished">Автор патчів, плагинів; супроводжуючий пакетів MS Windows</translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="vanished">Автор патчів, плагинів; колишній супроводжуючий пакетів Fedora</translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="vanished">Автор патчів та колишній супроводжуючий пакетів Ubuntu</translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="vanished">колишній супроводжуючий пакетів Ubuntu</translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="vanished">колишній супроводжуючий пакетів Mandriva Linux</translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="vanished">Автор патчів та колишній перекладач на російську мову</translation>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation type="unfinished">Про Psi+</translation>
     </message>
@@ -7804,6 +7844,10 @@ Details: %1</source>
         <source>Reject</source>
         <translation>Відхилити</translation>
     </message>
+    <message>
+        <source>Description for</source>
+        <translation>Опис для</translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -7818,6 +7862,10 @@ Details: %1</source>
     <message>
         <source>%1 File(s)</source>
         <translation>%1 Файл(и)</translation>
+    </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

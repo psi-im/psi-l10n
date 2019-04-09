@@ -8060,6 +8060,10 @@ Részletek: %1</translation>
         <source>Reject</source>
         <translation>Elutasítás</translation>
     </message>
+    <message>
+        <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8073,6 +8077,10 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receive</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
