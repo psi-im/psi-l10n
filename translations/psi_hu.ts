@@ -13915,6 +13915,10 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Biztosan visszaállítod alapértékre ezeket a beállításokat, amik ezzel kezdődnek: %1?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

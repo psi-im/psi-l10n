@@ -13953,6 +13953,10 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Wirklich alle Optionen zurücksetzen, die mit %1. beginnen?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

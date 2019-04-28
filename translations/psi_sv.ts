@@ -13412,6 +13412,10 @@ Vill du aktivera den sessionen nu?</translation>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

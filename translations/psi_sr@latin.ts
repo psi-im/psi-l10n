@@ -13812,6 +13812,10 @@ Would you like to activate that session now?</source>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Stvarno obnavljate sve opcije počev sa %1 na podrazumevane vrednosit?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

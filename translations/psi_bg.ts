@@ -13743,6 +13743,10 @@ Would you like to activate that session now?</source>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Наистина ли ресетиране на всички настройки започващи с %1. с стойностите по подразбиране?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

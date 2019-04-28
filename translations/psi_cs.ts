@@ -13886,6 +13886,10 @@ Chceš aktivovat tuto relaci?</translation>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Opravdu vynulovat.možnosti začínající %1 na tovární nastavení?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

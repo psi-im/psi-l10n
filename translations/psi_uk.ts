@@ -7865,7 +7865,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати</translation>
     </message>
 </context>
 <context>
@@ -13437,6 +13437,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Чи дійсно скинути всі опції, починаючи з %1 до значення за замовчуванням?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation>Фільтр опцій</translation>
     </message>
 </context>
 <context>

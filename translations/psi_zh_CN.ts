@@ -13953,6 +13953,10 @@ Would you like to activate that session now?</source>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>确定重置所有开头为 %1 的选项到默认值?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>

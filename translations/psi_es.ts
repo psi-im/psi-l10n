@@ -13896,6 +13896,10 @@ Quieres activar esa sesión ahora?</translation>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>¿Restablecer todas las opciones que comienzan con %1 a su valor por defecto?</translation>
     </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiPopup</name>
