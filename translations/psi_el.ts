@@ -7577,10 +7577,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7594,6 +7590,26 @@ Details: %1</source>
     </message>
     <message>
         <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 remaining</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7613,6 +7629,29 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory to save files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferItem</name>
+    <message>
+        <source>Transferred: %1/%2 bytes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12516,10 +12555,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12530,6 +12565,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14628,6 +14667,34 @@ Thanks for your patience.</source>
     <message>
         <source>Any Language</source>
         <translation>Οποιαδήποτε Γλώσσα</translation>
+    </message>
+    <message>
+        <source>Not started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prepare local offer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IQ unacknowledged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transferring</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

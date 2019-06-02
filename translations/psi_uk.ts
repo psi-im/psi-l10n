@@ -7829,10 +7829,6 @@ Details: %1</source>
         <translation>%1%2/с</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation>залишилось %1г%2хв%3с</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation>[Не вдалося]</translation>
     </message>
@@ -7847,6 +7843,26 @@ Details: %1</source>
     <message>
         <source>Description for</source>
         <translation>Опис для</translation>
+    </message>
+    <message>
+        <source>%1d</source>
+        <translation>%1. {1д?}</translation>
+    </message>
+    <message>
+        <source>%1h</source>
+        <translation>%1. {1г?}</translation>
+    </message>
+    <message>
+        <source>%1m</source>
+        <translation>%1. {1м?}</translation>
+    </message>
+    <message>
+        <source>%1s</source>
+        <translation>%1. {1с?}</translation>
+    </message>
+    <message>
+        <source>%1 remaining</source>
+        <translation>%1 залишилося</translation>
     </message>
 </context>
 <context>
@@ -7866,6 +7882,29 @@ Details: %1</source>
     <message>
         <source>Receive</source>
         <translation>Отримати</translation>
+    </message>
+    <message>
+        <source>Open Files</source>
+        <translation>Відкрити Файли</translation>
+    </message>
+    <message>
+        <source>Directory to save files</source>
+        <translation>Каталог для збереження файлів</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>Зберегти як</translation>
+    </message>
+    <message>
+        <source>All files (*)</source>
+        <translation>Усі файли (*)</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferItem</name>
+    <message>
+        <source>Transferred: %1/%2 bytes</source>
+        <translation>Передано: %1/%2 байт</translation>
     </message>
 </context>
 <context>
@@ -12859,7 +12898,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation>Psi+ - мультиплатформовий XMPP-клієнт для досвідчених користувачів</translation>
+        <translation type="vanished">Psi+ - мультиплатформовий XMPP-клієнт для досвідчених користувачів</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -12873,6 +12912,10 @@ Reason: %1.</source>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation>Відвідайте &lt;https://psi-im.org/&gt; для отримання інформації про Psi.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <translation>Psi - мультиплатформовий XMPP-клієнт для досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -15017,6 +15060,34 @@ Thanks for your patience.</source>
     <message>
         <source>Any Language</source>
         <translation>Будь-яка Мова</translation>
+    </message>
+    <message>
+        <source>Not started</source>
+        <translation>Не розпочато</translation>
+    </message>
+    <message>
+        <source>Prepare local offer</source>
+        <translation>Підготувати локальний запит</translation>
+    </message>
+    <message>
+        <source>IQ unacknowledged</source>
+        <translation>IQ невідоме</translation>
+    </message>
+    <message>
+        <source>Waiting accept</source>
+        <translation>Очікування підтвердження</translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation>Прийнято</translation>
+    </message>
+    <message>
+        <source>Connecting</source>
+        <translation>З&apos;єднання</translation>
+    </message>
+    <message>
+        <source>Transferring</source>
+        <translation>Передача</translation>
     </message>
 </context>
 <context>
