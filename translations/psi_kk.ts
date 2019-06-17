@@ -4198,7 +4198,15 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Сұхбат</translation>
+        <translation type="vanished">Сұхбат</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7747,6 +7755,10 @@ Details: %1</source>
     </message>
     <message>
         <source>%1 remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

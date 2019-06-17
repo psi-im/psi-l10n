@@ -4374,7 +4374,15 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Діалог</translation>
+        <translation type="vanished">Діалог</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7863,6 +7871,10 @@ Details: %1</source>
     <message>
         <source>%1 remaining</source>
         <translation>%1 залишилося</translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
+        <translation>Відкрити папку призначення</translation>
     </message>
 </context>
 <context>

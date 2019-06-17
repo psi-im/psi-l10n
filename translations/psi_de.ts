@@ -4369,7 +4369,15 @@ ausgehende TCP-Verbindungen erlaubt sind.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8102,6 +8110,10 @@ Details: %1</translation>
     </message>
     <message>
         <source>%1 remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

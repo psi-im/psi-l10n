@@ -4187,7 +4187,11 @@ että ulospäin lähtevät TCP-yhteydet on sallittu.</translation>
 <context>
     <name>FileShareDlg</name>
     <message>
-        <source>Dialog</source>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7662,6 +7666,10 @@ Details: %1</source>
     </message>
     <message>
         <source>%1 remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

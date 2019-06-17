@@ -4369,7 +4369,15 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Диалог</translation>
+        <translation type="vanished">Диалог</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7858,6 +7866,10 @@ Details: %1</source>
     <message>
         <source>%1 remaining</source>
         <translation>%1 осталось</translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
+        <translation>Открыть папку загрузок</translation>
     </message>
 </context>
 <context>
@@ -15064,11 +15076,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Подготовка локального предложения</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный IQ</translation>
     </message>
     <message>
         <source>Waiting accept</source>

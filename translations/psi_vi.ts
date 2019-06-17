@@ -4227,7 +4227,15 @@ hãy kiểm tra kết nối kiểu TCP gửi đi được cho phép không.</tra
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Hộp thoại</translation>
+        <translation type="vanished">Hộp thoại</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7796,6 +7804,10 @@ Details: %1</source>
     </message>
     <message>
         <source>%1 remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
