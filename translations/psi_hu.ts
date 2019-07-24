@@ -1019,7 +1019,7 @@ Oka: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Off The Record csevegés bekapcsolása.
+        <translation type="vanished">Off The Record csevegés bekapcsolása.
 Ha engedélyezett, a szerver nem
 naplóz ennél az ismerősnél.</translation>
     </message>
@@ -1545,6 +1545,17 @@ A JID-ek kivétellistájának 2 beállítása van:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2030,6 +2041,14 @@ Biztosan be akarod zárni az ablakot?</translation>
     <message>
         <source>Add to dictionary</source>
         <translation>Szótárhoz adás</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4078,7 +4097,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Fül elrejtése beszélgetésablak bezárásakor</translation>
+        <translation type="vanished">Fül elrejtése beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4349,6 +4368,24 @@ engedélyezve vannak-e.</translation>
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5591,48 +5628,48 @@ Vesztettél.</translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Nincs-mentés állapot megváltozott ennél %1</translation>
+        <translation type="vanished">Nincs-mentés állapot megváltozott ennél %1</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>%1 fiók beállításai megváltoztak</translation>
+        <translation type="vanished">%1 fiók beállításai megváltoztak</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>%1 fiók megosztott állapota megváltozott</translation>
+        <translation type="vanished">%1 fiók megosztott állapota megváltozott</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>%1 tulajdonságai megváltoztak</translation>
+        <translation type="vanished">%1 tulajdonságai megváltoztak</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - bejövő e-mail!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - bejövő e-mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Hangfájl kiválasztása</translation>
+        <translation type="vanished">Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Hang (*.wav)</translation>
+        <translation type="vanished">Hang (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Program kiválasztása</translation>
+        <translation type="vanished">Program kiválasztása</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Gmail ismerős letiltása</translation>
+        <translation type="vanished">Gmail ismerős letiltása</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Szerzők: </translation>
+        <translation type="vanished">Szerzők: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Gmailbox-od beérkező leveleiről értesít.
+        <translation type="vanished">Gmailbox-od beérkező leveleiről értesít.
 Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerveroldali szűrést használsz, nem biztos, hogy minden új üzenetről értesít.</translation>
     </message>
 </context>
@@ -7275,6 +7312,25 @@ torpedóra. Ezt szeretné: %2.</translation>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8147,6 +8203,13 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8711,7 +8774,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>A beszélgetésablak tartalmának törlése</translation>
+        <translation type="vanished">A beszélgetésablak tartalmának törlése</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8738,19 +8801,11 @@ Címkék: %1</translation>
         <translation>&amp;Beszélgetés</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8909,6 +8964,18 @@ Címkék: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Karakterszámláló megjelenítése</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Fülek</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Középső egérgomb szerepe füleken:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Dupla kattintás szerepe füleken:</translation>
     </message>
 </context>
 <context>
@@ -9822,101 +9889,101 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Támogatott fiókok:</translation>
+        <translation type="vanished">Támogatott fiókok:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Nincsenek támogatott fiókok!</translation>
+        <translation type="vanished">Nincsenek támogatott fiókok!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Fiók beállítások</translation>
+        <translation type="vanished">Fiók beállítások</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver 
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver 
 értesítést küld az olvasatlan e-mailekről.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>E-mail értesítések</translation>
+        <translation type="vanished">E-mail értesítések</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver menti
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver menti
 a Google Talk beszélgetéseket a szerveren;
 ha az érték &quot;Hamis/False&quot;, egyetlen beszélgetés
 sem lesz naplózva.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Üzenetarchiváló</translation>
+        <translation type="vanished">Üzenetarchiváló</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver
 automatikusan hozzáadja az e-mail címzettjét
 általában a felhasználó címlistájához.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Javaslatok automatikus elfogadása</translation>
+        <translation type="vanished">Javaslatok automatikus elfogadása</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Ha engedélyezett, minden kliensről, amiről
+        <translation type="vanished">Ha engedélyezett, minden kliensről, amiről
 ugyanaz a felhasználó van bejelentkezve, ugyanazt
 az állapotüzenetet fogja jelenteni.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Megosztott állapotok engedélyezése</translation>
+        <translation type="vanished">Megosztott állapotok engedélyezése</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>A Google Talk szerver kikapcsolja a szerveroldali
+        <translation type="vanished">A Google Talk szerver kikapcsolja a szerveroldali
 naplózást az egyéni beszélgetéseknél és
 értesítéseket küld.
 Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Off The Record (OTR)-beszélgetések bekapcsolása</translation>
+        <translation type="vanished">Off The Record (OTR)-beszélgetések bekapcsolása</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Be kell kapcsolni az &quot;E-mail értesítés&quot; opciót!</translation>
+        <translation type="vanished">Be kell kapcsolni az &quot;E-mail értesítés&quot; opciót!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>E-mail értesítések beállításai</translation>
+        <translation type="vanished">E-mail értesítések beállításai</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Összes olvasatlan üzenetet mutatása</translation>
+        <translation type="vanished">Összes olvasatlan üzenetet mutatása</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Csak az új üzenetek mutatása</translation>
+        <translation type="vanished">Csak az új üzenetek mutatása</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Program indítása:</translation>
+        <translation type="vanished">Program indítása:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10600,19 +10667,19 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne őrizze meg a naplót.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ne őrizze meg a naplót.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Napló megőrzése 1 órán át, az ablak bezárása után.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Napló megőrzése 1 órán át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Napló megőrzése 1 napon át, az ablak bezárása után.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Napló megőrzése 1 napon át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -12740,6 +12807,10 @@ Oka: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13238,6 +13309,10 @@ Oka: %1.</translation>
     <message>
         <source>Templates</source>
         <translation type="vanished">Minták</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -17312,54 +17387,54 @@ Javítsd és próbáld újra.</translation>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Hasznos tippek</translation>
+        <translation type="vanished">Hasznos tippek</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Tippek megjelenítése indításkor</translation>
+        <translation type="vanished">Tippek megjelenítése indításkor</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Előző</translation>
+        <translation type="vanished">&amp;Előző</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Következő</translation>
+        <translation type="vanished">&amp;Következő</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation type="vanished">&amp;Bezárás</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Akár több ikonkészletet is kiválaszthatsz, és társíthatod őket prioritásokhoz a beállítások alatt.</translation>
+        <translation type="vanished">Akár több ikonkészletet is kiválaszthatsz, és társíthatod őket prioritásokhoz a beállítások alatt.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17371,7 +17446,7 @@ Javítsd és próbáld újra.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Sokféle billentyűkombinációt használhatsz a beszélgetések közben:&lt;br&gt;
+        <translation type="vanished">Sokféle billentyűkombinációt használhatsz a beszélgetések közben:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter az üzenet elküldéséhez&lt;/li&gt;
 &lt;li&gt;Ctrl+M egy sortörés hozzáadásához&lt;/li&gt;
@@ -17391,7 +17466,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Ezeket a parancsokat tudod használni a beszélgetéseknél:
+        <translation type="vanished">Ezeket a parancsokat tudod használni a beszélgetéseknél:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; az ablak tartalmát törli&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;üzenet&amp;gt;&quot; egyes szám harmadik személy használata&lt;/li&gt;
@@ -17402,68 +17477,38 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
+        <translation type="vanished">Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Épp most váltottál Gadu-Gaduról vagy Trillianról, és hiányoznak a hangulatjelek? Ne félj, vannak itt is! Nézz körül a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; címen egy raklapnyi hangulatjelért!</translation>
+        <translation type="vanished">Épp most váltottál Gadu-Gaduról vagy Trillianról, és hiányoznak a hangulatjelek? Ne félj, vannak itt is! Nézz körül a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; címen egy raklapnyi hangulatjelért!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</translation>
+        <translation type="vanished">If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Ez a VÉGSŐ tipp.
+        <translation type="vanished">Ez a VÉGSŐ tipp.
 &lt;br&gt;&lt;br&gt;Ha szeretnél saját tippeket alkotni, írd meg a &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Fórumon&lt;/a&gt; (vagy küldd el egy fejlesztőnek), és szívesen betesszük a következő verzióba.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Köszönhető</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Köszönhető</translation>
     </message>
 </context>
 <context>
@@ -17744,51 +17789,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-mail</translation>
+        <translation type="vanished">E-mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Feladó:</translation>
+        <translation type="vanished">Feladó:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Tárgy:</translation>
+        <translation type="vanished">Tárgy:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Fiók:</translation>
+        <translation type="vanished">Fiók:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Levél megnyitása a böngészőben</translation>
+        <translation type="vanished">Levél megnyitása a böngészőben</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Postaláda megnyitása</translation>
+        <translation type="vanished">Postaláda megnyitása</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Előző</translation>
+        <translation type="vanished">Előző</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Következő</translation>
+        <translation type="vanished">Következő</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation type="vanished">Bezárás</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation type="vanished">&amp;Bezárás</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-mail</translation>
+        <translation type="vanished">[%1/%2] E-mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Megnyitás a böngészőben</translation>
+        <translation type="vanished">Megnyitás a böngészőben</translation>
     </message>
 </context>
 <context>

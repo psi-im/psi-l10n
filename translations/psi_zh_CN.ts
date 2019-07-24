@@ -1040,7 +1040,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录。</translation>
+        <translation type="vanished">当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录。</translation>
     </message>
 </context>
 <context>
@@ -1560,6 +1560,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2045,6 +2056,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>添加到字典</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4114,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>当关闭聊天窗口时，隐藏标签</translation>
+        <translation type="vanished">当关闭聊天窗口时，隐藏标签</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4173,7 +4192,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation>多行选项卡模式将当前选项卡放在底排</translation>
     </message>
 </context>
 <context>
@@ -4205,7 +4224,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Send File</source>
-        <translation>发送档案</translation>
+        <translation>发送文件</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -4358,10 +4377,44 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>分享文件</translation>
     </message>
     <message>
         <source>Share</source>
+        <translation>分享</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Bits of binary download failed</source>
+        <translation type="vanished">二进制位数下载失败</translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT uri</source>
+        <translation type="vanished">无效Jingle-FT链接</translation>
+    </message>
+    <message>
+        <source>Unexpected content add</source>
+        <translation type="vanished">意外内容添加</translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="vanished">Jingle下载失败</translation>
+    </message>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5490,48 +5543,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>未对联系%1的状态进行更改</translation>
+        <translation type="vanished">未对联系%1的状态进行更改</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>帐户%1的设置态是变化的</translation>
+        <translation type="vanished">帐户%1的设置态是变化的</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>帐户%1的共享状态是更新的</translation>
+        <translation type="vanished">帐户%1的共享状态是更新的</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>未对联系%1的属性进行更改</translation>
+        <translation type="vanished">未对联系%1的属性进行更改</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>选择一个音频文件</translation>
+        <translation type="vanished">选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>音频文件(*.wav)</translation>
+        <translation type="vanished">音频文件(*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>选择程序</translation>
+        <translation type="vanished">选择程序</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>阻止gmail联系人</translation>
+        <translation type="vanished">阻止gmail联系人</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>在您的gmailbox里显示新信息的通知。
+        <translation type="vanished">在您的gmailbox里显示新信息的通知。
 注:插件只检查您的gmailbox里的收件箱文件夹里的新邮件。当使用服务器端的邮件过滤时，可能不会通知您所有的新邮件.</translation>
     </message>
 </context>
@@ -6850,7 +6903,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Sales</source>
-        <translation type="unfinished"></translation>
+        <translation>销售</translation>
     </message>
     <message>
         <source>Security</source>
@@ -7066,6 +7119,25 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Email: </source>
         <translation>邮件:</translation>
+    </message>
+</context>
+<context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished">Jingle下载失败</translation>
     </message>
 </context>
 <context>
@@ -7811,10 +7883,6 @@ Details: %1</source>
         <translation>%1%2/s</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">剩下 %1h%2m%3s</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation>[失败]</translation>
     </message>
@@ -7832,27 +7900,27 @@ Details: %1</source>
     </message>
     <message>
         <source>%1d</source>
-        <translation type="unfinished">%1. {1d?}</translation>
+        <translation>%1. {1d?}</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished">%1. {1h?}</translation>
+        <translation>%1. {1h?}</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished">%1. {1m?}</translation>
+        <translation>%1. {1m?}</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished">%1. {1s?}</translation>
+        <translation>%1. {1s?}</translation>
     </message>
     <message>
         <source>%1 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>剩下 %1</translation>
     </message>
     <message>
         <source>Open Destination Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>打开目标文件夹</translation>
     </message>
 </context>
 <context>
@@ -7875,26 +7943,26 @@ Details: %1</source>
     </message>
     <message>
         <source>Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <source>Directory to save files</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文件的文件夹</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>储存为</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">所有档案 (*)</translation>
+        <translation>所有档案 (*)</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>已发送: %1/%2 字节</translation>
     </message>
 </context>
 <context>
@@ -7902,6 +7970,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>平铺</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8400,7 +8475,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>删除对话窗口内容</translation>
+        <translation type="vanished">删除对话窗口内容</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8412,19 +8487,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>当对话窗口已被关闭(&amp;W)</translation>
+        <translation type="vanished">当对话窗口已被关闭(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>对话窗口已被关闭一小时后(&amp;O)</translation>
+        <translation type="vanished">对话窗口已被关闭一小时后(&amp;O)</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>对话窗口已被关闭一天后(&amp;d)</translation>
+        <translation type="vanished">对话窗口已被关闭一天后(&amp;d)</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>从不(&amp;N)</translation>
+        <translation type="vanished">从不(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8522,7 +8605,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>OptInputUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptInputUI</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -8582,6 +8665,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>显示字符计数器</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">标签</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">在标签上单击鼠标中键的动作:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">在标签上双击鼠标中键的动作:</translation>
     </message>
 </context>
 <context>
@@ -8853,7 +8948,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation type="unfinished"></translation>
+        <translation>如联系人状态是在线、离开和其他时显示图标</translation>
     </message>
     <message>
         <source>Status</source>
@@ -8901,7 +8996,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>头像与名单的左边缘对齐。 否则向右。</translation>
     </message>
     <message>
         <source>Left aligned</source>
@@ -9375,93 +9470,93 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>支持帐户:</translation>
+        <translation type="vanished">支持帐户:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>没有支持的帐户</translation>
+        <translation type="vanished">没有支持的帐户</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>设置帐户</translation>
+        <translation type="vanished">设置帐户</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>如果设置为“真”，服务器将发送未读电子邮件通知</translation>
+        <translation type="vanished">如果设置为“真”，服务器将发送未读电子邮件通知</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>邮件通知</translation>
+        <translation type="vanished">邮件通知</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation>如果设置为“真”，服务器将保存谷歌聊天；如果设置为“假”，则没有对话日志记录。</translation>
+        <translation type="vanished">如果设置为“真”，服务器将保存谷歌聊天；如果设置为“假”，则没有对话日志记录。</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>信息归档</translation>
+        <translation type="vanished">信息归档</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>如果设置为“真”，服务器将邮件通常联系人加入用户的花名册</translation>
+        <translation type="vanished">如果设置为“真”，服务器将邮件通常联系人加入用户的花名册</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>自动接收建议</translation>
+        <translation type="vanished">自动接收建议</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>作为同一个用户报告相同状态消息，启用多个应用程序签署</translation>
+        <translation type="vanished">作为同一个用户报告相同状态消息，启用多个应用程序签署</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>启用共享状态</translation>
+        <translation type="vanished">启用共享状态</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>Google Talk服务器禁止服务器端
+        <translation type="vanished">Google Talk服务器禁止服务器端
 的个体对话登入以及
 发送通告。
 使用请启用“信息归档”选项！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>禁用聊天记录</translation>
+        <translation type="vanished">禁用聊天记录</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>启用“邮件通知”选项</translation>
+        <translation type="vanished">启用“邮件通知”选项</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>设置邮件通知</translation>
+        <translation type="vanished">设置邮件通知</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>显示所有未读的信息</translation>
+        <translation type="vanished">显示所有未读的信息</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>只显示新信息</translation>
+        <translation type="vanished">只显示新信息</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>启动程序:</translation>
+        <translation type="vanished">启动程序:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -9799,7 +9894,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>发送的信息的号码之颜色</translation>
     </message>
     <message>
         <source>Default plugin action</source>
@@ -9811,15 +9906,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>条件</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>满足规则时显示信息</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>接到的信息的号码之颜色</translation>
     </message>
 </context>
 <context>
@@ -10125,19 +10220,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项不会保留对话历史。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项不会保留对话历史。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项在对话历史删除前会保留 1 小时。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项在对话历史删除前会保留 1 小时。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项在对话历史删除前会保留 1 天。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项在对话历史删除前会保留 1 天。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项会永远保留对话纪录。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项会永远保留对话纪录。&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -10322,7 +10417,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
+        <translation>允许将句子中的第一个字母替换为大写字母</translation>
     </message>
 </context>
 <context>
@@ -10340,11 +10435,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabMsgCommon</name>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"></translation>
+        <translation>信息部分的普通设置</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -12228,6 +12323,10 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation>异常的请求</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation>打开要分享的文件</translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12681,7 +12780,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation>放送文件</translation>
+        <translation>发送文件</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
@@ -12726,6 +12825,14 @@ Reason: %1.</source>
     <message>
         <source>Templates</source>
         <translation type="vanished">范本</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation>分享文件</translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
+        <translation type="vanished">固定/取消固定标签</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -13048,7 +13155,7 @@ Psi-0.15可以迁移</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>发送档案(&amp;F)</translation>
+        <translation>发送文件(&amp;F)</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -15020,31 +15127,31 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>未开始</translation>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>准备本地提议</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ未知</translation>
     </message>
     <message>
         <source>Waiting accept</source>
-        <translation type="unfinished"></translation>
+        <translation>等待接受中</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">已接受</translation>
+        <translation>已接受</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">正在连接中</translation>
+        <translation>正在连接中</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
+        <translation>发送中</translation>
     </message>
 </context>
 <context>
@@ -16179,7 +16286,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation>打开文件</translation>
+        <translation>打开皮肤文件</translation>
     </message>
     <message>
         <source>Open</source>
@@ -16814,54 +16921,54 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>有用的提示</translation>
+        <translation type="vanished">有用的提示</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>启动时显示提示</translation>
+        <translation type="vanished">启动时显示提示</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>前一个(&amp;P)</translation>
+        <translation type="vanished">前一个(&amp;P)</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>下一个(&amp;N)</translation>
+        <translation type="vanished">下一个(&amp;N)</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭(&amp;C)</translation>
+        <translation type="vanished">关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
+        <translation type="vanished">你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16873,7 +16980,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
+        <translation type="vanished">当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;按 Ctrl+Enter 来发送信息&lt;/li&gt;
 &lt;li&gt;按 Ctrl+M 来换行&lt;/li&gt;
@@ -16893,7 +17000,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>你可以在对话及群组对话框中下达以下特殊指令:
+        <translation type="vanished">你可以在对话及群组对话框中下达以下特殊指令:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; 清除对话窗口内容&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; 由你的昵称替代&lt;/li&gt;
@@ -16905,61 +17012,61 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
+        <translation type="vanished">你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
+        <translation type="vanished">你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
+        <translation type="vanished">不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
+        <translation type="vanished">你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
+        <translation type="vanished">你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
+        <translation type="vanished">你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
+        <translation type="vanished">为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
+        <translation type="vanished">您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
+        <translation type="vanished">寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
 - 
 注:有些服务器可能会禁止车辆登记用户从不同的服务器上，但是这是不常见的。</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
+        <translation type="vanished">如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>这是最后一个提示。
+        <translation type="vanished">这是最后一个提示。
 &lt;br&gt;&lt;br&gt;如果你想要贡献你的 &quot;每日提示&quot;, 请发布在 &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt; (或是寄给其中一个开发者), 我们会很高兴地把他包含在下一个版本中。</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>贡献者</translation>
+        <translation type="vanished">贡献者</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -16967,7 +17074,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>哈罗! 谢谢你下载 Psi!
+        <translation type="vanished">哈罗! 谢谢你下载 Psi!
 我们希望你可以愉快地使用它, 如同我们愉快地撰写它一样!
 &lt;br&gt;&lt;br&gt;如果你想要下载另一个语言的翻译, 图标集或新版的 Psi, 那么你需要造访&lt;a href=&quot;https://psi-im.org&quot;&gt;Psi 首页&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;如果你想说你发现了一个漏洞或是你想要和其他 Psi 使用者对话, 那么请造访&lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt;。
@@ -17243,51 +17350,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>邮件</translation>
+        <translation type="vanished">邮件</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>从:</translation>
+        <translation type="vanished">从:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>主题:</translation>
+        <translation type="vanished">主题:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>帐户:</translation>
+        <translation type="vanished">帐户:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>在浏览器中打开邮件</translation>
+        <translation type="vanished">在浏览器中打开邮件</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>打开邮箱</translation>
+        <translation type="vanished">打开邮箱</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>以前的</translation>
+        <translation type="vanished">以前的</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>接下去</translation>
+        <translation type="vanished">接下去</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="vanished">关闭</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭</translation>
+        <translation type="vanished">关闭</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2]电子邮件</translation>
+        <translation type="vanished">[%1/%2]电子邮件</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>在浏览器中打开</translation>
+        <translation type="vanished">在浏览器中打开</translation>
     </message>
 </context>
 <context>
@@ -17947,7 +18054,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation>意外要求</translation>
+        <translation>意外请求</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
@@ -18866,7 +18973,8 @@ Try remove cookies.</source>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation>文件列表下载(%1文件)</translation>
+        <translation>已下载文件列表
+(%1 文件)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>

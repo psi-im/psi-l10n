@@ -965,7 +965,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Активиране на Извън Протокола Чат
+        <translation type="vanished">Активиране на Извън Протокола Чат
 Когато е избрано, сървърът не ще
 пази история за този контакт. </translation>
     </message>
@@ -1485,6 +1485,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -1970,6 +1981,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>Добавяне в речник</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4021,7 +4040,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Скриване на таб, когато се затвори прозореца за чат</translation>
+        <translation type="vanished">Скриване на таб, когато се затвори прозореца за чат</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4289,6 +4308,24 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5518,49 +5555,45 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Настройките за акаунт %1 са променени</translation>
+        <translation type="vanished">Настройките за акаунт %1 са променени</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Споделянето на Статус за акаунт %1 е обновено</translation>
+        <translation type="vanished">Споделянето на Статус за акаунт %1 е обновено</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Атрибутите на контакт %1 са променени</translation>
+        <translation type="vanished">Атрибутите на контакт %1 са променени</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - входяща поща!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - входяща поща!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Избор на звуков файл</translation>
+        <translation type="vanished">Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Звук (*.wav)</translation>
+        <translation type="vanished">Звук (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Избор на програма</translation>
+        <translation type="vanished">Избор на програма</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Блокиране на gmail контакт</translation>
+        <translation type="vanished">Блокиране на gmail контакт</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори:</translation>
+        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Показванен на известия за нови съобщения във вашата Gmailbox.
+        <translation type="vanished">Показванен на известия за нови съобщения във вашата Gmailbox.
 Забележка: Тази добавка проверява корената директория на вашата Входяща кутия във вашия Gmailbox за нови съобщения. Когато се използва филтиране на сървъра, може да не бъдете уведомени за всички нови съобщения.</translation>
     </message>
 </context>
@@ -7176,6 +7209,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8032,6 +8084,13 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8568,7 +8627,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Изтриване на съдържанието на чатовия прозорец</translation>
+        <translation type="vanished">Изтриване на съдържанието на чатовия прозорец</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8600,19 +8659,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Когато чатовият прозорец се затвори</translation>
+        <translation type="vanished">&amp;Когато чатовият прозорец се затвори</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>&amp;Един част, след като чатовия прозорец се затвори</translation>
+        <translation type="vanished">&amp;Един част, след като чатовия прозорец се затвори</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Един &amp;ден след като чатовия прозорец се затвори</translation>
+        <translation type="vanished">Един &amp;ден след като чатовия прозорец се затвори</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Никога</translation>
+        <translation type="vanished">&amp;Никога</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8770,6 +8837,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Показване на броя на символите</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Подпрозорци</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Действие за кликване със среден бутон на мишката върху табовете:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Действие за двойно кликване с мишката върху табовете:</translation>
     </message>
 </context>
 <context>
@@ -9683,92 +9762,59 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Поддържани акаунти:</translation>
+        <translation type="vanished">Поддържани акаунти:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Няма поддържани акаунти!</translation>
+        <translation type="vanished">Няма поддържани акаунти!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Настройки на Акаунт</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Настройки на Акаунт</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Известия по ел. поща</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Известия по ел. поща</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Архивиране на съобщение</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Архивиране на съобщение</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Автоматично приемане на предложения</translation>
+        <translation type="vanished">Автоматично приемане на предложения</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Позволяване на множество приложения вписани
+        <translation type="vanished">Позволяване на множество приложения вписани
 със същия потребител да показват еднакво
 статусно съобщение.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Позволяване на Споделени Статуси</translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Позволяване на Споделени Статуси</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Включване на настройката &quot;Известия по ел. поща&quot;!</translation>
+        <translation type="vanished">Включване на настройката &quot;Известия по ел. поща&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Настройки за Известия по ел. поща</translation>
+        <translation type="vanished">Настройки за Известия по ел. поща</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Показване на всички непрочетени съобщения</translation>
+        <translation type="vanished">Показване на всички непрочетени съобщения</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Показване само на нови съобщения</translation>
+        <translation type="vanished">Показване само на нови съобщения</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Стартиране на програма:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Стартиране на програма:</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10451,19 +10497,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка не пази история на разговора.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка не пази история на разговора.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за 1 час историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за 1 час историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за 1 ден историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за 1 ден историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за постоянно историята на разговора.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за постоянно историята на разговора.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -12589,6 +12635,10 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13067,6 +13117,10 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation>Добавки</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -17022,142 +17076,32 @@ Please correct and try again.</source>
 <context>
     <name>Tip</name>
     <message>
-        <source>Useful Tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>psi/logo_128</source>
-        <translation type="unfinished">psi/лого_128</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">psi/лого_128</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Предишни</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Предишни</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/стрелкаНаляво</translation>
+        <translation type="vanished">psi/стрелкаНаляво</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Следващ</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Следващ</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/стрелкаНадясно</translation>
+        <translation type="vanished">psi/стрелкаНадясно</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Затваряне</translation>
+        <translation type="vanished">&amp;Затваряне</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
-    </message>
-</context>
-<context>
-    <name>TipDlg</name>
-    <message>
-        <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Ctrl+Enter to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+M to add newline character&lt;/li&gt;
-&lt;li&gt;Ctrl+H to display message history dialog&lt;/li&gt;
-&lt;li&gt;Alt+S to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
-&lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can type these special commands in chat and groupchat dialogs:
-&lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
-&lt;/ul&gt;
-And these work only in groupchat dialog:
-&lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contributed by</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
@@ -17437,51 +17381,35 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>Е-поща</translation>
+        <translation type="vanished">Е-поща</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>От:</translation>
+        <translation type="vanished">От:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Относно:</translation>
+        <translation type="vanished">Относно:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Акаунт:</translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Акаунт:</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Назад</translation>
+        <translation type="vanished">Назад</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Напред</translation>
+        <translation type="vanished">Напред</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="vanished">Затваряне</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Затваряне</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Затваряне</translation>
     </message>
 </context>
 <context>

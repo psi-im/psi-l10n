@@ -1008,15 +1008,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
@@ -1520,6 +1511,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2004,6 +2006,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>הוסף למילון</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4030,10 +4040,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide tab when close chat window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Allow closing inactive tabs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4299,6 +4305,24 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5539,49 +5563,28 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - דואר נכנס!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - דואר נכנס!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>בחירת קובץ צליל</translation>
+        <translation type="vanished">בחירת קובץ צליל</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>צליל ‪(*.wav)</translation>
+        <translation type="vanished">צליל ‪(*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>בחירת תוכנית</translation>
+        <translation type="vanished">בחירת תוכנית</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>חסימת איש קשר של gmail</translation>
+        <translation type="vanished">חסימת איש קשר של gmail</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>מחברים: </translation>
-    </message>
-    <message>
-        <source>Shows notifications of new messages in your Gmailbox.
-Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">מחברים: </translation>
     </message>
 </context>
 <context>
@@ -7182,6 +7185,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8031,6 +8053,13 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8576,7 +8605,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>מחק תכני חלון שיחה</translation>
+        <translation type="vanished">מחק תכני חלון שיחה</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8603,19 +8632,11 @@ Tags: %1</source>
         <translation>&amp;שיחה</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8774,6 +8795,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>הצג מונה תווים</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">לשוניות</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9650,90 +9683,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>חשבונות נתמכים:</translation>
+        <translation type="vanished">חשבונות נתמכים:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>אין חשבונות נתמכים!</translation>
+        <translation type="vanished">אין חשבונות נתמכים!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>הגדרות חשבון</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">הגדרות חשבון</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>התראות דואר</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-accept suggestions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Shared Statuses</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">התראות דואר</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>הגדרות התראות דואר</translation>
+        <translation type="vanished">הגדרות התראות דואר</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>הצג את כל ההודעות שלא נקראו</translation>
+        <translation type="vanished">הצג את כל ההודעות שלא נקראו</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>הצג הודעות חדשות בלבד</translation>
+        <translation type="vanished">הצג הודעות חדשות בלבד</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>התחל תוכנית:</translation>
+        <translation type="vanished">התחל תוכנית:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10412,19 +10394,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;אפשרות זו לא משאירה את רשומת השיחה בזיכרון.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;אפשרות זו לא משאירה את רשומת השיחה בזיכרון.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך שעה 1 בטרם מחיקתה.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך שעה 1 בטרם מחיקתה.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך יום 1 בטרם מחיקתה.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך יום 1 בטרם מחיקתה.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;אפשרות זו משאירה את רשומת השיחה לתמיד.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה לתמיד.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -12532,6 +12514,10 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13022,6 +13008,10 @@ Reason: %1.</source>
     <message>
         <source>Templates</source>
         <translation type="vanished">תבניות</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -16962,54 +16952,38 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>עצות שימושיות</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">עצות שימושיות</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>הצג עצות בעת הפעלה</translation>
+        <translation type="vanished">הצג עצות בעת הפעלה</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>ה&amp;קודמת</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ה&amp;קודמת</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>ה&amp;באה</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ה&amp;באה</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;סגור</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>באפשרותכם לבחור רגשונים ומערכי סמלים רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
+        <translation type="vanished">באפשרותכם לבחור רגשונים ומערכי סמלים רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17021,7 +16995,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>באפשרותכם לעשות שימוש בקיצורי דרך שימושיים רבים בעת הקלדת הודעות שיחה:&lt;br&gt;
+        <translation type="vanished">באפשרותכם לעשות שימוש בקיצורי דרך שימושיים רבים בעת הקלדת הודעות שיחה:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;rlm;Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
 &lt;li&gt;&amp;rlm;Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
@@ -17041,7 +17015,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>באפשרותכם להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
+        <translation type="vanished">באפשרותכם להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;&amp;rlm;&amp;lrm;/clear&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
 &lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; &amp;lrm;/me&quot; &apos;&amp;lrm;/me&apos; מוחלפת בכינוי שלכם&lt;/li&gt;
@@ -17053,69 +17027,61 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>הידעתם כי באפשרותכם לרשום חשבונות XMPP מרובים בעזרת Psi? אם אתם מעוניינים להפריד את עבודתכם מתוך חשבונכם האישי, אתם יכולים.  אם אתם משתמשם מיומנים שרוצים לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, באפשרותכם לעשות כן -- ללא הרצת לקוח שני כדי להתחבר לשרת הקבוע שלכם.  פשוט הקליקו על הוסף בתוך מסך התקנת חשבון.</translation>
+        <translation type="vanished">הידעתם כי באפשרותכם לרשום חשבונות XMPP מרובים בעזרת Psi? אם אתם מעוניינים להפריד את עבודתכם מתוך חשבונכם האישי, אתם יכולים.  אם אתם משתמשם מיומנים שרוצים לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, באפשרותכם לעשות כן -- ללא הרצת לקוח שני כדי להתחבר לשרת הקבוע שלכם.  פשוט הקליקו על הוסף בתוך מסך התקנת חשבון.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>האם אתם משוחחים ברשתות מסרים מידיים צד-שלישי כגון AIM וגם ICQ?  נסו לאפשר &quot;סמלים לפי טרנספורט&quot;.  זה יאפשר לכם להבחין במהירות באיזו רשת חבריכם משתמשים.  באותה העת אתם מוזמנים לשכנע אותם להחליף לרשת התקשורת XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">האם אתם משוחחים ברשתות מסרים מידיים צד-שלישי כגון AIM וגם ICQ?  נסו לאפשר &quot;סמלים לפי טרנספורט&quot;.  זה יאפשר לכם להבחין במהירות באיזו רשת חבריכם משתמשים.  באותה העת אתם מוזמנים לשכנע אותם להחליף לרשת התקשורת XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>הידעתם כי באפשרותכם לעשות שימוש בתיבות סימון בדו שיח התקנת חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו אתם משתמשים לעתים נדירות, כך שזה לא יסרבל את רשימתכם.</translation>
+        <translation type="vanished">הידעתם כי באפשרותכם לעשות שימוש בתיבות סימון בדו שיח התקנת חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו אתם משתמשים לעתים נדירות, כך שזה לא יסרבל את רשימתכם.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>אינכם מרוצים מהלחצנים במקומותיהם הנוכחיים?  רוצים לחצן קיצור דרך לשנות את מצבכם אל נעדר?  לרשותכם עומד החלון תצורת סרגלי כלים, זה זמין דרך תפריט הקשר של סרגל הכלים.  באפשרותכם אפילו ליצור סרגל כלים צף!</translation>
+        <translation type="vanished">אינכם מרוצים מהלחצנים במקומותיהם הנוכחיים?  רוצים לחצן קיצור דרך לשנות את מצבכם אל נעדר?  לרשותכם עומד החלון תצורת סרגלי כלים, זה זמין דרך תפריט הקשר של סרגל הכלים.  באפשרותכם אפילו ליצור סרגל כלים צף!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>הידעתם כי התכנית Psi היא לקוח XMPP מן הבודדים אשר מעניקים לכם את האפשרות להתחבר לשרתים מרובים בו זמנית?  באפשרותכם להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני חברים, ולהזדהות בתור &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפים לעסק.</translation>
+        <translation type="vanished">הידעתם כי התכנית Psi היא לקוח XMPP מן הבודדים אשר מעניקים לכם את האפשרות להתחבר לשרתים מרובים בו זמנית?  באפשרותכם להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני חברים, ולהזדהות בתור &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפים לעסק.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות סמלים&quot; אשר ניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
+        <translation type="vanished">האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות סמלים&quot; אשר ניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>הידעתם כי לחיצה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) תבצע את &quot;הפעולה השגרתית&quot; על אובייקטים רבים בתוך Psi?  נסו לחיצה-אמצעית על איש קשר או חלון קופץ.</translation>
+        <translation type="vanished">הידעתם כי לחיצה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) תבצע את &quot;הפעולה השגרתית&quot; על אובייקטים רבים בתוך Psi?  נסו לחיצה-אמצעית על איש קשר או חלון קופץ.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>על מנת להוסיף אנשי קשר מתוך רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מתוך שרת XMPP. קחו מבט בתפריט Psi -&gt; מציאת שירות.</translation>
+        <translation type="vanished">על מנת להוסיף אנשי קשר מתוך רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מתוך שרת XMPP. קחו מבט בתפריט Psi -&gt; מציאת שירות.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>באפשרותכם לעשות שימוש בלחיצה ימנית על שרת ברשימתכם כדי לבצע מספר פעולות שונות.  באפשרותכם לשנות מצב, להתאים הגדרות חשבון, לבצע פעולות מנהליות (במידה ויש לכם הרשאות), ועוד.</translation>
+        <translation type="vanished">באפשרותכם לעשות שימוש בלחיצה ימנית על שרת ברשימתכם כדי לבצע מספר פעולות שונות.  באפשרותכם לשנות מצב, להתאים הגדרות חשבון, לבצע פעולות מנהליות (במידה ויש לכם הרשאות), ועוד.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>מחפשים אחר טרנספורט או חדר שיחה, אך השרת שלכם לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
+        <translation type="vanished">מחפשים אחר טרנספורט או חדר שיחה, אך השרת שלכם לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
 &lt;br&gt;&lt;br&gt;
 הערה: שרתים מסוימים עשויים לנטרל רישום טרנספורט עבור משתמשים מתוך שרתים אחרים, אבל זה לא שכיח עדיין.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>אם אתם משוחח בשיחות קבוצה לעתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה מצוי בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון אשר פנה אליכם ישירות. באותה עת באפשרותכם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים אשר נוכחים בחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתם רושמים &lt;tt&gt;m&lt;/tt&gt; ולוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt;, ובאפשרותכם לבחור בין אם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתם לוחצים את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז לוחצים &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתם תעשו שימוש יותר נרחב בתכונה זו, סביר יותר כי אתם תחפוצו אותה יותר ותסתמכו עליה יותר. נסו השלמת כינוי על מישהו ואתם תבינו כמה אפשרות זו יעילה.</translation>
+        <translation type="vanished">אם אתם משוחח בשיחות קבוצה לעתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה מצוי בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון אשר פנה אליכם ישירות. באותה עת באפשרותכם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים אשר נוכחים בחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתם רושמים &lt;tt&gt;m&lt;/tt&gt; ולוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt;, ובאפשרותכם לבחור בין אם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתם לוחצים את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז לוחצים &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתם תעשו שימוש יותר נרחב בתכונה זו, סביר יותר כי אתם תחפוצו אותה יותר ותסתמכו עליה יותר. נסו השלמת כינוי על מישהו ואתם תבינו כמה אפשרות זו יעילה.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>זוהי העצה האחרונה.
+        <translation type="vanished">זוהי העצה האחרונה.
 &lt;br&gt;&lt;br&gt;אם ברצונכם לתרום את &quot;עצת היום&quot; שלכם, אנא פרסמו אותה אצל &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;הפורומים של Psi&lt;/a&gt; (או דוורו אותה לאחד מהמפתחים), ואנחנו נשמח לשלבה בשחרור הבא.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>עצה זו נתרמה על ידי</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">עצה זו נתרמה על ידי</translation>
     </message>
 </context>
 <context>
@@ -17395,51 +17361,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>דוא״ל</translation>
+        <translation type="vanished">דוא״ל</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>מאת:</translation>
+        <translation type="vanished">מאת:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>נושא:</translation>
+        <translation type="vanished">נושא:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>חשבון:</translation>
+        <translation type="vanished">חשבון:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>פתח דואר בדפדפן</translation>
+        <translation type="vanished">פתח דואר בדפדפן</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>פתח תיבת דואר</translation>
+        <translation type="vanished">פתח תיבת דואר</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>אחורה</translation>
+        <translation type="vanished">אחורה</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>קדימה</translation>
+        <translation type="vanished">קדימה</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="vanished">סגור</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="vanished">&amp;סגור</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] דוא״ל</translation>
+        <translation type="vanished">[%1/%2] דוא״ל</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>פתח בדפדפן</translation>
+        <translation type="vanished">פתח בדפדפן</translation>
     </message>
 </context>
 <context>

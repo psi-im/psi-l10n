@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 19.05.2019</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 30.06.2019</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -1032,7 +1032,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation> Отключить запись чата.
+        <translation type="vanished"> Отключить запись чата.
 Если установлено, сервер не будет
 сохранять историю для этого контакта.</translation>
     </message>
@@ -1564,6 +1564,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2050,6 +2061,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>Добавить в словарь</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4106,7 +4125,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Скрывать вкладки при закрытии окна чата</translation>
+        <translation type="vanished">Скрывать вкладки при закрытии окна чата</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4373,10 +4392,36 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделиться файлами</translation>
     </message>
     <message>
         <source>Share</source>
+        <translation>Поделиться</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Unexpected content add</source>
+        <translation type="vanished">Неожиданное добавление нового контента</translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="vanished">Загрузка через Jingle не удалась</translation>
+    </message>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5505,48 +5550,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Отключение истории для контакта %1 установлено</translation>
+        <translation type="vanished">Отключение истории для контакта %1 установлено</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Настройки аккаунта %1 изменены</translation>
+        <translation type="vanished">Настройки аккаунта %1 изменены</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Общий статус для аккаунта %1 обновлён</translation>
+        <translation type="vanished">Общий статус для аккаунта %1 обновлён</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Атрибуты для контакта%1 изменены</translation>
+        <translation type="vanished">Атрибуты для контакта%1 изменены</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - входящая почта!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - входящая почта!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Выбрать звуковой файл</translation>
+        <translation type="vanished">Выбрать звуковой файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Звуковой файл (*.wav)</translation>
+        <translation type="vanished">Звуковой файл (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Выбрать программу</translation>
+        <translation type="vanished">Выбрать программу</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Заблокировать gmail контакт</translation>
+        <translation type="vanished">Заблокировать gmail контакт</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Данный плагин показывает уведомления о поступлении новых писем в почтовый ящик Gmail.
+        <translation type="vanished">Данный плагин показывает уведомления о поступлении новых писем в почтовый ящик Gmail.
 Примечание: плагин проверяет корень директории &quot;Входящие&quot; на предмет наличия новых писем. Если фильтрация (пересортировка) писем осуществляется непосредственно на сервере Gmail, то уведомлений о новой почте не будет.</translation>
     </message>
 </context>
@@ -7088,6 +7133,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished">Загрузка через Jingle не удалась</translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -7922,6 +7986,13 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8418,7 +8489,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Очищать окно чата</translation>
+        <translation type="vanished">Очищать окно чата</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8430,19 +8501,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;При закрытии окна</translation>
+        <translation type="vanished">&amp;При закрытии окна</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>Ч&amp;ерез час после закрытия</translation>
+        <translation type="vanished">Ч&amp;ерез час после закрытия</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Через &amp;день после закрытия</translation>
+        <translation type="vanished">Через &amp;день после закрытия</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Никогда</translation>
+        <translation type="vanished">&amp;Никогда</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8600,6 +8679,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Показывать счётчик символов</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Вкладки</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Эффект от нажатия колесом мыши на вкладке:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Эффект от двойного клика по вкладке:</translation>
     </message>
 </context>
 <context>
@@ -9393,100 +9484,100 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Поддерживаемые аккаунты:</translation>
+        <translation type="vanished">Поддерживаемые аккаунты:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Нет поддерживаемых аккаунтов!</translation>
+        <translation type="vanished">Нет поддерживаемых аккаунтов!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Настройки аккаунта</translation>
+        <translation type="vanished">Настройки аккаунта</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation> Если установлено, сервер будет присылать
+        <translation type="vanished"> Если установлено, сервер будет присылать
  уведомления о непрочитанных письмах.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Почтовые уведомления</translation>
+        <translation type="vanished">Почтовые уведомления</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation> Если установлено, на сервере Google Talk
+        <translation type="vanished"> Если установлено, на сервере Google Talk
  будут сохраняться чаты.
  Если не установлено, никакие чаты
  не будут сохраняться.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Архивирование сообщений</translation>
+        <translation type="vanished">Архивирование сообщений</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation> Если установлено, сервер будет автоматически
+        <translation type="vanished"> Если установлено, сервер будет автоматически
  добавлять самые частые контакты из электронной почты
   в ростер пользователя.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Автоматически принимать предложения</translation>
+        <translation type="vanished">Автоматически принимать предложения</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation> Позволяет нескольким приложениям,
+        <translation type="vanished"> Позволяет нескольким приложениям,
  подключенным к одному и тому же аккаунту,
  иметь одинаковый статус. </translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Разрешить общие статусы</translation>
+        <translation type="vanished">Разрешить общие статусы</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation> Google Talk сервер отключает сохранение
+        <translation type="vanished"> Google Talk сервер отключает сохранение
  истории на сервере для определённых контактов.
  Для работы опции необходимо включить &quot;Архивирование сообщений&quot;!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Отключить запись чатов</translation>
+        <translation type="vanished">Отключить запись чатов</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Включите &quot;Почтовые уведомления&quot;!</translation>
+        <translation type="vanished">Включите &quot;Почтовые уведомления&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Параметры почтовых уведомлений</translation>
+        <translation type="vanished">Параметры почтовых уведомлений</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Показывать все непрочитанные сообщения</translation>
+        <translation type="vanished">Показывать все непрочитанные сообщения</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Показывать только новые сообщения</translation>
+        <translation type="vanished">Показывать только новые сообщения</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Запустить программу:</translation>
+        <translation type="vanished">Запустить программу:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10150,19 +10241,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата не хранится в памяти.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата не хранится в памяти.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение суток.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение суток.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -12257,6 +12348,10 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation>Повреждённый запрос</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation>Открыть файлы для отправки</translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12755,6 +12850,14 @@ Reason: %1.</source>
     <message>
         <source>Templates</source>
         <translation type="vanished">Шаблоны</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation>Поделиться файлами</translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
+        <translation type="vanished">Закрепить/открепить вкладку</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -16879,54 +16982,54 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Полезные советы</translation>
+        <translation type="vanished">Полезные советы</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Показывать советы при запуске</translation>
+        <translation type="vanished">Показывать советы при запуске</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Предыдущий</translation>
+        <translation type="vanished">&amp;Предыдущий</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Следующий</translation>
+        <translation type="vanished">&amp;Следующий</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="vanished">&amp;Закрыть</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
+        <translation type="vanished">Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16938,7 +17041,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>В чате вы можете использовать некоторые полезные горячие клавиши:&lt;br&gt;
+        <translation type="vanished">В чате вы можете использовать некоторые полезные горячие клавиши:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter - отправить сообщение&lt;/li&gt;
 &lt;li&gt;Ctrl+M - перейти на новую строку&lt;/li&gt;
@@ -16958,7 +17061,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Вы можете использовать специальные команды в окнах чатов и конференций:
+        <translation type="vanished">Вы можете использовать специальные команды в окнах чатов и конференций:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; - очистить окно чата&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;сообщение&amp;gt;&quot; - &apos;/me&apos; замещается вашим именем&lt;/li&gt;
@@ -16970,62 +17073,62 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Вы знаете, что можете использовать несколько аккаунтов XMPP?
+        <translation type="vanished">Вы знаете, что можете использовать несколько аккаунтов XMPP?
 Просто нажмите &quot;Добавить&quot; в разделе &quot;Аккаунты&quot;.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Вы общаетесь с пользователями AIM и ICQ? Используйте транспорты, предоставляемые серверами XMPP. Потом вы можете уговорить ваших собеседников использовать XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Вы общаетесь с пользователями AIM и ICQ? Используйте транспорты, предоставляемые серверами XMPP. Потом вы можете уговорить ваших собеседников использовать XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Что вы можете отключить и включить аккаунты? Это может быть полезно для отключения редко используемых аккаунтов.</translation>
+        <translation type="vanished">Что вы можете отключить и включить аккаунты? Это может быть полезно для отключения редко используемых аккаунтов.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Не нравятся кнопки на панелях инструментов? Хотите установить статус отсутствия по горячей клавише? Вы можете сделать это в контекстом меню панели инструментов. Кроме того, вы можете сделать панель инструментов плавающей.</translation>
+        <translation type="vanished">Не нравятся кнопки на панелях инструментов? Хотите установить статус отсутствия по горячей клавише? Вы можете сделать это в контекстом меню панели инструментов. Кроме того, вы можете сделать панель инструментов плавающей.</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Знаете ли вы, что Psi - один из немногих XMPP-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнёров.</translation>
+        <translation type="vanished">Знаете ли вы, что Psi - один из немногих XMPP-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнёров.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Вы привыкли к красивым смайлам Gadu-Gadu или Trillian? Установите себе наборы смайлов из &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;.</translation>
+        <translation type="vanished">Вы привыкли к красивым смайлам Gadu-Gadu или Trillian? Установите себе наборы смайлов из &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трёхкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
+        <translation type="vanished">Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трёхкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Для добавления контактов из других сетей вам нужно подключить соответствующий транспорт на XMPP сервере. См. Меню -&gt; Обзор сервисов.</translation>
+        <translation type="vanished">Для добавления контактов из других сетей вам нужно подключить соответствующий транспорт на XMPP сервере. См. Меню -&gt; Обзор сервисов.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Вы можете сделать клик правой кнопкой мыши по заголовку аккаунта в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
+        <translation type="vanished">Вы можете сделать клик правой кнопкой мыши по заголовку аккаунта в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Вам нужен транспорт или конференция, а ваш сервер не поддерживает их? Используйте Меню -&gt; Обзор сервисов для поиска &lt;i&gt;любого&lt;/i&gt; XMPP сервера, который имеет эти возможности. Для этого укажите его адрес.
+        <translation type="vanished">Вам нужен транспорт или конференция, а ваш сервер не поддерживает их? Используйте Меню -&gt; Обзор сервисов для поиска &lt;i&gt;любого&lt;/i&gt; XMPP сервера, который имеет эти возможности. Для этого укажите его адрес.
 &lt;br&gt;&lt;br&gt;
 Примечание: некоторые серверы не поддерживают работу с пользователями с других серверов. К счастью, это случается редко.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
+        <translation type="vanished">Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Это последний совет.
+        <translation type="vanished">Это последний совет.
 &lt;br&gt;&lt;br&gt;Если вы хотите добавить свой совет, напишите в &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумах Psi&lt;/a&gt; или отправьте письмо одному из разработчиков.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Совет от</translation>
+        <translation type="vanished">Совет от</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -17033,7 +17136,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Приветствуем вас в программе Psi!
+        <translation type="vanished">Приветствуем вас в программе Psi!
 Мы надеемся, что вы получите удовольствие от использования нашей программы!
 &lt;br&gt;&lt;br&gt;Если вы хотите скачать дополнительный языковой пакет, набор иконок или новую версию Psi, посетите &lt;a href=&quot;https://psi-im.org&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;Если вы нашли ошибку в программе или хотите пообщаться с пользователями и разработчиками Psi, посетите &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумы Psi&lt;/a&gt;.
@@ -17310,51 +17413,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>От:</translation>
+        <translation type="vanished">От:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Тема:</translation>
+        <translation type="vanished">Тема:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Аккаунт:</translation>
+        <translation type="vanished">Аккаунт:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Открыть почту в браузере</translation>
+        <translation type="vanished">Открыть почту в браузере</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Открыть почтовый ящик</translation>
+        <translation type="vanished">Открыть почтовый ящик</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Предыдущее</translation>
+        <translation type="vanished">Предыдущее</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Следующее</translation>
+        <translation type="vanished">Следующее</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="vanished">Закрыть</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="vanished">&amp;Закрыть</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-Mail</translation>
+        <translation type="vanished">[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation type="vanished">Открыть в браузере</translation>
     </message>
 </context>
 <context>

@@ -1038,7 +1038,7 @@ Motivo: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Abilita Off the Record.
+        <translation type="vanished">Abilita Off the Record.
 Quando selezionato, il server non
 salverà la cronologia per questo contatto.</translation>
     </message>
@@ -1563,6 +1563,17 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2048,6 +2059,14 @@ Vuoi ancora chiudere la finestra?</translation>
     <message>
         <source>Add to dictionary</source>
         <translation>Aggiungi al dizionario</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4099,7 +4118,7 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Nascondi scheda quando chiudi la finestra di chat</translation>
+        <translation type="vanished">Nascondi scheda quando chiudi la finestra di chat</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4367,6 +4386,24 @@ siano consentite.</translation>
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5612,48 +5649,48 @@ Regione: </translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Stato no-save per il il contatto %1 è cambiato</translation>
+        <translation type="vanished">Stato no-save per il il contatto %1 è cambiato</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Le impostazioni per un account %1 sono cambiate</translation>
+        <translation type="vanished">Le impostazioni per un account %1 sono cambiate</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Lo stato condiviso per un account %1 è aggiornato</translation>
+        <translation type="vanished">Lo stato condiviso per un account %1 è aggiornato</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Gli attributi per il contatto %1 sono cambiato</translation>
+        <translation type="vanished">Gli attributi per il contatto %1 sono cambiato</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - mail in arrivo!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - mail in arrivo!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Scegli un file audio</translation>
+        <translation type="vanished">Scegli un file audio</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Audio (*.wav)</translation>
+        <translation type="vanished">Audio (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Scegli un programma</translation>
+        <translation type="vanished">Scegli un programma</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Blocca contatto Gmail</translation>
+        <translation type="vanished">Blocca contatto Gmail</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autori:</translation>
+        <translation type="vanished">Autori:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Mostra notifiche dei nuovi messaggi nella tua casella di posta Gmail.
+        <translation type="vanished">Mostra notifiche dei nuovi messaggi nella tua casella di posta Gmail.
 Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo della tua casella Gmail per nuovi messaggi. Quando usi server-side filtering, potresti non essere avvisato di tutti i nuovi messaggi.</translation>
     </message>
 </context>
@@ -7302,6 +7339,25 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8174,6 +8230,13 @@ Dettagli: %1</translation>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8739,7 +8802,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Cancella i contenuti della finestra di chat</translation>
+        <translation type="vanished">Cancella i contenuti della finestra di chat</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8771,19 +8834,27 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Quando la finestra di chat è chiusa</translation>
+        <translation type="vanished">&amp;Quando la finestra di chat è chiusa</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>&amp;Un&apos;ora dopo che la finestra di chat è stata chiusa</translation>
+        <translation type="vanished">&amp;Un&apos;ora dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Un &amp;giorno dopo che la finestra di chat è stata chiusa</translation>
+        <translation type="vanished">Un &amp;giorno dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Mai</translation>
+        <translation type="vanished">&amp;Mai</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8941,6 +9012,18 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Show character counter</source>
         <translation>Mostra il contatore dei caratteri</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Schede</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Azione del click tasto centrale sulle schede:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Azione del doppio click sulle schede:</translation>
     </message>
 </context>
 <context>
@@ -9857,100 +9940,100 @@ siano connessi e schiaccia il pulsante &quot;Aggiorna Compleanni&quot;. Occorre 
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Account supportati:</translation>
+        <translation type="vanished">Account supportati:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Non ci sono account supportati!</translation>
+        <translation type="vanished">Non ci sono account supportati!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Impostazioni Account</translation>
+        <translation type="vanished">Impostazioni Account</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>Se impostato su &quot;true&quot;, il server invierà
+        <translation type="vanished">Se impostato su &quot;true&quot;, il server invierà
 notifiche delle email non lette.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Notifiche Posta</translation>
+        <translation type="vanished">Notifiche Posta</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation> Se impostato su &quot;true&quot;, il server salverà
+        <translation type="vanished"> Se impostato su &quot;true&quot;, il server salverà
  le chat di Google Talk sul server;
  Se impostato su &quot;false&quot;, nessuna conversazione
  sarà registrata.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Archiviazione Messaggi</translation>
+        <translation type="vanished">Archiviazione Messaggi</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>Se impostato su &quot;true&quot;, il server aggiungerà
+        <translation type="vanished">Se impostato su &quot;true&quot;, il server aggiungerà
 automaticamente le persone messaggiate
 spesso alla lista contatti dell&apos;utente</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Accetta automaticamente suggerimenti</translation>
+        <translation type="vanished">Accetta automaticamente suggerimenti</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Consentire a più applicazioni di accedere
+        <translation type="vanished">Consentire a più applicazioni di accedere
 con lo stesso utente e riportare lo stesso
 messaggio di stato.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Abilita Stati Condivisi</translation>
+        <translation type="vanished">Abilita Stati Condivisi</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>Il server Google Talk disabilita la registrazione
+        <translation type="vanished">Il server Google Talk disabilita la registrazione
 di conversazioni individuali e l&apos;invio di notifiche.
 Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Abilita Off the Record</translation>
+        <translation type="vanished">Abilita Off the Record</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Abilita l&apos;opzione &quot;Notifiche Posta&quot;!</translation>
+        <translation type="vanished">Abilita l&apos;opzione &quot;Notifiche Posta&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Impostazioni Notifiche Posta</translation>
+        <translation type="vanished">Impostazioni Notifiche Posta</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Mostra tutti i messaggi non letti</translation>
+        <translation type="vanished">Mostra tutti i messaggi non letti</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Mostra solo i nuovi messaggi</translation>
+        <translation type="vanished">Mostra solo i nuovi messaggi</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Avvia programma:</translation>
+        <translation type="vanished">Avvia programma:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (In linea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (In linea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10634,19 +10717,19 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione non permette che il registro della chat sia conservato.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione non permette che il registro della chat sia conservato.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per 1ora prima di cancellarlo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per 1ora prima di cancellarlo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per 1 giorno prima di cancellarlo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per 1 giorno prima di cancellarlo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
@@ -12778,6 +12861,10 @@ Motivo: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13284,6 +13371,10 @@ Motivo: %1.</translation>
     <message>
         <source>Templates</source>
         <translation type="vanished">Modelli</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -17406,54 +17497,54 @@ Correggere e provare ancora.</translation>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Consigli Utili</translation>
+        <translation type="vanished">Consigli Utili</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Mostra i consigli all&apos;avvio</translation>
+        <translation type="vanished">Mostra i consigli all&apos;avvio</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Precedente</translation>
+        <translation type="vanished">&amp;Precedente</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/frecciaSinistra</translation>
+        <translation type="vanished">psi/frecciaSinistra</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Successivo</translation>
+        <translation type="vanished">&amp;Successivo</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+S</translation>
+        <translation type="vanished">Alt+S</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/frecciaDestra</translation>
+        <translation type="vanished">psi/frecciaDestra</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Chiudi</translation>
+        <translation type="vanished">&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Puoi selezionare più di un set di emoticon e assegnare loro delle priorità utilizzando le opzioni della finestra di dialogo.</translation>
+        <translation type="vanished">Puoi selezionare più di un set di emoticon e assegnare loro delle priorità utilizzando le opzioni della finestra di dialogo.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17465,7 +17556,7 @@ Correggere e provare ancora.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Puoi usare numerose scorciatoie utili mentre digiti messaggi di chat:&lt;br&gt;
+        <translation type="vanished">Puoi usare numerose scorciatoie utili mentre digiti messaggi di chat:&lt;br&gt;
 &lt;ul&gt;&lt;li&gt;Ctrl+Enter per inviare un messaggio&lt;/li&gt;
 &lt;li&gt;Ctrl+M per aggiungere un carattere di ritorno a capo&lt;/li&gt;
 &lt;li&gt;Ctrl+H per mostrare una finestra di cronologia dei messaggi&lt;/li&gt;
@@ -17484,7 +17575,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Puoi digitare questi comandi speciali nelle finestre di chat e nelle conferenze:
+        <translation type="vanished">Puoi digitare questi comandi speciali nelle finestre di chat e nelle conferenze:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; per pulire la visuale di chat&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;messaggio&amp;gt;&quot; &apos;/me&apos; è sostituito dal tuo soprannome&lt;/li&gt;
@@ -17495,60 +17586,60 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Sapevi che puoi registra più account XMPP con Psi? Se ti piace separare il tuo lavoro dai tuoi account personali, puoi. Se tu sei un utente avanzato che vuole sperimentare le ultime funzioni XMPP su un server instabile, puoi farlo -- senza eseguire un secondo client per connettersi ai tuoi server stabili. Basta cliccare su Aggiungi nella schermata di configurazione account.</translation>
+        <translation type="vanished">Sapevi che puoi registra più account XMPP con Psi? Se ti piace separare il tuo lavoro dai tuoi account personali, puoi. Se tu sei un utente avanzato che vuole sperimentare le ultime funzioni XMPP su un server instabile, puoi farlo -- senza eseguire un secondo client per connettersi ai tuoi server stabili. Basta cliccare su Aggiungi nella schermata di configurazione account.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Chatti su reti IM di terze parti come AIM e ICQ? Prova ad ablitare l&apos;opzione &quot;incone specifiche-trasporti&quot;. Questo ti permetterà di vedere velocemente quale rete il tuo contatto sta usando. Poi puoi convincerlo a passare a XMPP.&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Chatti su reti IM di terze parti come AIM e ICQ? Prova ad ablitare l&apos;opzione &quot;incone specifiche-trasporti&quot;. Questo ti permetterà di vedere velocemente quale rete il tuo contatto sta usando. Poi puoi convincerlo a passare a XMPP.&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Lo sapevi che puoi usare le caselle di spunta nelle Impostazioni Account per abilitare/disabilitare gli account? Potrebbe essere utile nel caso di un account utilizzato raramente, così da non creare confuzione nella tua lista.</translation>
+        <translation type="vanished">Lo sapevi che puoi usare le caselle di spunta nelle Impostazioni Account per abilitare/disabilitare gli account? Potrebbe essere utile nel caso di un account utilizzato raramente, così da non creare confuzione nella tua lista.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Non ti piace dove sono i pulsanti? Vuoi un pulsante per cambiare velocemente il tuo stato in Assente? Controlla la finestra di Configurazione Barre degli Strumenti, è disponibile attraverso il menu di contesto della barra strumenti. Puoi persino costruire una barra strumenti fluttuante!</translation>
+        <translation type="vanished">Non ti piace dove sono i pulsanti? Vuoi un pulsante per cambiare velocemente il tuo stato in Assente? Controlla la finestra di Configurazione Barre degli Strumenti, è disponibile attraverso il menu di contesto della barra strumenti. Puoi persino costruire una barra strumenti fluttuante!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Sapevi che Psi è uno dei pochi client XMPP che ti permette di connetterti a più server contemporaneamente? Puoi essere conosciuto come &quot;MrFigo@jabber.org&quot; dai tuoi amici e &quot;John.J.Smith_quarto@tuacompagnia.com&quot; dai colleghi di lavoro.</translation>
+        <translation type="vanished">Sapevi che Psi è uno dei pochi client XMPP che ti permette di connetterti a più server contemporaneamente? Puoi essere conosciuto come &quot;MrFigo@jabber.org&quot; dai tuoi amici e &quot;John.J.Smith_quarto@tuacompagnia.com&quot; dai colleghi di lavoro.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Ti sei convertito da Gadu-Gadu o Trillian e ti mancano le fantastiche emoticon? Non aver paura, ti abbiamo pensato! Dai un occhiata a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; per tonnellate di &quot;set di icone&quot; che possono essere aggiunte a Psi per farlo apparire come vuoi tu!</translation>
+        <translation type="vanished">Ti sei convertito da Gadu-Gadu o Trillian e ti mancano le fantastiche emoticon? Non aver paura, ti abbiamo pensato! Dai un occhiata a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; per tonnellate di &quot;set di icone&quot; che possono essere aggiunte a Psi per farlo apparire come vuoi tu!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Lo sapevi che un click sul tasto centrale (su un mouse a 3 tasti) eseguirà &quot;l&apos;azione di default&quot; su molti oggetti all&apos;interno di Psi? Prova a cliccare con il tasto centrale su un contatto o su una popup.</translation>
+        <translation type="vanished">Lo sapevi che un click sul tasto centrale (su un mouse a 3 tasti) eseguirà &quot;l&apos;azione di default&quot; su molti oggetti all&apos;interno di Psi? Prova a cliccare con il tasto centrale su un contatto o su una popup.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Per poter aggiungere contatti da altre reti di IM hai bisogno di aggiungere un agente corrispondente dal tuo server Jabber. Dai un&apos;occhiata nel menu Psi -&gt; Scopri Servizi.</translation>
+        <translation type="vanished">Per poter aggiungere contatti da altre reti di IM hai bisogno di aggiungere un agente corrispondente dal tuo server Jabber. Dai un&apos;occhiata nel menu Psi -&gt; Scopri Servizi.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Puoi cliccare con il tasto destro sul nome del server sulla tua lista per effettuare diverse azioni. Puoi cambiare il tuo stato, modificare le impostazioni account, eseguire operazioni amministrative (se hai i permessi necessari) e molto altro.</translation>
+        <translation type="vanished">Puoi cliccare con il tasto destro sul nome del server sulla tua lista per effettuare diverse azioni. Puoi cambiare il tuo stato, modificare le impostazioni account, eseguire operazioni amministrative (se hai i permessi necessari) e molto altro.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Stai cercando un trasporto o una stanza di chat ma il tuo server fornisce nulla di appropriato? Usa il menu Psi -&gt; Scopri Servizi per cercare su &lt;i&gt;ogni&lt;/i&gt; server Jabber dei bei servizi digitando il suo dominio nel campo indirizzo.
+        <translation type="vanished">Stai cercando un trasporto o una stanza di chat ma il tuo server fornisce nulla di appropriato? Usa il menu Psi -&gt; Scopri Servizi per cercare su &lt;i&gt;ogni&lt;/i&gt; server Jabber dei bei servizi digitando il suo dominio nel campo indirizzo.
 &lt;br&gt;&lt;br&gt;
 Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli utenti provenienti da altri server, ma non è una cosa comune al momento.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Se chatti nelle conferenze frequentemente, il completamento dei soprannomi è una funzione inestimabile. La scorciatoia più utile è &lt;tt&gt;Tab-Tab&lt;/tt&gt;; quando usato all&apos;inizio di una nuova linea o dopo uno step inserisce il soprannome della persona che si è rivolta a te direttamente per ultima. Puoi quindi continuare a premere &lt;tt&gt;Tab&lt;/tt&gt; e appariranno a rotazione i soprannomi di tutte le persone nella stanza.&lt;br&gt;&lt;br/&gt;Per uno scenario più complicato:&lt;tt&gt;mblsha&lt;/tt&gt;,&lt;tt&gt;Monster&lt;/tt&gt; e &lt;tt&gt;mbl-revolution&lt;/tt&gt; stanno tutti seduti nella stessa stanza. Se scrivi &lt;tt&gt;m&lt;/tt&gt; e premi &lt;tt&gt;Tab&lt;/tt&gt; non accadrà nulla di particolare. Questo perché ci sono più soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, e puoi sia continuare con &lt;tt&gt;Tab&lt;/tt&gt; per far apparire a rotazione tutti i soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, sia scrivere più lettere fino a quando c&apos;è un completamento univoco. Quando premi il tasto &lt;tt&gt;b&lt;/tt&gt; e poi premi &lt;tt&gt;Tab&lt;/tt&gt; completerà con &lt;tt&gt;mbl&lt;/tt&gt;. Più usi questa funzione più è probabile che ti piaccia e che tu faccia affidamento su di essa. Prova il completamento del soprannome su qualcuno e capirai quanto sia potente.</translation>
+        <translation type="vanished">Se chatti nelle conferenze frequentemente, il completamento dei soprannomi è una funzione inestimabile. La scorciatoia più utile è &lt;tt&gt;Tab-Tab&lt;/tt&gt;; quando usato all&apos;inizio di una nuova linea o dopo uno step inserisce il soprannome della persona che si è rivolta a te direttamente per ultima. Puoi quindi continuare a premere &lt;tt&gt;Tab&lt;/tt&gt; e appariranno a rotazione i soprannomi di tutte le persone nella stanza.&lt;br&gt;&lt;br/&gt;Per uno scenario più complicato:&lt;tt&gt;mblsha&lt;/tt&gt;,&lt;tt&gt;Monster&lt;/tt&gt; e &lt;tt&gt;mbl-revolution&lt;/tt&gt; stanno tutti seduti nella stessa stanza. Se scrivi &lt;tt&gt;m&lt;/tt&gt; e premi &lt;tt&gt;Tab&lt;/tt&gt; non accadrà nulla di particolare. Questo perché ci sono più soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, e puoi sia continuare con &lt;tt&gt;Tab&lt;/tt&gt; per far apparire a rotazione tutti i soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, sia scrivere più lettere fino a quando c&apos;è un completamento univoco. Quando premi il tasto &lt;tt&gt;b&lt;/tt&gt; e poi premi &lt;tt&gt;Tab&lt;/tt&gt; completerà con &lt;tt&gt;mbl&lt;/tt&gt;. Più usi questa funzione più è probabile che ti piaccia e che tu faccia affidamento su di essa. Prova il completamento del soprannome su qualcuno e capirai quanto sia potente.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
+        <translation type="vanished">Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Fornito da</translation>
+        <translation type="vanished">Fornito da</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -17556,7 +17647,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Ciao! Grazie per aver installato Psi!
+        <translation type="vanished">Ciao! Grazie per aver installato Psi!
 Speriamo che ti divertirai ad utilizzarlo come noi nel averlo sviluppato!
 &lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, set di icone, o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page&lt;/a&gt; di Psi.
 &lt;br&gt;&lt;br&gt;Se pensi di aver riscontrato un problema o vuoi solo chiacchierare con altri utenti di Psi, visita il &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt; Forum di Psi&lt;/a&gt;.
@@ -17853,51 +17944,51 @@ Per funzionare con GNOME MPlayer non sono necessarie configurazioni aggiuntive;<
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Da:</translation>
+        <translation type="vanished">Da:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Oggetto:</translation>
+        <translation type="vanished">Oggetto:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Account:</translation>
+        <translation type="vanished">Account:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Apri messaggio nel browser</translation>
+        <translation type="vanished">Apri messaggio nel browser</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Apri casella di posta</translation>
+        <translation type="vanished">Apri casella di posta</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Precedente</translation>
+        <translation type="vanished">Precedente</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Avanti</translation>
+        <translation type="vanished">Avanti</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Chiudi</translation>
+        <translation type="vanished">Chiudi</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Chiudi</translation>
+        <translation type="vanished">&amp;Chiudi</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-Mail</translation>
+        <translation type="vanished">[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Apri nel browser</translation>
+        <translation type="vanished">Apri nel browser</translation>
     </message>
 </context>
 <context>

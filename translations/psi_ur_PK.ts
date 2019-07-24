@@ -950,15 +950,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
@@ -1460,6 +1451,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -1944,6 +1946,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>اضافہ کریں بطرف لغت</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3963,10 +3973,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide tab when close chat window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Allow closing inactive tabs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4227,6 +4233,24 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5441,49 +5465,12 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose a sound file</source>
-        <translation>ایک آواز مسل انتخاب کریں</translation>
+        <translation type="vanished">ایک آواز مسل انتخاب کریں</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>آواز‫ (*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shows notifications of new messages in your Gmailbox.
-Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">آواز‫ (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -7005,6 +6992,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -7851,6 +7857,13 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8387,7 +8400,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>بات چیت دریچہ مشمولات حذف کریں</translation>
+        <translation type="vanished">بات چیت دریچہ مشمولات حذف کریں</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8414,19 +8427,11 @@ Tags: %1</source>
         <translation>بات چیت کریں</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8585,6 +8590,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>کریکٹر شمارندہ نمائش کریں</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9384,93 +9401,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Supported accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is no supported accounts!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mail notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-accept suggestions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Shared Statuses</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mail Notifications Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start program:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10147,19 +10077,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار میموری میں بات چیت لاگ نہیں رکھتا۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار میموری میں بات چیت لاگ نہیں رکھتا۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1 گھنٹے پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1 گھنٹے پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1دن پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1دن پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیاربات چیت لاگ ہمیشہ رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیاربات چیت لاگ ہمیشہ رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -12252,6 +12182,10 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12722,6 +12656,10 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation>پلگ ان</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -16510,47 +16448,47 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>مفید ٹوٹکے</translation>
+        <translation type="vanished">مفید ٹوٹکے</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>Psi/شناختی نشان ۔ 128</translation>
+        <translation type="vanished">Psi/شناختی نشان ۔ 128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>شروع میں ٹوٹکے نمائش کریں</translation>
+        <translation type="vanished">شروع میں ٹوٹکے نمائش کریں</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>پچھلا</translation>
+        <translation type="vanished">پچھلا</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+ P</translation>
+        <translation type="vanished">Alt+ P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>اگلا</translation>
+        <translation type="vanished">اگلا</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+ N</translation>
+        <translation type="vanished">Alt+ N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation> psi/arrowRight</translation>
+        <translation type="vanished"> psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;بند کریں</translation>
+        <translation type="vanished">&amp;بند کریں</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C </translation>
+        <translation type="vanished">Alt+C </translation>
     </message>
 </context>
 <context>
@@ -16568,7 +16506,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>آپ کثیر جزباتیہ شبیہ سیٹ منتخب کر سکتے ہیں، اور اختیارات مکالمے استعمال کرتے ہوئے انھیں ترجیحات تقویض کر سکتے ہیں۔</translation>
+        <translation type="vanished">آپ کثیر جزباتیہ شبیہ سیٹ منتخب کر سکتے ہیں، اور اختیارات مکالمے استعمال کرتے ہوئے انھیں ترجیحات تقویض کر سکتے ہیں۔</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16580,7 +16518,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>بات چیت پیغامات ٹائپ کرنے کے دوران آپ کثیرمفید تیز راہ استعمال کر سکتے ہیں: &lt;br&gt;
+        <translation type="vanished">بات چیت پیغامات ٹائپ کرنے کے دوران آپ کثیرمفید تیز راہ استعمال کر سکتے ہیں: &lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;پہغام بھیجنے کے لئے Ctrl+Enter&lt;/li&gt;
 &lt;li&gt;نئی لائن کریکٹر کا اضافہ کرنے کے لئے Ctrl+M&lt;/li&gt;
@@ -16600,7 +16538,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>آپ یہ خاص احکام بات چیت و گروپ بات چیت مکالموں میں ٹائپ کر سکتے ہیں: 
+        <translation type="vanished">آپ یہ خاص احکام بات چیت و گروپ بات چیت مکالموں میں ٹائپ کر سکتے ہیں: 
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; بات چیت نظارہ صاف کرنے کے لئے&lt;/li&gt;
 &lt;li&gt;‫&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; آپ کے عرف سے بدل جاتا ہے&lt;/li&gt;
@@ -16611,68 +16549,38 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>کیا آپ جانتے تھے کہ آپ اکاؤنٹس کو اہل اور نا اہل بنانے کے لیے اکاؤنٹ سیٹ اپ مکالمے میں پڑتال خانے استعمال کر سکتے ہیں؟ یہ ایک اکاؤنٹ کی صورت میں مفید ہو سکتا ہے جو آپ شاذونادر استعمال کرتے ہیں، لہذا یہ آپ کی ترتیب وار فہرست کو بے ترتیب نہیں کرے گا۔</translation>
+        <translation type="vanished">کیا آپ جانتے تھے کہ آپ اکاؤنٹس کو اہل اور نا اہل بنانے کے لیے اکاؤنٹ سیٹ اپ مکالمے میں پڑتال خانے استعمال کر سکتے ہیں؟ یہ ایک اکاؤنٹ کی صورت میں مفید ہو سکتا ہے جو آپ شاذونادر استعمال کرتے ہیں، لہذا یہ آپ کی ترتیب وار فہرست کو بے ترتیب نہیں کرے گا۔</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>بٹن جہاں ہیں وہاں نہیں پسند؟  اپنی حالت کو&apos;دور ہوں&apos;میں تبدیل کرنے کے لیے تیز راہ بٹن چاہتے ہیں؟  &apos;ٹول بار تشکیل دیں&apos; کو دیکھیں، یہ ٹول بار کے سیاق مینیو کے ذریعے دستیاب ہے۔  آپ ایسا ٹول بار بھی بنا سکتے ہیں جو تیرتا ہو!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">بٹن جہاں ہیں وہاں نہیں پسند؟  اپنی حالت کو&apos;دور ہوں&apos;میں تبدیل کرنے کے لیے تیز راہ بٹن چاہتے ہیں؟  &apos;ٹول بار تشکیل دیں&apos; کو دیکھیں، یہ ٹول بار کے سیاق مینیو کے ذریعے دستیاب ہے۔  آپ ایسا ٹول بار بھی بنا سکتے ہیں جو تیرتا ہو!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>کیا آپ&apos;گاڈو۔ گاڈو&apos;کو چھوڑ کر آئے ہیں اور ان کے اعلیٰ جذباتیوں کو یاد کرتے ہیں؟  گھبرائیے مت، ہمارے پاس اس کا حل ہے!    &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; پر ایسے ہزاروں &apos;شبیہ سیٹوں&apos; کو لینے کے لیے جائیں۔ جن کو آپ ‫Psi میں اس کی شکل اپنی مرضی کے مطابق بنانے کے لیے ڈال سکتے ہیں!</translation>
+        <translation type="vanished">کیا آپ&apos;گاڈو۔ گاڈو&apos;کو چھوڑ کر آئے ہیں اور ان کے اعلیٰ جذباتیوں کو یاد کرتے ہیں؟  گھبرائیے مت، ہمارے پاس اس کا حل ہے!    &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; پر ایسے ہزاروں &apos;شبیہ سیٹوں&apos; کو لینے کے لیے جائیں۔ جن کو آپ ‫Psi میں اس کی شکل اپنی مرضی کے مطابق بنانے کے لیے ڈال سکتے ہیں!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>کیا آپ جانتے ہیں کہ&apos;مڈل کلک&apos; (تیں بٹن دالے ماؤس کا درمیانی بٹن‫) Psi کے بہت سے آبجیکٹ کا طے شدہ عمل سر انجام دیتا ہے؟   کسی رابطہ فرد یا پوپ اپ پر مڈل کلک کریں۔</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">کیا آپ جانتے ہیں کہ&apos;مڈل کلک&apos; (تیں بٹن دالے ماؤس کا درمیانی بٹن‫) Psi کے بہت سے آبجیکٹ کا طے شدہ عمل سر انجام دیتا ہے؟   کسی رابطہ فرد یا پوپ اپ پر مڈل کلک کریں۔</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>متعدد مختلف عمل سر انجام دینے کے لیے آپ اپنی ترتیب وار فہرست میں نام پیش کار پر رائٹ کلک کر سکتے ہیں۔  آپ حالت بدل سکتے ہیں،اکاؤنٹ سیٹنگیں ترمیم کر سکتے ہیں، انتظامی</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">متعدد مختلف عمل سر انجام دینے کے لیے آپ اپنی ترتیب وار فہرست میں نام پیش کار پر رائٹ کلک کر سکتے ہیں۔  آپ حالت بدل سکتے ہیں،اکاؤنٹ سیٹنگیں ترمیم کر سکتے ہیں، انتظامی</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>اگر آپ گروپ بات چیت میں معتدبہ بات چیت کر رہے ہیں تو عرف تکمیل ایک ناقابل قبول فیچر ہے۔ سب سے زیادہ قابل استعمال تیز راہ ‫&lt;tt&gt;Tab-Tab&lt;/tt&gt; ہے۔ جب بھی یہ نئی سطر کے شروع میں یا کسی بھی مرحلے کے آگے استعمال کیا جائے تو یہ اس آخری شخص کا عرف داخل کر دیتا ہے جس نے آپ کو بلا واسطہ طور پر پتہ دیا تھا۔ اس کے بعد آپ ‫&lt;tt&gt;Tab&lt;/tt&gt; دبانا جاری رکھ سکتے ہیں اور یہ آپ کو کمرے میں موجود تمام لوگوں کے عرف پر دہرائے گا۔ &lt;br/&gt;&lt;br/&gt;زیادہ پیچیدہ منظر کے لیے‫: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; اور &lt;tt&gt;mbl-revolution&lt;/tt&gt; ایک ہی کمرے میں بیٹھے ہیں۔ اگر آپ‫ &lt;tt&gt;m&lt;/tt&gt; لکھیں اور &lt;tt&gt;Tab&lt;/tt&gt; دبائیں تو یہ کسی قابل اطلاع عمل میں نتیجہ خیز‫ نہیں ہو گا۔ یہ اس لیے ہےکہ ادھر ‫&lt;tt&gt;m&lt;/tt&gt; سے شروع ہونے والے کثیر عرف ہیں اور آپ یا تو ان تمام عرفوں کو دہرانے کے لیے &lt;tt&gt;Tab&lt;/tt&gt; کرنا جاری رکھ سکتے ہیں جو &lt;tt&gt;m&lt;/tt&gt;‫ سے شروع ہوتے ہیں یا مزید حرف لکھ سکتے ہیں جب تک کہ کوئی یکتا تکمیل نا ہو۔ جب آپ &lt;tt&gt;b&lt;/tt&gt; بٹن اور پھر &lt;tt&gt;Tab&lt;/tt&gt; دبائیں گے تو یہ &lt;tt&gt;mbl&lt;/tt&gt; میں مکمل کر دے گا۔ جتنا آپ اس فیچر کو استعمال کریں گے اتنا ہی اسے پسند کرنے لگیں گے اور اس پر بھروسہ کریں گے۔ کسی کے لیے عرف تکمیل استعمال کرنے پر آپ جان جائیں گے کہ یہ کتنا پر اثر ہے۔</translation>
+        <translation type="vanished">اگر آپ گروپ بات چیت میں معتدبہ بات چیت کر رہے ہیں تو عرف تکمیل ایک ناقابل قبول فیچر ہے۔ سب سے زیادہ قابل استعمال تیز راہ ‫&lt;tt&gt;Tab-Tab&lt;/tt&gt; ہے۔ جب بھی یہ نئی سطر کے شروع میں یا کسی بھی مرحلے کے آگے استعمال کیا جائے تو یہ اس آخری شخص کا عرف داخل کر دیتا ہے جس نے آپ کو بلا واسطہ طور پر پتہ دیا تھا۔ اس کے بعد آپ ‫&lt;tt&gt;Tab&lt;/tt&gt; دبانا جاری رکھ سکتے ہیں اور یہ آپ کو کمرے میں موجود تمام لوگوں کے عرف پر دہرائے گا۔ &lt;br/&gt;&lt;br/&gt;زیادہ پیچیدہ منظر کے لیے‫: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; اور &lt;tt&gt;mbl-revolution&lt;/tt&gt; ایک ہی کمرے میں بیٹھے ہیں۔ اگر آپ‫ &lt;tt&gt;m&lt;/tt&gt; لکھیں اور &lt;tt&gt;Tab&lt;/tt&gt; دبائیں تو یہ کسی قابل اطلاع عمل میں نتیجہ خیز‫ نہیں ہو گا۔ یہ اس لیے ہےکہ ادھر ‫&lt;tt&gt;m&lt;/tt&gt; سے شروع ہونے والے کثیر عرف ہیں اور آپ یا تو ان تمام عرفوں کو دہرانے کے لیے &lt;tt&gt;Tab&lt;/tt&gt; کرنا جاری رکھ سکتے ہیں جو &lt;tt&gt;m&lt;/tt&gt;‫ سے شروع ہوتے ہیں یا مزید حرف لکھ سکتے ہیں جب تک کہ کوئی یکتا تکمیل نا ہو۔ جب آپ &lt;tt&gt;b&lt;/tt&gt; بٹن اور پھر &lt;tt&gt;Tab&lt;/tt&gt; دبائیں گے تو یہ &lt;tt&gt;mbl&lt;/tt&gt; میں مکمل کر دے گا۔ جتنا آپ اس فیچر کو استعمال کریں گے اتنا ہی اسے پسند کرنے لگیں گے اور اس پر بھروسہ کریں گے۔ کسی کے لیے عرف تکمیل استعمال کرنے پر آپ جان جائیں گے کہ یہ کتنا پر اثر ہے۔</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>یہ آخری ٹوٹکا ہے۔
+        <translation type="vanished">یہ آخری ٹوٹکا ہے۔
 ‫&lt;br&gt;&lt;br&gt;اگر آپ اپنا ذاتی(آج کا ٹوٹکا) مہیا کرنا چاہتے ہیں تو اسے‫ &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; پر شائع کریں(یا کسی ایک تکمیل کار کو ڈاک بھیج دیں)اور ہمیں اسے اپنے اگلے اجرا میں تکمیل کرنے کے لیے خوشی ہو گی</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>معاون شدہ بمطابق</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">معاون شدہ بمطابق</translation>
     </message>
 </context>
 <context>
@@ -16931,52 +16839,28 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 <context>
     <name>ViewMailDlg</name>
     <message>
-        <source>E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From:</source>
-        <translation>از:‏</translation>
+        <translation type="vanished">از:‏</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>موضوع:‏</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">موضوع:‏</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>پچھلا</translation>
+        <translation type="vanished">پچھلا</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>اگلا</translation>
+        <translation type="vanished">اگلا</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>بند کریں</translation>
+        <translation type="vanished">بند کریں</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;بند کریں</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;بند کریں</translation>
     </message>
 </context>
 <context>
