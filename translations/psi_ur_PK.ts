@@ -1745,7 +1745,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>تصدیق نامہ جائز نہیں ہے!‏</translation>
+        <translation type="vanished">تصدیق نامہ جائز نہیں ہے!‏</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1794,6 +1794,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Email:</source>
         <translation>ای میل:‏</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9245,6 +9250,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -12659,6 +12672,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16219,6 +16236,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> کمپوز کر رہا ہے</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>

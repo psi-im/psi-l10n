@@ -1722,10 +1722,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1771,6 +1767,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Email:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8990,6 +8991,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -12352,6 +12361,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15871,6 +15884,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source> is composing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

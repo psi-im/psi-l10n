@@ -1839,7 +1839,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Certifikát NENÍ platný!</translation>
+        <translation type="vanished">Certifikát NENÍ platný!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1888,6 +1888,11 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>Email:</source>
         <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9701,6 +9706,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation>Ovladače písniček</translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -13283,6 +13296,10 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17132,6 +17149,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> právě píše</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>

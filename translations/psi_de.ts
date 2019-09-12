@@ -1860,7 +1860,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Das Zertifikat ist NICHT gültig!</translation>
+        <translation type="vanished">Das Zertifikat ist NICHT gültig!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1909,6 +1909,11 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <message>
         <source>Email:</source>
         <translation>E-Mail:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9771,6 +9776,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation>Musiktitel-Controller</translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -13363,6 +13376,10 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17255,11 +17272,11 @@ Das Plugin ist dafür konzipiert, Notizen auf dem Jabber Server zu speichern mit
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="vanished">Tab abheften</translation>
+        <translation>Tab abheften</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="vanished">Tab anheften</translation>
+        <translation>Tab anheften</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>

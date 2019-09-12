@@ -1839,7 +1839,7 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Le certificat n&apos;est PAS valide!</translation>
+        <translation type="vanished">Le certificat n&apos;est PAS valide!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1888,6 +1888,11 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <message>
         <source>Email:</source>
         <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9618,6 +9623,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation>Lecteur audio</translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -13142,6 +13155,10 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16841,6 +16858,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> compose</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>

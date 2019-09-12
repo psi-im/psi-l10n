@@ -1844,7 +1844,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>¡El certificado NO es válido!</translation>
+        <translation type="vanished">¡El certificado NO es válido!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1893,6 +1893,11 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <message>
         <source>Email:</source>
         <translation>Correo electrónico:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9715,6 +9720,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation>Controladores de canción</translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
@@ -13293,6 +13306,10 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17167,6 +17184,14 @@ El complemento ha sido diseñado para mantener las notas en el servidor jabber c
     <message>
         <source> is composing</source>
         <translation> está escribiendo</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>

@@ -1868,7 +1868,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Сертифікат недійсний!</translation>
+        <translation type="vanished">Сертифікат недійсний!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1917,6 +1917,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Email:</source>
         <translation>Email:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation>Сертифікат недійсний!
+</translation>
     </message>
 </context>
 <context>
@@ -4397,7 +4403,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation>Обмін Файлами</translation>
+        <translation>Обмін файлами</translation>
     </message>
     <message>
         <source>Share</source>
@@ -7133,7 +7139,7 @@ to play battleship. He wants to play %2.</source>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation>Джерело даних Jingle перебуває в автономному режимі</translation>
+        <translation>Джерело даних Jingle наразі вимкнено</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
@@ -8514,11 +8520,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size of preloaded history</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір попередньо завантаженої історії</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кількість повідомлень, які відображатимуться в журналі чату з історії чату з контактом&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -8679,15 +8685,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Таби</translation>
+        <translation>Вкладки</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">Ефект від натискання колесом миші по вкладках:</translation>
+        <translation>Ефект від натискання колесом миші по вкладках:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">Ефект від подвійного кліку мишею по вкладках:</translation>
+        <translation>Ефект від подвійного кліку мишею по вкладках:</translation>
     </message>
 </context>
 <context>
@@ -9323,6 +9329,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Контролери музики</translation>
+    </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation>Публікувати інформацію про музику, що грає</translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation>Показувати пісню</translation>
     </message>
 </context>
 <context>
@@ -12848,11 +12862,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation>Обмін Файлами</translation>
+        <translation>Обмін файлами</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation type="vanished">Закріпити/Відкріпити вкладку</translation>
+        <translation>Закріпити/Відкріпити вкладку</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -16727,11 +16741,11 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="vanished">Відкріпити вкладку</translation>
+        <translation>Відкріпити вкладку</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="vanished">Закріпити вкладку</translation>
+        <translation>Закріпити вкладку</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
