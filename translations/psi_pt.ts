@@ -7411,11 +7411,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Mostrar</translation>
+        <translation type="vanished">&amp;Mostrar</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Esconder</translation>
+        <translation type="vanished">&amp;Esconder</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -14743,6 +14743,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Esconder</translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

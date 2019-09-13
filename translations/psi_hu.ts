@@ -7878,11 +7878,11 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Megjelenítés</translation>
+        <translation type="vanished">&amp;Megjelenítés</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Elrejtés</translation>
+        <translation type="vanished">&amp;Elrejtés</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15669,6 +15669,14 @@ Türelmét köszönjük.</translation>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Elrejtés</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Megjelenítés</translation>
     </message>
 </context>
 <context>

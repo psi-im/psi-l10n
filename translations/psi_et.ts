@@ -7406,11 +7406,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Nä&amp;ita</translation>
+        <translation type="vanished">Nä&amp;ita</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Peida</translation>
+        <translation type="vanished">&amp;Peida</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -14737,6 +14737,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Peida</translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

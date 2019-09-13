@@ -7734,11 +7734,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;הצג</translation>
+        <translation type="vanished">&amp;הצג</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;הסתר</translation>
+        <translation type="vanished">&amp;הסתר</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15343,6 +15343,14 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">הסתר</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">הצג</translation>
     </message>
 </context>
 <context>

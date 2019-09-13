@@ -7875,11 +7875,11 @@ Para más información, visita &lt;a href=&quot;http://www.gstreamer.net/&quot;&
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Mostrar</translation>
+        <translation type="vanished">&amp;Mostrar</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Ocultar</translation>
+        <translation type="vanished">&amp;Ocultar</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15658,6 +15658,14 @@ Gracias por tu paciencia.</translation>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Ocultar</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Mostrar</translation>
     </message>
 </context>
 <context>

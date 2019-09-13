@@ -7848,11 +7848,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Z&amp;viditelnit</translation>
+        <translation type="vanished">Z&amp;viditelnit</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>S&amp;krýt</translation>
+        <translation type="vanished">S&amp;krýt</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15652,6 +15652,14 @@ Děkujeme za trpělivost.</translation>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Skrýt</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Zobrazit</translation>
     </message>
 </context>
 <context>
