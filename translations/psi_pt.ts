@@ -267,6 +267,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>psi/remove</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -4013,6 +4021,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4484,29 +4496,6 @@ Motivo: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Procurar</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Procurar:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fechar</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Procurar</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">A chave de pesquisa &apos;%1&apos; não foi encontrada.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4875,13 +4864,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Info do Utilizador</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5077,10 +5059,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5117,14 +5095,6 @@ You lost the game.</source>
         <translation>Remover</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5150,6 +5120,42 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7260,6 +7266,10 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
 Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -7459,6 +7469,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Esconder</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7632,15 +7650,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Parado]</translation>
+        <translation>[Parado]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">faltam %1h%2m%3s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7648,7 +7662,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Concluído]</translation>
+        <translation>[Concluído]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7711,11 +7725,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Guardar Como</translation>
+        <translation>Guardar Como</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Todos os ficheiros (*)</translation>
+        <translation>Todos os ficheiros (*)</translation>
     </message>
 </context>
 <context>
@@ -8223,10 +8237,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Conversa</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8240,6 +8250,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8536,13 +8554,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Tamanho</translation>
     </message>
 </context>
 <context>
@@ -9030,10 +9041,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9047,10 +9054,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9576,6 +9579,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
@@ -9628,10 +9642,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Faz com o Psi mostre numa linha separada o assunto nas mensagens. Desactive esta opção se desejar ter algum espaço no ecrâ.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Faz com que o Psi mostre o tamanho da mensagem. Active esta opção se desejar saber quão comprida é a sua mensagem. Pode ser útil se estiver a usar um transporte SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9869,10 +9879,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Faz com que o Psi abra janelas de conversa em modo compacto.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Faz com que o Psi abra janelas de conversa em &quot;tabs&quot;.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11402,10 +11408,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Conversa</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11815,10 +11817,6 @@ Deseja sair?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Resposta errada do servidor</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Falhou a autenticação mútua com o servidor</translation>
     </message>
@@ -11833,10 +11831,6 @@ Deseja sair?</translation>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Mecanismo SASL inválido</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Domínio inválido</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12109,11 +12103,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Definições da Conta</translation>
+        <translation type="vanished">Definições da Conta</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Definições da C&amp;onta</translation>
+        <translation type="vanished">Definições da C&amp;onta</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12306,14 +12300,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Guia de Utilizador (Online)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">Guia de &amp;Utilizador (Online)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14739,18 +14725,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">A ligar</translation>
+        <translation>A ligar</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Esconder</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

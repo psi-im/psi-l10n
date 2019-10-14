@@ -53,10 +53,6 @@
         <translation type="vanished">psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>نویسنده ها</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>رهبر توسعه دهنده پیشین</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">رهبر توسعه دهنده ابزارک ها</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -262,13 +254,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
 </context>
 <context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">لطفا گذرواژه خود را وارد کنید:</translation>
-    </message>
-</context>
-<context>
     <name>AccountManage</name>
     <message>
         <source>XMPP Accounts</source>
@@ -305,6 +290,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4038,6 +4031,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4494,13 +4491,6 @@ Reason: %3</source>
     <message>
         <source>Frame</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
     </message>
 </context>
 <context>
@@ -5066,10 +5056,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5106,14 +5092,6 @@ You lost the game.</source>
         <translation>خذف کردن</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5139,6 +5117,42 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>هیچ کدام</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7178,14 +7192,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">میزبان:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">گذرواژه:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7239,6 +7245,10 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7430,6 +7440,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8192,10 +8210,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="vanished">هرگز</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8209,6 +8223,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8992,10 +9014,6 @@ p, li { white-space: pre-wrap; }
         <translation>فرم</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9009,10 +9027,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9535,6 +9549,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>تنظیمات</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12028,14 +12053,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14653,14 +14670,6 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

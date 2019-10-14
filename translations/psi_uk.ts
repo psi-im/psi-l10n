@@ -294,7 +294,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <name>AccountAdd</name>
     <message>
         <source>Add Account</source>
-        <translation>Додати аккаунт</translation>
+        <translation>Додати акаунт</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
@@ -310,7 +310,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Register new account</source>
-        <translation>Зареєструвати новий аккаунт</translation>
+        <translation>Зареєструвати новий акаунт</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -378,6 +378,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Акаунти не створено. Щоб створити акаунт натисніть кнопку Додати.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation>psi/options</translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -395,7 +403,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation>Будь ласка, від’єднайтесь перед видаленням аккаунту.</translation>
+        <translation>Будь ласка, від’єднайтесь перед видаленням акаунту.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -406,7 +414,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation>Налаштування аккаунту</translation>
+        <translation>Налаштування акаунту</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -414,7 +422,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Account</source>
-        <translation>Аккаунт</translation>
+        <translation>Акаунт</translation>
     </message>
     <message>
         <source>Example: juliet@capulet.com</source>
@@ -689,7 +697,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>Автоматично входити під цим аккаунтом під час запуску Psi. Зручно якщо Psi запускається, коли знайдено підключення до інтернету.</translation>
+        <translation>Автоматично входити під цим акаунтом під час запуску Psi. Зручно якщо Psi запускається, коли знайдено підключення до інтернету.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -729,7 +737,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; У вас може бути декілька клієнтів, що підключені до серверу XMPP і використовують один аккаунт. Повідомлення, для яких не вказано &quot;ресурс-одержувач&quot; будуть доставлятися ресурсу з найбільшим пріоритетом (вказується тут).&lt;/p&gt;&lt;p&gt;Наприклад, якщо у вас постійне з&apos;єднання з Інтернетом на роботі і модемне - вдома, ви можете залишати клієнт XMPP на роботі постійно працюючим з низьким пріоритетом. При цьому ви зможете користуватися тим же аккаунтом працюючи вдома за допомогою клієнта з більш високим пріоритетом, щоб тимчасово перехоплювати повідомлення у клієнта, запущеного на робочому місці.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt; У вас може бути декілька клієнтів, що підключені до серверу XMPP і використовують один акаунт. Повідомлення, для яких не вказано &quot;ресурс-одержувач&quot; будуть доставлятися ресурсу з найбільшим пріоритетом (вказується тут).&lt;/p&gt;&lt;p&gt;Наприклад, якщо у вас постійне з&apos;єднання з Інтернетом на роботі і модемне - вдома, ви можете залишати клієнт XMPP на роботі постійно працюючим з низьким пріоритетом. При цьому ви зможете користуватися тим же акаунтом працюючи вдома за допомогою клієнта з більш високим пріоритетом, щоб тимчасово перехоплювати повідомлення у клієнта, запущеного на робочому місці.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -773,7 +781,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>Цей аккаунт зараз активний, тому зміни подіють лише після наступного входу.</translation>
+        <translation>Цей акаунт зараз активний, тому зміни подіють лише після наступного входу.</translation>
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
@@ -812,7 +820,7 @@ When you enable this option you will not be able to find your password in config
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation>Реєстрація аккаунту</translation>
+        <translation>Реєстрація акаунту</translation>
     </message>
     <message>
         <source>Server</source>
@@ -948,15 +956,15 @@ Reason: %1</source>
     <name>AccountRemove</name>
     <message>
         <source>Remove Account</source>
-        <translation>Видалити аккаунт</translation>
+        <translation>Видалити акаунт</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation>Видалити аккаунт тільки з Psi.</translation>
+        <translation>Видалити акаунт тільки з Psi.</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>Видалити аккаунт з серверу.</translation>
+        <translation>Видалити акаунт з серверу.</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -991,7 +999,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>Пароль не співпадає зі старим паролем аккаунту. Спробуйте ще.</translation>
+        <translation>Пароль не збігається зі старим паролем акаунту. Спробуйте ще.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
@@ -1003,7 +1011,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>The account was unregistered successfully.</source>
-        <translation>Аккаунт видалено успішно.</translation>
+        <translation>Акаунт видалено успішно.</translation>
     </message>
     <message>
         <source>There was an error unregistering the account.
@@ -1032,7 +1040,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation>Ігнорувати всі глобальні дії для цього аккаунту. Наприклад, автостатус, настрій, активність тощо.</translation>
+        <translation>Ігнорувати всі глобальні дії для цього акаунту. Наприклад, автостатус, настрій, активність тощо.</translation>
     </message>
 </context>
 <context>
@@ -1443,7 +1451,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation>Відключити для зазначених аккаунтів (вкажіть JID&apos;и):</translation>
+        <translation>Відключити для зазначених акаунтів (вкажіть JID&apos;и):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -1488,7 +1496,7 @@ The list of exceptions for jids has two operating modes:
         <translation>Цей плагін виконує роль автовідповідача. Має декілька нескладних налаштувань, за допомогою яких можливо:
  * задати текст повідомлення для автовідповіді
  * виключити певні jid&apos;и, включаючи конференції, з об&apos;єктів для автовідповіді (якщо заданий jid конференції, то до винятків потрапляють всі приватні повідомлення)
- * вимкнути автовідповідач для деяких ваших аккаунтів
+ * вимкнути автовідповідач для деяких ваших акаунтів
  * задати кількість відправлень автовідповіді
  * задати інтервал часу, після якого лічильник кількості автовідповідей буде обнулений
  * вимкнути автовідповідач для активної вкладки/таба
@@ -2707,7 +2715,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Правити аккаунт...</translation>
+        <translation>&amp;Правити акаунт...</translation>
     </message>
     <message>
         <source>Online Users</source>
@@ -4012,7 +4020,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation>Показувати пункт &quot;Адміністрування&quot; в меню аккаунту</translation>
+        <translation>Показувати пункт &quot;Адміністрування&quot; в меню акаунту</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
@@ -4156,7 +4164,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation>Включити режим &quot;одного аккаунту&quot;</translation>
+        <translation>Включити режим &quot;одного акаунту&quot;</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
@@ -4215,6 +4223,10 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation>Розмістити поточну вкладку в нижньому ряду в багаторядковому режимі</translation>
+    </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation>Ховати вкладку конференції при закритті вікна</translation>
     </message>
 </context>
 <context>
@@ -4370,9 +4382,9 @@ a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Неможливо з&apos;єднатися з вузлом для передачі даних.
 
-Упевніться що ваші налаштунки приавильні. Якщо ви за
+Упевніться що ваші налаштунки правильні. Якщо ви за
 NAT роутером чи firewall тоді вам потрібно буде відкрити правильний TCP порт
-чи вказати Проксі Передачі Даних в налаштунках вашого аккаунту.</translation>
+чи вказати Проксі Передачі Даних в налаштунках вашого акаунту.</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -5262,7 +5274,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Включити виділення слів</translation>
+        <translation type="vanished">Включити виділення слів</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5302,11 +5314,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Включити кольорові ніки</translation>
+        <translation type="vanished">Включити кольорові ніки</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Включити розфарбовування по хешуванню</translation>
+        <translation type="vanished">Включити розфарбовування по хешуванню</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5335,6 +5347,42 @@ You lost the game.</source>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Видалити вибраний колір зі списку</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation>Виберіть тип забарвлення ніка для конференції</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Ніяке</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Автоматично</translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation>Власна палітра</translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation>Тип забарвлення ніка</translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation>Показувати повідомлення про вхід/вихід</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Показувати зміну статусів</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Показувати пріоритет повідомлення статусу </translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation>Показувати увійшовших спочатку</translation>
     </message>
 </context>
 <context>
@@ -5557,11 +5605,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">Налаштування аккаунту %1 змінено</translation>
+        <translation type="vanished">Налаштування акаунту %1 змінено</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">Загальний статус для аккаунту %1 оновлено</translation>
+        <translation type="vanished">Загальний статус для акаунту %1 оновлено</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
@@ -6838,7 +6886,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Ви не опублікували зміни вашого аккаунту.
+        <translation>Ви не опублікували зміни вашого акаунту.
 Ви впевнені, що ви хочете позбутися їх?</translation>
     </message>
     <message>
@@ -6855,7 +6903,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Ваша інформація про аккаунт була опублікована.</translation>
+        <translation>Ваша інформація про акаунт була опублікована.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6863,7 +6911,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Неможливо отримати інформацію по вашому аккаунту. Можливо, ви ще нічого не вказали.</translation>
+        <translation>Неможливо отримати інформацію по вашому акаунту. Можливо, ви ще нічого не вказали.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7512,6 +7560,10 @@ Reason: %1</source>
         <translation>Неможливо приєднатися.
 Причина: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -7675,13 +7727,13 @@ Reason: %1</source>
     </message>
     <message>
         <source>Active accounts:</source>
-        <translation>Активні аккаунти:</translation>
+        <translation>Активні акаунти:</translation>
     </message>
     <message>
         <source>
 Active accounts:</source>
         <translation>
-Активні аккаунти:</translation>
+Активні акаунти:</translation>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
@@ -7712,6 +7764,14 @@ Incoming event(s) from:</source>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Сховати</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Показати</translation>
     </message>
 </context>
 <context>
@@ -8185,15 +8245,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Account heading foreground:</source>
-        <translation>Колір заголовку аккаунта:</translation>
+        <translation>Колір заголовку акаунт:</translation>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation>Колір фону для імені аккаунта в основному вікні.</translation>
+        <translation>Колір фону для імені акаунту в основному вікні.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
-        <translation>Фон для заголовку аккаунта:</translation>
+        <translation>Фон для заголовку акаунту:</translation>
     </message>
     <message>
         <source>Group heading foreground:</source>
@@ -8525,6 +8585,14 @@ Tags: %1</source>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кількість повідомлень, які відображатимуться в журналі чату з історії чату з контактом&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Показувати зміну статусів</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Показувати пріоритет повідомлення статусу </translation>
     </message>
 </context>
 <context>
@@ -9312,7 +9380,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Музика</translation>
+        <translation type="vanished">Музика</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9329,10 +9397,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Контролери музики</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation>Публікувати інформацію про музику, що грає</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -9954,6 +10018,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>Налаштування</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation>Акаунти</translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation>Керувати акаунтами</translation>
     </message>
 </context>
 <context>
@@ -10832,7 +10907,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account:</source>
-        <translation>Аккаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>For all accounts</source>
@@ -11098,7 +11173,7 @@ Reason: %1.</source>
     <name>PassDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation>Невірний пароль аккаунта</translation>
+        <translation>Невірний пароль акаунту</translation>
     </message>
     <message>
         <source>Save Password</source>
@@ -12025,7 +12100,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation>Не в змозі відключити аккаунт, оскільки розглядаються події.</translation>
+        <translation>Неможливо вимкнути акаунт, є не розглянуті події.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12033,12 +12108,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Disable Account</source>
-        <translation>Вимкнути аккаунт</translation>
+        <translation>Вимкнути акаунт</translation>
     </message>
     <message>
         <source>The account is currently active.
 Do you want to log out ?</source>
-        <translation>Аккаунт зараз активний.
+        <translation>Акаунт зараз активний.
 Ви хочете війти?</translation>
     </message>
     <message>
@@ -12203,7 +12278,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation>Невірна інформація аккаунту</translation>
+        <translation>Невірна інформація акаунту</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
@@ -12211,7 +12286,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
-        <translation>Механізм SASL дуже слабий для цього аккаунту</translation>
+        <translation>Механізм SASL дуже слабий для цього акаунту</translation>
     </message>
     <message>
         <source>Wrong Password</source>
@@ -12347,7 +12422,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account disabled</source>
-        <translation>Аккаунт вимкнено</translation>
+        <translation>Акаунт вимкнено</translation>
     </message>
     <message>
         <source>Credentials expired</source>
@@ -12490,11 +12565,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Налаштування аккаунту</translation>
+        <translation type="vanished">Налаштування акаунту</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Нал&amp;аштування аккаунтів</translation>
+        <translation type="vanished">Нал&amp;аштування аккаунтів</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12590,7 +12665,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation>Встановити настрій для всіх активних аккаунтів</translation>
+        <translation>Встановити настрій для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Set Activity</source>
@@ -12598,7 +12673,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation>Встановити зайняття для всіх активних аккаунтів</translation>
+        <translation>Встановити зайняття для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
@@ -12606,7 +12681,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation>Встановити геолокацію для всіх активних аккаунтів</translation>
+        <translation>Встановити геолокацію для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -12662,7 +12737,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation>Перепідключити всі актівні аккаунти </translation>
+        <translation>Перепідключити всі активні акаунти </translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -13105,15 +13180,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Account setup</source>
-        <translation>Налаштування аккаунтів</translation>
+        <translation>Налаштування акаунтів</translation>
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation>Вам необхідно налаштувати ваш аккаунт. Бажаєте зареєструвати новий аккаунт чи скористатися вже існуючим?</translation>
+        <translation>Вам необхідно налаштувати ваш акаунт. Бажаєте зареєструвати новий акаунт чи скористатися вже існуючим?</translation>
     </message>
     <message>
         <source>Register new account</source>
-        <translation>Зареєструвати новий аккаунт</translation>
+        <translation>Зареєструвати новий акаунт</translation>
     </message>
     <message>
         <source>Use existing account</source>
@@ -14767,8 +14842,8 @@ The message was not sent.</source>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation>Не вдалося сгенерувати ключі для аккаунту &quot;%1&quot;.
-OTR плагін не будет працювати.</translation>
+        <translation>Не вдалося згенерувати ключі для акаунту &quot;%1&quot;.
+OTR плагін не буде працювати.</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
@@ -15160,7 +15235,7 @@ URL: %4
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>Необхідно згенерувати особисті ключі для аккаунта &quot;%1&quot;. Це займе деякий час (від пари секунд до декількох хвилин). Ви зможете використовувати Psi+ в цей час, але всі повідомлення будуть незашифрованими, доки ключі не буде згенеровано.
+        <translation>Необхідно згенерувати особисті ключі для акаунту &quot;%1&quot;. Це займе деякий час (від пари секунд до декількох хвилин). Ви зможете використовувати Psi+ в цей час, але всі повідомлення будуть незашифрованими, доки ключі не буде згенеровано.
 
 Згенерувати ключі зараз?</translation>
     </message>
@@ -15169,7 +15244,7 @@ Do you want to generate keys now?</source>
 %2
 
 Thanks for your patience.</source>
-        <translation>Ключі успішно згенеровані. Відбиток ключа для аккаунта &quot;%1&quot;:
+        <translation>Ключі успішно згенеровані. Відбиток ключа для акаунту &quot;%1&quot;:
 %2
 
 Дякуємо за терпіння.</translation>
@@ -15209,14 +15284,6 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>Передача</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Сховати</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Показати</translation>
     </message>
 </context>
 <context>
@@ -15360,7 +15427,7 @@ Reason: %1</source>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation>Цей плагін призначений для нагадувань про майбутні дні народження. Якщо Ви встановили цей плагін вперше, то вам необхідно зайти усіма своїми акаунтами в онлайн, зайти до налаштувань плагіна і натиснути кнопку &quot;Оновити дні народження&quot;. В результаті буде зібрана інформація про дні народження користувачів у вашому ростері, а якщо вибрана відповідна опція, то і користувачів, vCard&apos;и яких знаходяться в кеші на жорсткому диску.</translation>
+        <translation>Цей плагін призначений для нагадувань про майбутні дні народження. Якщо Ви встановили цей плагін вперше, то вам необхідно зайти усіма своїми акаунтами в онлайн, зайти до налаштувань плагіну і натиснути кнопку &quot;Оновити дні народження&quot;. В результаті буде зібрана інформація про дні народження користувачів у вашому ростері, а якщо вибрана відповідна опція, то і користувачів, vCard&apos;и яких знаходяться в кеші на жорсткому диску.</translation>
     </message>
 </context>
 <context>
@@ -15408,15 +15475,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation>Встановити настрій для всіх активних аккаунтів</translation>
+        <translation>Встановити настрій для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation>Встановити зайняття для всіх активних аккаунтів</translation>
+        <translation>Встановити зайняття для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Set Status for all active accounts</source>
-        <translation>Встановити статус для всіх активних аккаунтів</translation>
+        <translation>Встановити статус для всіх активних акаунтів</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -16044,7 +16111,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Перепідключити всі актівні аккаунти</translation>
+        <translation type="vanished">Перепідключити всі активні акаунти</translation>
     </message>
     <message>
         <source>Set Mood</source>
@@ -16501,7 +16568,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StatusSetDlg</name>
     <message>
         <source>Set Status: All accounts</source>
-        <translation>Встановити Статус: Усі аккаунти</translation>
+        <translation>Встановити Статус: Усі акаунти</translation>
     </message>
     <message>
         <source>Set Status: %1</source>
@@ -17092,7 +17159,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">Чи знали ви, що ви можете використовувати перемикачі в діалозі Налаштування аккаунту, щоб активувати/відключити аккаунти? Це, можливо, корисно у разі аккаунту, який ви використовуєте рідко.</translation>
+        <translation type="vanished">Чи знали ви, що ви можете використовувати перемикачі в діалозі Налаштування акаунту, щоб активувати/відключити акаунти? Це, можливо, корисно у разі акаунту, який ви використовуєте рідко.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
@@ -17116,7 +17183,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">Натисніть на імені серверу в списку контактів, щоб активувати деякі дії. Ви можете змінити статус, змінити налаштунки аккаунту, змінити якісь адміністративні налаштунки (якщо ви маєте права) та ін.</translation>
+        <translation type="vanished">Натисніть на імені серверу в списку контактів, щоб активувати деякі дії. Ви можете змінити статус, змінити налаштунки акаунту, змінити якісь адміністративні налаштунки (якщо ви маєте права) та ін.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
@@ -17435,7 +17502,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Аккаунт:</translation>
+        <translation type="vanished">Акаунт:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
@@ -18363,7 +18430,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation>Немає приватного ключа для аккаунту &quot;%1&quot;</translation>
+        <translation>Немає приватного ключа для акаунту &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
@@ -18375,7 +18442,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation>Аккаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>User: </source>
@@ -18472,7 +18539,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation>Аккаунт</translation>
+        <translation>Акаунт</translation>
     </message>
     <message>
         <source>User</source>
@@ -18496,7 +18563,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation>Аккаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>User: </source>
@@ -18535,7 +18602,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation>Аккаунт</translation>
+        <translation>Акаунт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18547,7 +18614,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation>Аккаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18578,7 +18645,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation>Немає особистого ключа для аккаунту &quot;%1&quot;</translation>
+        <translation>Немає особистого ключа для акаунту &quot;%1&quot;</translation>
     </message>
     <message>
         <source>unverified</source>
@@ -18614,7 +18681,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation>ID сесії між аккаунтами &quot;%1&quot; та %2: %3</translation>
+        <translation>ID сесії між акаунтами &quot;%1&quot; та %2: %3</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>

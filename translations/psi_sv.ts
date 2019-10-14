@@ -49,10 +49,6 @@
         <translation>Om</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Författare</translation>
     </message>
@@ -81,16 +77,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Huvudutvecklare widgets</translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>Utvecklare</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Språkkoordinator, diverse assistans</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -242,21 +230,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
 </context>
 <context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">Skriv lösenordet för %1:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">Skriv ditt lösenord:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">Behöver lösenord</translation>
-    </message>
-</context>
-<context>
     <name>AccountManage</name>
     <message>
         <source>XMPP Accounts</source>
@@ -293,6 +266,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4053,6 +4034,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4527,29 +4512,6 @@ Orsak: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Hitta</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Hitta:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Hitta</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Söksträngen &apos;%1&apos; hittades ej.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4610,10 +4572,6 @@ Anledning: %1</translation>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>Fel: Du är redan i eller hå på att gå in i rummet!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Kunde inte gå med i gruppchatt.	Orsak: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4923,73 +4881,6 @@ Anledning: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Moderatorer</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Deltagare</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Besökare</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Skicka &amp;meddelande</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Öppna &amp;chattfönster</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Röstsamtal</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">&amp;Utför kommando</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Sparka</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Ingen anledning</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Anpassad anledning</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Bannlys</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Ändra roll</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Besökare</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Deltagare</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Moderator</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Användar&amp;information</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5188,7 +5079,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Slå på ordmarkering</translation>
+        <translation type="vanished">Slå på ordmarkering</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5228,11 +5119,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Slå på färgning av smeknamn</translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Slå på färgning av smeknamn</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5261,6 +5148,42 @@ Du förlorade.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Tar bort den valda färgen från listan</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Ingen</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6218,10 +6141,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Iconset Details: %1</source>
         <translation>Information om ikonuppsättning: %1</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -7314,28 +7233,8 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Identitet:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">Nyligen:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>Rumsinformation</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="vanished">Värd:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">Rum:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">Smeknamn:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Lösenord:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7393,6 +7292,10 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
 Reason: %1</source>
         <translation>Kunde inte gå med i gruppchatt.
 Orsak: %1</translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -7593,6 +7496,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Göm</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7771,15 +7682,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Avstannad]</translation>
+        <translation>[Avstannad]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">%1t%2m%3s kvar</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7787,11 +7694,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Klar]</translation>
+        <translation>[Klar]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Vägra</translation>
+        <translation>Vägra</translation>
     </message>
     <message>
         <source>Description for</source>
@@ -7825,10 +7732,6 @@ Details: %1</source>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Dialog</translation>
-    </message>
-    <message>
         <source>Not selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7854,11 +7757,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Spara som</translation>
+        <translation>Spara som</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Alla filer (*)</translation>
+        <translation>Alla filer (*)</translation>
     </message>
 </context>
 <context>
@@ -7992,14 +7895,6 @@ Tags: %1</source>
         <translation>Tillåt fjärrstyrning</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">Kontrollera stavning</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Använd kontakters meddelandeformattering</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>Enkelklick ger standardhandling</translation>
     </message>
@@ -8018,10 +7913,6 @@ Tags: %1</source>
     <message>
         <source>Show subject line in events</source>
         <translation>Visa ärenderader i händelser</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">Visa teckenräknar</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8296,10 +8187,6 @@ Tags: %1</source>
         <translation>Dataöverföringsbasport:</translation>
     </message>
     <message>
-        <source>99999; </source>
-        <translation type="vanished">99999;-</translation>
-    </message>
-    <message>
         <source>(1 TCP, 4 UDP)</source>
         <translation>(1 TCP, 4 UDP)</translation>
     </message>
@@ -8378,64 +8265,12 @@ Tags: %1</source>
         <translation>Öppna chattar i kompakt läge</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">Använd flikläge:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">för chattar bara</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">för MUCar bara</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">för chattar och MUCar separat</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">för MUCar och chattar i ett fönster</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[anpassad]</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">Ändra storlek på textskrivningsrutan automatiskt</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Standardhandling</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Meddelande</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Chatt</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">Rensa chattfönstrets innehåll</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">När chattfönstret stängs</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">En timme efter att chattfönstret stängts</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">En dag efter att chattfönstret stängts</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Aldrig</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8451,6 +8286,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8747,17 +8590,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Storlek</translation>
     </message>
 </context>
 <context>
@@ -9245,10 +9077,6 @@ p, li { white-space: pre-wrap; }
         <translation>Form</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9262,10 +9090,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9793,6 +9617,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
@@ -9823,14 +9658,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Slår på fjärrstyrning av klienten</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Använd detta val om du vill aktivera stavningskontroll</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Om på så kommer Psi att visa inkommande meddelanden formaterade som avsändaren angett</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Använd detta val om du vill att vald text i inkommande meddelanden och chatthistoriken ska kopieras till klippbordet automatiskt</translation>
     </message>
@@ -9853,10 +9680,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Gör så att Psi visa ärenderaden separat i meddelanden. Välj bort detta om du vill spara utrymme på skärmen.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Gör så att Psi visa en räknare för meddelandelängd. Använd detta val om du vill veta hur långt ditt meddelande är. Kan vara praktiskt när du använder en SMS-transport.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10093,10 +9916,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Gör så att Psi öppnar chattfönster i kompakt läge.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Gör så att Psi öppnar chattar i ett flikfönster.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11632,14 +11451,6 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
         <translation>Standardhandling</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Meddelande</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Chatt</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>Slå på emotikoner</translation>
     </message>
@@ -12049,10 +11860,6 @@ Vill du koppla ner?</translation>
         <translation>Ingen tillämplig mekanism tillgänglig för aktuella säkerhetsinställningar (exempelvis SASL-bibliotek med för låg säkerhet eller klartextautentisering ej tillåten)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Fel i serversvar</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Ömsesidig autentisering av servern misslyckades</translation>
     </message>
@@ -12067,10 +11874,6 @@ Vill du koppla ner?</translation>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Ogiltig SASL-mekanism</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Ogiltig realm</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12345,11 +12148,11 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Kontokonfigurering</translation>
+        <translation type="vanished">Kontokonfigurering</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>&amp;Kontokonfigurering</translation>
+        <translation type="vanished">&amp;Kontokonfigurering</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12542,14 +12345,6 @@ Orsak: %1.</translation>
     <message>
         <source>Show ReadMe file</source>
         <translation>Visa LäsMig-fil</translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Användarguide (på nätet)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Användarguide (på nätet)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -12843,10 +12638,6 @@ Orsak: %1.</translation>
     <message>
         <source>Options:</source>
         <translation>Inställningar:</translation>
-    </message>
-    <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Gå till &lt;http://psi-im.org/&gt; för mer information om Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -14987,22 +14778,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Svarat</translation>
+        <translation>Svarat</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Ansluter</translation>
+        <translation>Ansluter</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Göm</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16558,18 +16341,6 @@ Rätta och försök igen.</translation>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Hej! Tack för att du har laddat ner Psi!
-Vi hoppas att du kommer att tycka om att använda det, vi har tyckt om att göra det!
-&lt;br&lt;br&gt;Om du vill ladda ner en annan översättning, ett ikonpaket eller Psi bör du gå till &lt;a href=&quot;http://psi-im.org/&quot;&gt;Psis hemsida&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Om du tror att du har hittat ett fel eller vill diskutera med andra Psi-användare, besök &lt;a href=&quot;http://psi-im.org/&quot;&gt;Psis forum&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi-gänget&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="vanished">Du kan välja flera emotikon-ikonuppsättningar, och ge dem prioriteter i inställningsdialogen.</translation>

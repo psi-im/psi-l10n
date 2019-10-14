@@ -226,19 +226,59 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</transl
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Past Lead Widget Developer</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Developer and Maintainer</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Language coordinator, macOS port, miscellaneous assistance</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="vanished">Founder, Patcher and former MS Windows Packager</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="vanished">Founder, Patcher and former Designer</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="vanished">Lead Patcher and Plugins Writer; former macOS Packager</translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="vanished">Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="vanished">Patcher and Plugins Writer; MS Windows Packager</translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="vanished">Patcher and Plugins Writer; former Fedora Packager</translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="vanished">Patcher and former Ubuntu Packager</translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="vanished">former Ubuntu Packager</translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="vanished">former Mandriva Linux Packager</translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="vanished">Patcher and former Russian translator</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -336,6 +376,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation>psi/options</translation>
     </message>
 </context>
 <context>
@@ -1528,11 +1576,11 @@ The list of exceptions for jids has two operating modes:
     <name>BOBFileShareDownloader</name>
     <message>
         <source>&quot;Bits Of Binary&quot; data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Bits Of Binary&quot; data source is offline</translation>
     </message>
     <message>
         <source>Download using &quot;Bits Of Binary&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Download using &quot;Bits Of Binary&quot; failed</translation>
     </message>
 </context>
 <context>
@@ -1873,7 +1921,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>The certificate is NOT valid!
 </source>
-        <translation type="unfinished"></translation>
+        <translation>The certificate is NOT valid!
+</translation>
     </message>
 </context>
 <context>
@@ -2029,11 +2078,11 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Recording (%1 sec left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recording (%1 sec left)</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Record and share audio note while pressed</translation>
     </message>
 </context>
 <context>
@@ -4167,7 +4216,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Place current tab at the bottom row in multirow mode</translation>
+    </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation>Hide groupchat when closing window</translation>
     </message>
 </context>
 <context>
@@ -4356,29 +4409,29 @@ that outgoing TCP connections are allowed.</translation>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Share Files</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Share</translation>
     </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
-        <translation type="unfinished"></translation>
+        <translation>Download sources are not given</translation>
     </message>
 </context>
 <context>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Published on HttpUpload service</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to publish on HttpUpload service</translation>
     </message>
 </context>
 <context>
@@ -5215,7 +5268,7 @@ You lost the game.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Enable word highlighting</translation>
+        <translation type="vanished">Enable word highlighting</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5255,11 +5308,11 @@ You lost the game.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Enable nick coloring</translation>
+        <translation type="vanished">Enable nick coloring</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Enable hash nick coloring</translation>
+        <translation type="vanished">Enable hash nick coloring</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5288,6 +5341,42 @@ You lost the game.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Removes the selected color from the list</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation>Select nick coloring type for conference log</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>None</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatic</translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation>Manual palette</translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation>Nick Coloring Type</translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation>Show joins</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Show status changes</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Show status with priority</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation>Show initial joins</translation>
     </message>
 </context>
 <context>
@@ -7091,19 +7180,19 @@ to play battleship. He wants to play %2.</translation>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle data source is offline</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid Jingle-FT URI</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation type="unfinished"></translation>
+        <translation>Unexpected incoming content</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle download failed</translation>
     </message>
 </context>
 <context>
@@ -7464,6 +7553,10 @@ Reason: %1</source>
         <translation>Unable to join groupchat.
 Reason: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -7665,6 +7758,14 @@ Incoming event(s) from:</translation>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Hide</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Show</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7840,101 +7941,97 @@ Details: %1</translation>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Pending]</translation>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Stalled]</translation>
+        <translation>[Stalled]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">%1h%2m%3s remaining</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Failed]</translation>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Done]</translation>
+        <translation>[Done]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Reject</translation>
+        <translation>Reject</translation>
     </message>
     <message>
         <source>Description for</source>
-        <translation type="unfinished"></translation>
+        <translation>Description for</translation>
     </message>
     <message>
         <source>%1d</source>
-        <translation type="unfinished">%1. {1d?}</translation>
+        <translation>%1. {1d?}</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished">%1. {1h?}</translation>
+        <translation>%1. {1h?}</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished">%1. {1m?}</translation>
+        <translation>%1. {1m?}</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished">%1. {1s?}</translation>
+        <translation>%1. {1s?}</translation>
     </message>
     <message>
         <source>%1 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 remaining</translation>
     </message>
     <message>
         <source>Open Destination Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Destination Folder</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Not selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Not selected</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Send</translation>
+        <translation>Send</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 File(s)</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Receive</translation>
     </message>
     <message>
         <source>Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Files</translation>
     </message>
     <message>
         <source>Directory to save files</source>
-        <translation type="unfinished"></translation>
+        <translation>Directory to save files</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Save As</translation>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">All files (*)</translation>
+        <translation>All files (*)</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferred: %1/%2 bytes</translation>
     </message>
 </context>
 <context>
@@ -7948,7 +8045,7 @@ Details: %1</translation>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
-        <translation type="unfinished"></translation>
+        <translation>Unexpected HTTP status</translation>
     </message>
 </context>
 <context>
@@ -8476,11 +8573,19 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Size of preloaded history</source>
-        <translation type="unfinished"></translation>
+        <translation>Size of preloaded history</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Show status changes</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Show status with priority</translation>
     </message>
 </context>
 <context>
@@ -8641,15 +8746,15 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Tabs</translation>
+        <translation>Tabs</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">Action for mouse middle click on tabs:</translation>
+        <translation>Action for mouse middle click on tabs:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">Action for mouse double click on tabs:</translation>
+        <translation>Action for mouse double click on tabs:</translation>
     </message>
 </context>
 <context>
@@ -9268,7 +9373,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Tunes</translation>
+        <translation type="vanished">Tunes</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9287,12 +9392,8 @@ p, li { white-space: pre-wrap; }
         <translation>Tune Controllers</translation>
     </message>
     <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Publish Tunes</source>
-        <translation type="unfinished"></translation>
+        <translation>Publish Tunes</translation>
     </message>
 </context>
 <context>
@@ -9912,6 +10013,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>Settings</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation>Accounts</translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation>Manage accounts</translation>
     </message>
 </context>
 <context>
@@ -12316,7 +12428,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Files For Sharing</translation>
     </message>
 </context>
 <context>
@@ -12447,11 +12559,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Account Setup</translation>
+        <translation type="vanished">Account Setup</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Acc&amp;ount Setup</translation>
+        <translation type="vanished">Acc&amp;ount Setup</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12819,11 +12931,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Share Files</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin/UnPin Tab</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -12993,7 +13105,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi is a cross-platform XMPP client aimed at experienced users.</translation>
     </message>
 </context>
 <context>
@@ -13561,7 +13673,7 @@ Would you like to activate that session now?</translation>
     </message>
     <message>
         <source>Options filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Options filter</translation>
     </message>
 </context>
 <context>
@@ -15137,39 +15249,31 @@ Thanks for your patience.</translation>
     </message>
     <message>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Not started</translation>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepare local offer</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ unacknowledged</translation>
     </message>
     <message>
         <source>Waiting accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Waiting accept</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Accepted</translation>
+        <translation>Accepted</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Connecting</translation>
+        <translation>Connecting</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">Show</translation>
+        <translation>Transferring</translation>
     </message>
 </context>
 <context>

@@ -377,6 +377,14 @@ Seleziona &lt;b&gt;Registra Nuovo Account&lt;/b&gt; se vuoi che Psi provi a crea
         <source>psi/remove</source>
         <translation>psi/rimuovi</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nessun account creato. Per crearne uno clicca il pulsante Aggiungi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation>psi/opzioni</translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -4212,6 +4220,10 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation>Metti la scheda attuale nella riga in fondo in modalità multiriga</translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -5255,7 +5267,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Abilita l&apos;evidenziazione di parole</translation>
+        <translation type="vanished">Abilita l&apos;evidenziazione di parole</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5295,11 +5307,11 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Abilita colorazione dei soprannomi</translation>
+        <translation type="vanished">Abilita colorazione dei soprannomi</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Abilita colorazione hash soprannomi</translation>
+        <translation type="vanished">Abilita colorazione hash soprannomi</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5328,6 +5340,42 @@ Hai perso la partita.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Rimuovi il colore selezionato dalla lista</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation>Seleziona il tipo di colorazione dei nick per il log conferenze</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nessuno</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatico</translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation>Palette manuale</translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation>Tipo colorazione nick</translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation>Mostra adesioni</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Mostra cambi di stato</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Mostra stato con priorità</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation>Mostra adesioni iniziali</translation>
     </message>
 </context>
 <context>
@@ -7507,6 +7555,10 @@ Reason: %1</source>
         <translation>Impossibile entrare nella conferenza.
 Motivo: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -7707,6 +7759,14 @@ Evento/i in arrivo da:</translation>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Plugin PsiMedia non caricato o non inizializzato.&lt;br&gt;Controlla &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; per maggiori dettagli.</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Nascondi</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Mostra</translation>
     </message>
 </context>
 <context>
@@ -8522,6 +8582,14 @@ Argomento MUC per esempio.</translation>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il numero di messaggi che verrà mostrato nel log della chat dalla cronologia di chat con un contatto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation>Mostra cambi di stato</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation>Mostra stato con priorità</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9308,7 +9376,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Brani</translation>
+        <translation type="vanished">Brani</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9325,10 +9393,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Controllori Brano</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation>Pubblica informazioni sulla musica che si sta ascoltando</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -9950,6 +10014,17 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Settings</source>
         <translation>Impostazioni</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation>Account</translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation>Gestisci gli account</translation>
     </message>
 </context>
 <context>
@@ -12485,11 +12560,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Imposta Account</translation>
+        <translation type="vanished">Imposta Account</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Imposta Acc&amp;ount</translation>
+        <translation type="vanished">Imposta Acc&amp;ount</translation>
     </message>
     <message>
         <source>Options</source>
@@ -15199,14 +15274,6 @@ Grazie per la tua pazienza.</translation>
     <message>
         <source>Transferring</source>
         <translation>Trasferimento</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Nascondi</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">Mostra</translation>
     </message>
 </context>
 <context>

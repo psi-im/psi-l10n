@@ -49,10 +49,6 @@
         <translation>Осы туралы</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Авторлар</translation>
     </message>
@@ -81,16 +77,8 @@
         <translation>Бұрынғы басты өндіруші</translation>
     </message>
     <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Виджеттердің басты өндірушісі</translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>Өндіруші</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Тілдер қолдауына жауап беретін және түрлі көмек көрсетеді</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -242,21 +230,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
 </context>
 <context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">%1 үшін парольді енгізіңіз:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">Өз пароліңізді енгізіңіз:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">Пароль керек</translation>
-    </message>
-</context>
-<context>
     <name>AccountManage</name>
     <message>
         <source>XMPP Accounts</source>
@@ -293,6 +266,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4037,6 +4018,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4500,25 +4485,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Табу</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Табу:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">Та&amp;бу</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4578,10 +4544,6 @@ Reason: %1</source>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Чат бөлмесіне кіру мүмкін емес.	Себебі: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4891,69 +4853,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Модераторлар</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Қатысушылар</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Қонақтар</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Хабарла&amp;маны жіберу</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">&amp;Чат терезесін ашу</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Дауыс қоңырауы</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">Команданы ор&amp;ындау</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Тебу</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Себебі жоқ</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Таңдауыңызша себеп</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Ролін ауыстыру</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Қонақ</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Қатысушы</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Модератор</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Пайдаланушы ақ&amp;параты</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5149,10 +5048,6 @@ You lost the game.</source>
         <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5189,14 +5084,6 @@ You lost the game.</source>
         <translation>Өшіру</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5222,6 +5109,42 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Ешнәрсе</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5927,13 +5850,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Close</source>
         <translation>Жабу</translation>
-    </message>
-</context>
-<context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Create new profile</source>
-        <translation type="vanished">Жаңа профильді жасау</translation>
     </message>
 </context>
 <context>
@@ -7264,28 +7180,8 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Идентификация:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">Соңғы:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>Бөлме ақпараты</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="vanished">Хост:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">Бөлме:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">Ник аты:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7342,6 +7238,10 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -7542,6 +7442,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Жасыру</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7715,7 +7623,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Тоқтап қалған]</translation>
+        <translation>[Тоқтап қалған]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
@@ -7727,11 +7635,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Дайын]</translation>
+        <translation>[Дайын]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Тайдыру</translation>
+        <translation>Тайдыру</translation>
     </message>
     <message>
         <source>Description for</source>
@@ -7765,10 +7673,6 @@ Details: %1</source>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Сұхбат</translation>
-    </message>
-    <message>
         <source>Not selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7794,11 +7698,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Қалайша сақтау</translation>
+        <translation>Қалайша сақтау</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Барлық файлдар (*)</translation>
+        <translation>Барлық файлдар (*)</translation>
     </message>
 </context>
 <context>
@@ -7930,10 +7834,6 @@ Tags: %1</source>
     <message>
         <source>Enable remote controlling from other locations</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check spelling</source>
-        <translation type="vanished">Емлені тексеру</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -8228,10 +8128,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>99999; </source>
-        <translation type="vanished">99999; </translation>
-    </message>
-    <message>
         <source>(1 TCP, 4 UDP)</source>
         <translation>(1 TCP, 4 UDP)</translation>
     </message>
@@ -8310,68 +8206,12 @@ Tags: %1</source>
         <translation>Чаттарды ықшам көрінісінде ашу</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">Беттерді қолдану:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">тек чаттар үшін</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">тек чат бөлмелері үшін</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">чаттар мен чат бөлмелері үшін, бөлек</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">чаттар мен чат бөлмелері үшін, бір терезеде</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[бапталған]</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Alt-[0-9] беттерге қатынау жарлықтарын іске қосу</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Бастапқы әрекет</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Хабарлама</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Чат</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">Чат терезесінің құрамасын өшіру</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">Чат терезесі жабылған кезде</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">Чат терезесі жабылған кезден бастап бір сағаттан кейін</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">Чат терезесі жабылған кезден бастап бір күннен кейін</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Ешқашан</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8387,6 +8227,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8683,17 +8531,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Өлшемі</translation>
     </message>
 </context>
 <context>
@@ -9181,10 +9018,6 @@ p, li { white-space: pre-wrap; }
         <translation>Форма</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9198,10 +9031,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9724,6 +9553,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>Баптаулар</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11527,14 +11367,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Бастапқы әрекет</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Хабарлама</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Чат</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>Смайликтерді іске қосу</translation>
     </message>
@@ -12230,11 +12062,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Тіркелгіні баптау</translation>
+        <translation type="vanished">Тіркелгіні баптау</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Тір&amp;келгіні баптау</translation>
+        <translation type="vanished">Тір&amp;келгіні баптау</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12427,14 +12259,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation>МеніОқы файлын көрсету</translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Пайдаланушы нұсқаулығы (онлайн)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">П&amp;айдаланушы нұсқаулығы (онлайн)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -12731,10 +12555,6 @@ Reason: %1.</source>
     <message>
         <source>Options:</source>
         <translation>Баптаулар:</translation>
-    </message>
-    <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Psi туралы көбірек білу үшін &lt;http://psi-im.org/&gt; сайтын шолыңыз.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -13798,10 +13618,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>File</source>
         <translation>Файл</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="vanished">Айналдыру қатесі.</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -14878,18 +14694,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Қосылуда</translation>
+        <translation>Қосылуда</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Жасыру</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -77,16 +77,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Главем widget програмер</translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>Програмер</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Координатор за јазици, различна помош</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -273,6 +265,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4036,6 +4036,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -4509,29 +4513,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Пронајди</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Пронајди:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Затвори</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Пронајди</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Бараниот текст „%1“ не е пронајден.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4592,10 +4573,6 @@ Reason: %1</source>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>Грешка: Веќе сте тука, не досаѓајте!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Не може да се приклучите во групниот разговор.	Причина: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4905,65 +4882,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Модератори</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Учесници</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Гости</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Испрати &amp;порака</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Отвори го прозорецот за &amp;разговор</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Гласовен повик</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">И&amp;зврши наредба</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Клонци</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">За&amp;брани</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Промени улога</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Гостин</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Учесник</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Модератор</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Информации за корисникот</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5159,10 +5077,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5199,14 +5113,6 @@ You lost the game.</source>
         <translation>Отстрани</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5232,6 +5138,42 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Никој</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7341,6 +7283,10 @@ Reason: %1</source>
         <translation>Не може да се приклучите во групниот разговор.
 Причина: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -7540,6 +7486,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Скриј</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7713,15 +7667,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Одложено]</translation>
+        <translation>[Одложено]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">преостануваат %1h%2m%3s</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7729,7 +7679,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Готово]</translation>
+        <translation>[Готово]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7767,10 +7717,6 @@ Details: %1</source>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Дијалог</translation>
-    </message>
-    <message>
         <source>Not selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7796,11 +7742,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Сними како</translation>
+        <translation>Сними како</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Сите датотеки (*)</translation>
+        <translation>Сите датотеки (*)</translation>
     </message>
 </context>
 <context>
@@ -8308,18 +8254,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Порака</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Разговор</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Никогаш</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8333,6 +8267,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8629,13 +8571,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Големина</translation>
     </message>
 </context>
 <context>
@@ -9123,10 +9058,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9140,10 +9071,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9671,6 +9598,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
@@ -9701,14 +9639,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Овозможува контролирање на клиентот од други локации</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Изберете ја оваа опција ако сакате проверка на правопис</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Ако е овозможено, Psi ќе ги прикажува новите пораки онака како што ги одредил контактот</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Изберете ја оваа опција ако саката избраниот текст од новите пораки и разговори автоматски да се копира на таблата со исечоци</translation>
     </message>
@@ -9731,10 +9661,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Psi прикажува посебна линија за тема во пораките. Не го избирајте ова ако сакате да заштедите место на екранот.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Psi прикажува бројач на должината на пораката. Изберете ја оваа опција ако сакате да знаете колку е долга Вашата порака. Ова може да биде корисно кога користите СМС транспорт.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9971,10 +9897,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi ќе отвора прозорци за разговор во компактен режим.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Psi ќе отвора разговори прозорец со јазичиња.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11505,14 +11427,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Порака</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Разговор</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11922,10 +11836,6 @@ Do you want to log out ?</source>
         <translation>Нема соодветен механизам за дадените поставки за безбедност (пр. SASL библиотеката е преслаба, или не е овозможена текстуална идентификација)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Лош одговор од серверот</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Заедничката идентификација не успеа кај серверот</translation>
     </message>
@@ -11940,10 +11850,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Неправилен SASL механизам</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Неправилен простор</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12218,11 +12124,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Поставување на сметката</translation>
+        <translation type="vanished">Поставување на сметката</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Пос&amp;тавување на сметката</translation>
+        <translation type="vanished">Пос&amp;тавување на сметката</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12415,14 +12321,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation>Датотека „Прочитај ме“</translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Прирачник за корисници (на интернет)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Прирачник за корисници (на интернет)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14851,22 +14749,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Прифатен</translation>
+        <translation>Прифатен</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Се поврзувам</translation>
+        <translation>Се поврзувам</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Скриј</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16359,18 +16249,6 @@ Please correct and try again.</source>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Здраво! Благодариме што го избравте Psi!
-Се надеваме дека ќе уживате во неговото користење исто како што ние уживавме во неговото правење!
-&lt;br&gt;&lt;br&gt;Ако сакате да земете превод во друг јазик, икони или нова верзија на Psi, посетете ја &lt;a href=&quot;http://psi-im.org&quot;&gt;домашната страница на Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Ако мислите дека сте пронашле бубачка или пак само сакате да разговарате со други корисници на Psi, посетете ги &lt;a href=&quot;forum.psi-im.org&quot;&gt;форумите на Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Тимот на Psi&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="vanished">Можете да изберете повеќе сетови икони со смешковци и да им доделите приоритети во дијалогот за опции.</translation>
