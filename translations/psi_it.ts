@@ -4222,7 +4222,7 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi chat di gruppo quando chiudo la finestra</translation>
     </message>
 </context>
 <context>
@@ -12430,6 +12430,13 @@ Motivo: %1.</translation>
     <message>
         <source>Open Files For Sharing</source>
         <translation>Apri i file per condividere</translation>
+    </message>
+</context>
+<context>
+    <name>PsiAccount::Private</name>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
