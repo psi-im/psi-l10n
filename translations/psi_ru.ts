@@ -12438,7 +12438,7 @@ Reason: %1.</source>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation>требует совместимого клиента</translation>
     </message>
 </context>
 <context>
