@@ -1242,6 +1242,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">Posao</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4317,6 +4376,10 @@ morate proveriti da li su dozvoljene izlazne TCP veze.</translation>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4854,7 +4917,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Nalepi i pošalji</translation>
+        <translation>Nalepi i pošalji</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6859,6 +6922,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Izmeni</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Detalji</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8613,6 +8684,14 @@ Kartice: %1</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Akrija za dupli klik na karticama:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12222,17 +12301,6 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12722,7 +12790,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Šabloni</translation>
+        <translation>Šabloni</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12733,15 +12801,15 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psi Forum (onlajn)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12799,7 +12867,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Nalepi i pošalji</translation>
+        <translation>Nalepi i pošalji</translation>
     </message>
 </context>
 <context>
@@ -13400,14 +13468,6 @@ Would you like to activate that session now?</source>
         <translation>(bez izbora)</translation>
     </message>
     <message>
-        <source>Flat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete...</source>
         <translation>Ukloni...</translation>
     </message>
@@ -13461,6 +13521,18 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filter</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15054,6 +15126,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15614,94 +15690,94 @@ Razlog: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Editor šablona</translation>
+        <translation>Editor šablona</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Šabloni</translation>
+        <translation>Šabloni</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Otkaži</translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Dodaj liniju šablona</translation>
+        <translation>Dodaj liniju šablona</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Dodaj liniju šablona kao podmeni</translation>
+        <translation>Dodaj liniju šablona kao podmeni</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Dodaj separator</translation>
+        <translation>Dodaj separator</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Dodaj separator kao podmeni</translation>
+        <translation>Dodaj separator kao podmeni</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Gore</translation>
+        <translation>Gore</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Dole</translation>
+        <translation>Dole</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separator&gt;</translation>
+        <translation>&lt;separator&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Izmeni šablon</translation>
+        <translation>Izmeni šablon</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Unesi novi tekst šablona</translation>
+        <translation>Unesi novi tekst šablona</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Sačuvaj šablone</translation>
+        <translation>Sačuvaj šablone</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Šablon &quot;%1&quot; nije začuvan!</translation>
+        <translation>Šablon &quot;%1&quot; nije začuvan!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Nastavi?</translation>
+        <translation>Nastavi?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Nalepi i &amp;pošalji</translation>
+        <translation>Nalepi i &amp;pošalji</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Izmeni šablone</translation>
+        <translation>&amp;Izmeni šablone</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Samo &amp;Nalepi</translation>
+        <translation>Samo &amp;Nalepi</translation>
     </message>
 </context>
 <context>
@@ -15738,203 +15814,211 @@ Razlog: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Lista akcije</translation>
+        <translation>Lista akcije</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Nalaženje usluga</translation>
+        <translation>Nalaženje usluga</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Dodaj kontakt</translation>
+        <translation>Dodaj kontakt</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Nova poruka</translation>
+        <translation>Nova poruka</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Pristupi grupnom razgovoru</translation>
+        <translation>Pristupi grupnom razgovoru</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Podešavanje naloga</translation>
+        <translation>Podešavanje naloga</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Transfer fajlova</translation>
+        <translation>Transfer fajlova</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Traka alata</translation>
+        <translation>Traka alata</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">XML konzola</translation>
+        <translation>XML konzola</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Izmena profila</translation>
+        <translation>Izmena profila</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Emituj zvuk</translation>
+        <translation>Emituj zvuk</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Napusti</translation>
+        <translation>Napusti</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Odobri grupe</translation>
+        <translation>Odobri grupe</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Obaveštenje o dogadjaju</translation>
+        <translation>Obaveštenje o dogadjaju</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Pogledaj grupe</translation>
+        <translation>Pogledaj grupe</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Pokaži kontakte van mreže</translation>
+        <translation>Pokaži kontakte van mreže</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Pokaži odsutne kontakte</translation>
+        <translation>Pokaži odsutne kontakte</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Pokaži sakrivene kontakte</translation>
+        <translation>Pokaži sakrivene kontakte</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Pogaži agente</translation>
+        <translation>Pogaži agente</translation>
+    </message>
+    <message>
+        <source>Show Self</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Pokaži statusnu poruku</translation>
+        <translation>Pokaži statusnu poruku</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Objavi melodiju</translation>
+        <translation>Objavi melodiju</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Aktivni kontakti</translation>
+        <translation>Aktivni kontakti</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Opšti status</translation>
+        <translation>Opšti status</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Grupni status</translation>
+        <translation>Grupni status</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Status razgovora</translation>
+        <translation>Status razgovora</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Status na vezi</translation>
+        <translation>Status na vezi</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Status za odsutne</translation>
+        <translation>Status za odsutne</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Status XA</translation>
+        <translation>Status XA</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Status DND</translation>
+        <translation>Status DND</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Status nevidljiv</translation>
+        <translation>Status nevidljiv</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Status van mreže</translation>
+        <translation>Status van mreže</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Izaberi status</translation>
+        <translation>Izaberi status</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Ponovo konektuj sve naloge</translation>
+        <translation>Ponovo konektuj sve naloge</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Podesi mod</translation>
+        <translation>Podesi mod</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Podesi aktivnost</translation>
+        <translation>Podesi aktivnost</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Podesi geolokaciju</translation>
+        <translation>Podesi geolokaciju</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">PROČITAJ ME</translation>
+        <translation>PROČITAJ ME</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Saveti</translation>
+        <translation>Saveti</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Psi Forum (onlajn)</translation>
+        <translation>Psi Forum (onlajn)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Otvori pomoć</translation>
+        <translation>Otvori pomoć</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Otvori wiki</translation>
+        <translation>Otvori wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Otvori početnu stranu</translation>
+        <translation>Otvori početnu stranu</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Pomoć Psi MUC</translation>
+        <translation>Pomoć Psi MUC</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Prijavi grešku</translation>
+        <translation>Prijavi grešku</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">O Psi</translation>
+        <translation>O Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">O PsiMeia</translation>
+        <translation>O PsiMeia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">O Qt</translation>
+        <translation>O Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">QCA dijagram priključka</translation>
+        <translation>QCA dijagram priključka</translation>
+    </message>
+    <message>
+        <source>QCA key store diag</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -15994,7 +16078,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Minimizuj aktivni prozor razgovora</translation>
+        <translation>Minimizuj aktivni prozor razgovora</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

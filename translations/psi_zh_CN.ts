@@ -1304,6 +1304,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished">首页</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4400,6 +4459,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation>分享</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4937,7 +5000,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">粘贴并发送</translation>
+        <translation>粘贴并发送</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6950,6 +7013,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation>支持</translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">编辑</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">详情</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8734,6 +8805,14 @@ Tags: %1</source>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>在标签上双击鼠标中键的动作:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12397,14 +12476,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>打开要分享的文件</translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">打开要分享的文件</translation>
     </message>
 </context>
 <context>
@@ -12903,7 +12975,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">范本</translation>
+        <translation>范本</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12914,15 +12986,15 @@ Reason: %1.</source>
         <translation>固定/取消固定标签</translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psi论坛 (在线​​)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12980,7 +13052,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">粘贴并发送</translation>
+        <translation>粘贴并发送</translation>
     </message>
 </context>
 <context>
@@ -13589,11 +13661,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>平铺</translation>
+        <translation type="vanished">平铺</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>以平铺列表显示所有的选项。</translation>
+        <translation type="vanished">以平铺列表显示所有的选项。</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13650,6 +13722,18 @@ Would you like to activate that session now?</source>
     <message>
         <source>Options filter</source>
         <translation>选项过滤器</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">过滤器</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15232,6 +15316,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation>发送中</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">打开要分享的文件</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15789,94 +15877,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">范本编辑器</translation>
+        <translation>范本编辑器</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">范本</translation>
+        <translation>范本</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">增加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">确定</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">添加模板字符串</translation>
+        <translation>添加模板字符串</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">加入子菜单模板字符串</translation>
+        <translation>加入子菜单模板字符串</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">添加分隔</translation>
+        <translation>添加分隔</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">作为子菜单中添加分隔</translation>
+        <translation>作为子菜单中添加分隔</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">上</translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">下</translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separator&gt;</translation>
+        <translation>&lt;separator&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">编辑范本</translation>
+        <translation>编辑范本</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">输入新的范本文本</translation>
+        <translation>输入新的范本文本</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">保存范本</translation>
+        <translation>保存范本</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">&quot;%1&quot;并没有被保存！</translation>
+        <translation>&quot;%1&quot;并没有被保存！</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">继续吗？</translation>
+        <translation>继续吗？</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">粘贴并发送(&amp;S)</translation>
+        <translation>粘贴并发送(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">编辑范本(&amp;E)</translation>
+        <translation>编辑范本(&amp;E)</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">只和粘贴(&amp;P)</translation>
+        <translation>只和粘贴(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -15913,211 +16001,211 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">行动清单</translation>
+        <translation>行动清单</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">查找服务</translation>
+        <translation>查找服务</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">添加联系人</translation>
+        <translation>添加联系人</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">新信息,</translation>
+        <translation>新信息,</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">加入群聊</translation>
+        <translation>加入群聊</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">账号设置</translation>
+        <translation>账号设置</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">文件传输</translation>
+        <translation>文件传输</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">XML 控制台</translation>
+        <translation>XML 控制台</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">改变配置文件</translation>
+        <translation>改变配置文件</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">播放声音</translation>
+        <translation>播放声音</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">启动组群</translation>
+        <translation>启动组群</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">事件提示器</translation>
+        <translation>事件提示器</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">视图群组</translation>
+        <translation>视图群组</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">显示离线的联系人</translation>
+        <translation>显示离线的联系人</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">显示离开的联系人</translation>
+        <translation>显示离开的联系人</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">显示隐藏的联系人</translation>
+        <translation>显示隐藏的联系人</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">显示代理</translation>
+        <translation>显示代理</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">显示自己</translation>
+        <translation>显示自己</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">显示状态信息</translation>
+        <translation>显示状态信息</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">发布音乐</translation>
+        <translation>发布音乐</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">激活联系人</translation>
+        <translation>激活联系人</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">全部状态</translation>
+        <translation>全部状态</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">群组状态</translation>
+        <translation>群组状态</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">聊天状态</translation>
+        <translation>聊天状态</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">在线状态</translation>
+        <translation>在线状态</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">离开状态</translation>
+        <translation>离开状态</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">XA状态</translation>
+        <translation>XA状态</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">DND状态</translation>
+        <translation>DND状态</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">隐形状态</translation>
+        <translation>隐形状态</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">离线状态</translation>
+        <translation>离线状态</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">选择状态</translation>
+        <translation>选择状态</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">重新连接所有帐户</translation>
+        <translation>重新连接所有帐户</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">设置心情</translation>
+        <translation>设置心情</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">用户活动</translation>
+        <translation>用户活动</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">设置地理位置</translation>
+        <translation>设置地理位置</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">自述文件</translation>
+        <translation>自述文件</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">技巧</translation>
+        <translation>技巧</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Psi论坛 (在线​​)</translation>
+        <translation>Psi论坛 (在线​​)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">打开帮助</translation>
+        <translation>打开帮助</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">打开Wiki</translation>
+        <translation>打开Wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">打开首页</translation>
+        <translation>打开首页</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">帮助Psi MUC</translation>
+        <translation>帮助Psi MUC</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">报告错误</translation>
+        <translation>报告错误</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">关于PSI</translation>
+        <translation>关于PSI</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">关于PsiMedia</translation>
+        <translation>关于PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">关于 Qt</translation>
+        <translation>关于 Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">QCA插件诊断</translation>
+        <translation>QCA插件诊断</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">QCA密钥存储诊断</translation>
+        <translation>QCA密钥存储诊断</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16177,7 +16265,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">最小化活跃的对话窗口</translation>
+        <translation>最小化活跃的对话窗口</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

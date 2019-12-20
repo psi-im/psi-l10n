@@ -1253,6 +1253,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4346,6 +4405,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4883,7 +4946,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Уставіць і даслаць</translation>
+        <translation>Уставіць і даслаць</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6891,6 +6954,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Правіць</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Падрабязнасьці</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8659,6 +8730,14 @@ Tags: %1</source>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Двойчы пстрыкнуць леваю клявішаю на картцы —</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12319,17 +12398,6 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12819,7 +12887,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблёны</translation>
+        <translation>Шаблёны</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12830,15 +12898,15 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Форум «Псі» (у сеціве)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12896,7 +12964,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Уставіць і даслаць</translation>
+        <translation>Уставіць і даслаць</translation>
     </message>
 </context>
 <context>
@@ -13502,11 +13570,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Разгарнуць</translation>
+        <translation type="vanished">Разгарнуць</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Паказваць разгорнутым сьпісам.</translation>
+        <translation type="vanished">Паказваць разгорнутым сьпісам.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13562,6 +13630,18 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Прасейваць</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15163,6 +15243,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15729,94 +15813,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Правіць шаблёны</translation>
+        <translation>Правіць шаблёны</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблёны</translation>
+        <translation>Шаблёны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Дадаць</translation>
+        <translation>Дадаць</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Правіць</translation>
+        <translation>Правіць</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Забраць</translation>
+        <translation>Забраць</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Добра</translation>
+        <translation>Добра</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Скасаваць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Дадаць радок шаблёну</translation>
+        <translation>Дадаць радок шаблёну</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Дадаць радок шаблёну як падмэню</translation>
+        <translation>Дадаць радок шаблёну як падмэню</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Дадаць аддзяляльнік</translation>
+        <translation>Дадаць аддзяляльнік</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Дадаць аддзяляльнік як падмэню</translation>
+        <translation>Дадаць аддзяляльнік як падмэню</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Дагары</translation>
+        <translation>Дагары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Долу</translation>
+        <translation>Долу</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;аддзяляльнік&gt;</translation>
+        <translation>&lt;аддзяляльнік&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Правіць шаблён</translation>
+        <translation>Правіць шаблён</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Набярыце тэкст шаблёну</translation>
+        <translation>Набярыце тэкст шаблёну</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Захаваць шаблёны</translation>
+        <translation>Захаваць шаблёны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблён «%1» не захавалі!</translation>
+        <translation>Шаблён «%1» не захавалі!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Ці працягваць?</translation>
+        <translation>Ці працягваць?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Уставіць і &amp;даслаць</translation>
+        <translation>Уставіць і &amp;даслаць</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Правіць шаблёны</translation>
+        <translation>&amp;Правіць шаблёны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">&amp;Толькі ўставіць</translation>
+        <translation>&amp;Толькі ўставіць</translation>
     </message>
 </context>
 <context>
@@ -15853,211 +15937,211 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Сьпіс дзеяньняў</translation>
+        <translation>Сьпіс дзеяньняў</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Шукаць службы</translation>
+        <translation>Шукаць службы</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Дадаць суразмоўцу</translation>
+        <translation>Дадаць суразмоўцу</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Паведамленьне</translation>
+        <translation>Паведамленьне</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Далучыцца да нарады</translation>
+        <translation>Далучыцца да нарады</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Наладзіць рахункі</translation>
+        <translation>Наладзіць рахункі</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Можнасьці</translation>
+        <translation>Можнасьці</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Перадаць файл</translation>
+        <translation>Перадаць файл</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Паліцы прыладаў</translation>
+        <translation>Паліцы прыладаў</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">Кансоль XML</translation>
+        <translation>Кансоль XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Зьмяніць профіль</translation>
+        <translation>Зьмяніць профіль</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Гучэць</translation>
+        <translation>Гучэць</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Выйсьці</translation>
+        <translation>Выйсьці</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Стан</translation>
+        <translation>Стан</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Паказваць суполкі</translation>
+        <translation>Паказваць суполкі</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Спавяшчэньні</translation>
+        <translation>Спавяшчэньні</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Суполкі</translation>
+        <translation>Суполкі</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Паказваць тых, хто па-за сеткаю</translation>
+        <translation>Паказваць тых, хто па-за сеткаю</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Паказваць тых, хто «адсутнічае»</translation>
+        <translation>Паказваць тых, хто «адсутнічае»</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Паказваць схаваных</translation>
+        <translation>Паказваць схаваных</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Паказваць сродкі</translation>
+        <translation>Паказваць сродкі</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Паказваць сябе</translation>
+        <translation>Паказваць сябе</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Паказваць апісаньні стану</translation>
+        <translation>Паказваць апісаньні стану</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Абвяшчаць музыку</translation>
+        <translation>Абвяшчаць музыку</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Дзейныя суразмоўцы</translation>
+        <translation>Дзейныя суразмоўцы</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Стан усіх рахункаў</translation>
+        <translation>Стан усіх рахункаў</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Стан для суполкі</translation>
+        <translation>Стан для суполкі</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Стан «Жадаю пагутарыць»</translation>
+        <translation>Стан «Жадаю пагутарыць»</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Стан «У сетцы»</translation>
+        <translation>Стан «У сетцы»</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Стан «Адсутнічаю»</translation>
+        <translation>Стан «Адсутнічаю»</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Стан «Не дагрукацца»</translation>
+        <translation>Стан «Не дагрукацца»</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Стан «Не турбаваць»</translation>
+        <translation>Стан «Не турбаваць»</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Стан «Хаваюся»</translation>
+        <translation>Стан «Хаваюся»</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Стан «Па-за сеткаю»</translation>
+        <translation>Стан «Па-за сеткаю»</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Абраць стан</translation>
+        <translation>Абраць стан</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Нанова злучыцца з усімі рахункамі</translation>
+        <translation>Нанова злучыцца з усімі рахункамі</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Настрой</translation>
+        <translation>Настрой</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Дзейнасьць</translation>
+        <translation>Дзейнасьць</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Месцазнаходжаньне</translation>
+        <translation>Месцазнаходжаньне</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">Зьвесткі</translation>
+        <translation>Зьвесткі</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Парады</translation>
+        <translation>Парады</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Форум «Псі» (у сеціве)</translation>
+        <translation>Форум «Псі» (у сеціве)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Адчыніць дапамогу</translation>
+        <translation>Адчыніць дапамогу</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Адчыніць вікі</translation>
+        <translation>Адчыніць вікі</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Адчыніць хатнюю бачыну</translation>
+        <translation>Адчыніць хатнюю бачыну</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Нарада дапамогі па «Псі»</translation>
+        <translation>Нарада дапамогі па «Псі»</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Паведаміць пра хібы</translation>
+        <translation>Паведаміць пра хібы</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">Пра «Псі»</translation>
+        <translation>Пра «Псі»</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">Пра «PsiMedia»</translation>
+        <translation>Пра «PsiMedia»</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">Пра «Qt»</translation>
+        <translation>Пра «Qt»</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">Дыяґностыка ўбудовы QCA</translation>
+        <translation>Дыяґностыка ўбудовы QCA</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">Дыяґностыка сховішча ключоў QCA</translation>
+        <translation>Дыяґностыка сховішча ключоў QCA</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16117,7 +16201,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Найменшыць дзейнае вакно гутаркі</translation>
+        <translation>Найменшыць дзейнае вакно гутаркі</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

@@ -1238,6 +1238,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">עבודה</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4297,6 +4356,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4834,7 +4897,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">הדבק ושלח</translation>
+        <translation>הדבק ושלח</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6802,6 +6865,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">פרטים</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8547,6 +8618,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12139,17 +12218,6 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12631,7 +12699,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">תבניות</translation>
+        <translation>תבניות</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12642,15 +12710,15 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">פורום Psi (מקוון)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12708,7 +12776,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">הדבק ושלח</translation>
+        <translation>הדבק ושלח</translation>
     </message>
 </context>
 <context>
@@ -13308,11 +13376,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>תצוגה שטוחה</translation>
+        <translation type="vanished">תצוגה שטוחה</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>הצג את כל האפשרויות בתור רשימה שטוחה.</translation>
+        <translation type="vanished">הצג את כל האפשרויות בתור רשימה שטוחה.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13368,6 +13436,18 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">מסננת</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14947,6 +15027,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15498,94 +15582,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">עורך תבנית</translation>
+        <translation>עורך תבנית</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">תבניות</translation>
+        <translation>תבניות</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">הוסף</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">ערוך</translation>
+        <translation>ערוך</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">הסר</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">אישור</translation>
+        <translation>אישור</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">הוספת מחרוזת תבנית</translation>
+        <translation>הוספת מחרוזת תבנית</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">הוספת מחרוזת תבנית כתפריט משנה</translation>
+        <translation>הוספת מחרוזת תבנית כתפריט משנה</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">הוספת חוצץ</translation>
+        <translation>הוספת חוצץ</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">הוספת חוצץ כתפריט משנה</translation>
+        <translation>הוספת חוצץ כתפריט משנה</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">מעלה</translation>
+        <translation>מעלה</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">מטה</translation>
+        <translation>מטה</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;חוצץ&gt;</translation>
+        <translation>&lt;חוצץ&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">עריכת תבנית</translation>
+        <translation>עריכת תבנית</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">הזנת תמליל תבנית חדשה</translation>
+        <translation>הזנת תמליל תבנית חדשה</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">שמירת תבניות</translation>
+        <translation>שמירת תבניות</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">התבנית &quot;%1&quot; לא נשמרה!</translation>
+        <translation>התבנית &quot;%1&quot; לא נשמרה!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">המשך?</translation>
+        <translation>המשך?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">הדבק ו&amp;שלח</translation>
+        <translation>הדבק ו&amp;שלח</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;ערוך תבניות</translation>
+        <translation>&amp;ערוך תבניות</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">ה&amp;דבק בלבד</translation>
+        <translation>ה&amp;דבק בלבד</translation>
     </message>
 </context>
 <context>
@@ -15621,128 +15705,212 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
+        <source>Action List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Service Discovery</source>
-        <translation type="vanished">מציאת שירות</translation>
+        <translation>מציאת שירות</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">הוסף איש קשר</translation>
+        <translation>הוסף איש קשר</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">הודעה חדשה</translation>
+        <translation>הודעה חדשה</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">הצטרפות אל שיחת קבוצה</translation>
+        <translation>הצטרפות אל שיחת קבוצה</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">הבניית חשבון</translation>
+        <translation>הבניית חשבון</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
+    </message>
+    <message>
+        <source>File Transfer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">סרגלי כלים</translation>
+        <translation>סרגלי כלים</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">מסוף XML</translation>
+        <translation>מסוף XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">שינוי דיוקן</translation>
+        <translation>שינוי דיוקן</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">ניגון צלילים</translation>
+        <translation>ניגון צלילים</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">יציאה</translation>
+        <translation>יציאה</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">מצב</translation>
+        <translation>מצב</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">אפשר קבוצות</translation>
+        <translation>אפשר קבוצות</translation>
+    </message>
+    <message>
+        <source>Event Notifier</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">הצגת קבוצות</translation>
+        <translation>הצגת קבוצות</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">הצג אנשי קשר לא מקוונים</translation>
+        <translation>הצג אנשי קשר לא מקוונים</translation>
+    </message>
+    <message>
+        <source>Show Away Contacts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">הצגת אישי קשר חבויים</translation>
+        <translation>הצגת אישי קשר חבויים</translation>
+    </message>
+    <message>
+        <source>Show Agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Self</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Status Message</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">פרסום לחן</translation>
+        <translation>פרסום לחן</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">אישי קשר פעילים</translation>
+        <translation>אישי קשר פעילים</translation>
+    </message>
+    <message>
+        <source>Status All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Away</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Invisible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Offline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">בחירת מצב</translation>
+        <translation>בחירת מצב</translation>
+    </message>
+    <message>
+        <source>Reconnect all accounts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">הגדרת מצב רוח</translation>
+        <translation>הגדרת מצב רוח</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">הגדרת פעילות</translation>
+        <translation>הגדרת פעילות</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">הגדרת מיקום גאוגרפי</translation>
+        <translation>הגדרת מיקום גאוגרפי</translation>
+    </message>
+    <message>
+        <source>README</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">עצות</translation>
+        <translation>עצות</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">פורום Psi (מקוון)</translation>
+        <translation>פורום Psi (מקוון)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">פתח עזרה</translation>
+        <translation>פתח עזרה</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">פתח ויקי</translation>
+        <translation>פתח ויקי</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">פתח דף בית</translation>
+        <translation>פתח דף בית</translation>
+    </message>
+    <message>
+        <source>Help Psi MUC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">דיווח על תקלה</translation>
+        <translation>דיווח על תקלה</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">אודות Psi</translation>
+        <translation>אודות Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">אודות PsiMedia</translation>
+        <translation>אודות PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">אודות Qt</translation>
+        <translation>אודות Qt</translation>
+    </message>
+    <message>
+        <source>QCA plugin diag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QCA key store diag</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -15798,6 +15966,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize active chat window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

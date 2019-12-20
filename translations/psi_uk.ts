@@ -1315,6 +1315,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation>Пріоритетний</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Дім</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation>Робота</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation>Поштовий</translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation>Посилка</translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation>Вітчизняний</translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation>Міжнародний</translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation>Голос</translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation>Факс</translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation>Пейджер</translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation>Голосове повідомлення</translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation>Осередок</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation>Відео</translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation>Модем</translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4421,6 +4480,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation>Поділитись</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation>вимагає сумісний клієнт</translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4958,7 +5021,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Вставити та відправити</translation>
+        <translation>Вставити та відправити</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6975,6 +7038,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation>Підтримка</translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation>Редагувати</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation>Подробиці</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8762,6 +8833,14 @@ Tags: %1</source>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Ефект від подвійного кліку мишею по вкладках:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation>Записуйте та діліться звуковою нотою</translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation>Увімкнути аудіо повідомлення</translation>
     </message>
 </context>
 <context>
@@ -12434,14 +12513,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>Відкрити файли для спільного доступу</translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation>вимагає сумісний клієнт</translation>
+        <translation type="vanished">Відкрити файли для спільного доступу</translation>
     </message>
 </context>
 <context>
@@ -12940,7 +13012,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблони</translation>
+        <translation>Шаблони</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12951,15 +13023,15 @@ Reason: %1.</source>
         <translation>Закріпити/Відкріпити вкладку</translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation>Увійти до конференції обговорення Psi (Онлайн)</translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Форум Psi</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13017,7 +13089,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Вставити та відправити</translation>
+        <translation>Вставити та відправити</translation>
     </message>
 </context>
 <context>
@@ -13626,11 +13698,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Показати все</translation>
+        <translation type="vanished">Показати все</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Показати всі опції одним великим списком.</translation>
+        <translation type="vanished">Показати всі опції одним великим списком.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13687,6 +13759,18 @@ Would you like to activate that session now?</source>
     <message>
         <source>Options filter</source>
         <translation>Фільтр опцій</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>Фільтр</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation>Відобразити параметри як плоский список</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
+        <translation>Відобразити параметри як плоский список</translation>
     </message>
 </context>
 <context>
@@ -15292,6 +15376,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation>Передача</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation>Відкрити файли для спільного доступу</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15854,94 +15942,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Редактор шаблонів</translation>
+        <translation>Редактор шаблонів</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблони</translation>
+        <translation>Шаблони</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Редагувати</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Додати рядок шаблону</translation>
+        <translation>Додати рядок шаблону</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Додати рядок шаблону як підменю</translation>
+        <translation>Додати рядок шаблону як підменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Додати роздилювач</translation>
+        <translation>Додати роздилювач</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Додати роздилювач як підменю</translation>
+        <translation>Додати роздилювач як підменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Вгору</translation>
+        <translation>Вгору</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Донизу</translation>
+        <translation>Донизу</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;розділювач&gt;</translation>
+        <translation>&lt;розділювач&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Редагувати шаблон</translation>
+        <translation>Редагувати шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Введіть текст шаблону</translation>
+        <translation>Введіть текст шаблону</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Зберегти шаблони</translation>
+        <translation>Зберегти шаблони</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблон &quot;%1&quot; не було збережено!</translation>
+        <translation>Шаблон &quot;%1&quot; не було збережено!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Продовжити?</translation>
+        <translation>Продовжити?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Вставити та &amp;надіслати</translation>
+        <translation>Вставити та &amp;надіслати</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Редагувати шаблони</translation>
+        <translation>&amp;Редагувати шаблони</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Тільки &amp;вставити</translation>
+        <translation>Тільки &amp;вставити</translation>
     </message>
 </context>
 <context>
@@ -15978,211 +16066,211 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Список дій</translation>
+        <translation>Список дій</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Огляд сервісів</translation>
+        <translation>Огляд сервісів</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Додати контакт</translation>
+        <translation>Додати контакт</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Створити повідомлення</translation>
+        <translation>Створити повідомлення</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Зайти до конференції</translation>
+        <translation>Зайти до конференції</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Налаштування акаунту</translation>
+        <translation>Налаштування акаунту</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Передача файлів</translation>
+        <translation>Передача файлів</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Панелі інструментів</translation>
+        <translation>Панелі інструментів</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">Консоль XML</translation>
+        <translation>Консоль XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Змінити профіль</translation>
+        <translation>Змінити профіль</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Програвати звуки</translation>
+        <translation>Програвати звуки</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Вихід</translation>
+        <translation>Вихід</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Включити групи</translation>
+        <translation>Включити групи</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Обробка подій</translation>
+        <translation>Обробка подій</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Контакти ростеру</translation>
+        <translation>Контакти ростеру</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Показувати відключені контакти</translation>
+        <translation>Показувати відключені контакти</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Показувати контакти &quot;відсутній/недоступний&quot;</translation>
+        <translation>Показувати контакти &quot;відсутній/недоступний&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Приховані</translation>
+        <translation>Приховані</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Показувати сервіси</translation>
+        <translation>Показувати сервіси</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Показувати свій контакт</translation>
+        <translation>Показувати свій контакт</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Показувати статусні повідомлення</translation>
+        <translation>Показувати статусні повідомлення</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Показувати пісню</translation>
+        <translation>Показувати пісню</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Активні контакти</translation>
+        <translation>Активні контакти</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Встановити статус для всіх аккаунтів</translation>
+        <translation>Встановити статус для всіх аккаунтів</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Встановити статус для групи контактів</translation>
+        <translation>Встановити статус для групи контактів</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Статус &quot;Готовий побалакати&quot;</translation>
+        <translation>Статус &quot;Готовий побалакати&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Статус &quot;Доступний&quot;</translation>
+        <translation>Статус &quot;Доступний&quot;</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Статус &quot;Відсутній&quot;</translation>
+        <translation>Статус &quot;Відсутній&quot;</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Статус &quot;Недоступний&quot;</translation>
+        <translation>Статус &quot;Недоступний&quot;</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Статус &quot;Не турбувати&quot;</translation>
+        <translation>Статус &quot;Не турбувати&quot;</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Статус &quot;Невидимий&quot;</translation>
+        <translation>Статус &quot;Невидимий&quot;</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Статус &quot;Поза мережею&quot;</translation>
+        <translation>Статус &quot;Поза мережею&quot;</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Вибрати статус</translation>
+        <translation>Вибрати статус</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Перепідключити всі активні акаунти</translation>
+        <translation>Перепідключити всі активні акаунти</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Встановити настрій</translation>
+        <translation>Встановити настрій</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Задати зайняття</translation>
+        <translation>Задати зайняття</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Встановити геолокацію</translation>
+        <translation>Встановити геолокацію</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">Інструкції</translation>
+        <translation>Інструкції</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Поради</translation>
+        <translation>Поради</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Форум Psi</translation>
+        <translation>Форум Psi</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Відкрити довідку</translation>
+        <translation>Відкрити довідку</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Відкрити Wiki</translation>
+        <translation>Відкрити Wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Відкрити домашню сторінку</translation>
+        <translation>Відкрити домашню сторінку</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Увійти до конференції обговорення Psi</translation>
+        <translation>Увійти до конференції обговорення Psi</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Сповістити про помилку</translation>
+        <translation>Сповістити про помилку</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">Про Psi+</translation>
+        <translation>Про Psi+</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">Про PsiMedia</translation>
+        <translation>Про PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">Про бібліотеку Qt</translation>
+        <translation>Про бібліотеку Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">Діагностика модулів безпеки</translation>
+        <translation>Діагностика модулів безпеки</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">Діагностика ключу захисту пам’яті</translation>
+        <translation>Діагностика ключу захисту пам’яті</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16242,7 +16330,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Згорнути активне вікно чату</translation>
+        <translation>Згорнути активне вікно чату</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

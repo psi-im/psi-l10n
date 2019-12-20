@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 09.10.2019</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 01.10.2019</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -1303,6 +1303,65 @@ There was an error getting the Service ID translation information from &quot;%1&
 &amp;nbsp;&amp;nbsp;1234567@[XMPP адрес службы ICQ]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP адрес службы MSN]&lt;br&gt;
 &lt;/qt&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished">Домой</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4416,6 +4475,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation>Поделиться</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished">требует совместимого клиента</translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4777,7 +4840,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has joined the room</source>
-        <translation>%1 заходит как</translation>
+        <translation>%1 зашел в комнату</translation>
     </message>
     <message>
         <source>%3 has joined the room as %1 and %2</source>
@@ -4953,7 +5016,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
+        <translation>Вставить и отправить</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6970,6 +7033,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation>Поддержка</translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Изменить</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Подробности</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8757,6 +8828,14 @@ Tags: %1</source>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Эффект от двойного клика по вкладке:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12431,14 +12510,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>Открыть файлы для отправки</translation>
+        <translation type="vanished">Открыть файлы для отправки</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation>требует совместимого клиента</translation>
+        <translation type="vanished">требует совместимого клиента</translation>
     </message>
 </context>
 <context>
@@ -12937,7 +13016,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблоны</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12948,15 +13027,15 @@ Reason: %1.</source>
         <translation>Закрепить/открепить вкладку</translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Форум Psi</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13014,7 +13093,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
+        <translation>Вставить и отправить</translation>
     </message>
 </context>
 <context>
@@ -13623,11 +13702,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Развёрнуто</translation>
+        <translation type="vanished">Развёрнуто</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Показать все опции развёрнуто</translation>
+        <translation type="vanished">Показать все опции развёрнуто</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13684,6 +13763,18 @@ Would you like to activate that session now?</source>
     <message>
         <source>Options filter</source>
         <translation>Фильтр опций</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Фильтр</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15289,6 +15380,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation>Передача</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">Открыть файлы для отправки</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15857,94 +15952,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Редактор шаблонов</translation>
+        <translation>Редактор шаблонов</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблоны</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Добавить стоку шаблона</translation>
+        <translation>Добавить стоку шаблона</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Добавить стоку шаблона как подменю</translation>
+        <translation>Добавить стоку шаблона как подменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Добавить разделитель</translation>
+        <translation>Добавить разделитель</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Добавить разделитель как подменю</translation>
+        <translation>Добавить разделитель как подменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Выше</translation>
+        <translation>Выше</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Ниже</translation>
+        <translation>Ниже</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;разделитель&gt;</translation>
+        <translation>&lt;разделитель&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Редактировать шаблон</translation>
+        <translation>Редактировать шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Введите текст шаблона</translation>
+        <translation>Введите текст шаблона</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Сохранить шаблоны</translation>
+        <translation>Сохранить шаблоны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблон &quot;%1&quot; не сохранен!</translation>
+        <translation>Шаблон &quot;%1&quot; не сохранен!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Продолжить?</translation>
+        <translation>Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
+        <translation>Вставить и отправить</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">Редактировать шаблоны</translation>
+        <translation>Редактировать шаблоны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Только вставить</translation>
+        <translation>Только вставить</translation>
     </message>
 </context>
 <context>
@@ -15981,211 +16076,211 @@ Reason: %1</source>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Список действий</translation>
+        <translation>Список действий</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Обзор сервисов</translation>
+        <translation>Обзор сервисов</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Добавить контакт</translation>
+        <translation>Добавить контакт</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Создать сообщение</translation>
+        <translation>Создать сообщение</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Настройки аккаунта</translation>
+        <translation>Настройки аккаунта</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Настройка</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Передача файлов</translation>
+        <translation>Передача файлов</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Панели инструментов</translation>
+        <translation>Панели инструментов</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">Консоль XML</translation>
+        <translation>Консоль XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Сменить профиль</translation>
+        <translation>Сменить профиль</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Включить звуки</translation>
+        <translation>Включить звуки</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Включить группы</translation>
+        <translation>Включить группы</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Обработка событий</translation>
+        <translation>Обработка событий</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Контакты ростера</translation>
+        <translation>Контакты ростера</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Отключённые</translation>
+        <translation>Отключённые</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Показывать контакты &quot;отсутствую/недоступен&quot;</translation>
+        <translation>Показывать контакты &quot;отсутствую/недоступен&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Скрытые</translation>
+        <translation>Скрытые</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Показывать сервисы</translation>
+        <translation>Показывать сервисы</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Показывать свой контакт</translation>
+        <translation>Показывать свой контакт</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Показывать статусные сообщения</translation>
+        <translation>Показывать статусные сообщения</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Показывать песню</translation>
+        <translation>Показывать песню</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Активные контакты</translation>
+        <translation>Активные контакты</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Установить статус для всех аккаунтов</translation>
+        <translation>Установить статус для всех аккаунтов</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Установить статус для группы контактов</translation>
+        <translation>Установить статус для группы контактов</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Статус &quot;Готов поболтать&quot;</translation>
+        <translation>Статус &quot;Готов поболтать&quot;</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Статус &quot;Доступен&quot;</translation>
+        <translation>Статус &quot;Доступен&quot;</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Статус &quot;Отсутствую&quot;</translation>
+        <translation>Статус &quot;Отсутствую&quot;</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Статус &quot;Недоступен&quot;</translation>
+        <translation>Статус &quot;Недоступен&quot;</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Статус &quot;Не беспокоить&quot;</translation>
+        <translation>Статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Статус &quot;Невидимый&quot;</translation>
+        <translation>Статус &quot;Невидимый&quot;</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Статус &quot;Отключён&quot;</translation>
+        <translation>Статус &quot;Отключён&quot;</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Выбрать статус</translation>
+        <translation>Выбрать статус</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Переподключить все активные аккаунты</translation>
+        <translation>Переподключить все активные аккаунты</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Установить настроение</translation>
+        <translation>Установить настроение</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Установить занятие</translation>
+        <translation>Установить занятие</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Установить геолокацию</translation>
+        <translation>Установить геолокацию</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">Инструкции</translation>
+        <translation>Инструкции</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Советы</translation>
+        <translation>Советы</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Форум Psi</translation>
+        <translation>Форум Psi</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Открыть справку</translation>
+        <translation>Открыть справку</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Открыть Wiki</translation>
+        <translation>Открыть Wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Открыть домашнюю страницу</translation>
+        <translation>Открыть домашнюю страницу</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Войти в конференцию обсуждения Psi</translation>
+        <translation>Войти в конференцию обсуждения Psi</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Сообщить об ошибке</translation>
+        <translation>Сообщить об ошибке</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">О Psi+</translation>
+        <translation>О Psi+</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">О PsiMedia</translation>
+        <translation>О PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">О библиотеке Qt</translation>
+        <translation>О библиотеке Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">Диагностика модулей безопасности</translation>
+        <translation>Диагностика модулей безопасности</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">Диагностика ключа защиты памяти</translation>
+        <translation>Диагностика ключа защиты памяти</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16245,7 +16340,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Свернуть активное окно чата</translation>
+        <translation>Свернуть активное окно чата</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

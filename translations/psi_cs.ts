@@ -1259,6 +1259,65 @@ Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">Práce</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4355,6 +4414,10 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4892,7 +4955,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Vložit a poslat</translation>
+        <translation>Vložit a poslat</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6892,6 +6955,14 @@ Příčina: %1</translation>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Upravit</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Detaily</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8657,6 +8728,14 @@ Tagy: %1</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Akce na záložkách pro dvojklik myši:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12329,17 +12408,6 @@ Důvod: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12829,7 +12897,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Šablony</translation>
+        <translation>Šablony</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12840,15 +12908,15 @@ Důvod: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psí fórum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12906,7 +12974,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Vložit a poslat</translation>
+        <translation>Vložit a poslat</translation>
     </message>
 </context>
 <context>
@@ -13512,11 +13580,11 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Plochý</translation>
+        <translation type="vanished">Plochý</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Zobrazit všechny volby jako plochý seznam.</translation>
+        <translation type="vanished">Zobrazit všechny volby jako plochý seznam.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13572,6 +13640,18 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtr</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15178,6 +15258,10 @@ Děkujeme za trpělivost.</translation>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15737,94 +15821,94 @@ Zdůvodnění: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Editor šablon</translation>
+        <translation>Editor šablon</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Šablony</translation>
+        <translation>Šablony</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Upravit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Přidat řětězec šablony</translation>
+        <translation>Přidat řětězec šablony</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Přidat řětězec šablony jako podnabídku</translation>
+        <translation>Přidat řětězec šablony jako podnabídku</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Přidat oddělovač</translation>
+        <translation>Přidat oddělovač</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Přidat oddělovač jako podnabídku</translation>
+        <translation>Přidat oddělovač jako podnabídku</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Nahoru</translation>
+        <translation>Nahoru</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Dolů</translation>
+        <translation>Dolů</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;oddělovač&gt;</translation>
+        <translation>&lt;oddělovač&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Upravit šablonu</translation>
+        <translation>Upravit šablonu</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Vlož text nové šablony</translation>
+        <translation>Vlož text nové šablony</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Uložit šablony</translation>
+        <translation>Uložit šablony</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Šablona &quot;%1&quot; nebyla uložena!</translation>
+        <translation>Šablona &quot;%1&quot; nebyla uložena!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Pokračovat?</translation>
+        <translation>Pokračovat?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Vložit a &amp;poslat</translation>
+        <translation>Vložit a &amp;poslat</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Upravit šablony</translation>
+        <translation>&amp;Upravit šablony</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Jenom &amp;Vložit</translation>
+        <translation>Jenom &amp;Vložit</translation>
     </message>
 </context>
 <context>
@@ -15861,211 +15945,211 @@ Zdůvodnění: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Seznam akcí</translation>
+        <translation>Seznam akcí</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Prohledávání služeb</translation>
+        <translation>Prohledávání služeb</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Přidat kontakt</translation>
+        <translation>Přidat kontakt</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Nová zpráva</translation>
+        <translation>Nová zpráva</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Připojit skupinový chat</translation>
+        <translation>Připojit skupinový chat</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Nastavení účtu</translation>
+        <translation>Nastavení účtu</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Přenos souboru</translation>
+        <translation>Přenos souboru</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Panely nástrojů</translation>
+        <translation>Panely nástrojů</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">Konzole XML</translation>
+        <translation>Konzole XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Změnit profil</translation>
+        <translation>Změnit profil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Přehrávat zvuky</translation>
+        <translation>Přehrávat zvuky</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Ukončit</translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Stav</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Povolit skupiny</translation>
+        <translation>Povolit skupiny</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Hlásič událostí</translation>
+        <translation>Hlásič událostí</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Zobrazovat skupiny</translation>
+        <translation>Zobrazovat skupiny</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Zobrazit Offline kontakty</translation>
+        <translation>Zobrazit Offline kontakty</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Zobrazit Pryč kontakty</translation>
+        <translation>Zobrazit Pryč kontakty</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Zobrazit skryté kontakty</translation>
+        <translation>Zobrazit skryté kontakty</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Zobrazit agenty</translation>
+        <translation>Zobrazit agenty</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Zobrazit sebe</translation>
+        <translation>Zobrazit sebe</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Zobrazit zprávy o stavu</translation>
+        <translation>Zobrazit zprávy o stavu</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Zveřejnit Písničku</translation>
+        <translation>Zveřejnit Písničku</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Aktivní kontakty</translation>
+        <translation>Aktivní kontakty</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Stav Všechno</translation>
+        <translation>Stav Všechno</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Stav Skupina</translation>
+        <translation>Stav Skupina</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Stav Chat</translation>
+        <translation>Stav Chat</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Stav Online</translation>
+        <translation>Stav Online</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Stav Pryč</translation>
+        <translation>Stav Pryč</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Stav XA</translation>
+        <translation>Stav XA</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Stav DND</translation>
+        <translation>Stav DND</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Stav Neviditelný</translation>
+        <translation>Stav Neviditelný</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Stav Offline</translation>
+        <translation>Stav Offline</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Vybrat stav</translation>
+        <translation>Vybrat stav</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Znovu připojit všechny účty</translation>
+        <translation>Znovu připojit všechny účty</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Nastavit náladu</translation>
+        <translation>Nastavit náladu</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Nastavit činnost</translation>
+        <translation>Nastavit činnost</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Nastavit geolokaci</translation>
+        <translation>Nastavit geolokaci</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">Čti mě</translation>
+        <translation>Čti mě</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Tipy</translation>
+        <translation>Tipy</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Psí fórum (Online)</translation>
+        <translation>Psí fórum (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Otevřít nápovědu</translation>
+        <translation>Otevřít nápovědu</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Otevřít wiki</translation>
+        <translation>Otevřít wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Otevřít domovskou stránku</translation>
+        <translation>Otevřít domovskou stránku</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Nápověda Psí MUC</translation>
+        <translation>Nápověda Psí MUC</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Ohlásit chybu</translation>
+        <translation>Ohlásit chybu</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">O Psi</translation>
+        <translation>O Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">O PsiMedia</translation>
+        <translation>O PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">O knihovnách Qt</translation>
+        <translation>O knihovnách Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">Diagnostika zásuvného modulu QCA</translation>
+        <translation>Diagnostika zásuvného modulu QCA</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">Diagnostika úložiště klíčů QCA</translation>
+        <translation>Diagnostika úložiště klíčů QCA</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16125,7 +16209,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Minimalizovat aktivní okno chatu</translation>
+        <translation>Minimalizovat aktivní okno chatu</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

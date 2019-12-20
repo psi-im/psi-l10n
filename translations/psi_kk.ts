@@ -1179,6 +1179,65 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">Жұмыс</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4204,6 +4263,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4735,6 +4798,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6663,6 +6730,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Көбірек білу</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8404,6 +8479,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11929,17 +12012,6 @@ Reason: %1.</source>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12404,6 +12476,10 @@ Reason: %1.</source>
         <translation>Плагиндер</translation>
     </message>
     <message>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12412,15 +12488,15 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12473,6 +12549,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>turn on autojid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13074,11 +13154,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Жазық</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Жазық</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13134,6 +13210,18 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Сүзгі</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14707,6 +14795,10 @@ Thanks for your patience.</source>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15253,28 +15345,95 @@ Reason: %1</source>
 <context>
     <name>SendButtonTemplatesEditor</name>
     <message>
+        <source>Template editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add</source>
-        <translation type="vanished">Қосу</translation>
+        <translation>Қосу</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Жоғары</translation>
+        <translation>Жоғары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Төмен</translation>
+        <translation>Төмен</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15310,68 +15469,212 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
+        <source>Action List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Қызметтерді шолу</translation>
+        <translation>Қызметтерді шолу</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Контактты қосу</translation>
+        <translation>Контактты қосу</translation>
+    </message>
+    <message>
+        <source>New Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Group Chat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Тіркелгіні баптау</translation>
+        <translation>Тіркелгіні баптау</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Баптаулар</translation>
+        <translation>Баптаулар</translation>
+    </message>
+    <message>
+        <source>File Transfer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Панельдер</translation>
+        <translation>Панельдер</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">XML консолі</translation>
+        <translation>XML консолі</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Профайлды ауыстыру</translation>
+        <translation>Профайлды ауыстыру</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Дыбыстарды ойнату</translation>
+        <translation>Дыбыстарды ойнату</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Шығу</translation>
+        <translation>Шығу</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Қалып-күй</translation>
+        <translation>Қалып-күй</translation>
+    </message>
+    <message>
+        <source>Enable Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event Notifier</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Топтарды қарау</translation>
+        <translation>Топтарды қарау</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Желіде емес контакттарды көрсету</translation>
+        <translation>Желіде емес контакттарды көрсету</translation>
+    </message>
+    <message>
+        <source>Show Away Contacts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Жасырын контакттарды көрсету</translation>
+        <translation>Жасырын контакттарды көрсету</translation>
+    </message>
+    <message>
+        <source>Show Agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Self</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Status Message</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Әуенді жариялау</translation>
+        <translation>Әуенді жариялау</translation>
+    </message>
+    <message>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Away</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Invisible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect all accounts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Көңіл-күйді орнату</translation>
+        <translation>Көңіл-күйді орнату</translation>
+    </message>
+    <message>
+        <source>Set Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>README</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Home Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help Psi MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report Bug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About PsiMedia</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">Qt туралы</translation>
+        <translation>Qt туралы</translation>
+    </message>
+    <message>
+        <source>QCA plugin diag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QCA key store diag</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -15427,6 +15730,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize active chat window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

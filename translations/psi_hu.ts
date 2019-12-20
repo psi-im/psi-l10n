@@ -1260,6 +1260,65 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Oka: %2&lt;b
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4360,6 +4419,10 @@ engedélyezve vannak-e.</translation>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4897,7 +4960,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Beillesztés és küldés</translation>
+        <translation>Beillesztés és küldés</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6912,6 +6975,14 @@ Oka: %1</translation>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Szerkesztés</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Részletek</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8677,6 +8748,14 @@ Címkék: %1</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Dupla kattintás szerepe füleken:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12348,17 +12427,6 @@ Oka: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12848,7 +12916,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Minták</translation>
+        <translation>Minták</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12859,15 +12927,15 @@ Oka: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12925,7 +12993,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Beillesztés és küldés</translation>
+        <translation>Beillesztés és küldés</translation>
     </message>
 </context>
 <context>
@@ -13531,11 +13599,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Kibontott lista</translation>
+        <translation type="vanished">Kibontott lista</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Minden opció kibontása.</translation>
+        <translation type="vanished">Minden opció kibontása.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13591,6 +13659,18 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Szűrő</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15189,6 +15269,10 @@ Türelmét köszönjük.</translation>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15748,94 +15832,94 @@ Oka: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Mintaszerkesztő</translation>
+        <translation>Mintaszerkesztő</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Minták</translation>
+        <translation>Minták</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Hozzáadás</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Szerkesztés</translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Eltávolítás</translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Rendben</translation>
+        <translation>Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Mégsem</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Mintaelemek hozzáadása</translation>
+        <translation>Mintaelemek hozzáadása</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Mintaelemek hozzáadása almenüként</translation>
+        <translation>Mintaelemek hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Elválasztó hozzáadása</translation>
+        <translation>Elválasztó hozzáadása</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Elválasztó hozzáadása almenüként</translation>
+        <translation>Elválasztó hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Le</translation>
+        <translation>Le</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;elválasztó&gt;</translation>
+        <translation>&lt;elválasztó&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Minta szerkesztése</translation>
+        <translation>Minta szerkesztése</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Új mintaszöveg megadása</translation>
+        <translation>Új mintaszöveg megadása</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Minták mentése</translation>
+        <translation>Minták mentése</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">&quot;%1&quot; minta nem lett mentve!</translation>
+        <translation>&quot;%1&quot; minta nem lett mentve!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Folytatás?</translation>
+        <translation>Folytatás?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Beillesztés és &amp;küldés</translation>
+        <translation>Beillesztés és &amp;küldés</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">Minták &amp;szerkesztése</translation>
+        <translation>Minták &amp;szerkesztése</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Csak &amp;beillesztés</translation>
+        <translation>Csak &amp;beillesztés</translation>
     </message>
 </context>
 <context>
@@ -15872,211 +15956,211 @@ Oka: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Műveletlista</translation>
+        <translation>Műveletlista</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Szolgáltatás feltérképezése</translation>
+        <translation>Szolgáltatás feltérképezése</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Ismerős hozzáadása</translation>
+        <translation>Ismerős hozzáadása</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Új üzenet</translation>
+        <translation>Új üzenet</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Csatlakozás csoportbeszélgetéshez</translation>
+        <translation>Csatlakozás csoportbeszélgetéshez</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Fiók beállítása</translation>
+        <translation>Fiók beállítása</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Fájlátvitel</translation>
+        <translation>Fájlátvitel</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Eszköztárak</translation>
+        <translation>Eszköztárak</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">XML konzol</translation>
+        <translation>XML konzol</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Profil váltása</translation>
+        <translation>Profil váltása</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Hangok lejátszása</translation>
+        <translation>Hangok lejátszása</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Kilépés</translation>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Állapot</translation>
+        <translation>Állapot</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Csoportok engedélyezése</translation>
+        <translation>Csoportok engedélyezése</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Eseményértesítő</translation>
+        <translation>Eseményértesítő</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Csoportok megtekintése</translation>
+        <translation>Csoportok megtekintése</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Kijelentkezett ismerősök megjelenítése</translation>
+        <translation>Kijelentkezett ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Távol lévő ismerősök megjelenítése</translation>
+        <translation>Távol lévő ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Rejtett ismerősök megjelenítése</translation>
+        <translation>Rejtett ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Szolgáltatások megjelenítése</translation>
+        <translation>Szolgáltatások megjelenítése</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Saját magam megjelenítése</translation>
+        <translation>Saját magam megjelenítése</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Állapotüzenetek megjelenítése</translation>
+        <translation>Állapotüzenetek megjelenítése</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Játszott szám publikálása</translation>
+        <translation>Játszott szám publikálása</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Aktív ismerősök</translation>
+        <translation>Aktív ismerősök</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Összes állapot</translation>
+        <translation>Összes állapot</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Csoport állapot</translation>
+        <translation>Csoport állapot</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Beszélgetés állapot</translation>
+        <translation>Beszélgetés állapot</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Elérhető állapot</translation>
+        <translation>Elérhető állapot</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Távol állapot</translation>
+        <translation>Távol állapot</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Tétlen állapot</translation>
+        <translation>Tétlen állapot</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Elfoglalt állapot</translation>
+        <translation>Elfoglalt állapot</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Láthatatlan állapot</translation>
+        <translation>Láthatatlan állapot</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Kijelentkezett állapot</translation>
+        <translation>Kijelentkezett állapot</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Állapot kiválasztása</translation>
+        <translation>Állapot kiválasztása</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Minden fiók újrakapcsolódása</translation>
+        <translation>Minden fiók újrakapcsolódása</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Hangulat beállítása</translation>
+        <translation>Hangulat beállítása</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Tevékenység beállítása</translation>
+        <translation>Tevékenység beállítása</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Földrajzi helyzet beállítása</translation>
+        <translation>Földrajzi helyzet beállítása</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">OLVASSEL</translation>
+        <translation>OLVASSEL</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Tippek</translation>
+        <translation>Tippek</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Psi+ fórum (Online)</translation>
+        <translation>Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Súgó megnyitása</translation>
+        <translation>Súgó megnyitása</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Wiki megnyitása</translation>
+        <translation>Wiki megnyitása</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Kezdőlap megnyitása</translation>
+        <translation>Kezdőlap megnyitása</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Psi MUC súgója</translation>
+        <translation>Psi MUC súgója</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Hiba jelentése</translation>
+        <translation>Hiba jelentése</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">Psi+ névjegye</translation>
+        <translation>Psi+ névjegye</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">PsiMedia névjegye</translation>
+        <translation>PsiMedia névjegye</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">Qt névjegye</translation>
+        <translation>Qt névjegye</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">QCA kiegészítő ablaka</translation>
+        <translation>QCA kiegészítő ablaka</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">QCA kulcstároló ablaka</translation>
+        <translation>QCA kulcstároló ablaka</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16136,7 +16220,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Aktív beszélgetésablak minimalizálása</translation>
+        <translation>Aktív beszélgetésablak minimalizálása</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>

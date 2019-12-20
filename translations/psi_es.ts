@@ -1262,6 +1262,65 @@ Ha ocurrido un error obteniendo información de la traducción de identificador 
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">Trabajo</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -4356,6 +4415,10 @@ de que las conexiones salientes TCP están permitidas.</translation>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -4893,7 +4956,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Pegar y Enviar</translation>
+        <translation>Pegar y Enviar</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -6907,6 +6970,14 @@ Reason: %1</source>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Editar</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Detalles</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8660,6 +8731,14 @@ Etiquetas: %1</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Acción al hacer doble click en pestañas:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12328,17 +12407,6 @@ Motivo: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12828,7 +12896,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Plantillas</translation>
+        <translation>Plantillas</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -12839,15 +12907,15 @@ Motivo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished">Foro de Psi (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12905,7 +12973,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Pegar y Enviar</translation>
+        <translation>Pegar y Enviar</translation>
     </message>
 </context>
 <context>
@@ -13511,11 +13579,11 @@ Quieres activar esa sesión ahora?</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Plano</translation>
+        <translation type="vanished">Plano</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Mostrar todas las opciones como una lista plana.</translation>
+        <translation type="vanished">Mostrar todas las opciones como una lista plana.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13571,6 +13639,18 @@ Quieres activar esa sesión ahora?</translation>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15173,6 +15253,10 @@ Gracias por tu paciencia.</translation>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15732,94 +15816,94 @@ Razón: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Editor de plantilla</translation>
+        <translation>Editor de plantilla</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Plantillas</translation>
+        <translation>Plantillas</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Añadir</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Añadir cadena de plantilla</translation>
+        <translation>Añadir cadena de plantilla</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Añadir cadena de plantilla como submenú</translation>
+        <translation>Añadir cadena de plantilla como submenú</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Añadir separador</translation>
+        <translation>Añadir separador</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Añadir separador como submenú</translation>
+        <translation>Añadir separador como submenú</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Subir</translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Bajar</translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separador&gt;</translation>
+        <translation>&lt;separador&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Editar plantilla</translation>
+        <translation>Editar plantilla</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Insertar nuevo texto de plantilla</translation>
+        <translation>Insertar nuevo texto de plantilla</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Guardar plantillas</translation>
+        <translation>Guardar plantillas</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
+        <translation>¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">¿Continuar?</translation>
+        <translation>¿Continuar?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Pegar y en&amp;viar</translation>
+        <translation>Pegar y en&amp;viar</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Editar plantillas</translation>
+        <translation>&amp;Editar plantillas</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Solo &amp;pegar</translation>
+        <translation>Solo &amp;pegar</translation>
     </message>
 </context>
 <context>
@@ -15856,211 +15940,211 @@ Razón: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="vanished">Lista de acciones</translation>
+        <translation>Lista de acciones</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Descubrir servicios</translation>
+        <translation>Descubrir servicios</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="vanished">Añadir contacto</translation>
+        <translation>Añadir contacto</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="vanished">Nuevo mensaje</translation>
+        <translation>Nuevo mensaje</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="vanished">Unirse a una sala</translation>
+        <translation>Unirse a una sala</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="vanished">Configuraciones de la cuenta</translation>
+        <translation>Configuraciones de la cuenta</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="vanished">Transferencia de archivos</translation>
+        <translation>Transferencia de archivos</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="vanished">Barras de herramientas</translation>
+        <translation>Barras de herramientas</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="vanished">Consola XML</translation>
+        <translation>Consola XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="vanished">Cambiar perfil</translation>
+        <translation>Cambiar perfil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="vanished">Reproducir sonidos</translation>
+        <translation>Reproducir sonidos</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="vanished">Salir</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="vanished">Habilitar grupos</translation>
+        <translation>Habilitar grupos</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">Notificador de eventos</translation>
+        <translation>Notificador de eventos</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="vanished">Ver grupos</translation>
+        <translation>Ver grupos</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="vanished">Mostrar contactos desconectados</translation>
+        <translation>Mostrar contactos desconectados</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="vanished">Mostrar contactos ausentes</translation>
+        <translation>Mostrar contactos ausentes</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="vanished">Mostrar contactos ocultos</translation>
+        <translation>Mostrar contactos ocultos</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="vanished">Mostrar agentes</translation>
+        <translation>Mostrar agentes</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="vanished">Mostrar el propio contacto</translation>
+        <translation>Mostrar el propio contacto</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="vanished">Mostrar mensaje de estado</translation>
+        <translation>Mostrar mensaje de estado</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="vanished">Publicar canción</translation>
+        <translation>Publicar canción</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="vanished">Contactos activos</translation>
+        <translation>Contactos activos</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="vanished">Todos los estados</translation>
+        <translation>Todos los estados</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="vanished">Estado del grupo</translation>
+        <translation>Estado del grupo</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="vanished">Estado de la Conversación</translation>
+        <translation>Estado de la Conversación</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="vanished">Estado Conectado</translation>
+        <translation>Estado Conectado</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="vanished">Estado Ausente</translation>
+        <translation>Estado Ausente</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="vanished">Estado Ausencia extendida</translation>
+        <translation>Estado Ausencia extendida</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="vanished">Estado No moletar</translation>
+        <translation>Estado No moletar</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="vanished">Estado invisible</translation>
+        <translation>Estado invisible</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="vanished">Estado Desconectado</translation>
+        <translation>Estado Desconectado</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="vanished">Elegir estado</translation>
+        <translation>Elegir estado</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="vanished">Reconectar todas las cuentas</translation>
+        <translation>Reconectar todas las cuentas</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="vanished">Establecer estado de ánimo</translation>
+        <translation>Establecer estado de ánimo</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="vanished">Establecer actividad</translation>
+        <translation>Establecer actividad</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="vanished">Establecer geolocalización</translation>
+        <translation>Establecer geolocalización</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="vanished">LÉEME</translation>
+        <translation>LÉEME</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="vanished">Trucos</translation>
+        <translation>Trucos</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="vanished">Foro de Psi (Online)</translation>
+        <translation>Foro de Psi (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="vanished">Abrir ayuda</translation>
+        <translation>Abrir ayuda</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="vanished">Abrir Wiki</translation>
+        <translation>Abrir Wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="vanished">Abrir página principal</translation>
+        <translation>Abrir página principal</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="vanished">Sala de ayuda de Psi</translation>
+        <translation>Sala de ayuda de Psi</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="vanished">Reportar error</translation>
+        <translation>Reportar error</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="vanished">Acerca de Psi</translation>
+        <translation>Acerca de Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="vanished">Acerca de PsiMedia</translation>
+        <translation>Acerca de PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="vanished">Acerca de Qt</translation>
+        <translation>Acerca de Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="vanished">Ventana del complemento QCA</translation>
+        <translation>Ventana del complemento QCA</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="vanished">Ventana de almacenamiento de llave de QCA</translation>
+        <translation>Ventana de almacenamiento de llave de QCA</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -16120,7 +16204,7 @@ Razón: %1</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="vanished">Minimizar ventana de conversación activa</translation>
+        <translation>Minimizar ventana de conversación activa</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
