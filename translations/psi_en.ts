@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">About Psi+</translation>
+        <translation>About Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">Active project members are presents below:</translation>
+        <translation>Active project members are presents below:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Founder and Lead Patcher</translation>
+        <translation>Founder and Lead Patcher</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Patcher and Plugins Writer</translation>
+        <translation>Patcher and Plugins Writer</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Psimedia Patcher and Wiki English localization</translation>
+        <translation>Psimedia Patcher and Wiki English localization</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -242,51 +242,51 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</transl
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Founder, Patcher and former MS Windows Packager</translation>
+        <translation>Founder, Patcher and former MS Windows Packager</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation type="vanished">Founder, Patcher and former Designer</translation>
+        <translation>Founder, Patcher and former Designer</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="vanished">Lead Patcher and Plugins Writer; former macOS Packager</translation>
+        <translation>Lead Patcher and Plugins Writer; former macOS Packager</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="vanished">Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</translation>
+        <translation>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="vanished">Patcher and Plugins Writer; MS Windows Packager</translation>
+        <translation>Patcher and Plugins Writer; MS Windows Packager</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="vanished">Patcher and Plugins Writer; former Fedora Packager</translation>
+        <translation>Patcher and Plugins Writer; former Fedora Packager</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation type="vanished">Patcher and former Ubuntu Packager</translation>
+        <translation>Patcher and former Ubuntu Packager</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation type="vanished">former Ubuntu Packager</translation>
+        <translation>former Ubuntu Packager</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation type="vanished">former Mandriva Linux Packager</translation>
+        <translation>former Mandriva Linux Packager</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="vanished">Patcher and former Russian translator</translation>
+        <translation>Patcher and former Russian translator</translation>
+    </message>
+    <message>
+        <source>psi/logo_48</source>
+        <translation type="obsolete">psi/logo_48</translation>
     </message>
     <message>
         <source>About Psi</source>
         <translation type="unfinished">About Psi</translation>
-    </message>
-    <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
     </message>
 </context>
 <context>
@@ -3305,7 +3305,7 @@ Proceed?</translation>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="vanished">more items</translation>
+        <translation>more items</translation>
     </message>
 </context>
 <context>
@@ -12854,19 +12854,19 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Psi+ Forum (Online)</translation>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">Psi+ &amp;Forum (Online)</translation>
+        <translation>Psi+ &amp;Forum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Join Psi+ Discussion Room (Online)</translation>
+        <translation>Join Psi+ Discussion Room (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">&amp;Join Psi+ Discussion Room (Online)</translation>
+        <translation>&amp;Join Psi+ Discussion Room (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>

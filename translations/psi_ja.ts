@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">Psi+について</translation>
+        <translation>Psi+について</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">以下はアクティブなプロジェクトメンバーです:</translation>
+        <translation>以下はアクティブなプロジェクトメンバーです:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">創立者、開発リーダー</translation>
+        <translation>創立者、開発リーダー</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">開発者、プラグイン開発者</translation>
+        <translation>開発者、プラグイン開発者</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Psimedia開発者、Wiki</translation>
+        <translation>Psimedia開発者、Wiki</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -233,11 +233,47 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
+        <source>Founder, Patcher and former MS Windows Packager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Psi</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3207,6 +3243,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>&lt;b&gt;%1&lt;/b&gt;の項目の情報を取得中にエラーが発生しました。&lt;br&gt;理由: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12512,6 +12553,22 @@ Reason: %1.</source>
     <message>
         <source>&amp;Home Page (Online)</source>
         <translation>ホームページ(オンライン)(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>

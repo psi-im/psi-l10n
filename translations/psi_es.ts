@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">Acerca de Psi+</translation>
+        <translation>Acerca de Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">Los miembros activos del proyecto se muestran abajo:</translation>
+        <translation>Los miembros activos del proyecto se muestran abajo:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Fundador y parcheador líder</translation>
+        <translation>Fundador y parcheador líder</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Parcheador y escritor de complementos</translation>
+        <translation>Parcheador y escritor de complementos</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Parcheador de Psimedia y localización de la wiki en inglés</translation>
+        <translation>Parcheador de Psimedia y localización de la wiki en inglés</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -234,12 +234,52 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="unfinished">Acerca de Psi</translation>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation type="obsolete">psi/logo_48</translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished">Acerca de Psi</translation>
     </message>
 </context>
 <context>
@@ -3252,6 +3292,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hubo un error obteniendo la información de los elementos para &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razón: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12752,19 +12797,19 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Foro Psi+ (Online)</translation>
+        <translation>Foro Psi+ (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;Foro Psi+ (Online)</translation>
+        <translation>&amp;Foro Psi+ (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Unirse a la sala de discusión de Psi+ (Online)</translation>
+        <translation>Unirse a la sala de discusión de Psi+ (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">&amp;Unirse a la sala de discusión de Psi+ (Online)</translation>
+        <translation>&amp;Unirse a la sala de discusión de Psi+ (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>

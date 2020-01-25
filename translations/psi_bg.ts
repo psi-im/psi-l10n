@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">Относно Psi+</translation>
+        <translation>Относно Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,19 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">Текущите членове на екипа са представени по-долу:</translation>
+        <translation>Текущите членове на екипа са представени по-долу:</translation>
+    </message>
+    <message>
+        <source>Founder and Lead Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psimedia Patcher and Wiki English localization</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -185,12 +197,52 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="unfinished">Относно Psi</translation>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/лого_48</translation>
+        <translation type="obsolete">psi/лого_48</translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished">Относно Psi</translation>
     </message>
 </context>
 <context>
@@ -3198,6 +3250,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Възникна грешка при получаването на информация за обект &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12667,6 +12724,22 @@ Reason: %1.</source>
     <message>
         <source>&amp;Home Page (Online)</source>
         <translation>&amp;Домашна страница (в мрежата)</translation>
+    </message>
+    <message>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check for Updates...</source>

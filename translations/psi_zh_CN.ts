@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">关于Psi +</translation>
+        <translation>关于Psi +</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">活跃项目成员如下:</translation>
+        <translation>活跃项目成员如下:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">创办者和领导修补者</translation>
+        <translation>创办者和领导修补者</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">修补者和插件作者</translation>
+        <translation>修补者和插件作者</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Psimedia修补者和Wiki英语翻译</translation>
+        <translation>Psimedia修补者和Wiki英语翻译</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -242,51 +242,51 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="vanished">创办者, 修补者和前MS Windows打包者</translation>
+        <translation>创办者, 修补者和前MS Windows打包者</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation type="vanished">创办者, 修补者和前设计师</translation>
+        <translation>创办者, 修补者和前设计师</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="vanished">领导修补者和插件作者; 前macOS打包者</translation>
+        <translation>领导修补者和插件作者; 前macOS打包者</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="vanished">语言协调员; 修补者; Debian和Ubuntu打包者; MS Windows和macOS打包者</translation>
+        <translation>语言协调员; 修补者; Debian和Ubuntu打包者; MS Windows和macOS打包者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="vanished">修补者和插件作者; MS Windows打包者</translation>
+        <translation>修补者和插件作者; MS Windows打包者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="vanished">修补者和插件作者; 前Fedora打包者</translation>
+        <translation>修补者和插件作者; 前Fedora打包者</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation type="vanished">修补者和前Ubuntu打包者</translation>
+        <translation>修补者和前Ubuntu打包者</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation type="vanished">前Ubuntu打包者</translation>
+        <translation>前Ubuntu打包者</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation type="vanished">前Mandriva Linux打包者</translation>
+        <translation>前Mandriva Linux打包者</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="vanished">修补者和前俄语翻译</translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="unfinished">关于PSI</translation>
+        <translation>修补者和前俄语翻译</translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation type="obsolete">psi/logo_48</translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation>关于PSI</translation>
     </message>
 </context>
 <context>
@@ -1311,11 +1311,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished">首页</translation>
+        <translation>首页</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>工作中</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -3295,7 +3295,7 @@ Proceed?</source>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="vanished">更多项目</translation>
+        <translation>更多项目</translation>
     </message>
 </context>
 <context>
@@ -7015,11 +7015,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
 </context>
 <context>
@@ -12823,19 +12823,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Psi+论坛 (在线​​)</translation>
+        <translation>Psi+论坛 (在线​​)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">Psi+论坛 (在线​​)(&amp;F)</translation>
+        <translation>Psi+论坛 (在线​​)(&amp;F)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">加入Psi+讨论室 (在线)</translation>
+        <translation>加入Psi+讨论室 (在线)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">加入Psi+讨论室 (在线)(&amp;J)</translation>
+        <translation>加入Psi+讨论室 (在线)(&amp;J)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -12987,15 +12987,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>加入Psi讨论室 (在线)</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi论坛 (在线​​)</translation>
+        <translation>Psi论坛 (在线​​)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi论坛 (在线​​)(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
@@ -13725,7 +13725,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -15318,7 +15318,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished">打开要分享的文件</translation>
+        <translation>打开要分享的文件</translation>
     </message>
 </context>
 <context>

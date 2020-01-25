@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">關於Psi +</translation>
+        <translation>關於Psi +</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">活躍項目成員如下:</translation>
+        <translation>活躍項目成員如下:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">創辦者和引導補丁</translation>
+        <translation>創辦者和引導補丁</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">補丁和外掛程式作者</translation>
+        <translation>補丁和外掛程式作者</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Psi媒體補丁和Wiki英語當地語系化</translation>
+        <translation>Psi媒體補丁和Wiki英語當地語系化</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -233,12 +233,52 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="unfinished">關於PSI</translation>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation type="obsolete">psi/logo_48</translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished">關於PSI</translation>
     </message>
 </context>
 <context>
@@ -3230,6 +3270,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>為&lt;b&gt;%1&lt;/b&gt;取得專案資料時發生錯誤。&lt;br&gt;原因: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12696,19 +12741,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Psi+論壇(線上)</translation>
+        <translation>Psi+論壇(線上)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">Psi+論壇(&amp;F)(線上)</translation>
+        <translation>Psi+論壇(&amp;F)(線上)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">加入Psi+討論室(線上)</translation>
+        <translation>加入Psi+討論室(線上)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">加入Psi+討論室(線上)(&amp;J)</translation>
+        <translation>加入Psi+討論室(線上)(&amp;J)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>

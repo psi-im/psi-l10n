@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">Про Psi+</translation>
+        <translation>Про Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">Активні учасники проекту представлені нижче:</translation>
+        <translation>Активні учасники проекту представлені нижче:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Засновник і провідний автор патчів</translation>
+        <translation>Засновник і провідний автор патчів</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Автор патчів та розробник плагинів</translation>
+        <translation>Автор патчів та розробник плагинів</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Автор патчів для Psimedia та англійського перекладу Wiki</translation>
+        <translation>Автор патчів для Psimedia та англійського перекладу Wiki</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -243,51 +243,51 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Засновник, автор патчів та колишній супроводжуючий пакетів MS Windows</translation>
+        <translation>Засновник, автор патчів та колишній супроводжуючий пакетів MS Windows</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation type="vanished">Засновник, автор патчів та колишній дизайнер</translation>
+        <translation>Засновник, автор патчів та колишній дизайнер</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="vanished">Провідний автор патчів, плагинів; колишній супроводжуючий пакетів macOS</translation>
+        <translation>Провідний автор патчів, плагинів; колишній супроводжуючий пакетів macOS</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="vanished">Координатор перекладів; автор патчів; супроводжуючий пакетів Debian, Ubuntu, MS Windows та macOS</translation>
+        <translation>Координатор перекладів; автор патчів; супроводжуючий пакетів Debian, Ubuntu, MS Windows та macOS</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="vanished">Автор патчів, плагинів; супроводжуючий пакетів MS Windows</translation>
+        <translation>Автор патчів, плагинів; супроводжуючий пакетів MS Windows</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="vanished">Автор патчів, плагинів; колишній супроводжуючий пакетів Fedora</translation>
+        <translation>Автор патчів, плагинів; колишній супроводжуючий пакетів Fedora</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation type="vanished">Автор патчів та колишній супроводжуючий пакетів Ubuntu</translation>
+        <translation>Автор патчів та колишній супроводжуючий пакетів Ubuntu</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation type="vanished">колишній супроводжуючий пакетів Ubuntu</translation>
+        <translation>колишній супроводжуючий пакетів Ubuntu</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation type="vanished">колишній супроводжуючий пакетів Mandriva Linux</translation>
+        <translation>колишній супроводжуючий пакетів Mandriva Linux</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="vanished">Автор патчів та колишній перекладач на російську мову</translation>
+        <translation>Автор патчів та колишній перекладач на російську мову</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">Про Psi+</translation>
+        <translation>Про Psi+</translation>
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation type="obsolete">psi/logo_48</translation>
     </message>
 </context>
 <context>
@@ -3313,7 +3313,7 @@ Proceed?</source>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="vanished">більше елементів</translation>
+        <translation>більше елементів</translation>
     </message>
 </context>
 <context>
@@ -12860,19 +12860,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Форум Psi+</translation>
+        <translation>Форум Psi+</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;Форум Psi+</translation>
+        <translation>&amp;Форум Psi+</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Конференція обговорення Psi+</translation>
+        <translation>Конференція обговорення Psi+</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Увійти до &amp;конференції обговорення Psi+</translation>
+        <translation>Увійти до &amp;конференції обговорення Psi+</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13028,15 +13028,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Форум Psi</translation>
+        <translation>Форум Psi</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Форум Psi</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Увійти до &amp;конференції обговорення Psi</translation>
     </message>
 </context>
 <context>

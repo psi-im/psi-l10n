@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="vanished">אודות Psi‫+</translation>
+        <translation>אודות Psi‫+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="vanished">חברי פרויקט פעילים מוצגים למטה:</translation>
+        <translation>חברי פרויקט פעילים מוצגים למטה:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="vanished">מייסד ומטליא מוביל</translation>
+        <translation>מייסד ומטליא מוביל</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">מטליא ומחבר תוספים</translation>
+        <translation>מטליא ומחבר תוספים</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">מטליא Psimedia ולוקליזציה של ויקי אנגלי</translation>
+        <translation>מטליא Psimedia ולוקליזציה של ויקי אנגלי</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -229,12 +229,48 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
-        <translation type="unfinished">אודות Psi</translation>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
+        <source>Founder, Patcher and former Designer</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished">אודות Psi</translation>
     </message>
 </context>
 <context>
@@ -3197,6 +3233,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>אירעה שגיאה בהשגת מידע פריט נתון עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12563,19 +12604,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">פורום Psi‪+‬ (מקוון)</translation>
+        <translation>פורום Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;פורום Psi‪+‬ (מקוון)</translation>
+        <translation>&amp;פורום Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
+        <translation>הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">&amp;הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
+        <translation>&amp;הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
