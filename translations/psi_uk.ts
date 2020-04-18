@@ -285,10 +285,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <source>About Psi</source>
         <translation>Про Psi+</translation>
     </message>
-    <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
 </context>
 <context>
     <name>AccountAdd</name>
@@ -7634,6 +7630,10 @@ Reason: %1</source>
     <message>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
+    </message>
+    <message>
+        <source>No response from server for %1 seconds</source>
+        <translation>Немає відповіді від сервера протягом %1 сек</translation>
     </message>
 </context>
 <context>

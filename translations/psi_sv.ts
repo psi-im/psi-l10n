@@ -7437,6 +7437,10 @@ Orsak: %1</translation>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
+    <message>
+        <source>No response from server for %1 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
