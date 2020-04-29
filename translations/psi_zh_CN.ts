@@ -2479,10 +2479,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>生日缓存被成功清除</translation>
     </message>
-    <message>
-        <source>Psi+ Cleaner</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
@@ -3083,11 +3079,15 @@ Proceed?</source>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>该插件的目的是更容易下载并安装图标集和其他Psi+资源。</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3553,7 +3553,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>切换加密</translation>
+        <translation type="vanished">切换加密</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3710,6 +3710,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>For all</source>
         <translation>所有</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5012,7 +5016,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>语音视频</translation>
+        <translation type="vanished">语音视频</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5707,7 +5711,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5720,6 +5724,10 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Public key %1 sent</source>
         <translation>公钥: %1发送</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7744,11 +7752,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>这个应用程序使用 GStreamer %1, 一个开放原始码及跨平台的多媒体框架。请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; 以获得更多资料</translation>
+        <translation type="vanished">这个应用程序使用 GStreamer %1, 一个开放原始码及跨平台的多媒体框架。请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; 以获得更多资料</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>关于 GStreamer</translation>
+        <translation type="vanished">关于 GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7807,11 +7815,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>psimedia is unavailable</source>
-        <translation>psimedia不可用</translation>
+        <translation type="vanished">psimedia不可用</translation>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation>PsiMedia插件未加载或未初始化。&lt;br&gt;请查看&lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt;获取更多信息。</translation>
+        <translation type="vanished">PsiMedia插件未加载或未初始化。&lt;br&gt;请查看&lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt;获取更多信息。</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -7854,7 +7862,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>关于</translation>
+        <translation type="vanished">关于</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7870,6 +7878,10 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7879,7 +7891,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8548,23 +8564,23 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>外形</translation>
+        <translation type="vanished">外形</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>音讯输出:</translation>
+        <translation type="vanished">音讯输出:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>音讯输入:</translation>
+        <translation type="vanished">音讯输入:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>视频输入:</translation>
+        <translation type="vanished">视频输入:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>视频支持:</translation>
+        <translation type="vanished">视频支持:</translation>
     </message>
 </context>
 <context>
@@ -10312,15 +10328,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>语音通话</translation>
+        <translation type="vanished">语音通话</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>音频和视频装置设置</translation>
+        <translation type="vanished">音频和视频装置设置</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>音频装置设置</translation>
+        <translation type="vanished">音频装置设置</translation>
     </message>
 </context>
 <context>
@@ -10639,6 +10655,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Open plugin settings dialog</source>
         <translation>打开插件设置对话框</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12931,7 +12951,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>切换加密</translation>
+        <translation type="vanished">切换加密</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -13003,6 +13023,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18341,11 +18365,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>如果收到，则自动回复信息:</translation>
+        <translation type="vanished">如果收到，则自动回复信息:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>如果没有收到，则自动回复信息:</translation>
+        <translation type="vanished">如果没有收到，则自动回复信息:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18355,7 +18379,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>自定义选项:
+        <translation type="vanished">自定义选项:
 -uin - 什么也不做
 +uin - 重新发送
 !uin - 封锁消息
@@ -18365,23 +18389,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>暂停下一条收到的消息:</translation>
+        <translation type="vanished">暂停下一条收到的消息:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>最低限值</translation>
+        <translation type="vanished">最低限值</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>最大信息联系:</translation>
+        <translation type="vanished">最大信息联系:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>如果对话窗口活动则禁用</translation>
+        <translation type="vanished">如果对话窗口活动则禁用</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>传输:</translation>
+        <translation type="vanished">传输:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -18395,8 +18419,35 @@ Do you still want to close the window?</source>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
+</context>
+<context>
+    <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18730,7 +18781,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Psi+场外的记录通讯插件</translation>
+        <translation type="vanished">Psi+场外的记录通讯插件</translation>
     </message>
     <message>
         <source>Authors: %1</source>
