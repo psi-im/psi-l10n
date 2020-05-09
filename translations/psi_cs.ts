@@ -217,10 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Past Lead Widget Developer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -275,6 +271,10 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <message>
         <source>About Psi</source>
         <translation>O Psi</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1130,7 +1130,7 @@ ukládat historii pro tento kontakt.</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1139,6 +1139,10 @@ ukládat historii pro tento kontakt.</translation>
     <message>
         <source>Repeat: </source>
         <translation>Opakovat:</translation>
+    </message>
+    <message>
+        <source>Email address: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2781,7 +2785,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Skupinový chat</translation>
+        <translation type="vanished">Skupinový chat</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2795,12 +2799,16 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
         <source>Join %1</source>
         <translation>Vejít do %1</translation>
     </message>
+    <message>
+        <source>Groupchats</source>
+        <translation>Skupinové chaty</translation>
+    </message>
 </context>
 <context>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2897,7 +2905,7 @@ Pokračovat?</translation>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3088,7 +3096,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -3714,7 +3722,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <translation>Pro všechny</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5723,11 +5731,15 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Veřejný klíč %1 odeslán</translation>
+        <translation type="vanished">Veřejný klíč %1 odeslán</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7573,7 +7585,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7846,7 +7858,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -7882,7 +7894,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-mail</translation>
+        <translation type="vanished">E-mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -7927,6 +7939,10 @@ Detaily: %1</translation>
     <message>
         <source>Expiration</source>
         <translation>Expirace</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9486,7 +9502,7 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Pokud používáš tento zásuvný modul poprvé, ujisti se, že jsou všechny tvoje
+        <translation type="vanished">Pokud používáš tento zásuvný modul poprvé, ujisti se, že jsou všechny tvoje
 účty online a potom stiskni tlačítko &quot;Aktualizovat narozeniny&quot;. Chvíli to potrvá.</translation>
     </message>
     <message>
@@ -10014,6 +10030,10 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11121,6 +11141,10 @@ zprávy v chatu víde lidí)</translation>
         <source>Save queries to log</source>
         <translation>Uložit požadavky do logu</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -11153,7 +11177,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnostický text uložiště klíčů</translation>
+        <translation type="vanished">Diagnostický text uložiště klíčů</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -12961,7 +12989,7 @@ Důvod: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13016,6 +13044,38 @@ Důvod: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Vložit a poslat</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>Přidělit Open&amp;PGP klíč</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>Odebrat Open&amp;PGP Klíč</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
 </context>
 <context>
@@ -15303,6 +15363,54 @@ Děkujeme za trpělivost.</translation>
         <source>Open Files For Sharing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Odstranit</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15463,15 +15571,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Formulář</translation>
+        <translation type="vanished">Formulář</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation> min.</translation>
+        <translation type="vanished"> min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Interval pozornosti: </translation>
+        <translation type="vanished">Interval pozornosti: </translation>
     </message>
 </context>
 <context>
@@ -18300,14 +18408,136 @@ Opravdu zavřít okno?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::ConfigWidget</name>
+    <message>
+        <source>Fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Konfigurace</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation>Odstranit</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Otisk klíče</translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation>Odstranit</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Otisk klíče: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Otisk klíče</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18326,7 +18556,50 @@ Opravdu zavřít okno?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18960,11 +19233,15 @@ zprávu v juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Zavřít</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>

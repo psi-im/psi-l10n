@@ -225,10 +225,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; für mehr Informationen!</tr
         <translation>https://psi-im.org</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Past Lead Widget Developer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -283,6 +279,10 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; für mehr Informationen!</tr
     <message>
         <source>About Psi</source>
         <translation>Über Psi</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1139,7 +1139,7 @@ Chronik für diesen Kontakt speichern.</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation>E-Mail-Adresse:</translation>
+        <translation type="vanished">E-Mail-Adresse:</translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1148,6 +1148,10 @@ Chronik für diesen Kontakt speichern.</translation>
     <message>
         <source>Repeat: </source>
         <translation>Wiederholen:</translation>
+    </message>
+    <message>
+        <source>Email address: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2792,7 +2796,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Gruppenchat (MUC)</translation>
+        <translation type="vanished">Gruppenchat (MUC)</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2806,12 +2810,16 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
         <source>Join %1</source>
         <translation>%1 betreten</translation>
     </message>
+    <message>
+        <source>Groupchats</source>
+        <translation>Gruppenchats</translation>
+    </message>
 </context>
 <context>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2908,7 +2916,7 @@ Fortfahren?</translation>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3099,7 +3107,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -3725,7 +3733,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
         <translation>Für alle</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5740,10 +5748,14 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Öffentlicher Schlüssel %1 gesendet</translation>
+        <translation type="vanished">Öffentlicher Schlüssel %1 gesendet</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation>E-Mail: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7624,7 +7636,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7897,7 +7909,7 @@ Russland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -7933,7 +7945,7 @@ Details: %1</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -7978,6 +7990,10 @@ Details: %1</translation>
     <message>
         <source>Expiration</source>
         <translation>Verfall</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9549,7 +9565,7 @@ Optionen-Namen dürfen weder leer sein, noch auf &quot;.&quot; enden oder &quot;
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Wenn Sie dieses Plugin das erste Mal nutzen, stellen Sie sicher, dass alle Ihre Konten
+        <translation type="vanished">Wenn Sie dieses Plugin das erste Mal nutzen, stellen Sie sicher, dass alle Ihre Konten
 online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies dauert einen Moment.</translation>
     </message>
     <message>
@@ -10065,6 +10081,10 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Farbe für Nummern eingehender Nachrichten</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11180,6 +11200,10 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
         <source>Save queries to log</source>
         <translation>Speichere Abfragen im Log</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -11212,7 +11236,11 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnosetext für Schlüsselspeicher</translation>
+        <translation type="vanished">Diagnosetext für Schlüsselspeicher</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>GnuPG-Info</translation>
     </message>
 </context>
 <context>
@@ -13030,7 +13058,7 @@ Grund: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13085,6 +13113,38 @@ Grund: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Einfügen und Senden</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>Open&amp;PGP-Schlüssel zuweisen</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>Open&amp;PGP-Schlüssel entfernen</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Zeige eigenen &amp;Fingerabdruck</translation>
     </message>
 </context>
 <context>
@@ -15371,6 +15431,54 @@ Vielen Dank für Ihre Geduld.</translation>
         <source>Open Files For Sharing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15531,15 +15639,15 @@ Wenn Sie das Plugin zum ersten Mal starten, müssen Sie sich mit allen Konten an
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation type="vanished">Formular</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Aufmerksamkeitsintervall:</translation>
+        <translation type="vanished">Aufmerksamkeitsintervall:</translation>
     </message>
 </context>
 <context>
@@ -18446,14 +18554,136 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
 </context>
 <context>
-    <name>psiomemo::OMEMOPlugin</name>
+    <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Author: </source>
+        <source>Fingerprints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email: </source>
+        <source>Manage Devices</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Konfiguration</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Fingerabdruck</translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Fingerabdruck: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Fingerabdruck</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation>Autor: </translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18472,7 +18702,50 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Zeige eigenen &amp;Fingerabdruck</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19106,11 +19379,15 @@ zu dieser Nachricht in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>E-Mail:</translation>
     </message>
 </context>
 <context>

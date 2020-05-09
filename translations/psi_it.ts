@@ -226,7 +226,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Client XMPP multipiattaforma rivolto a utenti esperti.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 Il Team Psi.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Client XMPP multipiattaforma rivolto a utenti esperti.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 Il Team Psi.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
@@ -283,6 +283,10 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     <message>
         <source>About Psi</source>
         <translation>Informazioni su Psi</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation>Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
     </message>
 </context>
 <context>
@@ -1139,7 +1143,7 @@ salverà la cronologia per questo contatto.</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation>Indirizzo E-Mail:</translation>
+        <translation type="vanished">Indirizzo E-Mail:</translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1148,6 +1152,10 @@ salverà la cronologia per questo contatto.</translation>
     <message>
         <source>Repeat: </source>
         <translation>Ripetere:</translation>
+    </message>
+    <message>
+        <source>Email address: </source>
+        <translation>Indirizzo email:</translation>
     </message>
 </context>
 <context>
@@ -2792,7 +2800,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Conferenza</translation>
+        <translation type="vanished">Conferenza</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2806,12 +2814,16 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
         <source>Join %1</source>
         <translation>Unisciti a %1</translation>
     </message>
+    <message>
+        <source>Groupchats</source>
+        <translation>Conferenze</translation>
+    </message>
 </context>
 <context>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2908,7 +2920,7 @@ Procedere?</translation>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3099,7 +3111,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -3725,8 +3737,8 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
         <translation>Per tutti</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <source>OpenPGP encryption</source>
+        <translation>Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -5740,11 +5752,15 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Chiavi pubblica %1 inviata</translation>
+        <translation type="vanished">Chiavi pubblica %1 inviata</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
 </context>
 <context>
@@ -7636,7 +7652,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7902,7 +7918,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Info plugin</translation>
     </message>
 </context>
 <context>
@@ -7917,7 +7933,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -7953,7 +7969,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -7998,6 +8014,10 @@ Dettagli: %1</translation>
     <message>
         <source>Expiration</source>
         <translation>Scadenza</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>Email</translation>
     </message>
 </context>
 <context>
@@ -9573,7 +9593,7 @@ I nomi delle opzioni non possono essere vuoti, finire con &apos;.&apos; o conten
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account
+        <translation type="vanished">Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account
 siano connessi e schiaccia il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
     </message>
     <message>
@@ -10106,6 +10126,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Colore per i numeri di messaggi in arrivo</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation>Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account siano connessi e premi il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
     </message>
 </context>
 <context>
@@ -10697,7 +10721,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Info plugin</translation>
     </message>
 </context>
 <context>
@@ -11212,6 +11236,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <source>Save queries to log</source>
         <translation>salva query nel registro</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -11244,7 +11272,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Test Diagostico Deposito Chiavi</translation>
+        <translation type="vanished">Test Diagostico Deposito Chiavi</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>Informazioni GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13066,8 +13098,8 @@ Motivo: %1.</translation>
         <translation>Imposta argomento</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <source>OpenPGP encryption</source>
+        <translation>Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13121,6 +13153,38 @@ Motivo: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Incolla e Invia</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation>Attiva cifratura OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation>Chiave OpenPGP non impostata nelle impostazioni del tuo account!</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Impronta digitale per account &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation>Cifratura OpenPGP</translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation>Disattiva cifratura OpenPGP</translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>Assegna Chiave Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>Rimuovi Chiave Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Mostra propria &amp;impronta digitale</translation>
     </message>
 </context>
 <context>
@@ -15406,6 +15470,54 @@ Grazie per la tua pazienza.</translation>
         <source>Open Files For Sharing</source>
         <translation>Apri i file per condividere</translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation>Un nuovo dispositvo OMEMO è stato scoperto per &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation>Vuoi fidarti di questo dispositivo e consentirgli di decifrare copie dei tuoi messaggi?</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation>Vuoi fidarti di questo dispositivo e consentirgli di ricevere i messaggi cifrati da te?</translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation>Chiave pubblica dispositivo:</translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation>Gestione delle chiavi OMEMO</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Fidati</translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation>Eliminare il dispositivo selezionato dalla lista dei dispositivi conosciuti dell&apos;utente &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Conferma azione</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Elimina</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annulla</translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation>verificato</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Non fidarti</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15564,15 +15676,15 @@ La prima volta che installi questo plugin, è necessario accedere a tutti i tuoi
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Modulo</translation>
+        <translation type="vanished">Modulo</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Intervallo attenzione:</translation>
+        <translation type="vanished">Intervallo attenzione:</translation>
     </message>
 </context>
 <context>
@@ -18479,33 +18591,204 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::ConfigWidget</name>
+    <message>
+        <source>Fingerprints</source>
+        <translation>Impronte digitali</translation>
+    </message>
+    <message>
+        <source>Manage Devices</source>
+        <translation>Gestisci dispositivi</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Configurazione</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation>Elimina</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Fidati</translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation>Contatto</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Impronta Digitale</translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation>fidato</translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation>non fidato</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Non fidarti</translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation>non deciso</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation>Elimina</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation>ID dispositivo</translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation>Dispositivo attuale</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Impronta digitale:</translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation>Elimina tutti i dati OMEMO per il dispositivo attuale</translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation>Altri dispositivi</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Impronta Digitale</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation>Eliminare tutti i dati OMEMO per il dispositivo attuale comporta una serie di conseguenze:
+1) Tutte le sessioni OMEMO iniziate verranno dimenticate.
+2) Perderai l&apos;accesso alla cronologia cifrata salvata per il dispositivo attuale lato server.
+3) Verranno generati un nuovo ID dispositivo e una coppia di chiavi.
+4) Dovrai verificare di nuovo le chiavi per tutti i dispositivi dei tuoi contatti.
+5) I tuoi contatti dovranno verificare il nuovo dispositivo prima che tu inizi a ricevere messaggi da loro.
+</translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation>Eliminare il dispositivo attuale?</translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation>Dopo l&apos;eliminazione del dispositivo dalla lista dei dispositivi disponibili, esso non riceverà più messaggi offline dai tuoi contatti finchè non tornerà online e i contatti lo verificheranno.</translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation>Eliminare il dispositivo selezionato?</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation>Il seguente messaggio viene da un dispositivo non fidato:</translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation>[NON FIDATO]:</translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation>Impossibile iniziare alcuna sessione, messaggio non inviato</translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation>%1 non sembra supportare OMEMO, disattivazione per tutto il gruppo!</translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autore:</translation>
+        <translation>Autore:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Crediti:</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva cifratura OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura OMEMO non è disponibile per questo gruppo</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
+        <translation>La cifratura OMEMO non è disponibile per questo contatto</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Impronta digitale per account &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation>Disattiva cifratura OMEMO</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Mostra propria &amp;impronta digitale</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
+        <translation>Cifratura OMEMO</translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation>Gestisci impronte del contatto</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19139,11 +19422,15 @@ a questo messaggio in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Chiudi</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>

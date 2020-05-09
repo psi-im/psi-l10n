@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 29.04.2020</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 07.05.2020</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -218,7 +218,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
@@ -275,6 +275,10 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <message>
         <source>About Psi</source>
         <translation>О Psi+</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation>Мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
 </context>
 <context>
@@ -1130,7 +1134,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1139,6 +1143,10 @@ save the history for this contact.</source>
     <message>
         <source>Repeat: </source>
         <translation>Повтор: </translation>
+    </message>
+    <message>
+        <source>Email address: </source>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -2791,7 +2799,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Конференции</translation>
+        <translation type="vanished">Конференции</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2805,12 +2813,16 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Join %1</source>
         <translation>%1</translation>
     </message>
+    <message>
+        <source>Groupchats</source>
+        <translation>Конференций</translation>
+    </message>
 </context>
 <context>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2907,7 +2919,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3724,8 +3736,8 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Для всех</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation>Включить шифрование OpenPGP</translation>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрование OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -5739,11 +5751,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Публичный ключ %1 отправлен</translation>
+        <translation type="vanished">Публичный ключ %1 отправлен</translation>
     </message>
     <message>
         <source>Email: </source>
         <translation>E-Mail: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
 </context>
 <context>
@@ -7636,7 +7652,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7953,7 +7969,7 @@ Details: %1</source>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -7998,6 +8014,10 @@ Details: %1</source>
     <message>
         <source>Expiration</source>
         <translation>Истекает</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>E-Mail</translation>
     </message>
 </context>
 <context>
@@ -9572,7 +9592,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Если Вы используете плагин в первый раз — проверьте, что все Ваши аккаунты 
+        <translation type="vanished">Если Вы используете плагин в первый раз — проверьте, что все Ваши аккаунты 
 подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
     </message>
     <message>
@@ -9634,6 +9654,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Use proxy settings from account</source>
         <translation type="vanished">Использовать настройки прокси из аккаунта</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9739,6 +9763,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Запустить программу:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10097,6 +10125,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Цвет для номеров входящих сообщений</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation>Если Вы используете плагин в первый раз, то проверьте, что все Ваши аккаунты подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
     </message>
 </context>
 <context>
@@ -11203,6 +11235,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Save queries to log</source>
         <translation>Сохранять запросы в журнал</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -11235,7 +11271,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Текст диагностики ключа защиты памяти</translation>
+        <translation type="vanished">Текст диагностики ключа защиты памяти</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>Информация GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13060,8 +13100,8 @@ Reason: %1.</source>
         <translation>Установить тему</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation>Включить шифрование OpenPGP</translation>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрование OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13115,6 +13155,38 @@ Reason: %1.</source>
     <message>
         <source>Paste and Send</source>
         <translation>Вставить и отправить</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation>Включить шифрование OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation>Ключ OpenPGP не указан в настройках вашего аккаунта!</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Отпечаток для аккаунта &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрование OpenPGP</translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation>Отключить шифрование OpenPGP</translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>Присвоить ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>Убрать ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Показать свой отпечато&amp;к</translation>
     </message>
 </context>
 <context>
@@ -15405,6 +15477,54 @@ Thanks for your patience.</source>
         <source>Open Files For Sharing</source>
         <translation>Открыть файлы для отправки</translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation>Обнаружено новое устройство OMEMO для контакта &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation>Доверять этому устройству и разрешить расшифровывать копии ваших сообщений?</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation>Доверять этому устройству и разрешить получать зашифрованные сообщения от вас?</translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation>Публичный ключ устройства:</translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation>Управление ключами OMEMO</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Доверять</translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation>Удалить выбранное устройство из списка известных устройств пользователя &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Подтверждение действия</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation>проверенный</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Не доверять</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15567,15 +15687,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation> мин.</translation>
+        <translation type="vanished"> мин.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Длительность привлечения внимания: </translation>
+        <translation type="vanished">Длительность привлечения внимания: </translation>
     </message>
 </context>
 <context>
@@ -18494,6 +18614,134 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::ConfigWidget</name>
+    <message>
+        <source>Fingerprints</source>
+        <translation>Отпечатки</translation>
+    </message>
+    <message>
+        <source>Manage Devices</source>
+        <translation>Управление устройствами</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Настройка</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Доверять</translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation>Контакт</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Отпечаток</translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation>доверенный</translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation>недоверенный</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Не доверять</translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation>непроверенный</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation>ID устройства</translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation>Текущее устройство</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Отпечаток: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation>Удалить все данные OMEMO текущего устройства</translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation>Другие устройства</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Отпечаток</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation>Удаление всех данных OMEMO для текущего устройства приведет к ряду последствий:
+1) Все начатые сеансы OMEMO будут забыты.
+2) Вы потеряете доступ к зашифрованной истории, сохраненной для текущего устройства на стороне сервера.
+3) Будет сгенерирован новый ID устройства и связка ключей.
+4) Вам придется повторно проверить ключи для всех устройств ваших контактов.
+5) Ваши контакты должны будут проверить новое устройство, прежде чем Вы начнете получать сообщения от них.
+</translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation>Удалить текущее устройство?</translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation>После удаления устройства из списка доступных устройств оно перестает получать оффлайновые сообщения от ваших контактов до тех порт, пока оно не подключится к сети и ваши контакты пометят его как доверенное.</translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation>Удалить выбранное устройство?</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation>Сообщение от недоверенного устройства:</translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation>[НЕДОВЕРЕННЫЙ]: </translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation>Не получилось начать сессию, сообщение не отправлено</translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation>Участник %1 не имеет поддержки OMEMO, отключаем всю группу!</translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
@@ -18520,8 +18768,51 @@ Do you still want to close the window?</source>
         <translation>Шифрование OMEMO недоступно для этого контакта</translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
-        <translation>Шифрование OMEMO включено</translation>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Отпечаток для аккаунта &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation>Отключить шифрование OMEMO</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Показать свой отпечато&amp;к</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
+        <translation>Шифрование OMEMO</translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation>Управление ключами собеседника</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19154,11 +19445,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>E-Mail:</translation>
     </message>
 </context>
 <context>

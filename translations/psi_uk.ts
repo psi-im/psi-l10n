@@ -227,7 +227,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
@@ -284,6 +284,10 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <message>
         <source>About Psi</source>
         <translation>Про Psi+</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation>Міжплатформовий клієнт XMPP, орієнтований на досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -1139,7 +1143,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1148,6 +1152,10 @@ save the history for this contact.</source>
     <message>
         <source>Repeat: </source>
         <translation>Повтор: </translation>
+    </message>
+    <message>
+        <source>Email address: </source>
+        <translation>Email адреса: </translation>
     </message>
 </context>
 <context>
@@ -2798,7 +2806,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Конференції</translation>
+        <translation type="vanished">Конференції</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2812,12 +2820,16 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Join %1</source>
         <translation>Приєднатись до %1</translation>
     </message>
+    <message>
+        <source>Groupchats</source>
+        <translation>Конференції</translation>
+    </message>
 </context>
 <context>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2914,7 +2926,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3105,7 +3117,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -3729,8 +3741,8 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Для усіх</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -5744,11 +5756,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Публічний ключ %1 відправлений</translation>
+        <translation type="vanished">Публічний ключ %1 відправлений</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
     </message>
 </context>
 <context>
@@ -7641,7 +7657,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7907,7 +7923,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Про плагін</translation>
     </message>
 </context>
 <context>
@@ -7922,7 +7938,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -7958,7 +7974,7 @@ Details: %1</source>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -8003,6 +8019,10 @@ Details: %1</source>
     <message>
         <source>Expiration</source>
         <translation>Закінчення</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>Email</translation>
     </message>
 </context>
 <context>
@@ -9577,7 +9597,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Якщо Ви використовуєте плагін вперше — перевірте, щоб всі Ваші акаунти 
+        <translation type="vanished">Якщо Ви використовуєте плагін вперше — перевірте, щоб всі Ваші акаунти 
 підключено і після цього натисніть &quot;Оновити дні народження&quot;. Це займе деякий час.</translation>
     </message>
     <message>
@@ -10110,6 +10130,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Колір для номерів вхідних повідомлень</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation>Якщо ви використовуєте цей плагін вперше, переконайтеся, що всі ваші облікові записи онлайн, а потім натисніть кнопку &quot;Оновити дні народження&quot;. Це займає деякий час.</translation>
     </message>
 </context>
 <context>
@@ -10701,7 +10725,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Про плагін</translation>
     </message>
 </context>
 <context>
@@ -11216,6 +11240,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Save queries to log</source>
         <translation>Зберігати запити до журналу</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -11248,7 +11276,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Діагностичне повідомлення сховища ключів</translation>
+        <translation type="vanished">Діагностичне повідомлення сховища ключів</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>Інформація GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13071,8 +13103,8 @@ Reason: %1.</source>
         <translation>Встановити тему</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13126,6 +13158,38 @@ Reason: %1.</source>
     <message>
         <source>Paste and Send</source>
         <translation>Вставити та відправити</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation>Увімкнути шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation>Ключ OpenPGP не встановлений у налаштуваннях вашого акаунта!</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Відбиток для акаунту &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation>Вимкнути шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>Призначити ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>Скасувати ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Показати свій відбито&amp;к</translation>
     </message>
 </context>
 <context>
@@ -15416,6 +15480,54 @@ Thanks for your patience.</source>
         <source>Open Files For Sharing</source>
         <translation>Відкрити файли для спільного доступу</translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation>Виявлено новий пристрій OMEMO для &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation>Ви хочете довіряти цьому пристрою та дозволити йому розшифрувати копії ваших повідомлень?</translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation>Ви хочете довіряти цьому пристрою та дозволити йому отримувати від вас зашифровані повідомлення?</translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation>Публічний ключ пристрою:</translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation>Управління ключами OMEMO</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Довіряти</translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation>Видалити вибраний пристрій зі списку відомих пристроїв користувача &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Видалити</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Скасувати</translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation>перевірено</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Не довіряти</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15572,15 +15684,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Від</translation>
+        <translation type="vanished">Від</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>хв.</translation>
+        <translation type="vanished">хв.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Інтервал попереджень:</translation>
+        <translation type="vanished">Інтервал попереджень:</translation>
     </message>
 </context>
 <context>
@@ -18498,33 +18610,204 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::ConfigWidget</name>
+    <message>
+        <source>Fingerprints</source>
+        <translation>Відбитки</translation>
+    </message>
+    <message>
+        <source>Manage Devices</source>
+        <translation>Керування пристроями</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Налаштування</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation>Видалити</translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation>Довіряти</translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation>Контакт</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Відбиток</translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation>довірений</translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation>ненадійний</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Не довіряти</translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation>не вирішено</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation>Видалити</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation>ID пристрою</translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation>Поточний пристрій</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Відбиток: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation>Видаліть усі дані OMEMO для поточного пристрою</translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation>Інші пристрої</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Відбиток</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation>Видалення всіх даних OMEMO для поточного пристрою призведе до низки наслідків:
+1) Усі розпочаті сесії OMEMO будуть забуті.
+2) Ви втратите доступ до зашифрованої історії, що зберігається для поточного пристрою на боці серверу.
+3) Буде створено новий ідентифікатор пристрою та пару ключів.
+4) Вам потрібно буде ще раз перевірити ключі для всіх пристроїв ваших контактів.
+5) Вашим контактам потрібно буде підтвердити новий пристрій, перш ніж ви почнете отримувати від них повідомлення.
+</translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation>Видалити поточний пристрій?</translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation>Після видалення пристрою зі списку доступних пристроїв він перестає отримувати офлайн-повідомлення від ваших контактів, поки він не стане доступним в Інтернеті, і ваші контакти відзначать його як надійний.</translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation>Видалити вибраний пристрій?</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation>Наступне повідомлення від ненадійного пристрою:</translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation>[НЕНАДІЙНИЙ]:</translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation>Неможливо створити жодні сеанси, повідомлення не надіслано</translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation>Здається, %1 не підтримує OMEMO, вимикаючи всю групу!</translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Подяки:</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути шифрування OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування OMEMO недоступне для цієї групи</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
+        <translation>Шифрування OMEMO недоступне для цього контакту</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Відбиток для акаунту &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation>Вимкнути шифрування OMEMO</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation>Показати свій відбито&amp;к</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
+        <translation>Шифрування OMEMO</translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation>Управління відбитками контакту</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19158,11 +19441,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Закрити</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
