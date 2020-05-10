@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2018-12-18
+# Updated: 2020-05-10
 # Version: N/A
 
 set -e
@@ -13,6 +13,7 @@ export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 
 PSI_DIR="${MAIN_DIR}/psi"
 PLUGINS_DIR="${MAIN_DIR}/plugins"
+PSIMEDIA_DIR="${MAIN_DIR}/psimedia"
 PSIPLUS_L10N_DIR="${MAIN_DIR}/psi-plus-l10n"
 
 # master release-1.x
@@ -153,6 +154,18 @@ case "${1}" in
         echo;
     fi
 
+    if [ -d "${PSIMEDIA_DIR}" ]; then
+        echo "Updating ${PSIMEDIA_DIR}"
+        cd "${PSIMEDIA_DIR}"
+        git pull --all --prune
+        echo;
+    else
+        echo "Creating ${PSIMEDIA_DIR}"
+        cd "${MAIN_DIR}"
+        git clone https://github.com/psi-im/psimedia.git
+        echo;
+    fi
+
     # beginning of magical hack
     cd "${CUR_DIR}"
     rm -fr tmp
@@ -161,7 +174,9 @@ case "${1}" in
 
     mkdir src
     mkdir src/plugins
+    mkdir psimedia
     cp -a "${PLUGINS_DIR}"/* "src/plugins/"
+    cp -a "${PSIMEDIA_DIR}"/psiplugin "psimedia/"
 
     cd "${PSI_DIR}/src"
     python ../admin/update_options_ts.py ../options/default.xml > \
