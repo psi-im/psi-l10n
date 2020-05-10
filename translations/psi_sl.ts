@@ -8278,19 +8278,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Predvajanje zvoka:</translation>
+        <translation>Predvajanje zvoka:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Snemanje zvoka:</translation>
+        <translation>Snemanje zvoka:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Prikaz videa:</translation>
+        <translation>Prikaz videa:</translation>
     </message>
 </context>
 <context>
@@ -13156,6 +13156,21 @@ Ali želite aktivirati to sejo?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Zahvaljujoč</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -14970,6 +14985,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Nastavitev naprav za zvok in video</translation>
     </message>
 </context>
 <context>

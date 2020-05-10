@@ -8612,19 +8612,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Аудіовихід:</translation>
+        <translation>Аудіовихід:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Аудіовхід:</translation>
+        <translation>Аудіовхід:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Відеовхід:</translation>
+        <translation>Відеовхід:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -11242,7 +11242,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Увага!&lt;/b&gt; Бездумне використання плагіну Client Switcher може призвести до неможливості використання шифрування OMEMO та OpenPGP. Використовуйте функції цього плагіна дуже обережно ...</translation>
     </message>
 </context>
 <context>
@@ -13688,6 +13688,21 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation>Автори:</translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation>Подяка</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation>Медіаплагін забезпечує функціонал, необхідний для аудіо / відео-дзвінків, а також може замінити деякі частини QtMultimedia.</translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15527,6 +15542,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation>Не довіряти</translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation>Мультимедіа</translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation>Налаштування аудіо/відео</translation>
     </message>
 </context>
 <context>
@@ -18621,7 +18644,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
 </context>
 <context>
@@ -18788,27 +18811,27 @@ Do you still want to close the window?</source>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Політика шифрування OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди увімкнено</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнено за замовчуванням</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнено за замовчуванням</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично позначати нові власні пристрої як надійні</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично позначати нові пристрої співрозмовників як надійні</translation>
     </message>
 </context>
 <context>
