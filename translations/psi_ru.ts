@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 10.05.2020</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 13.05.2020</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -615,6 +615,14 @@ When you enable this option you will not be able to find your password in config
         <source>Enable Stream Management if possible</source>
         <translation>Включить при возможности менеджер потока</translation>
     </message>
+    <message>
+        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable connections potentially exposing my IP address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -756,7 +764,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Приватный ключ</translation>
+        <translation type="vanished">Приватный ключ</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -805,6 +813,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Включает при возможности менеджер потока. Это полезно при нестабильном подключении к сети. Ваш сервер должен поддерживать данную опцию. Подробности см. в XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation>Выберите секретный ключ</translation>
     </message>
 </context>
 <context>
@@ -4078,7 +4090,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>Показывать наличие PGP</translation>
+        <translation type="vanished">Показывать наличие PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4098,7 +4110,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation>Показывать &quot;Присвоить ключ OpenPGP&quot; в меню контакта</translation>
+        <translation type="vanished">Показывать &quot;Присвоить ключ OpenPGP&quot; в меню контакта</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -5735,7 +5747,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5743,11 +5755,11 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation>Мастер GnuPG ключей умеет создавать, удалять, экспортировать и импортировать GnuPG ключи. Поддерживаются только самые базовые операции, но их должно хватить для ваших потребностей.</translation>
+        <translation type="vanished">Мастер GnuPG ключей умеет создавать, удалять, экспортировать и импортировать GnuPG ключи. Поддерживаются только самые базовые операции, но их должно хватить для ваших потребностей.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation>Отправить публичный GnuPG ключ</translation>
+        <translation type="vanished">Отправить публичный GnuPG ключ</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
@@ -5755,11 +5767,11 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
+        <translation type="vanished">Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
 </context>
 <context>
@@ -8249,6 +8261,41 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OpenPGP</name>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation>OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:
+* Сгенерируйте пару ключей (публичный ключ + секретный ключ) или выберите существующую и установите её в настройках программы.
+* Защитите свой секретный ключ надежным паролем и никогда никому его не передавайте.
+* Поделитесь своим открытым ключом с друзьями и получите их открытые ключи, используя любой канал связи, которому вы доверяете (xmpp, электронная почта, сервер ключей PGP).
+* Включите шифрование PGP в чате с вашим приятелем и наслаждайтесь защищенным общением.</translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation>Этот плагин использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent.</translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation>Встроенный менеджер ключей может выполнять только базовые операции, такие как создание, удаление, экспорт и импорт ключей PGP. Этого должно быть достаточно для потребностей большинства пользователей. Для более сложных случаев используйте специальное программное обеспечение.</translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation>Отправить публичный GnuPG ключ</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9770,7 +9817,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manager</source>
-        <translation>Менеджер</translation>
+        <translation type="vanished">Менеджер</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9794,15 +9841,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="vanished">Настройки</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation>Автоматический импорт ключа из тела сообщения</translation>
+        <translation type="vanished">Автоматический импорт ключа из тела сообщения</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation>Фильтровать сообщения с ключом</translation>
+        <translation type="vanished">Фильтровать сообщения с ключом</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10129,6 +10176,59 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation>Если Вы используете плагин в первый раз, то проверьте, что все Ваши аккаунты подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
+    </message>
+    <message>
+        <source>Keys Manager</source>
+        <translation>Менеджер ключей</translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation>Свои ключи</translation>
+    </message>
+    <message>
+        <source>Select &amp;Key...</source>
+        <translation>Выбрать &amp;ключ...</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation>Настройка</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption policy</source>
+        <translation>Политика шифрования OpenPGP</translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation>Всегда включено</translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation>Включено по умолчанию</translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation>Отключено по умолчанию</translation>
+    </message>
+    <message>
+        <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
+        <translation>Автоматически присваивать известные ключи контактам с
+подписанным &quot;статусом присутствия&quot; и не присвоенным ключом</translation>
+    </message>
+    <message>
+        <source>Show PGP info in tooltips for contacts in roster</source>
+        <translation>Показывать информацию PGP во всплывающих подсказках для контактов из ростера</translation>
+    </message>
+    <message>
+        <source>Automatically import PGP key from the message body</source>
+        <translation>Автоматический импорт ключа PGP из тела сообщения</translation>
+    </message>
+    <message>
+        <source>Do not show messages with PGP keys</source>
+        <translation>Не показывать сообщения, содержащие ключи PGP</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копировать отпечаток</translation>
     </message>
 </context>
 <context>
@@ -13101,7 +13201,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation>Шифрование OpenPGP</translation>
+        <translation type="vanished">Шифрование OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13187,6 +13287,22 @@ Reason: %1.</source>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>Показать свой отпечато&amp;к</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
+    </message>
+    <message>
+        <source>Choose Public Key</source>
+        <translation>Выберите публичный ключ</translation>
+    </message>
+    <message>
+        <source>Send own public key</source>
+        <translation>Отправить свой публичный ключ</translation>
+    </message>
+    <message>
+        <source>Send public key...</source>
+        <translation>Отправить публичный ключ...</translation>
     </message>
 </context>
 <context>
@@ -13456,11 +13572,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Присвоить ключ Open&amp;PGP</translation>
+        <translation type="vanished">Присвоить ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Убрать ключ Open&amp;PGP</translation>
+        <translation type="vanished">Убрать ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -18768,11 +18884,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18809,6 +18925,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation>Управление ключами собеседника</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
     </message>
 </context>
 <context>

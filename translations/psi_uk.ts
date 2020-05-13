@@ -624,6 +624,14 @@ When you enable this option you will not be able to find your password in config
         <source>Enable Stream Management if possible</source>
         <translation>Увімкнути Менеджмент Потоку якщо це можливо</translation>
     </message>
+    <message>
+        <source>Disable connections potentially exposing my IP address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -765,7 +773,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Приватний ключ</translation>
+        <translation type="vanished">Приватний ключ</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -814,6 +822,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Вмикає протокол Менеджменту Потоку, якщо це можливо. Це корисно, коли у вас нестабільне з&apos;єднання. Ваш сервер повинен підтримувати цю можливість.  Щоб дізнатись більше, див. XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation>Виберіть секретний ключ</translation>
     </message>
 </context>
 <context>
@@ -4083,7 +4095,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>Показувати наявність PGP</translation>
+        <translation type="vanished">Показувати наявність PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4103,7 +4115,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation>Показувати пункт &quot;Задати ключа OpenPGP&quot; в меню контакту</translation>
+        <translation type="vanished">Показувати пункт &quot;Задати ключа OpenPGP&quot; в меню контакту</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -5740,7 +5752,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5748,23 +5760,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation>Менеджер Ключів GnuPG може створити, видалити, експортувати та імпортувати ключі GnuPG. Він може виконувати тільки базові операції та я сподіваюсь, що вам цього буде достатньо.</translation>
+        <translation type="vanished">Менеджер Ключів GnuPG може створити, видалити, експортувати та імпортувати ключі GnuPG. Він може виконувати тільки базові операції та я сподіваюсь, що вам цього буде достатньо.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation>Надіслати Публічний GnuPG Ключ</translation>
+        <translation type="vanished">Надіслати Публічний GnuPG Ключ</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
         <translation type="vanished">Публічний ключ %1 відправлений</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation>Email: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
     </message>
 </context>
 <context>
@@ -8254,6 +8258,41 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OpenPGP</name>
+    <message>
+        <source>Authors: </source>
+        <translation>Автори:</translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation>OpenPGP - це найбільш широко використовуваний стандарт шифрування. Це надзвичайно просто:
+* Створіть пару ключів (відкритий ключ + секретний ключ) або виберіть існуючий та встановіть його в налаштуваннях програми.
+* Захистіть свій секретний ключ сильним паролем і ніколи не давайте його нікому.
+* Поділіться своїм відкритим ключем з друзями та отримайте їхні відкриті ключі, використовуючи будь-який канал зв&apos;язку, якому ви довіряєте (xmpp, електронна пошта, сервер ключів PGP).
+* Увімкніть шифрування PGP у чаті з вашим приятелем та насолоджуйтесь захищеною розмовою.</translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation>Цей плагін використовує стандартний інструмент командного рядка GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент.</translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation>Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation>Надіслати Публічний GnuPG Ключ</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9775,7 +9814,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manager</source>
-        <translation>Менеджер</translation>
+        <translation type="vanished">Менеджер</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9799,15 +9838,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation>Налаштування</translation>
+        <translation type="vanished">Налаштування</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation>Автоматичний імпорт ключа з тіла повідомлення</translation>
+        <translation type="vanished">Автоматичний імпорт ключа з тіла повідомлення</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation>Фільтрувати повідомлення з ключем</translation>
+        <translation type="vanished">Фільтрувати повідомлення з ключем</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10134,6 +10173,58 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation>Якщо ви використовуєте цей плагін вперше, переконайтеся, що всі ваші облікові записи онлайн, а потім натисніть кнопку &quot;Оновити дні народження&quot;. Це займає деякий час.</translation>
+    </message>
+    <message>
+        <source>Keys Manager</source>
+        <translation>Менеджер ключів</translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation>Власні ключі</translation>
+    </message>
+    <message>
+        <source>Select &amp;Key...</source>
+        <translation>Вибрати &amp;ключ...</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation>Налаштування</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption policy</source>
+        <translation>Політика шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation>Завжди увімкнено</translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation>Увімкнено за замовчуванням</translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation>Вимкнено за замовчуванням</translation>
+    </message>
+    <message>
+        <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
+        <translation>Автоматично призначати відомі ключі контактам із підписаними присутностями та без присвоєних ключів</translation>
+    </message>
+    <message>
+        <source>Show PGP info in tooltips for contacts in roster</source>
+        <translation>Показувати інформацію PGP у підказках для контактів у списку</translation>
+    </message>
+    <message>
+        <source>Automatically import PGP key from the message body</source>
+        <translation>Автоматично імпортувати PGP-ключ з тіла повідомлення</translation>
+    </message>
+    <message>
+        <source>Do not show messages with PGP keys</source>
+        <translation>Не показувати повідомлення з PGP-ключами</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
@@ -13102,10 +13193,6 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation>Встановити тему</translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation>Шифрування OpenPGP</translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13190,6 +13277,22 @@ Reason: %1.</source>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>Показати свій відбито&amp;к</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
+    </message>
+    <message>
+        <source>Choose Public Key</source>
+        <translation>Виберіть публічний ключ</translation>
+    </message>
+    <message>
+        <source>Send own public key</source>
+        <translation>Надіслати власний відкритий ключ</translation>
+    </message>
+    <message>
+        <source>Send public key...</source>
+        <translation>Надіслати відкритий ключ ...</translation>
     </message>
 </context>
 <context>
@@ -13459,11 +13562,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Призначити ключ Open&amp;PGP</translation>
+        <translation type="vanished">Призначити ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Скасувати ключ Open&amp;PGP</translation>
+        <translation type="vanished">Скасувати ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -18763,14 +18866,6 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>Author: </source>
-        <translation>Автор:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation>Email: </translation>
-    </message>
-    <message>
         <source>Credits: </source>
         <translation>Подяки:</translation>
     </message>
@@ -18805,6 +18900,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation>Управління відбитками контакту</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Автори:</translation>
     </message>
 </context>
 <context>
