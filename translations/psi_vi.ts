@@ -431,19 +431,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Chọn &amp;khoá...</translation>
+        <translation type="vanished">Chọn &amp;khoá...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Không dùng</translation>
+        <translation type="vanished">Không dùng</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -700,7 +700,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Chưa chọn khoá</translation>
+        <translation type="vanished">Chưa chọn khoá</translation>
     </message>
     <message>
         <source>Error</source>
@@ -768,10 +768,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1951,7 +1947,7 @@ Lý do: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Bật/tắt mật mã</translation>
+        <translation type="vanished">Bật/tắt mật mã</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3226,27 +3222,27 @@ Tiếp tục ?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Lỗi đi</translation>
+        <translation type="vanished">Lỗi đi</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Bị chiếu nên không thể đi</translation>
+        <translation type="vanished">Bị chiếu nên không thể đi</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Quân cờ thấp</translation>
+        <translation type="vanished">Quân cờ thấp</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Bạn có muốn quân cờ thấp không?</translation>
+        <translation type="vanished">Bạn có muốn quân cờ thấp không?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Có</translation>
+        <translation type="vanished">Có</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Không</translation>
+        <translation type="vanished">Không</translation>
     </message>
 </context>
 <context>
@@ -3589,10 +3585,6 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4149,7 +4141,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Có nên đặt hình nào?</translation>
+        <translation type="vanished">Có nên đặt hình nào?</translation>
     </message>
 </context>
 <context>
@@ -4994,145 +4986,145 @@ Lý do : %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Trắng</translation>
+        <translation type="vanished">Trắng</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Đen</translation>
+        <translation type="vanished">Đen</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>lượt chơi với</translation>
+        <translation type="vanished">lượt chơi với</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Chát khi chơi</translation>
+        <translation type="vanished">Chát khi chơi</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Lược sử</translation>
+        <translation type="vanished">Lược sử</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Đang tra cứu máy</translation>
+        <translation type="vanished">Đang tra cứu máy</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Có chấp nhận kết nối mới</translation>
+        <translation type="vanished">Có chấp nhận kết nối mới</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Máy được tìm</translation>
+        <translation type="vanished">Máy được tìm</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Có kết nối tới máy</translation>
+        <translation type="vanished">Có kết nối tới máy</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Lỗi ổ cắm...</translation>
+        <translation type="vanished">Lỗi ổ cắm...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Gặp lỗi ổ cắm số</translation>
+        <translation type="vanished">Gặp lỗi ổ cắm số</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>lượt chơi từ</translation>
+        <translation type="vanished">lượt chơi từ</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Có chấp nhận</translation>
+        <translation type="vanished">Có chấp nhận</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Bạn đi...</translation>
+        <translation type="vanished">Bạn đi...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Đợi đi...</translation>
+        <translation type="vanished">Đợi đi...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Kết thúc chơi</translation>
+        <translation type="vanished">Kết thúc chơi</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Kết thúc chơi thì thua</translation>
+        <translation type="vanished">Kết thúc chơi thì thua</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Kết thúc đi</translation>
+        <translation type="vanished">Kết thúc đi</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Không, tiếp tục đi</translation>
+        <translation type="vanished">Không, tiếp tục đi</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>Đ</translation>
+        <translation type="vanished">Đ</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Lỗi tra cứu</translation>
+        <translation type="vanished">Lỗi tra cứu</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Máy</translation>
+        <translation type="vanished">Máy</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>không tìm thấy.</translation>
+        <translation type="vanished">không tìm thấy.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Lưu ảnh</translation>
+        <translation type="vanished">Lưu ảnh</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Bạn có muốn lưu ảnh này không?</translation>
+        <translation type="vanished">Bạn có muốn lưu ảnh này không?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Lưu đi</translation>
+        <translation type="vanished">Lưu đi</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Không, đừng lưu</translation>
+        <translation type="vanished">Không, đừng lưu</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Hết lượt chơi</translation>
+        <translation type="vanished">Hết lượt chơi</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Bạn thắng</translation>
+        <translation type="vanished">Bạn thắng</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Bạn bị chiếu thì thua.</translation>
+        <translation type="vanished">Bạn bị chiếu thì thua.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Bạn bị thế bí</translation>
+        <translation type="vanished">Bạn bị thế bí</translation>
     </message>
 </context>
 <context>
@@ -7561,31 +7553,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Mới</translation>
+        <translation type="vanished">Mới</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Lưu ảnh</translation>
+        <translation type="vanished">Lưu ảnh</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Thoát</translation>
+        <translation type="vanished">Thoát</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Giới thiệu về trò chơi này</translation>
+        <translation type="vanished">Giới thiệu về trò chơi này</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Trò chơi</translation>
+        <translation type="vanished">Trò chơi</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Trợ giúp</translation>
+        <translation type="vanished">Trợ giúp</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Sẵn sàng</translation>
+        <translation type="vanished">Sẵn sàng</translation>
     </message>
     <message>
         <source>About</source>
@@ -7598,16 +7590,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>là trò chơi cờ mạng cho hai người.
+        <translation type="vanished">là trò chơi cờ mạng cho hai người.
 Chương trình này chứa cả hai ứng dụng khách và trình phục vụ.
 Bạn có quyền sửa đổi và phát hành lại mã nguồn,
 vì nó được cấp dưới Giấy phép Công cộng GNU (GPL).
 
 Nga, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7917,7 +7905,14 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
@@ -7939,12 +7934,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">Chẩn đ&amp;oán</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID khoá</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID người dùng</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Hãy chọn một khoá.</translation>
     </message>
 </context>
 <context>
@@ -9342,10 +9371,6 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="vanished">Thiết lập</translation>
     </message>
@@ -9595,10 +9620,6 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation>Mọi tập tin (*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9725,6 +9746,58 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">Chẩn đ&amp;oán</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Tài khoản</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID khoá</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID người dùng</translation>
     </message>
 </context>
 <context>
@@ -10921,36 +10994,28 @@ Lý do: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Cụm từ mật khẩu OpenPGP</translation>
+        <translation type="vanished">Cụm từ mật khẩu OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Để sử dụng khả năng bảo mật của OpenPGP thì yêu cầu cụm từ mật khẩu riêng của bạn.
+        <translation type="vanished">Để sử dụng khả năng bảo mật của OpenPGP thì yêu cầu cụm từ mật khẩu riêng của bạn.
 Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Thôi</translation>
+        <translation type="vanished">&amp;Thôi</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: cụm từ mật khẩu OpenPGP</translation>
+        <translation type="vanished">%1: cụm từ mật khẩu OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14428,47 +14493,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Cụm từ mật khẩu không hợp lệ</translation>
+        <translation type="vanished">Cụm từ mật khẩu không hợp lệ</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Định dạng gõ không hợp lệ</translation>
+        <translation type="vanished">Định dạng gõ không hợp lệ</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Khoá ký đã hết hạn</translation>
+        <translation type="vanished">Khoá ký đã hết hạn</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Khoá không hợp lệ</translation>
+        <translation type="vanished">Khoá không hợp lệ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Khoá mật mã đã hết hạn</translation>
+        <translation type="vanished">Khoá mật mã đã hết hạn</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Khoá mật mã không đáng tin</translation>
+        <translation type="vanished">Khoá mật mã không đáng tin</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Khoá mật mã không hợp lệ</translation>
+        <translation type="vanished">Khoá mật mã không hợp lệ</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Thiếu thẻ PGP</translation>
+        <translation type="vanished">Thiếu thẻ PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Lỗi không rõ</translation>
+        <translation type="vanished">Lỗi không rõ</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Lỗi ổ cắm</translation>
+        <translation type="vanished">Lỗi ổ cắm</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Không thể tạo ổ cắm kiểu máy phục vụ !</translation>
+        <translation type="vanished">Không thể tạo ổ cắm kiểu máy phục vụ !</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14562,10 +14627,6 @@ The message was not sent.</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15573,31 +15634,31 @@ Lý do : %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Lượt chơi mới với...</translation>
+        <translation type="vanished">Lượt chơi mới với...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Để chơi với</translation>
+        <translation type="vanished">Để chơi với</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Chọn lượt chơi</translation>
+        <translation type="vanished">Chọn lượt chơi</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Chơi màu trắng</translation>
+        <translation type="vanished">Chơi màu trắng</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Chơi màu đen</translation>
+        <translation type="vanished">Chơi màu đen</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Chơi đi !</translation>
+        <translation type="vanished">Chơi đi !</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Thôi</translation>
+        <translation type="vanished">Thôi</translation>
     </message>
 </context>
 <context>
@@ -17960,15 +18021,15 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17980,10 +18041,6 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18004,6 +18061,10 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18244,10 +18305,6 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18269,28 +18326,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -18311,13 +18368,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18343,10 +18400,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Trạng thái</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18356,10 +18409,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18374,15 +18423,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18406,10 +18467,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18419,6 +18476,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18520,10 +18581,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18569,6 +18626,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

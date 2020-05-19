@@ -469,19 +469,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>打開PGP</translation>
+        <translation type="vanished">打開PGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>預留位置r2</translation>
+        <translation type="vanished">預留位置r2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>選擇鑰匙(&amp;K)...</translation>
+        <translation type="vanished">選擇鑰匙(&amp;K)...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>不使用</translation>
+        <translation type="vanished">不使用</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -740,7 +740,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>沒有被選擇鑰匙</translation>
+        <translation type="vanished">沒有被選擇鑰匙</translation>
     </message>
     <message>
         <source>Error</source>
@@ -808,10 +808,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2057,7 +2053,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>切換加密</translation>
+        <translation type="vanished">切換加密</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3343,27 +3339,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>移動錯誤</translation>
+        <translation type="vanished">移動錯誤</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>你不能移動這步棋因為已經將軍了</translation>
+        <translation type="vanished">你不能移動這步棋因為已經將軍了</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>到城堡</translation>
+        <translation type="vanished">到城堡</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>你想要到城堡嗎?</translation>
+        <translation type="vanished">你想要到城堡嗎?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation type="vanished">是</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="vanished">否</translation>
     </message>
 </context>
 <context>
@@ -3707,10 +3703,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4282,7 +4274,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>我要設置哪一個設置檔?</translation>
+        <translation type="vanished">我要設置哪一個設置檔?</translation>
     </message>
 </context>
 <context>
@@ -5122,147 +5114,147 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>白</translation>
+        <translation type="vanished">白</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>黑</translation>
+        <translation type="vanished">黑</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>玩遊戲與</translation>
+        <translation type="vanished">玩遊戲與</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>遊戲對話</translation>
+        <translation type="vanished">遊戲對話</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>歷史</translation>
+        <translation type="vanished">歷史</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>查找主機</translation>
+        <translation type="vanished">查找主機</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>接受新連接</translation>
+        <translation type="vanished">接受新連接</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>已找到主機</translation>
+        <translation type="vanished">已找到主機</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>連接到主機</translation>
+        <translation type="vanished">連接到主機</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>socket 錯誤...</translation>
+        <translation type="vanished">socket 錯誤...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>你有一個 socket 錯誤號碼</translation>
+        <translation type="vanished">你有一個 socket 錯誤號碼</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>遊戲從</translation>
+        <translation type="vanished">遊戲從</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>接受</translation>
+        <translation type="vanished">接受</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>你的移動...</translation>
+        <translation type="vanished">你的移動...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>等待移動...</translation>
+        <translation type="vanished">等待移動...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>結束遊戲</translation>
+        <translation type="vanished">結束遊戲</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>你想要結束遊戲嗎?
+        <translation type="vanished">你想要結束遊戲嗎?
 你會輸掉喔</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>是, 結束</translation>
+        <translation type="vanished">是, 結束</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>否, 繼續</translation>
+        <translation type="vanished">否, 繼續</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>錯誤!</translation>
+        <translation type="vanished">錯誤!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>查找時發生錯誤</translation>
+        <translation type="vanished">查找時發生錯誤</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>主機</translation>
+        <translation type="vanished">主機</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>找不到。</translation>
+        <translation type="vanished">找不到。</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>儲存圖片</translation>
+        <translation type="vanished">儲存圖片</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>你要儲存圖片嗎?</translation>
+        <translation type="vanished">你要儲存圖片嗎?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>是, 儲存</translation>
+        <translation type="vanished">是, 儲存</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>否, 不要儲存</translation>
+        <translation type="vanished">否, 不要儲存</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>遊戲結束</translation>
+        <translation type="vanished">遊戲結束</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>你得分了</translation>
+        <translation type="vanished">你得分了</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>你被將軍了。
+        <translation type="vanished">你被將軍了。
 你輸了這場遊戲。</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>你現在無路可走</translation>
+        <translation type="vanished">你現在無路可走</translation>
     </message>
 </context>
 <context>
@@ -7809,31 +7801,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>新</translation>
+        <translation type="vanished">新</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>儲存圖片</translation>
+        <translation type="vanished">儲存圖片</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>退出</translation>
+        <translation type="vanished">退出</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>關於遊戲</translation>
+        <translation type="vanished">關於遊戲</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>遊戲</translation>
+        <translation type="vanished">遊戲</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>幫助</translation>
+        <translation type="vanished">幫助</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>準備好了</translation>
+        <translation type="vanished">準備好了</translation>
     </message>
     <message>
         <source>About</source>
@@ -7846,16 +7838,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>是一個給兩人玩的網路西洋棋遊戲。
+        <translation type="vanished">是一個給兩人玩的網路西洋棋遊戲。
 伺服器和用戶端在同一個程式中。
 你可以修改和再散佈原始碼，
 因為它是使用 GPL 的。
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8177,6 +8165,24 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">作者:</translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">發送GnuPG公開金鑰</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">作者:</translation>
     </message>
     <message>
@@ -8196,12 +8202,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">發送GnuPG公開金鑰</translation>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">啟動失敗</translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">找不到GunPG程式</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">診斷(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">鑰匙 ID</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">用戶 ID</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GunPG信息</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">請選擇鑰匙。</translation>
     </message>
 </context>
 <context>
@@ -9713,7 +9753,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Info</source>
-        <translation>信息</translation>
+        <translation type="vanished">信息</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9974,7 +10014,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GunPG信息</translation>
+        <translation type="vanished">GunPG信息</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10103,6 +10143,58 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">診斷(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">帳號</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">用戶</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">鑰匙 ID</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">你確定要刪除選定的金鑰？</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">用戶 ID</translation>
     </message>
 </context>
 <context>
@@ -11299,36 +11391,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP 密碼短語</translation>
+        <translation type="vanished">OpenPGP 密碼短語</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>你需要密碼短語來使用 OpenPGP。
+        <translation type="vanished">你需要密碼短語來使用 OpenPGP。
 請在下面輸入你的密碼短語:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>記住密碼</translation>
+        <translation type="vanished">記住密碼</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消(&amp;C)</translation>
+        <translation type="vanished">取消(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>確定(&amp;O)</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">確定(&amp;O)</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP 密碼短語</translation>
+        <translation type="vanished">%1: OpenPGP 密碼短語</translation>
     </message>
 </context>
 <context>
@@ -14836,47 +14924,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>無效的通行短語</translation>
+        <translation type="vanished">無效的通行短語</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>無效的輸入格式</translation>
+        <translation type="vanished">無效的輸入格式</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>簽署的鑰匙已過期</translation>
+        <translation type="vanished">簽署的鑰匙已過期</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>無效的鑰匙</translation>
+        <translation type="vanished">無效的鑰匙</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>加密的鑰匙已過期</translation>
+        <translation type="vanished">加密的鑰匙已過期</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>加密的鑰匙不可信任</translation>
+        <translation type="vanished">加密的鑰匙不可信任</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>加密的鑰匙是無效的</translation>
+        <translation type="vanished">加密的鑰匙是無效的</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP 卡片遺失</translation>
+        <translation type="vanished">PGP 卡片遺失</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的錯誤</translation>
+        <translation type="vanished">未知的錯誤</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>socket 錯誤</translation>
+        <translation type="vanished">socket 錯誤</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>無法建立伺服器 socket!</translation>
+        <translation type="vanished">無法建立伺服器 socket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14974,7 +15062,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -15991,31 +16079,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>新遊戲...</translation>
+        <translation type="vanished">新遊戲...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>玩遊戲與</translation>
+        <translation type="vanished">玩遊戲與</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>選擇你的遊戲</translation>
+        <translation type="vanished">選擇你的遊戲</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>白遊戲</translation>
+        <translation type="vanished">白遊戲</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>黑遊戲</translation>
+        <translation type="vanished">黑遊戲</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>玩!</translation>
+        <translation type="vanished">玩!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
 </context>
 <context>
@@ -18526,16 +18614,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">格局</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18546,10 +18634,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18571,6 +18655,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">用戶</translation>
     </message>
 </context>
 <context>
@@ -18819,7 +18907,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18845,27 +18933,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation>認證已失敗。</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>已知手紋印</translation>
+        <translation type="vanished">已知手紋印</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>我的私密金鑰</translation>
+        <translation type="vanished">我的私密金鑰</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>格局</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>OTR原則</translation>
+        <translation type="vanished">OTR原則</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18887,12 +18987,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>聯絡離線時結束會話</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>刪除指紋</translation>
+        <translation type="vanished">刪除指紋</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -18920,7 +19024,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>你確定要刪除選定的指紋？</translation>
+        <translation type="vanished">你確定要刪除選定的指紋？</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -18936,7 +19040,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18950,6 +19054,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>複製指紋</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">你確定要刪除選定的金鑰？</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -18959,7 +19079,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>刪除金鑰</translation>
+        <translation type="vanished">刪除金鑰</translation>
     </message>
     <message>
         <source>Account</source>
@@ -18983,7 +19103,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -18996,6 +19116,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>複製手紋印</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19101,7 +19225,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19149,6 +19273,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

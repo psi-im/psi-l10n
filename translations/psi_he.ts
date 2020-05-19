@@ -464,20 +464,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>עריכת &amp;פרטים אישיים...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select &amp;Key...</source>
-        <translation>בחירת &amp;מפתח...</translation>
+        <translation type="vanished">בחירת &amp;מפתח...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>ללא מפתח</translation>
+        <translation type="vanished">ללא מפתח</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -734,7 +726,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>לא נבחר מפתח</translation>
+        <translation type="vanished">לא נבחר מפתח</translation>
     </message>
     <message>
         <source>Error</source>
@@ -802,10 +794,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2025,7 +2013,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>אפשר/נטרל הצפנה</translation>
+        <translation type="vanished">אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3294,28 +3282,12 @@ Proceed?</source>
 <context>
     <name>Drawer</name>
     <message>
-        <source>Error moving</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Yes</source>
-        <translation>כן</translation>
+        <translation type="vanished">כן</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>לא</translation>
+        <translation type="vanished">לא</translation>
     </message>
 </context>
 <context>
@@ -3660,10 +3632,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4219,13 +4187,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Close</source>
         <translation>סגור</translation>
-    </message>
-</context>
-<context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5068,146 +5029,81 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>לבן</translation>
+        <translation type="vanished">לבן</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>שחור</translation>
+        <translation type="vanished">שחור</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>שחק עם</translation>
+        <translation type="vanished">שחק עם</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>שיחת משחק</translation>
+        <translation type="vanished">שיחת משחק</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>היסטוריה</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">היסטוריה</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>המארח נמצא</translation>
+        <translation type="vanished">המארח נמצא</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>מחובר אל המארח</translation>
+        <translation type="vanished">מחובר אל המארח</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>שגיאת Socket...</translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">שגיאת Socket...</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>משחק מן</translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">משחק מן</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>תורך...</translation>
+        <translation type="vanished">תורך...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>ממתין לתור...</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ממתין לתור...</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>שגיאה!</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">שגיאה!</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>המארח</translation>
+        <translation type="vanished">המארח</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>לא נמצא.</translation>
+        <translation type="vanished">לא נמצא.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>שמור תמונה</translation>
+        <translation type="vanished">שמור תמונה</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>האם ברצונך לשמור את התמונה?</translation>
+        <translation type="vanished">האם ברצונך לשמור את התמונה?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>כן, תשמור</translation>
+        <translation type="vanished">כן, תשמור</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>לא, אל תשמור</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">לא, אל תשמור</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>יש לך מט.
+        <translation type="vanished">יש לך מט.
 הפסדת את המשחק.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7673,48 +7569,35 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>חדש</translation>
+        <translation type="vanished">חדש</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>שמור תמונה</translation>
+        <translation type="vanished">שמור תמונה</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>יציאה</translation>
+        <translation type="vanished">יציאה</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>אודות המשחק</translation>
+        <translation type="vanished">אודות המשחק</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>משחק</translation>
+        <translation type="vanished">משחק</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>עזרה</translation>
+        <translation type="vanished">עזרה</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>מוכן</translation>
+        <translation type="vanished">מוכן</translation>
     </message>
     <message>
         <source>About</source>
         <translation type="vanished">אודות</translation>
-    </message>
-    <message>
-        <source>is a network game chess for two players.
-It has a client and a server in the same program.
-You can modify and redistribute the source code
-because it is under GPL.
-
-Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8037,6 +7920,20 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">מחברים: </translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">מחברים: </translation>
     </message>
     <message>
@@ -8056,12 +7953,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;דיאגנוסטיקה</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">מזהה מפתח</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">מזהה משתמש</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">אנא בחר מפתח.</translation>
     </message>
 </context>
 <context>
@@ -9504,7 +9435,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Info</source>
-        <translation>מידע</translation>
+        <translation type="vanished">מידע</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9756,10 +9687,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>כל הקבצים (*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9886,6 +9813,58 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">העתקת טביעת אצבע</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;דיאגנוסטיקה</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">חשבון</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">משתמש</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">מזהה מפתח</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">טביעת אצבע</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished">חשבון: </translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">משתמש: </translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">טביעת אצבע: </translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">מזהה משתמש</translation>
     </message>
 </context>
 <context>
@@ -11082,36 +11061,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>מימרת סיסמה OpenPGP</translation>
+        <translation type="vanished">מימרת סיסמה OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>מימרת סיסמה שלך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
+        <translation type="vanished">מימרת סיסמה שלך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
 אנא הזן מימרת סיסמה מטה:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>זכור מימרתסיסמה</translation>
+        <translation type="vanished">זכור מימרתסיסמה</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="vanished">&amp;ביטול</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;אישור</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;אישור</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: מימרת סיסמה OpenPGP</translation>
+        <translation type="vanished">%1: מימרת סיסמה OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14590,47 +14565,43 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>מימרת סיסמה שגויה</translation>
+        <translation type="vanished">מימרת סיסמה שגויה</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>פורמט קלט שגוי</translation>
+        <translation type="vanished">פורמט קלט שגוי</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>חתימת מפתח פקעה</translation>
+        <translation type="vanished">חתימת מפתח פקעה</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>מפתח שגוי</translation>
+        <translation type="vanished">מפתח שגוי</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>מפתח מצפין פג</translation>
+        <translation type="vanished">מפתח מצפין פג</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>מפתח מצפין אינו מהימן</translation>
+        <translation type="vanished">מפתח מצפין אינו מהימן</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>מפתח מצפין הינו שגוי</translation>
+        <translation type="vanished">מפתח מצפין הינו שגוי</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>כרטיס PGP הינו חסר</translation>
+        <translation type="vanished">כרטיס PGP הינו חסר</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>שגיאה לא מוכרת</translation>
+        <translation type="vanished">שגיאה לא מוכרת</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>שגיאת Socket</translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">שגיאת Socket</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14729,10 +14700,6 @@ The message was not sent.</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15741,32 +15708,12 @@ Reason: %1</source>
 <context>
     <name>SelectGame</name>
     <message>
-        <source>New game with...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To play with </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play!</source>
-        <translation>שחק!</translation>
+        <translation type="vanished">שחק!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="vanished">ביטול</translation>
     </message>
 </context>
 <context>
@@ -18171,16 +18118,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">תצורה</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18191,10 +18138,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18216,6 +18159,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">משתמש</translation>
     </message>
 </context>
 <context>
@@ -18463,10 +18410,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18488,27 +18431,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>טביעות אצבע מוכרות</translation>
+        <translation type="vanished">טביעות אצבע מוכרות</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>המפתחות הפרטיים שלי</translation>
+        <translation type="vanished">המפתחות הפרטיים שלי</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>תצורה</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>מדיניות OTR</translation>
+        <translation type="vanished">מדיניות OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18530,13 +18485,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18563,7 +18518,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>האם אתה בטוח כי ברצונך למחוק את טביעת האצבע הבאה?</translation>
+        <translation type="vanished">האם אתה בטוח כי ברצונך למחוק את טביעת האצבע הבאה?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -18578,10 +18533,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>טביעת אצבע: </translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18593,15 +18544,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>העתקת טביעת אצבע</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18625,10 +18588,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>טביעת אצבע: </translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation>האם אתה בטוח כי ברצונך להחליף את המפתח הבא?</translation>
     </message>
@@ -18639,6 +18598,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>העתקת טביעת אצבע</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18743,10 +18706,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>למידע נוסף, ראה &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18792,6 +18751,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

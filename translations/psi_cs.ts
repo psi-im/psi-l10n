@@ -469,19 +469,19 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Vyber &amp;klíč...</translation>
+        <translation type="vanished">Vyber &amp;klíč...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Nepoužít žádný</translation>
+        <translation type="vanished">Nepoužít žádný</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -740,7 +740,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Není vybrán žádný klíč</translation>
+        <translation type="vanished">Není vybrán žádný klíč</translation>
     </message>
     <message>
         <source>Error</source>
@@ -809,10 +809,6 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Povolí Stream Management protokol, pokud je dostupný. Je užitečný, pokud máš nestabilní připojení, ale musí to podporovat tvůj server. Pro víc informací viz XEP-0184.</translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2063,7 +2059,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Přepnout šifrování</translation>
+        <translation type="vanished">Přepnout šifrování</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3365,27 +3361,27 @@ Pokračovat?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Chyba při přesouvání</translation>
+        <translation type="vanished">Chyba při přesouvání</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Nelze posunout tuto figuru, protože král je v šachu</translation>
+        <translation type="vanished">Nelze posunout tuto figuru, protože král je v šachu</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rošáda</translation>
+        <translation type="vanished">Rošáda</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Chcete provést rošádu?</translation>
+        <translation type="vanished">Chcete provést rošádu?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>
@@ -3732,10 +3728,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     <message>
         <source>For all</source>
         <translation>Pro všechny</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4304,7 +4296,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Jakou přílohu mám nastavit?</translation>
+        <translation type="vanished">Jakou přílohu mám nastavit?</translation>
     </message>
 </context>
 <context>
@@ -5145,147 +5137,147 @@ Zdůvodnění: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Bílí</translation>
+        <translation type="vanished">Bílí</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Černí</translation>
+        <translation type="vanished">Černí</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>hra s</translation>
+        <translation type="vanished">hra s</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Herní chat</translation>
+        <translation type="vanished">Herní chat</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historie</translation>
+        <translation type="vanished">Historie</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Vyhledávám počítač</translation>
+        <translation type="vanished">Vyhledávám počítač</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Nové spojení přijato</translation>
+        <translation type="vanished">Nové spojení přijato</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Počítač nalezen</translation>
+        <translation type="vanished">Počítač nalezen</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Připojeno ke stroji</translation>
+        <translation type="vanished">Připojeno ke stroji</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Chyba soketu...</translation>
+        <translation type="vanished">Chyba soketu...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Obdržena chyba soketu číslo</translation>
+        <translation type="vanished">Obdržena chyba soketu číslo</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>hra od</translation>
+        <translation type="vanished">hra od</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Přijal</translation>
+        <translation type="vanished">Přijal</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Váš tah...</translation>
+        <translation type="vanished">Váš tah...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Čěkám na tah...</translation>
+        <translation type="vanished">Čěkám na tah...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Ukončit hru</translation>
+        <translation type="vanished">Ukončit hru</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Chcete ukončit hru?
+        <translation type="vanished">Chcete ukončit hru?
 Tímto ji prohrajete</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Ano, ukončit</translation>
+        <translation type="vanished">Ano, ukončit</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ne, pokračovat</translation>
+        <translation type="vanished">Ne, pokračovat</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Chyba!</translation>
+        <translation type="vanished">Chyba!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Nelze nalézt</translation>
+        <translation type="vanished">Nelze nalézt</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Host</translation>
+        <translation type="vanished">Host</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>nenalezen.</translation>
+        <translation type="vanished">nenalezen.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Uložit obrázek</translation>
+        <translation type="vanished">Uložit obrázek</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Chcete uložit obrázek?</translation>
+        <translation type="vanished">Chcete uložit obrázek?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Ano, uložit</translation>
+        <translation type="vanished">Ano, uložit</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ne, neukládat</translation>
+        <translation type="vanished">Ne, neukládat</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Konec hry</translation>
+        <translation type="vanished">Konec hry</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Zabodoval jsi ve hře</translation>
+        <translation type="vanished">Zabodoval jsi ve hře</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Máte mat.
+        <translation type="vanished">Máte mat.
 Hra je prohraná.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Jsi na mrtvém bodu</translation>
+        <translation type="vanished">Jsi na mrtvém bodu</translation>
     </message>
 </context>
 <context>
@@ -7805,31 +7797,31 @@ Příchozí událost(i) od:</translation>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nový</translation>
+        <translation type="vanished">Nový</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Uložit obrázek</translation>
+        <translation type="vanished">Uložit obrázek</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Ukončit</translation>
+        <translation type="vanished">Ukončit</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>O hře</translation>
+        <translation type="vanished">O hře</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Hra</translation>
+        <translation type="vanished">Hra</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Nápověda</translation>
+        <translation type="vanished">Nápověda</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Připraven</translation>
+        <translation type="vanished">Připraven</translation>
     </message>
     <message>
         <source>About</source>
@@ -7842,16 +7834,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>je síťová hra v šachy pro dva hráče.
+        <translation type="vanished">je síťová hra v šachy pro dva hráče.
 Obsahuje klienta a server v jednom programu.
 Můžeš měnit a šířit jejich kód, protože je pod
 licencí GPL.
 
 Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8185,6 +8173,24 @@ Tagy: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Autoři: </translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Poslat veřejný klíč GnuPG</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Autoři: </translation>
     </message>
     <message>
@@ -8204,12 +8210,46 @@ Tagy: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Poslat veřejný klíč GnuPG</translation>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">Nelze spustit</translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">GnuPG program nebyl nalezen</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostika</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID klíče</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID uživatele</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Chyba</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Prosím vyber klíč.</translation>
     </message>
 </context>
 <context>
@@ -9734,7 +9774,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Info</source>
-        <translation>Info</translation>
+        <translation type="vanished">Info</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9997,7 +10037,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GnuPG info</translation>
+        <translation type="vanished">GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10126,6 +10166,58 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">Kopírovat otisk klíče</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostika</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Účet</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Uživatel</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID klíče</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Otisk klíče</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Opravdu smazat následující klíč?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished">Účet: </translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">Uživatel: </translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Otisk klíče: </translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID uživatele</translation>
     </message>
 </context>
 <context>
@@ -11323,36 +11415,32 @@ Zdůvodnění: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP heslovací fráze</translation>
+        <translation type="vanished">OpenPGP heslovací fráze</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Je potřeba heslovací fráze, pro použítí OpenPGP zabezpečení.
+        <translation type="vanished">Je potřeba heslovací fráze, pro použítí OpenPGP zabezpečení.
 Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Zapamatovat heslo</translation>
+        <translation type="vanished">Zapamatovat heslo</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Zrušit</translation>
+        <translation type="vanished">&amp;Zrušit</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP heslovací fráze</translation>
+        <translation type="vanished">%1: OpenPGP heslovací fráze</translation>
     </message>
 </context>
 <context>
@@ -14881,47 +14969,47 @@ Popis: </translation>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Neplatná heslovací fráze</translation>
+        <translation type="vanished">Neplatná heslovací fráze</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Neplatný vstupní formát</translation>
+        <translation type="vanished">Neplatný vstupní formát</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Platnost podepisovacího klíče vypršela</translation>
+        <translation type="vanished">Platnost podepisovacího klíče vypršela</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Neplatný klíč</translation>
+        <translation type="vanished">Neplatný klíč</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Platnost šifrovacího klíče vypršela</translation>
+        <translation type="vanished">Platnost šifrovacího klíče vypršela</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Šifrovací klíč není důveryhodný</translation>
+        <translation type="vanished">Šifrovací klíč není důveryhodný</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Šifrovací klíč je neplatný</translation>
+        <translation type="vanished">Šifrovací klíč je neplatný</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Chybí &quot;PGP card&quot;</translation>
+        <translation type="vanished">Chybí &quot;PGP card&quot;</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Neznámá chyba</translation>
+        <translation type="vanished">Neznámá chyba</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Chyba socketu</translation>
+        <translation type="vanished">Chyba socketu</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Nepodařilo se vytvořit serverový socket!</translation>
+        <translation type="vanished">Nepodařilo se vytvořit serverový socket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15029,7 +15117,7 @@ Zpráva nebyla odeslána.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psí mimo záznam</translation>
+        <translation type="vanished">Psí mimo záznam</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -16065,31 +16153,31 @@ Zdůvodnění: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nová hra s...</translation>
+        <translation type="vanished">Nová hra s...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Hrát s </translation>
+        <translation type="vanished">Hrát s </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Vyber si svou hru</translation>
+        <translation type="vanished">Vyber si svou hru</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Hrát za bílé</translation>
+        <translation type="vanished">Hrát za bílé</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Hrát za černé</translation>
+        <translation type="vanished">Hrát za černé</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Hrát!</translation>
+        <translation type="vanished">Hrát!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
 </context>
 <context>
@@ -18536,16 +18624,16 @@ Opravdu zavřít okno?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Konfigurace</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18556,10 +18644,6 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18581,6 +18665,10 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Uživatel</translation>
     </message>
 </context>
 <context>
@@ -18829,7 +18917,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psí OTR</translation>
+        <translation type="vanished">Psí OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18855,27 +18943,39 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <source>Authentication failed.</source>
         <translation>Ověřování selhalo.</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Známé otisky klíčů</translation>
+        <translation type="vanished">Známé otisky klíčů</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Moje soukromé klíče</translation>
+        <translation type="vanished">Moje soukromé klíče</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Konfigurace</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>OTR zásady</translation>
+        <translation type="vanished">OTR zásady</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18897,12 +18997,16 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <source>End session when contact goes offline</source>
         <translation>Ukončit sezení když je konktakt offline</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Odstranit otisk klíče</translation>
+        <translation type="vanished">Odstranit otisk klíče</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -18930,7 +19034,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Opravdu odstranit následující otisk klíče?</translation>
+        <translation type="vanished">Opravdu odstranit následující otisk klíče?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -18946,7 +19050,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psí OTR</translation>
+        <translation type="vanished">Psí OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18960,6 +19064,22 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <source>Copy fingerprint</source>
         <translation>Kopírovat otisk klíče</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Opravdu smazat následující klíč?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -18969,7 +19089,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Smazat klíč</translation>
+        <translation type="vanished">Smazat klíč</translation>
     </message>
     <message>
         <source>Account</source>
@@ -18993,7 +19113,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psí OTR</translation>
+        <translation type="vanished">Psí OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -19006,6 +19126,10 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <source>Copy fingerprint</source>
         <translation>Kopírovat otisk klíče</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19111,7 +19235,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psí OTR</translation>
+        <translation type="vanished">Psí OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19160,6 +19284,10 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <source>OTR Plugin: event from %1</source>
         <translation>Zásuvný modul OTR: událost od %1</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

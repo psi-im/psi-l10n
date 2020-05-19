@@ -431,19 +431,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Izbor &amp;ključa ...</translation>
+        <translation type="vanished">Izbor &amp;ključa ...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Brez ključa</translation>
+        <translation type="vanished">Brez ključa</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -700,7 +700,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Izbran ni noben ključ</translation>
+        <translation type="vanished">Izbran ni noben ključ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -768,10 +768,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1951,7 +1947,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Preklopi šifriranje</translation>
+        <translation type="vanished">Preklopi šifriranje</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3215,27 +3211,27 @@ Nadaljujem?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Napaka pri premikanju</translation>
+        <translation type="vanished">Napaka pri premikanju</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Te figure ne morete premakniti, ker je kralj v šahu</translation>
+        <translation type="vanished">Te figure ne morete premakniti, ker je kralj v šahu</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rokada</translation>
+        <translation type="vanished">Rokada</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Ali želite narediti rokado?</translation>
+        <translation type="vanished">Ali želite narediti rokado?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>
@@ -3579,10 +3575,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4139,7 +4131,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Katero figuro naj nastavim?</translation>
+        <translation type="vanished">Katero figuro naj nastavim?</translation>
     </message>
 </context>
 <context>
@@ -4978,147 +4970,131 @@ Razlog: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Beli</translation>
+        <translation type="vanished">Beli</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Črni</translation>
+        <translation type="vanished">Črni</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>igra z</translation>
+        <translation type="vanished">igra z</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Klepet v igri</translation>
+        <translation type="vanished">Klepet v igri</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Zgodovina</translation>
+        <translation type="vanished">Zgodovina</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Iskanje gostitelja</translation>
+        <translation type="vanished">Iskanje gostitelja</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Sprejeta je bila nova povezava</translation>
+        <translation type="vanished">Sprejeta je bila nova povezava</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Gostitelj je bil najden</translation>
+        <translation type="vanished">Gostitelj je bil najden</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Povezan z gostiteljem</translation>
+        <translation type="vanished">Povezan z gostiteljem</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Napaka vtičnice ...</translation>
+        <translation type="vanished">Napaka vtičnice ...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Prišlo je do napake vtičnice s številko</translation>
+        <translation type="vanished">Prišlo je do napake vtičnice s številko</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>igra od</translation>
+        <translation type="vanished">igra od</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Je sprejel</translation>
+        <translation type="vanished">Je sprejel</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Vaša poteza ...</translation>
+        <translation type="vanished">Vaša poteza ...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Čakanje na potezo ...</translation>
+        <translation type="vanished">Čakanje na potezo ...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Zaključi igro</translation>
+        <translation type="vanished">Zaključi igro</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Ali želite zaključiti igro?
+        <translation type="vanished">Ali želite zaključiti igro?
 S tem boste izgubili</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Da, zaključi</translation>
+        <translation type="vanished">Da, zaključi</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ne, nadaljuj</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ne, nadaljuj</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Napaka.</translation>
+        <translation type="vanished">Napaka.</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Napaka pri iskanju</translation>
+        <translation type="vanished">Napaka pri iskanju</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Gostitelj</translation>
+        <translation type="vanished">Gostitelj</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>ni bil najden.</translation>
+        <translation type="vanished">ni bil najden.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Shrani sliko</translation>
+        <translation type="vanished">Shrani sliko</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Ali želite shraniti sliko?</translation>
+        <translation type="vanished">Ali želite shraniti sliko?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Da, shrani</translation>
+        <translation type="vanished">Da, shrani</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ne, ne shrani</translation>
+        <translation type="vanished">Ne, ne shrani</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Konec igre</translation>
+        <translation type="vanished">Konec igre</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Zmagali ste</translation>
+        <translation type="vanished">Zmagali ste</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Bili ste matirani.
+        <translation type="vanished">Bili ste matirani.
 Izgubili ste igro.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Prišlo je do pata</translation>
+        <translation type="vanished">Prišlo je do pata</translation>
     </message>
 </context>
 <context>
@@ -7545,31 +7521,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nova</translation>
+        <translation type="vanished">Nova</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Shrani sliko</translation>
+        <translation type="vanished">Shrani sliko</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Končaj</translation>
+        <translation type="vanished">Končaj</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>O igri</translation>
+        <translation type="vanished">O igri</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Igra</translation>
+        <translation type="vanished">Igra</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Pomoč</translation>
+        <translation type="vanished">Pomoč</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Pripravljen</translation>
+        <translation type="vanished">Pripravljen</translation>
     </message>
     <message>
         <source>About</source>
@@ -7582,16 +7558,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>je omrežna igra šaha za dva igralca.
+        <translation type="vanished">je omrežna igra šaha za dva igralca.
 V istem programu vsebuje odjemalca in strežnika.
 Lahko spreminjate in razširjate izvorno kodo,
 ker je le ta izdana pod licenco GPL.
 
 Rusija, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7901,7 +7873,14 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
@@ -7923,12 +7902,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostika</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Identiteta ključa</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Identiteta uporabnika</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Napaka</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Prosim, izberite ključ.</translation>
     </message>
 </context>
 <context>
@@ -9326,10 +9339,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="vanished">Nastavitve</translation>
     </message>
@@ -9579,10 +9588,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <translation>Vse datoteke (*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9709,6 +9714,58 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostika</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Račun</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Identiteta ključa</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Identiteta uporabnika</translation>
     </message>
 </context>
 <context>
@@ -10905,36 +10962,28 @@ Razlog: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Šifrirna fraza za OpenPGP</translation>
+        <translation type="vanished">Šifrirna fraza za OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Za uporabo varnosti z OpenPGP je potrebna vaša šifrirna fraza.
+        <translation type="vanished">Za uporabo varnosti z OpenPGP je potrebna vaša šifrirna fraza.
 Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Prekliči</translation>
+        <translation type="vanished">&amp;Prekliči</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;V redu</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;V redu</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: šifrirna fraza za OpenPGP</translation>
+        <translation type="vanished">%1: šifrirna fraza za OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14411,47 +14460,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Neveljavna šifrirna fraza</translation>
+        <translation type="vanished">Neveljavna šifrirna fraza</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Neveljaven vhodni format</translation>
+        <translation type="vanished">Neveljaven vhodni format</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Ključ za podpisovanje je potekel</translation>
+        <translation type="vanished">Ključ za podpisovanje je potekel</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Neveljaven ključ</translation>
+        <translation type="vanished">Neveljaven ključ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Šifrirni ključ je potekel</translation>
+        <translation type="vanished">Šifrirni ključ je potekel</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Šifrirni ključ ni zaupan</translation>
+        <translation type="vanished">Šifrirni ključ ni zaupan</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Šifrirni ključ ni veljaven</translation>
+        <translation type="vanished">Šifrirni ključ ni veljaven</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Manjka kartica PGP</translation>
+        <translation type="vanished">Manjka kartica PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Neznana napaka</translation>
+        <translation type="vanished">Neznana napaka</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Napaka vtičnice</translation>
+        <translation type="vanished">Napaka vtičnice</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Ni moč ustvariti vtičnice za strežnik.</translation>
+        <translation type="vanished">Ni moč ustvariti vtičnice za strežnik.</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14557,10 +14606,6 @@ The message was not sent.</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15574,31 +15619,31 @@ Razlog: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nova igra z ...</translation>
+        <translation type="vanished">Nova igra z ...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Za igro z </translation>
+        <translation type="vanished">Za igro z </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Izberite svojo igro</translation>
+        <translation type="vanished">Izberite svojo igro</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Bela igra</translation>
+        <translation type="vanished">Bela igra</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Črna igra</translation>
+        <translation type="vanished">Črna igra</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Igraj!</translation>
+        <translation type="vanished">Igraj!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="vanished">Prekliči</translation>
     </message>
 </context>
 <context>
@@ -17961,15 +18006,15 @@ Ali še vedno želite zapreti okno?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17981,10 +18026,6 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18005,6 +18046,10 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18245,10 +18290,6 @@ Ali še vedno želite zapreti okno?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18270,28 +18311,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -18312,13 +18353,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18344,10 +18385,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Stanje</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18357,10 +18394,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18375,15 +18408,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18407,10 +18452,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18420,6 +18461,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18521,10 +18566,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18570,6 +18611,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

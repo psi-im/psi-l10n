@@ -482,19 +482,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Вибрати &amp;ключ...</translation>
+        <translation type="vanished">Вибрати &amp;ключ...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Не використовувати</translation>
+        <translation type="vanished">Не використовувати</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -625,12 +625,12 @@ When you enable this option you will not be able to find your password in config
         <translation>Увімкнути Менеджмент Потоку якщо це можливо</translation>
     </message>
     <message>
-        <source>Disable connections potentially exposing my IP address</source>
-        <translation type="unfinished"></translation>
+        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
+        <translation>Це налаштування вимикає однорангові з&apos;єднання а також з&apos;єднання до серверів TURN, що надається іншим рівнем.&lt;br&gt;&lt;br&gt;&lt;b&gt;Попередження: &lt;/b&gt;Хоча це приховує вашу IP адресу, воно робить неможливим з&apos;єднання, якщо параметри серверу TURN, що наведені вище є невірними або відсутні.</translation>
     </message>
     <message>
-        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
-        <translation type="unfinished"></translation>
+        <source>Disable connections potentially exposing my IP address</source>
+        <translation>Вимкнути з&apos;єднання, що потенційно викривають мою IP-адресу</translation>
     </message>
 </context>
 <context>
@@ -753,7 +753,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Ключ не обрано</translation>
+        <translation type="vanished">Ключ не обрано</translation>
     </message>
     <message>
         <source>Error</source>
@@ -822,10 +822,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Вмикає протокол Менеджменту Потоку, якщо це можливо. Це корисно, коли у вас нестабільне з&apos;єднання. Ваш сервер повинен підтримувати цю можливість.  Щоб дізнатись більше, див. XEP-0184.</translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
-        <translation>Виберіть секретний ключ</translation>
     </message>
 </context>
 <context>
@@ -2084,7 +2080,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Шифрування</translation>
+        <translation type="vanished">Шифрування</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3386,27 +3382,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Помилка переміщення</translation>
+        <translation type="vanished">Помилка переміщення</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Ви не можете перемістити цю фігуру бо Вам шах</translation>
+        <translation type="vanished">Ви не можете перемістити цю фігуру бо Вам шах</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Зробити рокіровку</translation>
+        <translation type="vanished">Зробити рокіровку</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Ви хочете зробити рокіровку?</translation>
+        <translation type="vanished">Ви хочете зробити рокіровку?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation type="vanished">Ні</translation>
     </message>
 </context>
 <context>
@@ -3751,10 +3747,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>For all</source>
         <translation>Для усіх</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation>Шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -4327,7 +4319,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Яку фігуру встановити?</translation>
+        <translation type="vanished">Яку фігуру встановити?</translation>
     </message>
 </context>
 <context>
@@ -5170,147 +5162,147 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Білі</translation>
+        <translation type="vanished">Білі</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Чорні</translation>
+        <translation type="vanished">Чорні</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>грати з</translation>
+        <translation type="vanished">грати з</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Чат гри</translation>
+        <translation type="vanished">Чат гри</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Історія</translation>
+        <translation type="vanished">Історія</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Пошук серверу</translation>
+        <translation type="vanished">Пошук серверу</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Прийнято нове з&apos;єднання</translation>
+        <translation type="vanished">Прийнято нове з&apos;єднання</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Сервер знайдено</translation>
+        <translation type="vanished">Сервер знайдено</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Підключено до серверу</translation>
+        <translation type="vanished">Підключено до серверу</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Помилка сокету...</translation>
+        <translation type="vanished">Помилка сокету...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>У вас помилка сокету номер</translation>
+        <translation type="vanished">У вас помилка сокету номер</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>грати від</translation>
+        <translation type="vanished">грати від</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Прийнято</translation>
+        <translation type="vanished">Прийнято</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Ваш хід...</translation>
+        <translation type="vanished">Ваш хід...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Очікування ходу...</translation>
+        <translation type="vanished">Очікування ходу...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Кінець гри</translation>
+        <translation type="vanished">Кінець гри</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Завершити гру?
+        <translation type="vanished">Завершити гру?
 Ви програєте</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Так, завершити</translation>
+        <translation type="vanished">Так, завершити</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ні, продовжити</translation>
+        <translation type="vanished">Ні, продовжити</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>К</translation>
+        <translation type="vanished">К</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>С</translation>
+        <translation type="vanished">С</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Помилка!</translation>
+        <translation type="vanished">Помилка!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Помилка пошуку</translation>
+        <translation type="vanished">Помилка пошуку</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Сервер</translation>
+        <translation type="vanished">Сервер</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>не знайдено.</translation>
+        <translation type="vanished">не знайдено.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Зберегти зображення</translation>
+        <translation type="vanished">Зберегти зображення</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Зберегти зображення?</translation>
+        <translation type="vanished">Зберегти зображення?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Так, зберегти</translation>
+        <translation type="vanished">Так, зберегти</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ні, не зберігати</translation>
+        <translation type="vanished">Ні, не зберігати</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Кінець гри</translation>
+        <translation type="vanished">Кінець гри</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Ви виграли гру</translation>
+        <translation type="vanished">Ви виграли гру</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Вам мат.
+        <translation type="vanished">Вам мат.
 Ви програли.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>У вас пат</translation>
+        <translation type="vanished">У вас пат</translation>
     </message>
 </context>
 <context>
@@ -7881,31 +7873,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Створити</translation>
+        <translation type="vanished">Створити</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Зберегти зображення</translation>
+        <translation type="vanished">Зберегти зображення</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Вийти</translation>
+        <translation type="vanished">Вийти</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Про гру</translation>
+        <translation type="vanished">Про гру</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Гра</translation>
+        <translation type="vanished">Гра</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Довідка</translation>
+        <translation type="vanished">Довідка</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Готовий</translation>
+        <translation type="vanished">Готовий</translation>
     </message>
     <message>
         <source>About</source>
@@ -7918,7 +7910,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>це мережева гра в шахи для двох гравців.
+        <translation type="vanished">це мережева гра в шахи для двох гравців.
 І іліент, і сервер реалізовані в програмі.
 Ви можете змінювати і поширювати
 вихідний код під під ліцензією GPL.
@@ -7927,7 +7919,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>About plugin</source>
-        <translation>Про плагін</translation>
+        <translation type="vanished">Про плагін</translation>
     </message>
 </context>
 <context>
@@ -8258,7 +8250,14 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
         <translation>Автори:</translation>
@@ -8284,12 +8283,46 @@ Tags: %1</source>
         <translation>Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation>Надіслати Публічний GnuPG Ключ</translation>
+        <source>OpenPGP encryption</source>
+        <translation>Шифрування OpenPGP</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation>Не може стартувати</translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
+        <source>GnuPG program not found</source>
+        <translation>GnuPG програму не знайдено</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation>&amp;Діагностика</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation>ID ключа</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation>ID користувача</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation>Інформація GnuPG</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Помилка</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation>Будь ласка, оберіть ключ.</translation>
     </message>
 </context>
 <context>
@@ -9834,7 +9867,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Info</source>
-        <translation>Інформація</translation>
+        <translation type="vanished">Інформація</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -10096,7 +10129,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>Інформація GnuPG</translation>
+        <translation type="vanished">Інформація GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10225,6 +10258,58 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Copy fingerprint</source>
         <translation>Копіювати відбиток</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation>&amp;Діагностика</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation>Відомі ключі</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Акаунт</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation>Користувач</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation>ID ключа</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Відбиток</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation>Бажаєте видалити наступний ключ?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation>Акаунт:</translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation>Ім’я користувача:</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation>Відбиток: </translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation>Виберіть секретний ключ</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation>ID користувача</translation>
     </message>
 </context>
 <context>
@@ -11422,36 +11507,36 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Ключова фраза OpenPGP</translation>
+        <translation type="vanished">Ключова фраза OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Для використання шифрування OpenPGP потрібна ваша ключова фразу.
+        <translation type="vanished">Для використання шифрування OpenPGP потрібна ваша ключова фразу.
 Введіть ключову фразу: </translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Запам’ятати ключову фразу</translation>
+        <translation type="vanished">Запам’ятати ключову фразу</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Скасувати</translation>
+        <translation type="vanished">&amp;Скасувати</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
     <message>
         <source>psi/keys64</source>
-        <translation>psi/keys64</translation>
+        <translation type="vanished">psi/keys64</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Парольна фраза OpenPGP</translation>
+        <translation type="vanished">%1: Парольна фраза OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14998,47 +15083,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Невірна парольна фраза</translation>
+        <translation type="vanished">Невірна парольна фраза</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Невірний вхідний формат</translation>
+        <translation type="vanished">Невірний вхідний формат</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Термін підписувального ключа стік</translation>
+        <translation type="vanished">Термін підписувального ключа стік</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Неправильний ключ</translation>
+        <translation type="vanished">Неправильний ключ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Термін шифрувального ключа стік</translation>
+        <translation type="vanished">Термін шифрувального ключа стік</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Шифруючий ключ є недовіреним</translation>
+        <translation type="vanished">Шифруючий ключ є недовіреним</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Шифруючий ключ є невірним</translation>
+        <translation type="vanished">Шифруючий ключ є невірним</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Немає PGP карти</translation>
+        <translation type="vanished">Немає PGP карти</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Невідома помилка</translation>
+        <translation type="vanished">Невідома помилка</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Помилка сокету</translation>
+        <translation type="vanished">Помилка сокету</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Неможливо створити сокет серверу!</translation>
+        <translation type="vanished">Неможливо створити сокет серверу!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15146,7 +15231,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi+ OTR</translation>
+        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -16185,31 +16270,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Нова гра з...</translation>
+        <translation type="vanished">Нова гра з...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Грати з </translation>
+        <translation type="vanished">Грати з </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Оберіть гру</translation>
+        <translation type="vanished">Оберіть гру</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Грати білими</translation>
+        <translation type="vanished">Грати білими</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Грати чорними</translation>
+        <translation type="vanished">Грати чорними</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Грати!</translation>
+        <translation type="vanished">Грати!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation type="vanished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -18738,16 +18823,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation>Відбитки</translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation>Керування пристроями</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Налаштування</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation>Відомі ключі</translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation>Власні ключі</translation>
     </message>
 </context>
 <context>
@@ -18759,10 +18844,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Trust</source>
         <translation>Довіряти</translation>
-    </message>
-    <message>
-        <source>Contact</source>
-        <translation>Контакт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18783,6 +18864,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation>не вирішено</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation>Користувач</translation>
     </message>
 </context>
 <context>
@@ -19029,7 +19114,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi+ OTR</translation>
+        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -19055,27 +19140,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation>Аутентифікацію не пройдено.</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Відомі відбитки</translation>
+        <translation type="vanished">Відомі відбитки</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Мої особисті ключі</translation>
+        <translation type="vanished">Мої особисті ключі</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Налаштування</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation>Відомі ключі</translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation>Власні ключі</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>Політика OTR</translation>
+        <translation type="vanished">Політика OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -19097,12 +19194,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Закінчувати сесію при виході контакту в офлайн</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation>Політика шифрування OTR</translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Видалити відбиток</translation>
+        <translation type="vanished">Видалити відбиток</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -19130,7 +19231,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Бажаєте видалити наступний відбиток?</translation>
+        <translation type="vanished">Бажаєте видалити наступний відбиток?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -19146,7 +19247,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi+ OTR</translation>
+        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -19160,6 +19261,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Копіювати відбиток</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation>Довіряти</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation>Не довіряти</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation>Бажаєте видалити наступний ключ?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -19169,7 +19286,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Видалити ключ</translation>
+        <translation type="vanished">Видалити ключ</translation>
     </message>
     <message>
         <source>Account</source>
@@ -19193,7 +19310,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi+ OTR</translation>
+        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -19206,6 +19323,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Копіювати відбиток</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>
@@ -19311,7 +19432,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi+ OTR</translation>
+        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19360,6 +19481,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>OTR Plugin: event from %1</source>
         <translation>OTR плагін: подія від %1</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>

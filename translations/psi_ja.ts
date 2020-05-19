@@ -470,19 +470,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>鍵の選択 (&amp;K)... </translation>
+        <translation type="vanished">鍵の選択 (&amp;K)... </translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>使用しない</translation>
+        <translation type="vanished">使用しない</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -742,7 +742,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>鍵が選択されていません</translation>
+        <translation type="vanished">鍵が選択されていません</translation>
     </message>
     <message>
         <source>Error</source>
@@ -810,10 +810,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2016,7 +2012,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>暗号化の切り替え</translation>
+        <translation type="vanished">暗号化の切り替え</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3296,27 +3292,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>移動中のエラー</translation>
+        <translation type="vanished">移動中のエラー</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>キングがチェックされている為、この駒を動かすことが出来ません</translation>
+        <translation type="vanished">キングがチェックされている為、この駒を動かすことが出来ません</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>キャスリング</translation>
+        <translation type="vanished">キャスリング</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>キャスリングしますか?</translation>
+        <translation type="vanished">キャスリングしますか?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation type="vanished">はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation type="vanished">いいえ</translation>
     </message>
 </context>
 <context>
@@ -3660,10 +3656,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4220,7 +4212,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>何の駒をセットしますか?</translation>
+        <translation type="vanished">何の駒をセットしますか?</translation>
     </message>
 </context>
 <context>
@@ -5056,145 +5048,145 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>白</translation>
+        <translation type="vanished">白</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>黒</translation>
+        <translation type="vanished">黒</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>ゲーム - </translation>
+        <translation type="vanished">ゲーム - </translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>ゲームチャット</translation>
+        <translation type="vanished">ゲームチャット</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>履歴</translation>
+        <translation type="vanished">履歴</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>ホストを検索中</translation>
+        <translation type="vanished">ホストを検索中</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>新しい接続を受け付けました</translation>
+        <translation type="vanished">新しい接続を受け付けました</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>ホストが見つかりませんでした</translation>
+        <translation type="vanished">ホストが見つかりませんでした</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>ホストに接続しました</translation>
+        <translation type="vanished">ホストに接続しました</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>ソケットエラ...</translation>
+        <translation type="vanished">ソケットエラ...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>ソケットエラー番号があります</translation>
+        <translation type="vanished">ソケットエラー番号があります</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>ゲーム -</translation>
+        <translation type="vanished">ゲーム -</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>受け付けました - </translation>
+        <translation type="vanished">受け付けました - </translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>あなたの移動...</translation>
+        <translation type="vanished">あなたの移動...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>移動を待ってます...</translation>
+        <translation type="vanished">移動を待ってます...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>ゲーム終了</translation>
+        <translation type="vanished">ゲーム終了</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>ゲームを終了しますか? あなたは負けになります</translation>
+        <translation type="vanished">ゲームを終了しますか? あなたは負けになります</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>はい、終了します</translation>
+        <translation type="vanished">はい、終了します</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>いいえ、続けます</translation>
+        <translation type="vanished">いいえ、続けます</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>エラー!</translation>
+        <translation type="vanished">エラー!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>検索エラー</translation>
+        <translation type="vanished">検索エラー</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>ホスト</translation>
+        <translation type="vanished">ホスト</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>見つかりません。</translation>
+        <translation type="vanished">見つかりません。</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>画像を保存</translation>
+        <translation type="vanished">画像を保存</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>画像を保存しますか?</translation>
+        <translation type="vanished">画像を保存しますか?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>はい、保存します</translation>
+        <translation type="vanished">はい、保存します</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>いいえ、保存しません</translation>
+        <translation type="vanished">いいえ、保存しません</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>ゲームオーバー</translation>
+        <translation type="vanished">ゲームオーバー</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>あなたのゲームスコア</translation>
+        <translation type="vanished">あなたのゲームスコア</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>チェックメイトされました。このゲームはあなたの負けです。</translation>
+        <translation type="vanished">チェックメイトされました。このゲームはあなたの負けです。</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>ステイルメイトになりました</translation>
+        <translation type="vanished">ステイルメイトになりました</translation>
     </message>
 </context>
 <context>
@@ -7649,31 +7641,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>新規</translation>
+        <translation type="vanished">新規</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>画像を保存</translation>
+        <translation type="vanished">画像を保存</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>終了</translation>
+        <translation type="vanished">終了</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>ゲームについて</translation>
+        <translation type="vanished">ゲームについて</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>ゲーム</translation>
+        <translation type="vanished">ゲーム</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="vanished">ヘルプ</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>準備</translation>
+        <translation type="vanished">準備</translation>
     </message>
     <message>
         <source>About</source>
@@ -7686,15 +7678,11 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>2人でプレイするネットワークチェスゲームです。
+        <translation type="vanished">2人でプレイするネットワークチェスゲームです。
 サーバーとクライアントは同じプログラムです。
 GPLなのであなたはソースコードを変更し、再配布することが出来ます。
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8008,6 +7996,20 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">作者:</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">作者:</translation>
     </message>
     <message>
@@ -8027,12 +8029,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">診断(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">鍵ID</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ユーザーID</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">エラー</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">鍵を選択してください。</translation>
     </message>
 </context>
 <context>
@@ -9430,10 +9466,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="vanished">設定</translation>
     </message>
@@ -9683,10 +9715,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>全てのファイル(*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation>認証中...</translation>
     </message>
@@ -9813,6 +9841,58 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">診断(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">アカウント</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">鍵ID</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ユーザーID</translation>
     </message>
 </context>
 <context>
@@ -11009,36 +11089,28 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGPパスフレーズ</translation>
+        <translation type="vanished">OpenPGPパスフレーズ</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>パスフレーズはOpenPGPセキュリティを使用する為に必要です。
+        <translation type="vanished">パスフレーズはOpenPGPセキュリティを使用する為に必要です。
 以下にパスフレーズを入力してください:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>キャンセル(&amp;C)</translation>
+        <translation type="vanished">キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGPパスフレーズ</translation>
+        <translation type="vanished">%1: OpenPGPパスフレーズ</translation>
     </message>
 </context>
 <context>
@@ -14515,47 +14587,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>無効なパスフレーズです</translation>
+        <translation type="vanished">無効なパスフレーズです</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>無効な入力フォーマットです</translation>
+        <translation type="vanished">無効な入力フォーマットです</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>署名の鍵が有効期限切れです</translation>
+        <translation type="vanished">署名の鍵が有効期限切れです</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>無効な鍵です</translation>
+        <translation type="vanished">無効な鍵です</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>暗号化の鍵が有効期限切れです</translation>
+        <translation type="vanished">暗号化の鍵が有効期限切れです</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>暗号化の鍵が信頼されていません</translation>
+        <translation type="vanished">暗号化の鍵が信頼されていません</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>暗号化の鍵が無効です</translation>
+        <translation type="vanished">暗号化の鍵が無効です</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGPカードが見つかりません</translation>
+        <translation type="vanished">PGPカードが見つかりません</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>不明なエラー</translation>
+        <translation type="vanished">不明なエラー</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>ソケットエラー</translation>
+        <translation type="vanished">ソケットエラー</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>サーバーソケットを作成出来ません!</translation>
+        <translation type="vanished">サーバーソケットを作成出来ません!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14653,7 +14725,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -15658,31 +15730,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>新しいゲーム...</translation>
+        <translation type="vanished">新しいゲーム...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>プレイする - </translation>
+        <translation type="vanished">プレイする - </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>ゲームを選択してください</translation>
+        <translation type="vanished">ゲームを選択してください</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>白のゲーム</translation>
+        <translation type="vanished">白のゲーム</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>黒のゲーム</translation>
+        <translation type="vanished">黒のゲーム</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>開始!</translation>
+        <translation type="vanished">開始!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -18026,15 +18098,15 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18046,10 +18118,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18070,6 +18138,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18319,7 +18391,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18343,28 +18415,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -18385,13 +18457,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18417,10 +18489,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>ステータス</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18434,7 +18502,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18448,15 +18516,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18481,7 +18561,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -18493,6 +18573,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18595,7 +18679,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18643,6 +18727,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

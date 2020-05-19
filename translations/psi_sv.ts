@@ -431,19 +431,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Välj &amp;nyckel...</translation>
+        <translation type="vanished">Välj &amp;nyckel...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Använd ingen</translation>
+        <translation type="vanished">Använd ingen</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -700,7 +700,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Inga nyckel vald</translation>
+        <translation type="vanished">Inga nyckel vald</translation>
     </message>
     <message>
         <source>Error</source>
@@ -768,10 +768,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1951,7 +1947,7 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Slå av/på kryptering</translation>
+        <translation type="vanished">Slå av/på kryptering</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3226,27 +3222,27 @@ Fortsätt?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Fel vid flyttning</translation>
+        <translation type="vanished">Fel vid flyttning</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Du kan inte flytta den här figuren eftersom kungen står i schack</translation>
+        <translation type="vanished">Du kan inte flytta den här figuren eftersom kungen står i schack</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rockad</translation>
+        <translation type="vanished">Rockad</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Vill du göra rockad?</translation>
+        <translation type="vanished">Vill du göra rockad?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nej</translation>
+        <translation type="vanished">Nej</translation>
     </message>
 </context>
 <context>
@@ -3588,10 +3584,6 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4148,7 +4140,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Vilken figur ska jag använda?</translation>
+        <translation type="vanished">Vilken figur ska jag använda?</translation>
     </message>
 </context>
 <context>
@@ -4990,147 +4982,147 @@ Anledning: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Vit</translation>
+        <translation type="vanished">Vit</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Svart</translation>
+        <translation type="vanished">Svart</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>spel med</translation>
+        <translation type="vanished">spel med</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>spelchatt</translation>
+        <translation type="vanished">spelchatt</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historik</translation>
+        <translation type="vanished">Historik</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Letar upp värden</translation>
+        <translation type="vanished">Letar upp värden</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Accepterade en ny anslutning</translation>
+        <translation type="vanished">Accepterade en ny anslutning</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Värden funnen</translation>
+        <translation type="vanished">Värden funnen</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Ansluten till värden</translation>
+        <translation type="vanished">Ansluten till värden</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Socketfel...</translation>
+        <translation type="vanished">Socketfel...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Du har ett socketfel med nummer</translation>
+        <translation type="vanished">Du har ett socketfel med nummer</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>spelet från</translation>
+        <translation type="vanished">spelet från</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Accepterade</translation>
+        <translation type="vanished">Accepterade</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Ditt drag...</translation>
+        <translation type="vanished">Ditt drag...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Väntar på drag...</translation>
+        <translation type="vanished">Väntar på drag...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Avsluta spelet</translation>
+        <translation type="vanished">Avsluta spelet</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Vill du avsluta spelet?
+        <translation type="vanished">Vill du avsluta spelet?
 Du förlorar</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Ja, avsluta</translation>
+        <translation type="vanished">Ja, avsluta</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Nej, forstätt</translation>
+        <translation type="vanished">Nej, forstätt</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>L</translation>
+        <translation type="vanished">L</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>T</translation>
+        <translation type="vanished">T</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>D</translation>
+        <translation type="vanished">D</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Fel!</translation>
+        <translation type="vanished">Fel!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Uppslagsfel</translation>
+        <translation type="vanished">Uppslagsfel</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Värden</translation>
+        <translation type="vanished">Värden</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>ej funnen.</translation>
+        <translation type="vanished">ej funnen.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Spara bild</translation>
+        <translation type="vanished">Spara bild</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Vill du spara bilden?</translation>
+        <translation type="vanished">Vill du spara bilden?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Ja, spara</translation>
+        <translation type="vanished">Ja, spara</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Nej, spara inte</translation>
+        <translation type="vanished">Nej, spara inte</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Slut på spelet</translation>
+        <translation type="vanished">Slut på spelet</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Du vann spelet</translation>
+        <translation type="vanished">Du vann spelet</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Du är satt i matt.
+        <translation type="vanished">Du är satt i matt.
 Du förlorade.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Det blev remi</translation>
+        <translation type="vanished">Det blev remi</translation>
     </message>
 </context>
 <context>
@@ -7561,31 +7553,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Ny</translation>
+        <translation type="vanished">Ny</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Spara bild</translation>
+        <translation type="vanished">Spara bild</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Avsluta</translation>
+        <translation type="vanished">Avsluta</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Om spelet</translation>
+        <translation type="vanished">Om spelet</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Spel</translation>
+        <translation type="vanished">Spel</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Hjälp</translation>
+        <translation type="vanished">Hjälp</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Klar</translation>
+        <translation type="vanished">Klar</translation>
     </message>
     <message>
         <source>About</source>
@@ -7598,16 +7590,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>är ett schackspel över nätet för två spelare.
+        <translation type="vanished">är ett schackspel över nätet för två spelare.
 Det har klient och server i samma program.
 Du kan ändra och distribuera källkoden eftersom
 det är släppt under GPL.
 
 Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7917,7 +7905,14 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
@@ -7939,12 +7934,46 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostik</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Nyckel-ID</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Användar-ID</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Fel</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Välj en nyckel.</translation>
     </message>
 </context>
 <context>
@@ -9342,10 +9371,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="vanished">Inställningar</translation>
     </message>
@@ -9595,10 +9620,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation>Alla filer (*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9725,6 +9746,58 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostik</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Konto</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Nyckel-ID</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Användar-ID</translation>
     </message>
 </context>
 <context>
@@ -10921,36 +10994,28 @@ Orsak: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP-lösenfras</translation>
+        <translation type="vanished">OpenPGP-lösenfras</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Din lösenfras krävs för att använda OpenPGP-säkerhet.
+        <translation type="vanished">Din lösenfras krävs för att använda OpenPGP-säkerhet.
 Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="vanished">&amp;Avbryt</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Ok</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Ok</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP-lösenfras</translation>
+        <translation type="vanished">%1: OpenPGP-lösenfras</translation>
     </message>
 </context>
 <context>
@@ -14426,47 +14491,47 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Ogiltig passfras</translation>
+        <translation type="vanished">Ogiltig passfras</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Ogiltigt informat</translation>
+        <translation type="vanished">Ogiltigt informat</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Nyckel för signering har gått ut</translation>
+        <translation type="vanished">Nyckel för signering har gått ut</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Ogiltig nyckel</translation>
+        <translation type="vanished">Ogiltig nyckel</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Nyckel för kryptering har gått ut</translation>
+        <translation type="vanished">Nyckel för kryptering har gått ut</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Nyckel för kryptering är ej betrodd</translation>
+        <translation type="vanished">Nyckel för kryptering är ej betrodd</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Nyckel för kryptering är ogiltig</translation>
+        <translation type="vanished">Nyckel för kryptering är ogiltig</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP-kort saknas</translation>
+        <translation type="vanished">PGP-kort saknas</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Okänt fel</translation>
+        <translation type="vanished">Okänt fel</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Socketfel</translation>
+        <translation type="vanished">Socketfel</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Kan inte skapa en serversocket!</translation>
+        <translation type="vanished">Kan inte skapa en serversocket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14564,10 +14629,6 @@ The message was not sent.</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15577,31 +15638,31 @@ Orsak: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nytt spel med...</translation>
+        <translation type="vanished">Nytt spel med...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>För att spela med</translation>
+        <translation type="vanished">För att spela med</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Välj färg</translation>
+        <translation type="vanished">Välj färg</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Vit</translation>
+        <translation type="vanished">Vit</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Svart</translation>
+        <translation type="vanished">Svart</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Spel!</translation>
+        <translation type="vanished">Spel!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
 </context>
 <context>
@@ -17965,15 +18026,15 @@ Vill du ändå stänga fönstrett?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17985,10 +18046,6 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18009,6 +18066,10 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18249,10 +18310,6 @@ Vill du ändå stänga fönstrett?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18274,28 +18331,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -18316,13 +18373,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18348,10 +18405,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Status</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18361,10 +18414,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18379,15 +18428,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18411,10 +18472,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18424,6 +18481,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18525,10 +18586,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18574,6 +18631,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

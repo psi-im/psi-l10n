@@ -469,19 +469,19 @@ Cochez &lt;b&gt;Enregistrer un nouveau compte&lt;/b&gt; pour que Psi crée un no
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>tampon2</translation>
+        <translation type="vanished">tampon2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Selectionner une &amp;Clé...</translation>
+        <translation type="vanished">Selectionner une &amp;Clé...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Ne rien utiliser</translation>
+        <translation type="vanished">Ne rien utiliser</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -740,7 +740,7 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Pas de Clé selectionnée</translation>
+        <translation type="vanished">Pas de Clé selectionnée</translation>
     </message>
     <message>
         <source>Error</source>
@@ -808,10 +808,6 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2063,7 +2059,7 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Permuter crypté/décrypté</translation>
+        <translation type="vanished">Permuter crypté/décrypté</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -3363,27 +3359,27 @@ Continuer ?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Erreur de déplacement</translation>
+        <translation type="vanished">Erreur de déplacement</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Vous ne pouvez pas jouer cette pièce car le roi est en échec</translation>
+        <translation type="vanished">Vous ne pouvez pas jouer cette pièce car le roi est en échec</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Roquer</translation>
+        <translation type="vanished">Roquer</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Voulez-vous faire un roque?</translation>
+        <translation type="vanished">Voulez-vous faire un roque?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Oui</translation>
+        <translation type="vanished">Oui</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Non</translation>
+        <translation type="vanished">Non</translation>
     </message>
 </context>
 <context>
@@ -3727,10 +3723,6 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
     <message>
         <source>For all</source>
         <translation>Pour tous</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4299,7 +4291,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Quelle figure dois-je configurer?</translation>
+        <translation type="vanished">Quelle figure dois-je configurer?</translation>
     </message>
 </context>
 <context>
@@ -5137,147 +5129,147 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Blanc</translation>
+        <translation type="vanished">Blanc</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Noir</translation>
+        <translation type="vanished">Noir</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>jeu avec</translation>
+        <translation type="vanished">jeu avec</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Discussion de jeu</translation>
+        <translation type="vanished">Discussion de jeu</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historique</translation>
+        <translation type="vanished">Historique</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Recherche du serveur</translation>
+        <translation type="vanished">Recherche du serveur</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Nouvelle connexion acceptée</translation>
+        <translation type="vanished">Nouvelle connexion acceptée</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Serveur trouvé</translation>
+        <translation type="vanished">Serveur trouvé</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Connecté au serveur</translation>
+        <translation type="vanished">Connecté au serveur</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Erreur de socket...</translation>
+        <translation type="vanished">Erreur de socket...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Vous avez une erreur de numéro de socket</translation>
+        <translation type="vanished">Vous avez une erreur de numéro de socket</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>jeu de</translation>
+        <translation type="vanished">jeu de</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Accepter le</translation>
+        <translation type="vanished">Accepter le</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Votre déplacement...</translation>
+        <translation type="vanished">Votre déplacement...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>En attente de déplacement...</translation>
+        <translation type="vanished">En attente de déplacement...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Terminer le jeu</translation>
+        <translation type="vanished">Terminer le jeu</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Voulez-vous vraiment arrêter le jeu?
+        <translation type="vanished">Voulez-vous vraiment arrêter le jeu?
 Vous le perdrez</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Oui, terminer</translation>
+        <translation type="vanished">Oui, terminer</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Non, continuer</translation>
+        <translation type="vanished">Non, continuer</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Erreur!</translation>
+        <translation type="vanished">Erreur!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Erreur de recherche</translation>
+        <translation type="vanished">Erreur de recherche</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Le serveur</translation>
+        <translation type="vanished">Le serveur</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>non trouvé.</translation>
+        <translation type="vanished">non trouvé.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Enregistrer l&apos;image</translation>
+        <translation type="vanished">Enregistrer l&apos;image</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Voulez-vous enregistrer l&apos;image?</translation>
+        <translation type="vanished">Voulez-vous enregistrer l&apos;image?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Oui, enregistrer</translation>
+        <translation type="vanished">Oui, enregistrer</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Non, ne pas enregistrer</translation>
+        <translation type="vanished">Non, ne pas enregistrer</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Jeu terminé</translation>
+        <translation type="vanished">Jeu terminé</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Vous avez gagné le jeu</translation>
+        <translation type="vanished">Vous avez gagné le jeu</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Echec et mat.
+        <translation type="vanished">Echec et mat.
 Vous avez perdu.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Vous êtes pat</translation>
+        <translation type="vanished">Vous êtes pat</translation>
     </message>
 </context>
 <context>
@@ -7768,31 +7760,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nouveau</translation>
+        <translation type="vanished">Nouveau</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Enregistrer l&apos;image</translation>
+        <translation type="vanished">Enregistrer l&apos;image</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Quitter</translation>
+        <translation type="vanished">Quitter</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>À propos du jeu</translation>
+        <translation type="vanished">À propos du jeu</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Jeu</translation>
+        <translation type="vanished">Jeu</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Aide</translation>
+        <translation type="vanished">Aide</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Prêt</translation>
+        <translation type="vanished">Prêt</translation>
     </message>
     <message>
         <source>About</source>
@@ -7805,16 +7797,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>est un jeu d&apos;échec en réseau pour deux joueurs.
+        <translation type="vanished">est un jeu d&apos;échec en réseau pour deux joueurs.
 Il possède un client et un serveur dans le même program.
 Vous pouvez modifier et redistribuer le code source
 car il est sous GPL.
 
 Russie, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8147,6 +8135,20 @@ Labels : %1</translation>
 <context>
     <name>OpenPGP</name>
     <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Envoyer la clé publique GnuPG</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -8167,12 +8169,46 @@ Labels : %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Envoyer la clé publique GnuPG</translation>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">GnuPG non détecté</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostics</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Identifiant de clé</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Identifiant de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">info GnuPG</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erreur</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Sélectionnez une clé SVP.</translation>
     </message>
 </context>
 <context>
@@ -9641,7 +9677,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informations</translation>
+        <translation type="vanished">Informations</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9894,7 +9930,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>info GnuPG</translation>
+        <translation type="vanished">info GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10023,6 +10059,58 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">Copier l&apos;empreinte</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnostics</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Compte</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Utilisateur</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Identifiant de clé</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Empreinte</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished">Compte:</translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">Utilisateur:</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Empreinte:</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Identifiant de l&apos;utilisateur</translation>
     </message>
 </context>
 <context>
@@ -11219,36 +11307,32 @@ Cause: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Phrase de passe OpenPGP</translation>
+        <translation type="vanished">Phrase de passe OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Votre mot de passe est nécessaire pour utiliser la sécurité OpenPGP.
+        <translation type="vanished">Votre mot de passe est nécessaire pour utiliser la sécurité OpenPGP.
 Veuillez saisir votre mot de passe ci-dessous :</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Retenir le mot de passe</translation>
+        <translation type="vanished">Retenir le mot de passe</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>A&amp;nnuler</translation>
+        <translation type="vanished">A&amp;nnuler</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Phrase de passe OpenPGP</translation>
+        <translation type="vanished">%1: Phrase de passe OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14767,47 +14851,47 @@ Description: </translation>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Phrase de passe non valide</translation>
+        <translation type="vanished">Phrase de passe non valide</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Mauvais format d&apos;entrée</translation>
+        <translation type="vanished">Mauvais format d&apos;entrée</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>La clé de signature a expiré</translation>
+        <translation type="vanished">La clé de signature a expiré</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Clé non valide</translation>
+        <translation type="vanished">Clé non valide</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Clé de cryptage expirée</translation>
+        <translation type="vanished">Clé de cryptage expirée</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Clé de cryptage pas de confiance</translation>
+        <translation type="vanished">Clé de cryptage pas de confiance</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Clé de cryptage non valide</translation>
+        <translation type="vanished">Clé de cryptage non valide</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Il manque la carte PGP</translation>
+        <translation type="vanished">Il manque la carte PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Erreur inconnue</translation>
+        <translation type="vanished">Erreur inconnue</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Erreur de socket</translation>
+        <translation type="vanished">Erreur de socket</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Impossible de créer un socket (interface de connexion) pour le serveur!</translation>
+        <translation type="vanished">Impossible de créer un socket (interface de connexion) pour le serveur!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14909,7 +14993,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -15929,31 +16013,31 @@ Cause: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nouveau jeu avec...</translation>
+        <translation type="vanished">Nouveau jeu avec...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Pour jouer avec </translation>
+        <translation type="vanished">Pour jouer avec </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Choisir un jeu</translation>
+        <translation type="vanished">Choisir un jeu</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Jeu blanc</translation>
+        <translation type="vanished">Jeu blanc</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Jeu noir</translation>
+        <translation type="vanished">Jeu noir</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Jouer!</translation>
+        <translation type="vanished">Jouer!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
 </context>
 <context>
@@ -18362,16 +18446,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Configuration</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18382,10 +18466,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18407,6 +18487,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Utilisateur</translation>
     </message>
 </context>
 <context>
@@ -18655,7 +18739,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18679,27 +18763,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Empreintes connues</translation>
+        <translation type="vanished">Empreintes connues</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Mes clés privées</translation>
+        <translation type="vanished">Mes clés privées</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Configuration</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>Politique OTR</translation>
+        <translation type="vanished">Politique OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18721,13 +18817,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Fermer la session quand le contact se déconnecte</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18753,10 +18849,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Etat</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation>Compte:</translation>
     </message>
@@ -18770,7 +18862,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18784,15 +18876,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Copier l&apos;empreinte</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18817,7 +18921,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -18830,6 +18934,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copier l&apos;empreinte</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18931,7 +19039,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18979,6 +19087,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
