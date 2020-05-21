@@ -7654,6 +7654,18 @@ Reason: %1</source>
         <source>No response from server for %1 seconds</source>
         <translation>Нет ответа от сервера более %1 секунд</translation>
     </message>
+    <message>
+        <source>Remove from bookmarks</source>
+        <translation>Удалить из закладок</translation>
+    </message>
+    <message>
+        <source>Add to bookmarks</source>
+        <translation>Добавить закладку</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
@@ -8263,7 +8275,7 @@ Tags: %1</source>
 * Protect your secret key with a strong password and never give it to anyone.
 * Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
 * Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation>OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:
+        <translation type="vanished">OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:
 * Сгенерируйте пару ключей (публичный ключ + секретный ключ) или выберите существующую и установите её в настройках программы.
 * Защитите свой секретный ключ надежным паролем и никогда никому его не передавайте.
 * Поделитесь своим открытым ключом с друзьями и получите их открытые ключи, используя любой канал связи, которому вы доверяете (xmpp, электронная почта, сервер ключей PGP).
@@ -8271,7 +8283,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
-        <translation>Этот плагин использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent.</translation>
+        <translation type="vanished">Этот плагин использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent.</translation>
     </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
@@ -8280,6 +8292,42 @@ Tags: %1</source>
     <message>
         <source>OpenPGP encryption</source>
         <translation>Шифрование OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation>OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:&lt;br/&gt;* Сгенерируйте пару ключей (публичный ключ + секретный ключ) или выберите существующую и установите её в настройках программы.&lt;br/&gt;* Защитите свой секретный ключ надежным паролем и никогда никому его не передавайте.&lt;br/&gt;* Поделитесь своим открытым ключом с друзьями и получите их открытые ключи, используя любой канал связи, которому вы доверяете (xmpp, электронная почта, сервер ключей PGP).&lt;br/&gt;* Включите шифрование PGP в чате с вашим приятелем и наслаждайтесь защищенным общением.</translation>
+    </message>
+    <message>
+        <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
+        <translation>Возможности OpenPGP:&lt;br/&gt;* Сообщения отключённым пользователям.&lt;br/&gt;* Обмен файлами. (Пока не поддерживается плагином.)</translation>
+    </message>
+    <message>
+        <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
+        <translation>Ограничения OpenPGP:&lt;br/&gt;* Нет поддержки копий сообщений на несколько устройств.&lt;br/&gt;* Нет поддержки многопользовательских чатов.</translation>
+    </message>
+    <message>
+        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
+        <translation>По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
+    </message>
+    <message>
+        <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
+        <translation>Плагин OpenPGP использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent. Например, для вашей системы:</translation>
+    </message>
+    <message>
+        <source>1) Download and install &quot;%1&quot; from official website:</source>
+        <translation>1) Загрузите и установите &quot;%1&quot; с официального веб-сайта:</translation>
+    </message>
+    <message>
+        <source>1) Install gpg and gpg-agent using Homebrew:</source>
+        <translation>1) Установите gpg и gpg-agent с помощью Homebrew:</translation>
+    </message>
+    <message>
+        <source>1) Install gpg and gpg-agent using system packaging tool.</source>
+        <translation>1) Установите gpg и gpg-agent с помощью системного пакетного менеджера.</translation>
+    </message>
+    <message>
+        <source>2) Edit configuration file %1 if necessary.</source>
+        <translation>2) Отредактируйте файл %1 при необходимости.</translation>
     </message>
 </context>
 <context>
@@ -10306,6 +10354,36 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>User ID</source>
         <translation>ID пользователя</translation>
+    </message>
+    <message>
+        <source>gpg-agent configuration</source>
+        <translation>Настройки gpg-agent</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
+        <translation>&lt;b&gt;Внимание!&lt;/b&gt; Эта опция влияет на все программы, использующие gpg-agent в вашей системе!</translation>
+    </message>
+    <message>
+        <source>Ask password confirmation each</source>
+        <translation>Спрашивать подтверждение пароля каждые</translation>
+    </message>
+    <message>
+        <source>Open configuration file</source>
+        <translation>Открыть файл настроек</translation>
+    </message>
+    <message>
+        <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
+        <translation>Не удалось обновить настроки gpg-agent. Для применения изменений в настройках gpg-agent необходимо перезагрузить систему.</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
+    <message>
+        <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
+%1</source>
+        <translation>Не удалось сохранить файл настроек gpg-agent! Убедитесь, что у вас есть права на запись файла:
+%1</translation>
     </message>
 </context>
 <context>
@@ -18995,6 +19073,90 @@ Do you still want to close the window?</source>
         <source>Authors: </source>
         <translation>Авторы: </translation>
     </message>
+    <message>
+        <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO provides the following guarantees:</source>
+        <translation>OMEMO предоставляет следующие гарантии:</translation>
+    </message>
+    <message>
+        <source>Confidentiality</source>
+        <translation>Конфиденциальность</translation>
+    </message>
+    <message>
+        <source>Nobody else except sender and receiver is able to read the content of a message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perfect forward secrecy</source>
+        <translation>Совершенная прямая секретность</translation>
+    </message>
+    <message>
+        <source>Compromised key material does not compromise previous or future message exchanges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication</source>
+        <translation>Аутентификация</translation>
+    </message>
+    <message>
+        <source>Every peer is able to authenticate the sender or receiver of a message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Immutability</source>
+        <translation>Неизменность</translation>
+    </message>
+    <message>
+        <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plausible deniabilit</source>
+        <translation type="vanished">Правдоподобное отрицание</translation>
+    </message>
+    <message>
+        <source>No participant can prove who created a specific message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asynchronicity</source>
+        <translation>Асинхронность</translation>
+    </message>
+    <message>
+        <source>The usability of the protocol does not depend on the online status of any participant.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO is not intended to protect against the following use cases:</source>
+        <translation>OMEMO не предназначен для защиты от следующих случаев использования:</translation>
+    </message>
+    <message>
+        <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
+        <translation>* Злоумышленник имеет постоянный доступ к вашему устройству. (Временный доступ не является проблемой брагодаря совершенной прямой секретности.)</translation>
+    </message>
+    <message>
+        <source>* You lost your device and an attacker can read messages on your notification screen.</source>
+        <translation>* Вы потеряли свое устройство, и злоумышленник может читать сообщения на экране уведомлений.</translation>
+    </message>
+    <message>
+        <source>* Any kind of denial-of-service attack.</source>
+        <translation>* Любая атаки типа «отказ в обслуживании».</translation>
+    </message>
+    <message>
+        <source>* etc.</source>
+        <translation>* и т.д.</translation>
+    </message>
+    <message>
+        <source>Plausible deniability</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::OmemoConfiguration</name>
@@ -19393,7 +19555,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation>Авторы: %1</translation>
+        <translation type="vanished">Авторы: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
@@ -19433,7 +19595,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation>Дополнительная информация: &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
+        <translation type="vanished">Дополнительная информация: &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -19490,6 +19652,14 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation>Подтверждение действия</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
+    </message>
+    <message>
+        <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation>Дополнительная информация: &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
 </context>
 <context>
