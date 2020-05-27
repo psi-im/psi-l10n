@@ -286,7 +286,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>面向有经验的用户的跨平台XMPP客户端。</translation>
     </message>
 </context>
 <context>
@@ -379,11 +379,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;没有账号被创建。要创建账号请点击添加按钮。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>psi/options</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/options</translation>
     </message>
 </context>
 <context>
@@ -629,7 +629,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用可能暴露我的IP地址的连接</translation>
     </message>
 </context>
 <context>
@@ -1160,7 +1160,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Email address: </source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件地址：</translation>
     </message>
 </context>
 <context>
@@ -1319,7 +1319,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AddressTypeDlg</name>
     <message>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>偏好</translation>
     </message>
     <message>
         <source>Home</source>
@@ -1331,11 +1331,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Postal</source>
-        <translation type="unfinished"></translation>
+        <translation>邮政</translation>
     </message>
     <message>
         <source>Parcel</source>
-        <translation type="unfinished"></translation>
+        <translation>快递</translation>
     </message>
     <message>
         <source>Domestic</source>
@@ -1343,35 +1343,35 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>International</source>
-        <translation type="unfinished"></translation>
+        <translation>国际化</translation>
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>语音</translation>
     </message>
     <message>
         <source>Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>传真</translation>
     </message>
     <message>
         <source>Pager</source>
-        <translation type="unfinished"></translation>
+        <translation>传呼机</translation>
     </message>
     <message>
         <source>Voice Message</source>
-        <translation type="unfinished"></translation>
+        <translation>语音信息</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>电话</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>视频</translation>
     </message>
     <message>
         <source>Modem</source>
-        <translation type="unfinished"></translation>
+        <translation>调制解调器</translation>
     </message>
 </context>
 <context>
@@ -1421,11 +1421,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1534,11 +1534,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1987,7 +1987,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>The certificate is NOT valid!
 </source>
-        <translation type="unfinished"></translation>
+        <translation>认证无效!
+</translation>
     </message>
 </context>
 <context>
@@ -2277,11 +2278,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2508,11 +2509,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2619,7 +2620,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2701,11 +2702,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
 </context>
 <context>
@@ -3095,7 +3096,7 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3107,7 +3108,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
     </message>
 </context>
 <context>
@@ -3516,7 +3517,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3823,11 +3824,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4254,11 +4255,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -4288,7 +4289,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation type="unfinished"></translation>
+        <translation>当关闭窗口时隐藏群聊</translation>
     </message>
 </context>
 <context>
@@ -4481,25 +4482,25 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation>需要兼容的客户端</translation>
     </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
-        <translation type="unfinished"></translation>
+        <translation>下载的资源没有给出</translation>
     </message>
 </context>
 <context>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>发布到HttpUpload服务</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>无法发布到HttpUpload服务</translation>
     </message>
 </context>
 <context>
@@ -5412,7 +5413,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
-        <translation type="unfinished"></translation>
+        <translation>选择在会议日志中的昵称着色类型</translation>
     </message>
     <message>
         <source>None</source>
@@ -5420,7 +5421,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>自动化</translation>
     </message>
     <message>
         <source>Manual palette</source>
@@ -5428,7 +5429,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Nick Coloring Type</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称着色类型</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -5741,10 +5742,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <source>Public key %1 sent</source>
         <translation type="vanished">公钥: %1发送</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -5775,11 +5772,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6188,11 +6185,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6702,7 +6699,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6725,7 +6722,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -7246,26 +7243,30 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
+    </message>
+    <message>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle数据源离线</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的Jingle-FT URI</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation type="unfinished"></translation>
+        <translation>意外的传入内容</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
@@ -7335,7 +7336,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7635,19 +7636,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器在 %1 秒内没有响应</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>从书签中移除</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">添加到书签</translation>
+        <translation>添加到书签</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -7906,12 +7907,16 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="vanished">关于插件</translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -7919,7 +7924,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
+    </message>
+    <message>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8003,7 +8012,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮箱</translation>
     </message>
 </context>
 <context>
@@ -8144,7 +8153,7 @@ Details: %1</source>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
-        <translation type="unfinished"></translation>
+        <translation>意外的HTTP状态</translation>
     </message>
 </context>
 <context>
@@ -8234,36 +8243,25 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">发送GnuPG公钥</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>公钥: &quot;%1&quot; 已发送</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation type="unfinished"></translation>
+        <translation>内置密钥管理器仅能进行基本操作，例如创建、移除、导入和导出PGP密钥。这应当对大多数用户足够了。如果需要更多复杂情况请使用专用软件。</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP加密</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
@@ -8275,10 +8273,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8301,43 +8295,47 @@ Tags: %1</source>
         <source>2) Edit configuration file %1 if necessary.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">启动失败</translation>
+        <translation>启动失败</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">找不到GunPG程序</translation>
+        <translation>找不到GunPG程序</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">诊断(&amp;D)</translation>
+        <translation>诊断(&amp;D)</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">钥匙 ID</translation>
+        <translation>钥匙 ID</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">用户 ID</translation>
+        <translation>用户 ID</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GunPG信息</translation>
+        <translation>GunPG信息</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">请选择钥匙。</translation>
+        <translation>请选择钥匙。</translation>
     </message>
 </context>
 <context>
@@ -8967,7 +8965,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable audio messages</source>
-        <translation type="unfinished"></translation>
+        <translation>启用音频消息</translation>
     </message>
 </context>
 <context>
@@ -9748,6 +9746,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="vanished">使用代理服务器设置帐户</translation>
     </message>
     <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Contact menu</source>
         <translation>联系人右键菜单</translation>
     </message>
@@ -9844,6 +9846,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">启动程序:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10209,35 +10215,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥管理器</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>拥有的密钥</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">选择钥匙(&amp;K)...</translation>
+        <translation>选择钥匙(&amp;K)...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">格局</translation>
+        <translation>格局</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP加密策略</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>总是启用</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认启用</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认禁用</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
@@ -10257,83 +10263,83 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>复制手纹印</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">诊断(&amp;D)</translation>
+        <translation>诊断(&amp;D)</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>已知的密钥</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">用户</translation>
+        <translation>用户</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">钥匙 ID</translation>
+        <translation>钥匙 ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>手纹印</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">你确定要删除选定的密钥？</translation>
+        <translation>你确定要删除选定的密钥？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>用户:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指纹:</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>选择密钥</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">用户 ID</translation>
+        <translation>用户 ID</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>gpg-agent 配置</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;注意！&lt;/b&gt; 这个选项会影响你系统上所有使用 gpg-agent 的程序！</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>每次请求密码确认</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>打开配置文件</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试重新载入 gpg-agent 设置失败。你需要重新启动你的操作系统来应用 gpg-agent 的设置修改。</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10352,11 +10358,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAccounts</name>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>Manage accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>管理账号</translation>
     </message>
 </context>
 <context>
@@ -10917,7 +10923,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation>插件路径:
+        <translation type="vanished">插件路径:
 %1</translation>
     </message>
     <message>
@@ -10930,6 +10936,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>About plugin</source>
+        <translation>关于插件</translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">作者</translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11592,11 +11606,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13303,7 +13317,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>设置主题</translation>
     </message>
 </context>
 <context>
@@ -13360,11 +13374,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>启用OpenPGP加密</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>你的账号没有设置OpenPGP密钥！</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -13372,11 +13386,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP加密</translation>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用OpenPGP加密</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13392,19 +13406,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>公钥: &quot;%1&quot; 已发送</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>选择公钥</translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"></translation>
+        <translation>发送我的公钥</translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"></translation>
+        <translation>发送公钥...</translation>
     </message>
 </context>
 <context>
@@ -13906,11 +13920,11 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">感谢</translation>
+        <translation>感谢</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14096,11 +14110,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Display options as a flat list</source>
-        <translation type="unfinished"></translation>
+        <translation>以平铺列表显示选项</translation>
     </message>
     <message>
         <source>Display options as a flat list.</source>
-        <translation type="unfinished"></translation>
+        <translation>以平铺列表显示选项。</translation>
     </message>
 </context>
 <context>
@@ -15701,7 +15715,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Device public key:</source>
-        <translation type="unfinished"></translation>
+        <translation>设备公钥：</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
@@ -15709,7 +15723,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>信任</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
@@ -15717,7 +15731,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -15733,15 +15747,15 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>多媒体</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">音频和视频装置设置</translation>
+        <translation>音频和视频装置设置</translation>
     </message>
 </context>
 <context>
@@ -15752,11 +15766,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15874,11 +15888,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -16124,7 +16138,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -16800,7 +16814,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation type="unfinished"></translation>
+        <translation>设置聊天主题</translation>
     </message>
 </context>
 <context>
@@ -17115,11 +17129,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation type="vanished">作者</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -17201,11 +17215,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17758,7 +17772,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation type="vanished">作者</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17866,7 +17880,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -18144,11 +18158,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>电子邮箱:</translation>
+        <translation type="vanished">电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -18819,15 +18833,15 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">格局</translation>
+        <translation>格局</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>已知的密钥</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>拥有的密钥</translation>
     </message>
 </context>
 <context>
@@ -18838,7 +18852,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>信任</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18854,7 +18868,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>not decided</source>
@@ -18862,7 +18876,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">用户</translation>
+        <translation>用户</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished">设备ID</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18873,11 +18895,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>设备ID</translation>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished"></translation>
+        <translation>当前设备</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18889,7 +18911,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>其他设备</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18907,7 +18929,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete current device?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否删除当前设备？</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
@@ -18915,6 +18937,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete selected device?</source>
+        <translation>是否删除选中的设备？</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18939,14 +18965,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">作者:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -18985,7 +19003,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -19009,7 +19027,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">完善的正向保密</translation>
+        <translation>完善的正向保密</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19017,7 +19035,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">认证</translation>
+        <translation>认证</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19072,27 +19090,27 @@ Do you still want to close the window?</source>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO加密策略</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>总是启用</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认启用</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认禁用</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>自动将新的拥有设备标记为可信设备</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>自动将新的对话者设备标记为可信设备</translation>
     </message>
 </context>
 <context>
@@ -19219,7 +19237,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
 </context>
 <context>
@@ -19238,11 +19256,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>已知的密钥</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>拥有的密钥</translation>
     </message>
 </context>
 <context>
@@ -19273,7 +19291,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR加密策略</translation>
     </message>
 </context>
 <context>
@@ -19340,19 +19358,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>信任</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">你确定要删除选定的密钥？</translation>
+        <translation>你确定要删除选定的密钥？</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
 </context>
 <context>
@@ -19403,7 +19421,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
 </context>
 <context>
@@ -19561,15 +19579,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>确认动作</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>如需进一步信息，请参阅 &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
 </context>
 <context>

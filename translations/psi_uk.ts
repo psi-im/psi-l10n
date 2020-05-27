@@ -1432,11 +1432,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1546,11 +1546,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -2292,11 +2292,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2525,11 +2525,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2636,7 +2636,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Автори: </translation>
+        <translation type="vanished">Автори: </translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2719,11 +2719,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
 </context>
 <context>
@@ -3113,7 +3113,7 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3122,10 +3122,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Цей плагін призначений для полегшення завантаження і установки пакетів з іконками та інших ресурсів для Psi +.</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -3535,7 +3531,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Автори:</translation>
+        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3840,11 +3836,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4271,11 +4267,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5792,11 +5788,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6206,11 +6202,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6722,7 +6718,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори: </translation>
+        <translation type="vanished">Автори: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6745,7 +6741,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -7267,11 +7263,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
+    </message>
+    <message>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
+        <translation>Розглядайте деякі jids як служби, що реалізують протокол Jabber Disk, і обробляйте ваші файли разом з ними.</translation>
     </message>
 </context>
 <context>
@@ -7357,7 +7357,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори: </translation>
+        <translation type="vanished">Автори: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7661,15 +7661,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити із закладок</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Додати закладку</translation>
+        <translation>Додати закладку</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити</translation>
     </message>
 </context>
 <context>
@@ -7938,15 +7938,15 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
         <translation type="vanished">e-mail: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation>Email: </translation>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation>Може скидати вхідні строфи відповідно до різних фільтрів, таких як адреса джерела / місця призначення або певний вміст повідомлення</translation>
     </message>
 </context>
 <context>
@@ -8271,26 +8271,6 @@ Tags: %1</source>
 <context>
     <name>OpenPgpPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation>Автори:</translation>
-    </message>
-    <message>
-        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
-* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
-* Protect your secret key with a strong password and never give it to anyone.
-* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
-* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="vanished">OpenPGP - це найбільш широко використовуваний стандарт шифрування. Це надзвичайно просто:
-* Створіть пару ключів (відкритий ключ + секретний ключ) або виберіть існуючий та встановіть його в налаштуваннях програми.
-* Захистіть свій секретний ключ сильним паролем і ніколи не давайте його нікому.
-* Поділіться своїм відкритим ключем з друзями та отримайте їхні відкриті ключі, використовуючи будь-який канал зв&apos;язку, якому ви довіряєте (xmpp, електронна пошта, сервер ключів PGP).
-* Увімкніть шифрування PGP у чаті з вашим приятелем та насолоджуйтесь захищеною розмовою.</translation>
-    </message>
-    <message>
-        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
-        <translation type="vanished">Цей плагін використовує стандартний інструмент командного рядка GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент.</translation>
-    </message>
-    <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation>Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
     </message>
@@ -8300,39 +8280,39 @@ Tags: %1</source>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP - це найбільш широко використовуваний стандарт шифрування. Його надзвичайно просто використовувати:&lt;br/&gt;* Створіть пару ключів (відкритий ключ + секретний ключ) або виберіть існуючий та встановіть його в налаштуваннях програми.&lt;br/&gt;* Захистіть свій секретний ключ надійним паролем і ніколи не давайте його жодній людині.&lt;br/&gt;* Поділіться своїми публічними ключами з друзями та отримуйте їхні відкриті ключі, використовуючи будь-який канал зв’язку, якому ви довіряєте (xmpp, електронна пошта, сервер ключів PGP).&lt;br/&gt;* Увімкніть шифрування PGP у чаті з вашим приятелем та насолоджуйтесь захищеною розмовою.</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Особливості OpenPGP:&lt;br/&gt;* Офлайн-повідомлення.&lt;br/&gt;* Передача файлів. (Ще не підтримується плагіном.)</translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>Обмеження OpenPGP:&lt;br/&gt;* Не підтримує копії повідомлень на декілька пристроїв.&lt;br/&gt;* Немає підтримки багатокористувацьких чатів.</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагін OpenPGP використовує стандартний інструментарій командного рядку GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент. Наприклад, у вашій системі:</translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Завантажити та встановити &quot;%1&quot; з офіційної веб-сторінки:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using Homebrew:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Встановити gpg та gpg-агент за допомогою Homebrew:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using system packaging tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Встановити gpg та gpg-агент за допомогою менеджеру системних пакетів.</translation>
     </message>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>2) Редагувати файл конфігурації %1 якщо необхідно.</translation>
+    </message>
+    <message>
+        <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
+        <translation>У порівнянні з OTR та OMEMO, OpenPGP дозволяє зберігати історію зашифрованих повідомлень на боці серверу, але не підтримує прямої секретності (вони є взаємовиключними).</translation>
     </message>
 </context>
 <context>
@@ -10361,32 +10341,33 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>конфігурація gpg-агента</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Увага!&lt;/b&gt; Ця опція впливає на всі програми, які використовують gpg-агент у вашій системі!</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>Запит підтвердження паролю кожні</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити файл налаштувань</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спроба перезавантажити gpg-агент - невдала. Вам потрібно перезапустити систему, щоб побачити зміни в налаштуваннях gpg-агента.</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Попередження</translation>
+        <translation>Попередження</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Спроба зберегти конфігурацію gpg-агента - невдала! Перевірте, чи є у вас дозвіл на запис файлу:
+%1</translation>
     </message>
 </context>
 <context>
@@ -10965,7 +10946,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation>Розміщення плагіну:
+        <translation type="vanished">Розміщення плагіну:
 %1</translation>
     </message>
     <message>
@@ -10979,6 +10960,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>About plugin</source>
         <translation>Про плагін</translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation>Автори</translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
+        <translation>Розміщення плагіну</translation>
     </message>
 </context>
 <context>
@@ -11640,11 +11629,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13955,10 +13944,6 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation>Автори:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
         <translation>Подяка</translation>
     </message>
@@ -15825,11 +15810,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15949,11 +15934,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -16198,7 +16183,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори:</translation>
+        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -17193,11 +17178,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -17280,11 +17265,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17838,7 +17823,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17947,7 +17932,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation>Автори: </translation>
+        <translation type="vanished">Автори: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -18225,11 +18210,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -18946,6 +18931,14 @@ Do you still want to close the window?</source>
         <source>User</source>
         <translation>Користувач</translation>
     </message>
+    <message>
+        <source>Device ID</source>
+        <translation>ID пристрою</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копіювати відбиток</translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
@@ -19004,6 +18997,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Delete selected device?</source>
         <translation>Видалити вибраний пристрій?</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
@@ -19064,88 +19061,84 @@ Do you still want to close the window?</source>
         <translation>Управління відбитками контакту</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation>Автори:</translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO - це протокол наскрізного шифрування, в якому використовується схема шифрування Double Ratchet для забезпечення багатопланового шифрування, що дозволяє безпечно синхронізувати сполучення між декількома клієнтами, навіть якщо деякі з них знаходяться в автономному режимі.</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>У порівнянні з OTR протокол OMEMO пропонує зашифрований чат з багатьма користувачами, безпечну синхронізацію повідомлень між пристроями користувача, чергу повідомлень в автономному режимі, секретність пересилання і передачу файлів.</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO надає наступні гарантії:</translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфіденційність</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніхто, крім відправника та одержувача, не може прочитати вміст повідомлення.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Досконала пряма секретність</translation>
+        <translation>Досконала пряма секретність</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Матеріал із скомпрометованим ключем не ставить під загрозу попередній або майбутній обмін повідомленнями.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Аутентифікація</translation>
+        <translation>Аутентифікація</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кожен вузол може автентифікувати відправника або одержувача повідомлення.</translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"></translation>
+        <translation>Незмінюваність</translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кожен вузол може гарантувати, що повідомлення не було змінено будь-яким проміжним вузлом.</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Жоден учасник не може довести, хто створив конкретне повідомлення.</translation>
     </message>
     <message>
         <source>Asynchronicity</source>
-        <translation type="unfinished"></translation>
+        <translation>Асинхронність</translation>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зручність використання протоколу не залежить від онлайн-статусу будь-якого учасника.</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO не призначений для захисту від таких випадків використання:</translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
-        <translation type="unfinished"></translation>
+        <translation>* Зловмисник має постійний доступ до вашого пристрою. (Тимчасовий доступ повністю захищений.)</translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Ви втратили свій пристрій, і зловмисник може читати повідомлення на екрані повідомлень.</translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Будь-яка атака типу «відмова в обслуговуванні».</translation>
     </message>
     <message>
         <source>* etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>* тощо.</translation>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Правдоподібне заперечення</translation>
     </message>
 </context>
 <context>
@@ -19644,12 +19637,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Підтвердити дію</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткова інформація &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
 </context>
 <context>

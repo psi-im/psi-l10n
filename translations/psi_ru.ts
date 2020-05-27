@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 19.05.2020</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 27.05.2020</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -1423,11 +1423,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1537,11 +1537,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -2284,11 +2284,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2518,11 +2518,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2629,7 +2629,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2712,11 +2712,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -2823,7 +2823,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
 </context>
 <context>
@@ -3106,7 +3106,7 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3118,7 +3118,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -3443,7 +3443,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3528,7 +3528,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3835,11 +3835,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4266,11 +4266,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5787,11 +5787,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6201,11 +6201,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6717,7 +6717,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6740,7 +6740,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -7262,11 +7262,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
+    </message>
+    <message>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
+        <translation>Рассматривайте некоторые jids как службы, реализующие протокол Jabber Disk, и обрабатывайте ваши файлы вместе с ними.</translation>
     </message>
 </context>
 <context>
@@ -7352,7 +7356,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7933,7 +7937,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -7941,7 +7945,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
+    </message>
+    <message>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation>Может отбрасывать входящие сообщения в соответствии с различными фильтрами, например: адрес отправителя/получателя или содержимое сообщения</translation>
     </message>
 </context>
 <context>
@@ -8267,23 +8275,7 @@ Tags: %1</source>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
-    </message>
-    <message>
-        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
-* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
-* Protect your secret key with a strong password and never give it to anyone.
-* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
-* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="vanished">OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:
-* Сгенерируйте пару ключей (публичный ключ + секретный ключ) или выберите существующую и установите её в настройках программы.
-* Защитите свой секретный ключ надежным паролем и никогда никому его не передавайте.
-* Поделитесь своим открытым ключом с друзьями и получите их открытые ключи, используя любой канал связи, которому вы доверяете (xmpp, электронная почта, сервер ключей PGP).
-* Включите шифрование PGP в чате с вашим приятелем и наслаждайтесь защищенным общением.</translation>
-    </message>
-    <message>
-        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
-        <translation type="vanished">Этот плагин использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent.</translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
@@ -8306,10 +8298,6 @@ Tags: %1</source>
         <translation>Ограничения OpenPGP:&lt;br/&gt;* Нет поддержки копий сообщений на несколько устройств.&lt;br/&gt;* Нет поддержки многопользовательских чатов.</translation>
     </message>
     <message>
-        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation>По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
-    </message>
-    <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
         <translation>Плагин OpenPGP использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent. Например, для вашей системы:</translation>
     </message>
@@ -8328,6 +8316,10 @@ Tags: %1</source>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
         <translation>2) Отредактируйте файл %1 при необходимости.</translation>
+    </message>
+    <message>
+        <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
+        <translation>По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
     </message>
 </context>
 <context>
@@ -10962,7 +10954,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation>Расположение:
+        <translation type="vanished">Расположение:
 %1</translation>
     </message>
     <message>
@@ -10976,6 +10968,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>About plugin</source>
         <translation>О плагине</translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation>Авторы</translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
+        <translation>Файл</translation>
     </message>
 </context>
 <context>
@@ -11352,7 +11352,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
@@ -11637,11 +11637,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13955,7 +13955,7 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>Thanks To</source>
@@ -15824,11 +15824,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15953,11 +15953,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -16203,7 +16203,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -17199,11 +17199,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -17286,11 +17286,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17844,7 +17844,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17953,7 +17953,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -18231,11 +18231,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -18952,6 +18952,14 @@ Do you still want to close the window?</source>
         <source>User</source>
         <translation>Пользователь</translation>
     </message>
+    <message>
+        <source>Device ID</source>
+        <translation>ID устройства</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копировать отпечаток</translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
@@ -19010,6 +19018,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Delete selected device?</source>
         <translation>Удалить выбранное устройство?</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Копировать отпечаток</translation>
     </message>
 </context>
 <context>
@@ -19071,15 +19083,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO - это протокол сквозного шифрования, в котором используется схема шифрования Double Ratchet для обеспечения шифрования между множеством устройств одновременно, что позволяет безопасно синхронизировать сообщения между несколькими XMPP клиентами, даже если некоторые из них в текуйщий момент отключены.</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>По сравнению с OTR протокол OMEMO предлагает шифрование конференций, безопасную синхронизацию сообщений между устройствами пользователя, очередь сообщений отключённому пользователю, секретность пересылки и передачу файлов.</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
@@ -19091,7 +19103,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Никто, кроме отправителя и получателя, не может прочитать содержимое сообщения.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19099,7 +19111,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скомпрометированный ключ не ставит под угрозу предыдущий или будущий обмен сообщениями.</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -19107,7 +19119,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый узел может аутентифицировать отправителя или получателя сообщения.</translation>
     </message>
     <message>
         <source>Immutability</source>
@@ -19115,15 +19127,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plausible deniabilit</source>
-        <translation type="vanished">Правдоподобное отрицание</translation>
+        <translation>Каждый узел может гарантировать, что сообщение не было изменено каким-либо промежуточным узлом.</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ни один участник не может доказать, кто создал конкретное сообщение.</translation>
     </message>
     <message>
         <source>Asynchronicity</source>
@@ -19131,7 +19139,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование протокола не зависит от онлайн-статуса участников.</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
@@ -19155,7 +19163,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Правдоподобное отрицание</translation>
     </message>
 </context>
 <context>
@@ -19655,7 +19663,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Авторы: </translation>
+        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
