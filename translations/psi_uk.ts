@@ -2134,15 +2134,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Шифрування увімкнено</translation>
+        <translation type="vanished">Шифрування увімкнено</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Шифрування вимкнено</translation>
+        <translation type="vanished">Шифрування вимкнено</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 закінчив діалог</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation>Шифрування увімкнено</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation>Шифрування вимкнено</translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation>Шифрування %1 увімкнено</translation>
     </message>
 </context>
 <context>
@@ -2826,7 +2838,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Приєднатись до %1</translation>
+        <translation type="vanished">Приєднатись до %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -5126,6 +5138,18 @@ Reason: %1</source>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 був видалений із кімнати %2 через технічні проблеми</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation>Шифрування увімкнено</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation>Шифрування вимкнено</translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation>Шифрування %1 увімкнено</translation>
     </message>
 </context>
 <context>
@@ -8267,6 +8291,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation>Сталася помилка під час спроби позначити статус.
+Причина: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9231,6 +9261,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>Радіус кутів</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation>Розташовувати аватари ліворуч</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation>Розміщувати значок статусу на аватарі</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9305,6 +9343,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation>Вирівняно ліворуч</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation>Розташовувати ростер конференції ліворуч</translation>
     </message>
 </context>
 <context>
@@ -10368,6 +10410,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 %1</source>
         <translation>Спроба зберегти конфігурацію gpg-агента - невдала! Перевірте, чи є у вас дозвіл на запис файлу:
 %1</translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
+        <translation>Не підписувати власний статус присутності</translation>
     </message>
 </context>
 <context>
@@ -12742,7 +12788,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>Сталася помилка під час спроби позначити статус.
+        <translation type="vanished">Сталася помилка під час спроби позначити статус.
 Причина: %1.</translation>
     </message>
     <message>
@@ -12998,15 +13044,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Порада дня</translation>
+        <translation type="vanished">Порада дня</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Порада дня</translation>
+        <translation type="vanished">&amp;Порада дня</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Дивитися багато порад</translation>
+        <translation type="vanished">Дивитися багато порад</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16647,7 +16693,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Поради</translation>
+        <translation type="vanished">Поради</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19542,7 +19588,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>Технологія OTR дозволяє проводити особисте листування, забезпечуючи:</translation>
+        <translation type="vanished">Технологія OTR дозволяє проводити особисте листування, забезпечуючи:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19566,7 +19612,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Надіслані повідомлення не мають цифрового підпису, що перевіряється третьою особою. Хто завгодно зможе підробити історію листування так, щоб повідомлення виглядали ніби то від вас. Зате під час розмови ваш кореспондент буде впевнений, що повідомлення від вас справжні і не підроблені.</translation>
+        <translation type="vanished">Надіслані повідомлення не мають цифрового підпису, що перевіряється третьою особою. Хто завгодно зможе підробити історію листування так, щоб повідомлення виглядали ніби то від вас. Зате під час розмови ваш кореспондент буде впевнений, що повідомлення від вас справжні і не підроблені.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19639,6 +19685,58 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
         <translation>Додаткова інформація &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
+    </message>
+    <message>
+        <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
+        <translation>Off-the-Record Messaging (OTR) - це криптографічний протокол, який забезпечує шифрування для обміну миттєвими повідомленнями. На додаток до аутентифікації і шифрування OTR забезпечує пряму секретність і гнучке шифрування.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="vanished">У порівнянні з OpenPGP і OMEMO протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, вконтакте та інших мережах).</translation>
+    </message>
+    <message>
+        <source>OTR features:</source>
+        <translation>Можливості OTR:</translation>
+    </message>
+    <message>
+        <source>* Fast and easy update of encryption keys.</source>
+        <translation>* Швидке та просте оновлення ключів шифрування.</translation>
+    </message>
+    <message>
+        <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
+        <translation>* Проста і зручна автентифікація співрозмовника без необхідності порівняння відбитків відкритого ключа через зовнішній канал зв&apos;язку.</translation>
+    </message>
+    <message>
+        <source>OTR limitations:</source>
+        <translation>Обмеження OTR:</translation>
+    </message>
+    <message>
+        <source>* No support of offline messages.</source>
+        <translation>* Немає підтримки офлайн-повідомлень.</translation>
+    </message>
+    <message>
+        <source>* No support of carbon copies to other XMPP resources.</source>
+        <translation>* Немає підтримки копій на інші ресурси XMPP.</translation>
+    </message>
+    <message>
+        <source>* No support of multi-user chats.</source>
+        <translation>* Немає підтримки багатокористувацьких чатів.</translation>
+    </message>
+    <message>
+        <source>* No support of file transfer.</source>
+        <translation>* Немає підтримки передачі файлів.</translation>
+    </message>
+    <message>
+        <source>OTR provides the following guarantees:</source>
+        <translation>OTR надає наступні гарантії:</translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
+        <translation>Відправлені вами повідомлення не мають цифрових підписів, які можуть бути перевірені третьою стороною. Будь-хто може підробити повідомлення після розмови, щоб вони виглядали так, як ніби вони від вас. Однак під час розмови ваш кореспондент впевнений, що повідомлення, які він(вона) бачить, є справжніми і не змінені.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

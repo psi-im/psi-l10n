@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 27.05.2020</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 10.06.2020</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -2126,15 +2126,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Шифрование включено</translation>
+        <translation type="vanished">Шифрование включено</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Шифрование выключено</translation>
+        <translation type="vanished">Шифрование выключено</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 закончил разговор</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation>Шифрование включено</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation>Шифрование отключено</translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation>Шифрование %1 включено</translation>
     </message>
 </context>
 <context>
@@ -2819,7 +2831,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -5125,6 +5137,18 @@ Reason: %1</source>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 удален из комнаты участником %2 по техническим причинам</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation>Шифрование включено</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation>Шифрование отключено</translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation>Шифрование %1 включено</translation>
     </message>
 </context>
 <context>
@@ -8270,6 +8294,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation>Произошла ошибка установки вашего состояния.
+Причина: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9238,6 +9268,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>Радиус углов</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation>Разместить аватары слева</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation>Разместить статусные иконки поверх аватара</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9312,6 +9350,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation>Выравнивание слева</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation>Разместить ростер конференции слева</translation>
     </message>
 </context>
 <context>
@@ -10376,6 +10418,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 %1</source>
         <translation>Не удалось сохранить файл настроек gpg-agent! Убедитесь, что у вас есть права на запись файла:
 %1</translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
+        <translation>Не подписывать свой статус присутствия</translation>
     </message>
 </context>
 <context>
@@ -12750,7 +12796,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>Произошла ошибка установки вашего состояния.
+        <translation type="vanished">Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
@@ -13008,15 +13054,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Совет дня</translation>
+        <translation type="vanished">Совет дня</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Совет дня</translation>
+        <translation type="vanished">&amp;Совет дня</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Просмотр многих полезных советов</translation>
+        <translation type="vanished">Просмотр многих полезных советов</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16667,7 +16713,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Советы</translation>
+        <translation type="vanished">Советы</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19155,7 +19201,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation>* Любая атаки типа «отказ в обслуживании».</translation>
+        <translation>* Любые атаки типа «отказ в обслуживании».</translation>
     </message>
     <message>
         <source>* etc.</source>
@@ -19567,7 +19613,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
+        <translation type="vanished">Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19591,7 +19637,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
+        <translation type="vanished">Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19668,6 +19714,62 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
         <translation>Дополнительная информация: &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="vanished">Технология OTR (Off-the-Record Messaging) позволяет проводить личную переписку, обеспечивая:</translation>
+    </message>
+    <message>
+        <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
+        <translation>Off-the-Record Messaging (OTR) - это криптографический протокол, который обеспечивает шифрование для обмена мгновенными сообщениями. В дополнение к аутентификации и шифрованию OTR обеспечивает прямую секретность и гибкое шифрование.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="vanished">По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в ICQ, Skype, Telegram, QQ, вконтакте и других сетях).</translation>
+    </message>
+    <message>
+        <source>OTR features:</source>
+        <translation>Возможности OpenPGP:</translation>
+    </message>
+    <message>
+        <source>* Fast and easy update of encryption keys.</source>
+        <translation>* Быстрое и простое обновление ключей шифрования.</translation>
+    </message>
+    <message>
+        <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
+        <translation>* Простая и удобная аутентификация собеседника без необходимости сравнения отпечатков открытого ключа через внешний канал связи.</translation>
+    </message>
+    <message>
+        <source>OTR limitations:</source>
+        <translation>Ограничения OTR:</translation>
+    </message>
+    <message>
+        <source>* No support of offline messages.</source>
+        <translation>* Нет поддержки сообщений отключённому собеседнику.</translation>
+    </message>
+    <message>
+        <source>* No support of carbon copies to other XMPP resources.</source>
+        <translation>* Нет поддержки отправки копий сообщений на другие ресурсы XMPP.</translation>
+    </message>
+    <message>
+        <source>* No support of multi-user chats.</source>
+        <translation>* Нет поддержки многопользовательских чатов.</translation>
+    </message>
+    <message>
+        <source>* No support of file transfer.</source>
+        <translation>* Нет поддержки обмена файлами.</translation>
+    </message>
+    <message>
+        <source>OTR provides the following guarantees:</source>
+        <translation>OTR предоставляет следующие гарантии:</translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
+        <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation>По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в ICQ, Skype, Telegram, QQ, вконтакте и других сетях).</translation>
     </message>
 </context>
 <context>

@@ -2107,15 +2107,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>加密已啟用</translation>
+        <translation type="vanished">加密已啟用</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>加密已關閉</translation>
+        <translation type="vanished">加密已關閉</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 結束對話</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2794,7 +2806,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>加入 %1</translation>
+        <translation type="vanished">加入 %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -5081,6 +5093,18 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8198,6 +8222,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">簽入你的狀態時發生錯誤。
+原因: %1。</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9150,6 +9180,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>園角</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">在左側放置頭像</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">在圖像上方放置狀態圖示</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9224,6 +9262,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">放置群聊名單到左側</translation>
     </message>
 </context>
 <context>
@@ -10267,6 +10309,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12628,7 +12674,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>簽入你的狀態時發生錯誤。
+        <translation type="vanished">簽入你的狀態時發生錯誤。
 原因: %1。</translation>
     </message>
     <message>
@@ -12872,15 +12918,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>每日提示</translation>
+        <translation type="vanished">每日提示</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>每日提示(&amp;T)</translation>
+        <translation type="vanished">每日提示(&amp;T)</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>看看其他有用的提示</translation>
+        <translation type="vanished">看看其他有用的提示</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16470,7 +16516,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>技巧</translation>
+        <translation type="vanished">技巧</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19353,7 +19399,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>場外的記錄(OTR)消息，可以讓你有超過即時通訊提供的私人談話:</translation>
+        <translation type="vanished">場外的記錄(OTR)消息，可以讓你有超過即時通訊提供的私人談話:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19377,7 +19423,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>您發送的消息不具有數位簽章是由協力廠商檢查的。任何人都可以偽造消息的談話後，使它們看起來像他們來自你。然而，在對話過程中，記者是有保證的，他看到的消息是真實的和未修改的。</translation>
+        <translation type="vanished">您發送的消息不具有數位簽章是由協力廠商檢查的。任何人都可以偽造消息的談話後，使它們看起來像他們來自你。然而，在對話過程中，記者是有保證的，他看到的消息是真實的和未修改的。</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19453,6 +19499,54 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR features:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Fast and easy update of encryption keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR limitations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of offline messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of carbon copies to other XMPP resources.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of multi-user chats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of file transfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR provides the following guarantees:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

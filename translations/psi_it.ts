@@ -2127,15 +2127,27 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Cifratura Abilitata</translation>
+        <translation type="vanished">Cifratura Abilitata</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Cifratura Disabilitata</translation>
+        <translation type="vanished">Cifratura Disabilitata</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 ha terminato la conversazione</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2820,7 +2832,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Unisciti a %1</translation>
+        <translation type="vanished">Unisciti a %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -5127,6 +5139,18 @@ Motivo: %1</translation>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 è stato rimosso dalla stanza da %2 a causa di un problema tecnico</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8297,6 +8321,12 @@ Etichette: %1</translation>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">C&apos;è stato un errore provando a segnare il tuo stato.
+Motivo: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9266,6 +9296,14 @@ Argomento MUC per esempio.</translation>
         <source>Radius of corners</source>
         <translation>Raggio degli angoli</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">Posiziona avatar a sinistra</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">Posiziona l&apos;icona dello stato sull&apos;avatar</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9340,6 +9378,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Left aligned</source>
         <translation>Allineato a sinistra</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">Posiziona la lista contatti della conferenza a sinistra</translation>
     </message>
 </context>
 <context>
@@ -10401,6 +10443,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12775,7 +12821,7 @@ Dettagli: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>C&apos;è stato un errore provando a segnare il tuo stato.
+        <translation type="vanished">C&apos;è stato un errore provando a segnare il tuo stato.
 Motivo: %1.</translation>
     </message>
     <message>
@@ -13031,15 +13077,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Suggerimento del Giorno</translation>
+        <translation type="vanished">Suggerimento del Giorno</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Suggerimento del Giorno</translation>
+        <translation type="vanished">&amp;Suggerimento del Giorno</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Leggi molti consigli utili</translation>
+        <translation type="vanished">Leggi molti consigli utili</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16682,7 +16728,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Suggerimenti</translation>
+        <translation type="vanished">Suggerimenti</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19593,7 +19639,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>La messaggistica Off-the-Record (OTR) ti permette di avere conversazioni private attraverso la messaggistica istantanea fornendo:</translation>
+        <translation type="vanished">La messaggistica Off-the-Record (OTR) ti permette di avere conversazioni private attraverso la messaggistica istantanea fornendo:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19617,7 +19663,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Il messaggio che hai inviato non ha firme digitali che sono verificabili da terze parti. Chiunque può falsificare messaggi dopo una conversazione per farli apparire come provenienti da te. Tuttavia durante una conversazione, il tuo interlocutore è sicuro che i messaggi che vede sono autentici e non modificati.</translation>
+        <translation type="vanished">Il messaggio che hai inviato non ha firme digitali che sono verificabili da terze parti. Chiunque può falsificare messaggi dopo una conversazione per farli apparire come provenienti da te. Tuttavia durante una conversazione, il tuo interlocutore è sicuro che i messaggi che vede sono autentici e non modificati.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19693,6 +19739,54 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR features:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Fast and easy update of encryption keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR limitations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of offline messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of carbon copies to other XMPP resources.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of multi-user chats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of file transfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR provides the following guarantees:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
