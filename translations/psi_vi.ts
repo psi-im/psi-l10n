@@ -7647,6 +7647,29 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Hộp thoại</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Tên:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Mô tả:</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -12743,7 +12766,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Lệnh&gt;</translation>
+        <translation type="vanished">Lệnh&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -12804,6 +12827,10 @@ Lý do : %1.</translation>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Lệnh</translation>
     </message>
 </context>
 <context>

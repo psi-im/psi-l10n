@@ -8060,6 +8060,29 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Párbeszéd</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">Fiók:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Név:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Leírás:</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -13376,7 +13399,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Parancs&gt;</translation>
+        <translation type="vanished">Parancs&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13437,6 +13460,10 @@ Oka: %1.</translation>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Parancs</translation>
     </message>
 </context>
 <context>

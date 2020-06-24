@@ -625,11 +625,11 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa opzione disattiva le connessioni peer-to-peer e quelle ai server TURN forniti dall&apos;altro peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Attenzione: &lt;/b&gt;sebbene ciò nasconda il tuo indirizzo IP, rende impossibile la connessione se le opzioni del server TURN qua sopra sono vuote o non valide.</translation>
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva le connessioni che potenzialmente espongono il mio indirizzo IP</translation>
     </message>
 </context>
 <context>
@@ -2139,11 +2139,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura è abilitata</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura è disabilitata</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
@@ -3129,10 +3129,6 @@ Procedere?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Questo plugin è progettato per rendere facile lo scaricamento e l&apos;installazione di set di icone e altre risorse per Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -3755,10 +3751,6 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
     <message>
         <source>For all</source>
         <translation>Per tutti</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -5142,11 +5134,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura è abilitata</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura è disabilitata</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
@@ -5785,14 +5777,6 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     <message>
         <source>Public key %1 sent</source>
         <translation type="vanished">Chiavi pubblica %1 inviata</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="vanished">Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
 </context>
 <context>
@@ -7306,7 +7290,7 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tratta alcuni jid come servizi che implementano il protocollo Jabber Disk e gestisci i file con essi.</translation>
     </message>
 </context>
 <context>
@@ -7696,15 +7680,15 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi dai segnalibri</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Aggiunti ai segnalibri</translation>
+        <translation>Aggiunti ai segnalibri</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Rimuovi</translation>
+        <translation>Rimuovi</translation>
     </message>
 </context>
 <context>
@@ -7980,10 +7964,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">e-mail: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8100,6 +8080,29 @@ Dettagli: %1</translation>
     <message>
         <source>&lt;unset&gt;</source>
         <translation>&lt;unset&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Finestra</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">Account:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Descrizione:</translation>
     </message>
 </context>
 <context>
@@ -8301,46 +8304,27 @@ Etichette: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autori:</translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Invia Chiave GnuPG Pubblica</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="obsolete">Chiave pubblica &quot;%1&quot; inviata</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
+        <translation>Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">C&apos;è stato un errore provando a segnare il tuo stato.
+        <translation>C&apos;è stato un errore provando a segnare il tuo stato.
 Motivo: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autori:</translation>
-    </message>
-    <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished">Cifratura OpenPGP</translation>
+        <translation>Cifratura OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
@@ -8383,38 +8367,38 @@ Motivo: %1.</translation>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Impossibile iniziare</translation>
+        <translation>Impossibile iniziare</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">Programma GnuPG non trovato</translation>
+        <translation>Programma GnuPG non trovato</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostica</translation>
+        <translation>&amp;Diagnostica</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID Chiave</translation>
+        <translation>ID Chiave</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID Utente</translation>
+        <translation>ID Utente</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Informazioni GnuPG</translation>
+        <translation>Informazioni GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Prego selezionare una chiave.</translation>
+        <translation>Prego selezionare una chiave.</translation>
     </message>
 </context>
 <context>
@@ -9298,11 +9282,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Posiziona avatar a sinistra</translation>
+        <translation>Posiziona avatar a sinistra</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Posiziona l&apos;icona dello stato sull&apos;avatar</translation>
+        <translation>Posiziona l&apos;icona dello stato sull&apos;avatar</translation>
     </message>
 </context>
 <context>
@@ -9381,7 +9365,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Posiziona la lista contatti della conferenza a sinistra</translation>
+        <translation>Posiziona la lista contatti della conferenza a sinistra</translation>
     </message>
 </context>
 <context>
@@ -10322,11 +10306,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Seleziona una &amp;Chiave...</translation>
+        <translation>Seleziona una &amp;Chiave...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10362,11 +10346,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copia impronta digitale</translation>
+        <translation>Copia impronta digitale</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostica</translation>
+        <translation>&amp;Diagnostica</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10374,39 +10358,39 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Account</translation>
+        <translation>Account</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utente</translation>
+        <translation>Utente</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID Chiave</translation>
+        <translation>ID Chiave</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impronta Digitale</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Sei sicuro di voler cancellare le seguenti chiavi?</translation>
+        <translation>Sei sicuro di voler cancellare le seguenti chiavi?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Account: </translation>
+        <translation>Account: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Utente:</translation>
+        <translation>Utente:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Impronta digitale:</translation>
+        <translation>Impronta digitale:</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Conferma azione</translation>
+        <translation>Conferma azione</translation>
     </message>
     <message>
         <source>Choose Secret Key</source>
@@ -10414,7 +10398,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID Utente</translation>
+        <translation>ID Utente</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10438,7 +10422,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Avviso</translation>
+        <translation>Avviso</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -11043,7 +11027,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Autori</translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13423,10 +13407,6 @@ Motivo: %1.</translation>
         <source>Set Topic</source>
         <translation>Imposta argomento</translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Cifratura OpenPGP</translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13466,7 +13446,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Comando&gt;</translation>
+        <translation type="vanished">Comando&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13514,7 +13494,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
+        <translation>Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
@@ -13527,6 +13507,10 @@ Motivo: %1.</translation>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Comando</translation>
     </message>
 </context>
 <context>
@@ -14027,12 +14011,8 @@ Vuoi attivare quella sessione ora?</translation>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autori:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Grazie A</translation>
+        <translation>Grazie A</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -15881,7 +15861,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Configurazioni dispositivi audio e video</translation>
+        <translation>Configurazioni dispositivi audio e video</translation>
     </message>
 </context>
 <context>
@@ -18958,16 +18938,8 @@ Vuoi ancora chiudere la finestra?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="vanished">Impronte digitali</translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="vanished">Gestisci dispositivi</translation>
-    </message>
-    <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18987,10 +18959,6 @@ Vuoi ancora chiudere la finestra?</translation>
     <message>
         <source>Trust</source>
         <translation>Fidati</translation>
-    </message>
-    <message>
-        <source>Contact</source>
-        <translation type="vanished">Contatto</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -19014,15 +18982,15 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utente</translation>
+        <translation>Utente</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID dispositivo</translation>
+        <translation>ID dispositivo</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copia impronta digitale</translation>
+        <translation>Copia impronta digitale</translation>
     </message>
 </context>
 <context>
@@ -19085,7 +19053,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copia impronta digitale</translation>
+        <translation>Copia impronta digitale</translation>
     </message>
 </context>
 <context>
@@ -19109,14 +19077,6 @@ Vuoi ancora chiudere la finestra?</translation>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autore:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation>Crediti:</translation>
@@ -19154,10 +19114,6 @@ Vuoi ancora chiudere la finestra?</translation>
         <translation>Gestisci impronte del contatto</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autori:</translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19179,7 +19135,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Perfect forward secrecy</translation>
+        <translation>Perfect forward secrecy</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19187,7 +19143,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Autenticazione</translation>
+        <translation>Autenticazione</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19389,7 +19345,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Conferma azione</translation>
+        <translation>Conferma azione</translation>
     </message>
 </context>
 <context>
@@ -19510,19 +19466,19 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">Fidati</translation>
+        <translation>Fidati</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Non fidarti</translation>
+        <translation>Non fidarti</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Sei sicuro di voler cancellare le seguenti chiavi?</translation>
+        <translation>Sei sicuro di voler cancellare le seguenti chiavi?</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Conferma azione</translation>
+        <translation>Conferma azione</translation>
     </message>
 </context>
 <context>
@@ -19573,7 +19529,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Conferma azione</translation>
+        <translation>Conferma azione</translation>
     </message>
 </context>
 <context>
@@ -19731,11 +19687,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Conferma azione</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autori:</translation>
+        <translation>Conferma azione</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
