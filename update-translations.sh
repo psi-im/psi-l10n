@@ -179,7 +179,7 @@ case "${1}" in
     cp -a "${PSIMEDIA_DIR}"/psiplugin "psimedia/"
 
     cd "${PSI_DIR}/src"
-    python2 ../admin/update_options_ts.py ../options/default.xml > \
+    python3 ../admin/update_options_ts.py ../options/default.xml > \
         "${CUR_DIR}/tmp/option_translations.cpp"
     # ending of magical hack
 
