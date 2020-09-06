@@ -2601,27 +2601,27 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Keresés: </translation>
+        <translation type="vanished">Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Kezdőbetű érzékeny</translation>
+        <translation type="vanished">&amp;Kezdőbetű érzékeny</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Első oldal</translation>
+        <translation type="vanished">Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Előző oldal</translation>
+        <translation type="vanished">Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Következő oldal</translation>
+        <translation type="vanished">Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Utolsó oldal</translation>
+        <translation type="vanished">Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -2640,7 +2640,7 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 elkérte a verziód</translation>
+        <translation type="vanished">%1 elkérte a verziód</translation>
     </message>
 </context>
 <context>
@@ -8624,10 +8624,22 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation>Link</translation>
+        <translation type="vanished">Link</translation>
     </message>
     <message>
-        <source>Visited Link</source>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11305,7 +11317,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Általános</translation>
+        <translation type="vanished">Általános</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11369,39 +11381,39 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Engedélyezés ehhez:</translation>
+        <translation type="vanished">Engedélyezés ehhez:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Ismerősök</translation>
+        <translation type="vanished">Ismerősök</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Csoportbeszélgetések</translation>
+        <translation type="vanished">Csoportbeszélgetések</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Felugró ablak iq-verziónál</translation>
+        <translation type="vanished">Felugró ablak iq-verziónál</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>soha</translation>
+        <translation type="vanished">soha</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>ha &quot;iq&quot; áthelyezve</translation>
+        <translation type="vanished">ha &quot;iq&quot; áthelyezve</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>mindig</translation>
+        <translation type="vanished">mindig</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Naplók</translation>
+        <translation type="vanished">Naplók</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Napló megtekintése</translation>
+        <translation type="vanished">Napló megtekintése</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11513,10 +11525,14 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Kérdések mentése naplófájlba</translation>
+        <translation type="vanished">Kérdések mentése naplófájlba</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17599,7 +17615,7 @@ Javítsd és próbáld újra.</translation>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="vanished">Akár több ikonkészletet is kiválaszthatsz, és társíthatod őket prioritásokhoz a beállítások alatt.</translation>
+        <translation>Akár több ikonkészletet is kiválaszthatsz, és társíthatod őket prioritásokhoz a beállítások alatt.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17611,7 +17627,7 @@ Javítsd és próbáld újra.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Sokféle billentyűkombinációt használhatsz a beszélgetések közben:&lt;br&gt;
+        <translation>Sokféle billentyűkombinációt használhatsz a beszélgetések közben:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter az üzenet elküldéséhez&lt;/li&gt;
 &lt;li&gt;Ctrl+M egy sortörés hozzáadásához&lt;/li&gt;
@@ -17631,7 +17647,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Ezeket a parancsokat tudod használni a beszélgetéseknél:
+        <translation>Ezeket a parancsokat tudod használni a beszélgetéseknél:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; az ablak tartalmát törli&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;üzenet&amp;gt;&quot; egyes szám harmadik személy használata&lt;/li&gt;
@@ -17643,27 +17659,27 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
+        <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="vanished">Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
+        <translation>Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="vanished">Épp most váltottál Gadu-Gaduról vagy Trillianról, és hiányoznak a hangulatjelek? Ne félj, vannak itt is! Nézz körül a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; címen egy raklapnyi hangulatjelért!</translation>
+        <translation>Épp most váltottál Gadu-Gaduról vagy Trillianról, és hiányoznak a hangulatjelek? Ne félj, vannak itt is! Nézz körül a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; címen egy raklapnyi hangulatjelért!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="vanished">Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
+        <translation>Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
+        <translation>Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="vanished">If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</translation>
+        <translation>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -17673,7 +17689,42 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Contributed by</source>
-        <translation type="vanished">Köszönhető</translation>
+        <translation>Köszönhető</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
