@@ -234,7 +234,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά με το Psi-Plus</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
@@ -333,7 +333,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/options</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/options</translation>
     </message>
 </context>
 <context>
@@ -443,7 +443,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόρρητο</translation>
     </message>
     <message>
         <source>Blocked Contacts</source>
@@ -499,7 +499,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κρυπτογραφημένη σύνδεση:</translation>
     </message>
     <message>
         <source>Allow plaintext authentication:</source>
@@ -543,7 +543,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα χρήστη:</translation>
     </message>
     <message>
         <source>Authenticate as:</source>
@@ -584,7 +584,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>When available</source>
-        <translation type="unfinished"></translation>
+        <translation>Όταν είναι διαθέσιμο</translation>
     </message>
     <message>
         <source>Never</source>
@@ -592,7 +592,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL Παλαιού Τύπου</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -692,7 +692,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα χρήστη:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -704,15 +704,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>SSL error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Secret Key</source>
+        <translation type="vanished">Μυστικό Κλειδί</translation>
+    </message>
+    <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το &lt;i&gt;Όνομα χρήστη&lt;/i&gt; δεν είναι έγκυρο.</translation>
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
@@ -728,11 +732,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανασύνδεση Αργότερα</translation>
     </message>
     <message>
         <source>Reconnect &amp;Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανασύνδεση Τώρα</translation>
     </message>
     <message>
         <source>Block contact</source>
@@ -748,7 +752,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είστε συνδεδεμένοι.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
@@ -763,7 +767,7 @@ When you enable this option you will not be able to find your password in config
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγγραφή Λογαριασμού</translation>
     </message>
     <message>
         <source>Server</source>
@@ -779,7 +783,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Connection settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις σύνδεσης</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
@@ -795,7 +799,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κρυπτογραφημένη σύνδεση:</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -807,11 +811,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο</translation>
     </message>
 </context>
 <context>
@@ -822,11 +826,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>When available</source>
-        <translation type="unfinished"></translation>
+        <translation>Όταν είναι διαθέσιμο</translation>
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL Παλαιού Τύπου</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -834,15 +838,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εγγραφή;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>Error</source>
@@ -854,7 +858,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>SSL error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
@@ -866,7 +870,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Reason: </source>
-        <translation type="unfinished"></translation>
+        <translation>Λόγος:</translation>
     </message>
     <message>
         <source>You have entered an invalid server name</source>
@@ -882,7 +886,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχία</translation>
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
@@ -898,11 +902,11 @@ Reason: %1</source>
     <name>AccountRemove</name>
     <message>
         <source>Remove Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση Λογαριασμού</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση λογαριασμού μόνο από το Psi-plus.</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
@@ -917,7 +921,7 @@ Reason: %1</source>
     <name>AccountRemoveDlg</name>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -929,11 +933,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>Error</source>
@@ -949,7 +953,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχία</translation>
     </message>
     <message>
         <source>The account was unregistered successfully.</source>
@@ -973,7 +977,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανασύνδεση</translation>
     </message>
     <message>
         <source>Ignore global actions</source>
@@ -995,7 +999,7 @@ Reason: %1</source>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Δραστηριότητα Χρήστη</translation>
     </message>
     <message>
         <source>General:</source>
@@ -1003,11 +1007,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συγκεκριμένα:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1026,7 +1030,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Άλλο</translation>
     </message>
 </context>
 <context>
@@ -1037,11 +1041,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Μήκος:</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Σχόλιο:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
@@ -1096,7 +1100,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1104,11 +1108,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
 </context>
 <context>
@@ -1131,7 +1135,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1147,11 +1151,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/vCard</translation>
     </message>
     <message>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα:</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -1194,7 +1198,7 @@ p, li { white-space: pre-wrap; }
     <name>AddUserDlg</name>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;None&gt;</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -1215,7 +1219,7 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>Add User: Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη χρήστη: Επιτυχώς</translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -1235,19 +1239,19 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AddressTypeDlg</name>
     <message>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Προτεινόμενο</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Οικία</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Εργασία</translation>
     </message>
     <message>
         <source>Postal</source>
-        <translation type="unfinished"></translation>
+        <translation>ΤΚ</translation>
     </message>
     <message>
         <source>Parcel</source>
@@ -1255,7 +1259,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Domestic</source>
-        <translation type="unfinished"></translation>
+        <translation>Τοπικό</translation>
     </message>
     <message>
         <source>International</source>
@@ -1267,7 +1271,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax</translation>
     </message>
     <message>
         <source>Pager</source>
@@ -1283,7 +1287,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Modem</source>
@@ -1313,11 +1317,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"></translation>
+        <translation>αποστολή μηνύματος Προσοχής σε εσάς!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή Προσοχής</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1329,11 +1333,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθετο Προσοχής</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποοστολή μηνύματος Προσοχής στον/στην %1</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1384,11 +1388,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε σύνδεση</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών</translation>
     </message>
     <message>
         <source>Dnd</source>
@@ -1445,7 +1449,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1637,7 +1641,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση</translation>
     </message>
     <message>
         <source>&amp;Join</source>
@@ -1731,7 +1735,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Calling...</source>
@@ -1909,7 +1913,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχία</translation>
     </message>
     <message>
         <source>Successfully changed password.</source>
@@ -1986,11 +1990,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2101,7 +2105,7 @@ to play chess. He wants to play %2.</source>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2284,7 +2288,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2379,7 +2383,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2525,7 +2529,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2611,7 +2615,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήστες σε Σύνδεση</translation>
     </message>
     <message>
         <source>Send Server Message</source>
@@ -2685,15 +2689,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή κατάστασης σε ομάδα</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση ομάδας και επαφών</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάργηση ομάδας</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
@@ -2705,7 +2709,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Όλων</translation>
     </message>
     <message>
         <source>Leave All</source>
@@ -2738,14 +2742,14 @@ Proceed?</source>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνδιάσκεψη</translation>
     </message>
 </context>
 <context>
     <name>ContactManagerDlg</name>
     <message>
         <source>Contacts Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση Επαφών</translation>
     </message>
     <message>
         <source>Field</source>
@@ -2785,7 +2789,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση στην ομάδα</translation>
     </message>
     <message>
         <source>Export</source>
@@ -2872,7 +2876,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Node</source>
@@ -2927,16 +2931,24 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
     <message>
+        <source>Create New Group</source>
+        <translation type="vanished">Δημιουργία Νέας Ομάδας</translation>
+    </message>
+    <message>
+        <source>Enter the new group name:</source>
+        <translation type="vanished">Εισαγάγετε το νέο όνομα ομάδας:</translation>
+    </message>
+    <message>
         <source>Add</source>
         <translation type="vanished">Προσθήκη</translation>
+    </message>
+    <message>
+        <source>&lt;None&gt;</source>
+        <translation type="vanished">&lt;None&gt;</translation>
     </message>
 </context>
 <context>
@@ -3379,7 +3391,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο</translation>
     </message>
     <message>
         <source>&amp;Quote</source>
@@ -3415,7 +3427,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Send Message</source>
@@ -3535,7 +3547,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ήταν εκτός σύνδεσης %2 πριν</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
@@ -3543,7 +3555,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 είναι σε σύνδεση!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -3650,7 +3662,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Avatar</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
@@ -3678,7 +3690,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση αλλαγών κατάστασης</translation>
     </message>
     <message>
         <source>Show status priority</source>
@@ -3761,7 +3773,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση ομάδων</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
@@ -3769,7 +3781,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση εικονιδίων κατάστασης</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
@@ -3781,7 +3793,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση avatars</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
@@ -3789,7 +3801,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Στυλ ταξινόμησης για επαφές:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
@@ -3833,7 +3845,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση avatar</translation>
     </message>
     <message>
         <source>Show last status</source>
@@ -4009,7 +4021,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4125,11 +4137,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -4149,7 +4161,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Requesting...</source>
@@ -4268,7 +4280,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <source>stop</source>
@@ -4388,7 +4400,7 @@ Reason: %3</source>
     <name>FileTransView</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
@@ -4492,7 +4504,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4748,7 +4760,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός Σελιδοδείκτη Συνδιάσκεψης</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
@@ -5044,7 +5056,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση αλλαγής κατάστασης</translation>
     </message>
     <message>
         <source>Show status with priority</source>
@@ -5111,7 +5123,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
@@ -5303,10 +5315,6 @@ Reason: %1</source>
         <source>e-mail: </source>
         <translation type="vanished">e-mail:</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -5480,11 +5488,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Νέας Ομάδας</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγάγετε το νέο όνομα ομάδας:</translation>
     </message>
 </context>
 <context>
@@ -5588,7 +5596,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο</translation>
     </message>
     <message>
         <source>&amp;Last</source>
@@ -5728,7 +5736,7 @@ Continue?</source>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -5961,7 +5969,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Λεπτομερειών</translation>
     </message>
 </context>
 <context>
@@ -5976,7 +5984,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Λεπτομερειών</translation>
     </message>
 </context>
 <context>
@@ -5991,7 +5999,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Λεπτομερειών</translation>
     </message>
 </context>
 <context>
@@ -6002,7 +6010,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <source>Authors:</source>
@@ -6064,7 +6072,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση λεπτομερειών</translation>
     </message>
 </context>
 <context>
@@ -6079,7 +6087,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Λεπτομερειών</translation>
     </message>
 </context>
 <context>
@@ -6098,7 +6106,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση λεπτομερειών</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6161,7 +6169,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση λεπτομερειών</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -6171,6 +6179,10 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="vanished">Συγγραφέας:</translation>
     </message>
@@ -6179,7 +6191,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6304,7 +6316,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -6332,7 +6344,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Εργασία</translation>
     </message>
     <message>
         <source>Company:</source>
@@ -6471,7 +6483,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχία</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
@@ -7144,7 +7156,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Αφαίρεση</translation>
+        <translation>Αφαίρεση</translation>
     </message>
 </context>
 <context>
@@ -7335,7 +7347,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή</translation>
     </message>
 </context>
 <context>
@@ -7382,10 +7394,6 @@ Incoming event(s) from:</source>
     <message>
         <source>e-mail: </source>
         <translation type="vanished">e-mail:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
@@ -7521,11 +7529,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Όνομα:</translation>
+        <translation>Όνομα:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
 </context>
 <context>
@@ -7695,7 +7703,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμένες αλλαγές δεν αποθηκεύκαν. Είστε σίγουροι ότι θέλετε να κλείσετε;</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
@@ -7715,13 +7723,6 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Συγγραφείς:</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7735,10 +7736,6 @@ Reason: %1.</source>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Συγγραφείς:</translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -7815,7 +7812,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Σφάλμα</translation>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <source>Please select a key.</source>
@@ -7989,19 +7986,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Online contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφές σε σύνδεση:</translation>
     </message>
     <message>
         <source>Away contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφές που απουσιάζουν:</translation>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφές μην ενοχλείτε:</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφές εκτός σύνδεσης:</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
@@ -8154,7 +8151,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος κατά το κλείσιμο του παραθύρου επαφών</translation>
     </message>
     <message>
         <source>Data transfer base port:</source>
@@ -8196,15 +8193,15 @@ Reason: %1.</source>
         <translation>Φόρμα</translation>
     </message>
     <message>
+        <source>Audio output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Audio input:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio output:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8260,7 +8257,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση αλλαγής κατάστασης</translation>
     </message>
     <message>
         <source>Show status with priority</source>
@@ -8303,7 +8300,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη εξουσιοδότηση επαφών</translation>
     </message>
     <message>
         <source>Notify when authorization was received</source>
@@ -8456,7 +8453,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμα πρόσθετα</translation>
     </message>
     <message>
         <source>Version</source>
@@ -8777,7 +8774,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Τοποθέτηση του καταλόγου ομάδων στα αριστερά</translation>
+        <translation>Τοποθέτηση του καταλόγου ομάδων στα αριστερά</translation>
     </message>
 </context>
 <context>
@@ -8871,7 +8868,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive offline status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη κατάστασης εκτός σύνδεσης:</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
@@ -8898,7 +8895,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη αποσύνδεση μετά:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
@@ -8906,7 +8903,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto away after:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματα απών μετά:</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -8922,15 +8919,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε σύνδεση:</translation>
     </message>
     <message>
         <source>Away:</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών:</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελεύθερος για συνομιλία:</translation>
     </message>
     <message>
         <source>XA:</source>
@@ -8938,7 +8935,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μην ενοχλείτε:</translation>
     </message>
     <message>
         <source>Invisible:</source>
@@ -8957,27 +8954,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε σύνδεση</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελεύθερος για συνομιλία</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη Διαθέσιμος</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Μην ενοχλείτε</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8985,7 +8982,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή προεπιλογών στα μενού...</translation>
     </message>
     <message>
         <source>As submenu</source>
@@ -9001,7 +8998,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη Ελεύθερος για συζήτηση, Απών, Μη διαθέσιμος και Μην ενοχλείτε</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
@@ -9009,7 +9006,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή &quot;Επεξεργασία προεπιλογών...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
@@ -9021,7 +9018,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9136,7 +9133,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτρέψτε να λαμβάνετε ένα μήνυμα Προσοχής από την ίδια επαφή κάθε</translation>
     </message>
     <message>
         <source>sec</source>
@@ -9156,7 +9153,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -9204,7 +9201,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9215,8 +9212,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="vanished">Χρήση των ρυθμίσειων διακομιστή μεσολάβησης από το λογαριασμό</translation>
     </message>
     <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Μενού επαφών</translation>
     </message>
     <message>
         <source>Toolbar action</source>
@@ -9224,7 +9225,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Message archiving</source>
@@ -9237,6 +9238,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="vanished">Ενεργοποίηση πολλαπλών εφαρμογών που έχουν συνδεθεί
 ως ο ίδιος χρήστης για την αναφορά του ίδιου
 μηνύματος κατάστασης.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9264,7 +9269,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -9308,7 +9313,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -9425,7 +9430,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -9461,7 +9466,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -9589,7 +9594,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Επιλογή Πλήκτρου...</translation>
+        <translation>Επιλογή Πλήκτρου...</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -9641,7 +9646,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Λογαριασμός</translation>
+        <translation>Λογαριασμός</translation>
     </message>
     <message>
         <source>User</source>
@@ -9705,7 +9710,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Προειδοποίηση</translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -9861,19 +9866,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>σε σύνδεση</translation>
     </message>
     <message>
         <source>offline</source>
-        <translation type="unfinished"></translation>
+        <translation>εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>απών</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>μην ενοχλείτε</translation>
     </message>
     <message>
         <source>Status message</source>
@@ -10273,7 +10278,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Συγγραφείς</translation>
+        <translation>Συγγραφείς</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -10352,7 +10357,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Unnamed group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα χωρίς όνομα</translation>
     </message>
     <message>
         <source>Key %1</source>
@@ -10645,6 +10650,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Contacts</source>
+        <translation type="vanished">Επαφές</translation>
+    </message>
+    <message>
         <source>Groupchats</source>
         <translation type="vanished">Ομάδες</translation>
     </message>
@@ -10658,7 +10667,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -10730,7 +10739,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -10762,7 +10771,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
@@ -10848,6 +10857,17 @@ Reason: %1.</source>
     <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Passphrase</name>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="vanished">Άκυρο</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -11244,7 +11264,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;None&gt;</translation>
     </message>
     <message>
         <source>New List</source>
@@ -11326,7 +11346,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -11418,11 +11438,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11533,11 +11553,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <source>psi/quit</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/quit</translation>
     </message>
     <message>
         <source>&amp;Profiles...</source>
@@ -11615,7 +11635,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα χρήστη:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -12023,7 +12043,7 @@ Details: %1</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Ομάδων</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
@@ -12039,7 +12059,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Επαφών εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
@@ -12047,7 +12067,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Κρυφών Επαφών</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
@@ -12063,7 +12083,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Self Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή της δικής μου επαφής</translation>
     </message>
     <message>
         <source>Toggles visibility of self contact in roster</source>
@@ -12079,7 +12099,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Επαφών</translation>
     </message>
     <message>
         <source>&amp;Psi</source>
@@ -12103,7 +12123,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργές επαφές</translation>
     </message>
     <message>
         <source>Simple way to find contacts with opened chats</source>
@@ -12151,7 +12171,7 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις</translation>
     </message>
     <message>
         <source>Configure Toolbars</source>
@@ -12187,11 +12207,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <source>Quits Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος Psi-Plus</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -12263,15 +12283,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε σύνδεση</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελεύθερος για συνομιλία</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών</translation>
     </message>
     <message>
         <source>XA</source>
@@ -12295,7 +12315,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανασύνδεση</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
@@ -12307,7 +12327,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Status</source>
@@ -12327,35 +12347,35 @@ Details: %1</source>
     </message>
     <message>
         <source>Wiki (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki (Online)</translation>
     </message>
     <message>
         <source>&amp;Wiki (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiki (Online)</translation>
     </message>
     <message>
         <source>Home Page (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχική σελίδα (Online)</translation>
     </message>
     <message>
         <source>&amp;Home Page (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχική σελίδα (Online)</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ &amp;Forum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή στην ομάδα συζήτησης Psi + (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή στην ομάδα συζήτησης Psi + (Online)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12487,19 +12507,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή στην ομάδα συζήτησης Psi (Online)</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi Forum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi &amp;Forum (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή στην ομάδα συζήτησης Psi (Online)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -12691,7 +12711,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις:</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -12768,7 +12788,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Computer went to sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο υπολογιστής κοιμήθηκε</translation>
     </message>
     <message>
         <source>Account setup</source>
@@ -12821,7 +12841,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12873,7 +12893,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12885,7 +12905,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή</translation>
     </message>
     <message>
         <source>Leave</source>
@@ -12941,11 +12961,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -13089,12 +13109,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Συγγραφείς:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Ευχαριστίες</translation>
+        <translation>Ευχαριστίες</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -13105,7 +13121,7 @@ Would you like to activate that session now?</source>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών από το γραφείο</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
@@ -13113,7 +13129,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Showering</source>
-        <translation type="unfinished"></translation>
+        <translation>Ντους</translation>
     </message>
     <message>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
@@ -13121,27 +13137,27 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"></translation>
+        <translation>Τρώω</translation>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation type="unfinished"></translation>
+        <translation>Έξω για φαγητό. Μμμμμ .. φαγητό.</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Ύπνος</translation>
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο ύπνος είναι καλό. Zzzzz</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Εργασία</translation>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορώ να συζητήσω. Πρέπει να δουλέψω.</translation>
     </message>
     <message>
         <source>Air</source>
@@ -13189,7 +13205,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Show contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή επαφών</translation>
     </message>
     <message>
         <source>Event notifier</source>
@@ -13313,7 +13329,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Οικία</translation>
     </message>
 </context>
 <context>
@@ -13495,7 +13511,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"></translation>
+        <translation>Τρώω</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -13551,7 +13567,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Working Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Προπόνηση</translation>
     </message>
     <message>
         <source>Grooming</source>
@@ -13579,7 +13595,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Taking A Shower</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάνω ένα ντους</translation>
     </message>
     <message>
         <source>Having Appointment</source>
@@ -13615,7 +13631,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>Κοιμάμαι</translation>
     </message>
     <message>
         <source>Thinking</source>
@@ -13727,7 +13743,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Δουλεύω</translation>
     </message>
     <message>
         <source>Coding</source>
@@ -13747,7 +13763,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Άλλο</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -13763,23 +13779,23 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Απών</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη διαθέσιμος</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Μην ενοχλείτε</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελεύθερος για συνομιλία</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -13787,7 +13803,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε σύνδεση</translation>
     </message>
     <message>
         <source>Invitation to %1 from %2</source>
@@ -14155,7 +14171,7 @@ Description: </source>
     </message>
     <message>
         <source>Sleepy</source>
-        <translation type="unfinished"></translation>
+        <translation>Νυσταγμένος</translation>
     </message>
     <message>
         <source>Spontaneous</source>
@@ -14507,15 +14523,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact becomes Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Η επαφή γίνεται διαθέσιμη</translation>
     </message>
     <message>
         <source>Contact becomes Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Η επαφή γίνεται μη διαθέσιμη</translation>
     </message>
     <message>
         <source>Contact changes Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή κατάστασης της επαφής</translation>
     </message>
     <message>
         <source>Incoming Message</source>
@@ -14567,11 +14583,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφή σε σύνδεση</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαφή εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>Status change</source>
@@ -14611,7 +14627,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Μην ενοχλείτε</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -14643,11 +14659,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη αποσύνδεση όταν είναι αδρανής</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη εξουσιοδότηση επαφών</translation>
     </message>
     <message>
         <source>Auto-open new messages</source>
@@ -14655,7 +14671,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποχώρηση από όλες τις Συνδιάσκεψεις</translation>
     </message>
     <message>
         <source>Unnamed</source>
@@ -14859,7 +14875,7 @@ Thanks for your patience.</source>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14913,11 +14929,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -14929,7 +14945,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχία</translation>
     </message>
     <message>
         <source>Registration successful.</source>
@@ -15008,6 +15024,10 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>Form</source>
         <translation type="vanished">Φόρμα</translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="vanished">Χρονικό διάστημα Προσοχής:</translation>
     </message>
 </context>
 <context>
@@ -15297,7 +15317,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>&amp;Add Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη Επαφής</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -15309,7 +15329,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/vCard</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -15346,7 +15366,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add User: Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη χρήστη: Επιτυχώς</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
@@ -15511,7 +15531,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε ομαδική συζήτηση</translation>
     </message>
     <message>
         <source>Account Setup</source>
@@ -15551,7 +15571,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Ομάδων</translation>
     </message>
     <message>
         <source>Event Notifier</source>
@@ -15559,19 +15579,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Ομάδων</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Επαφών εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Επαφών που Απουσιάζουν</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Κρυφών Επαφών</translation>
     </message>
     <message>
         <source>Show Agents</source>
@@ -15579,7 +15599,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του εαυτού μου</translation>
     </message>
     <message>
         <source>Show Status Message</source>
@@ -15591,7 +15611,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργές επαφές</translation>
     </message>
     <message>
         <source>Status All</source>
@@ -15599,7 +15619,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση Ομάδας</translation>
     </message>
     <message>
         <source>Status Chat</source>
@@ -15607,11 +15627,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση σε σύνδεση</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση Απών</translation>
     </message>
     <message>
         <source>Status XA</source>
@@ -15627,7 +15647,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -15655,7 +15675,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
@@ -15679,7 +15699,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά με το Psi-Plus</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
@@ -15771,7 +15791,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή επιλεγμένης επαφής</translation>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
@@ -15901,7 +15921,7 @@ Reason: %1</source>
     <name>ShowTextDlg</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -15972,7 +15992,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -16062,11 +16082,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StatusMenu</name>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία προεπιλογών...</translation>
     </message>
 </context>
 <context>
@@ -16085,7 +16105,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Set Status for group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός κατάστασης της ομάδας</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -16101,7 +16121,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;None&gt;</translation>
     </message>
     <message>
         <source>&amp;Set</source>
@@ -16109,7 +16129,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Sa&amp;ve as Preset</source>
@@ -16223,7 +16243,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -16533,20 +16553,16 @@ Please correct and try again.</source>
 <context>
     <name>Tip</name>
     <message>
+        <source>&amp;Next</source>
+        <translation type="vanished">Επόμενο</translation>
+    </message>
+    <message>
         <source>&amp;Close</source>
         <translation type="vanished">&amp;Κλείσιμο</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
@@ -16622,12 +16638,20 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <source>Contributed by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributed by</source>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17181,11 +17205,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17237,7 +17261,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -17667,7 +17691,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
@@ -17675,7 +17703,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -17815,14 +17843,6 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -17857,10 +17877,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Συγγραφείς:</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -18026,7 +18042,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -18275,7 +18291,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαλήθευση επαφής</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
@@ -18362,11 +18378,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Η επαφή επαληθεύτηκε</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Η επαφή δεν επαληθεύτηκε</translation>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
@@ -18375,10 +18391,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Συγγραφείς:</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
@@ -18519,11 +18531,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Φωτογραφίας</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Avatars</translation>
     </message>
     <message>
         <source>Replaces message id with a link
@@ -18536,7 +18548,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>https://link</source>
@@ -18847,7 +18859,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
