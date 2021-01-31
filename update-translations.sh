@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2017-06-16
-# Updated: 2020-09-06
+# Updated: 2021-02-01
 # Version: N/A
 
 set -e
@@ -11,6 +11,7 @@ set -e
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 
+PROGRAM_NAME="psi"
 PSI_DIR="${MAIN_DIR}/psi"
 PLUGINS_DIR="${MAIN_DIR}/plugins"
 PSIMEDIA_DIR="${MAIN_DIR}/psimedia"
@@ -44,7 +45,7 @@ case "${1}" in
 "make")
     # Making precompiled localization files.
 
-    rm translations.pro
+    rm -f translations.pro
 
     echo "TRANSLATIONS = \\" >> translations.pro
     echo translations/*.ts >> translations.pro
@@ -56,15 +57,12 @@ case "${1}" in
 
 ;;
 "install")
-    # Installing precompiled localization files into default directory.
+    # Installing precompiled localization files into ${DESTDIR}.
 
-    if [ ${USER} != "root" ]; then
-        echo "You are not a root now!"
-        exit 1
-    fi
+    [ -z "${DESTDIR}" ] && DESTDIR="/usr"
 
-    mkdir -p /usr/share/psi/translations/
-    cp out/*.qm /usr/share/psi/translations/
+    mkdir -p "${DESTDIR}/share/psi-plus/translations/"
+    cp out/*.qm "${DESTDIR}/share/psi-plus/translations/"
 
 ;;
 "tarball")
@@ -72,14 +70,15 @@ case "${1}" in
 
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
-    rm -rf psi-translations-*
-    mkdir psi-translations-${CUR_TAG}
-    cp out/*.qm psi-translations-${CUR_TAG}
+    rm -rf ${PROGRAM_NAME}-translations-*
+    mkdir ${PROGRAM_NAME}-translations-${CUR_TAG}
+    cp out/*.qm ${PROGRAM_NAME}-translations-${CUR_TAG}
 
-    tar -cJf psi-translations-${CUR_TAG}.tar.xz psi-translations-${CUR_TAG}
-    echo "Tarball with precompiled translation files is ready for upload:"
-    [ ! -z "$(which realpath)" ] && echo "$(realpath ${CUR_DIR}/psi-translations-${CUR_TAG}.tar.xz)"
-    echo "https://sourceforge.net/projects/psi/files/Translations/"
+    tar -cJf ${PROGRAM_NAME}-translations-${CUR_TAG}.tar.xz \
+             ${PROGRAM_NAME}-translations-${CUR_TAG}
+    echo "Tarball with precompiled translation files is ready"
+    [ ! -z "$(which realpath)" ] && \\
+        echo "$(realpath ${CUR_DIR}/${PROGRAM_NAME}-translations-${CUR_TAG}.tar.xz)"
 
 ;;
 "tr")
@@ -184,7 +183,7 @@ case "${1}" in
     # ending of magical hack
 
     cd "${CUR_DIR}"
-    rm translations.pro
+    rm -r translations.pro
 
     echo "HEADERS = \\" >> translations.pro
     find "${PSI_DIR}/iris" "${PSI_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
@@ -205,7 +204,7 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
-    cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSI_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
@@ -217,7 +216,7 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
-    cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSI_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
@@ -229,7 +228,7 @@ case "${1}" in
 
     lupdate -verbose -no-obsolete ./translations.pro
 
-    cp "${PSI_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSI_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
@@ -247,6 +246,7 @@ case "${1}" in
 ;;
 "desktop_up")
     # Update main .desktop file
+
     GENERICNAME_FULL_DATA=$(grep -r "GenericName\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
     GENERICNAME_FILTERED_DATA=$(echo "${GENERICNAME_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
     GENERICNAME_SORTED_DATA=$(echo "${GENERICNAME_FILTERED_DATA}" | sort -uV)
@@ -266,6 +266,7 @@ case "${1}" in
     # Update .desktop file for English localization
     cp -f "${CUR_DIR}/desktop-file/psi.desktop" \
           "${CUR_DIR}/desktop-file/psi_en.desktop"
+
 ;;
 *)
     # Help.
