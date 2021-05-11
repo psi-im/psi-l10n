@@ -1306,7 +1306,7 @@ Make sure you enter a fully qualified XMPP address.</source>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
 Причина: %2&lt;br&gt;&lt;br&gt;
 Возможно, данный сервис не поддерживает эту функцию. В этом случае вам придётся ввести XMPP адрес контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
@@ -1315,6 +1315,11 @@ There was an error getting the Service ID translation information from &quot;%1&
 &amp;nbsp;&amp;nbsp;1234567@[XMPP адрес службы ICQ]&lt;br&gt;
 &amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP адрес службы MSN]&lt;br&gt;
 &lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6757,6 +6762,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">Максимальный размер изображения</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">Размер превью изображения (в пикселях)</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">Разрешить превышение размера</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 КБ</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 МБ</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 МБ</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 МБ</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 МБ</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6764,35 +6812,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 КБ</translation>
+        <translation type="vanished">512 КБ</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 МБ</translation>
+        <translation type="vanished">1 МБ</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 МБ</translation>
+        <translation type="vanished">2 МБ</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 МБ</translation>
+        <translation type="vanished">5 МБ</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 МБ</translation>
+        <translation type="vanished">10 МБ</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>Максимальный размер изображения</translation>
+        <translation type="vanished">Максимальный размер изображения</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>Размер превью изображения (в пикселях)</translation>
+        <translation type="vanished">Размер превью изображения (в пикселях)</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>Разрешить превышение размера</translation>
+        <translation type="vanished">Разрешить превышение размера</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.

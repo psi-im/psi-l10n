@@ -1311,8 +1311,13 @@ Make sure you enter a fully qualified XMPP address.</source>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 从&quot;%1&quot;获取服务ID转换信息时出现错误&lt;br&gt;原因: %2&lt;br&gt;&lt;br&gt; 该服务可能不支持此功能。在这种情况下，你将需要手动输入你想添加的联系人XMPP地址。例子:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; xmppUser@somehost.com &lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[AIM运输的XMPP地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ运输的XMPP地址] &lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN运输的XMPP地址]&lt;br&gt; &amp;nbsp;&amp;nbsp; yahooUser@[雅虎运输的XMPP地址]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6743,6 +6748,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">最大图片大小</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">像素图片预览大小</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">允许高端</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 Kb</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 Mb</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 Mb</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 Mb</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 Mb</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6750,35 +6798,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 Kb</translation>
+        <translation type="vanished">512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 Mb</translation>
+        <translation type="vanished">1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 Mb</translation>
+        <translation type="vanished">2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 Mb</translation>
+        <translation type="vanished">5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 Mb</translation>
+        <translation type="vanished">10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>最大图片大小</translation>
+        <translation type="vanished">最大图片大小</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>像素图片预览大小</translation>
+        <translation type="vanished">像素图片预览大小</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>允许高端</translation>
+        <translation type="vanished">允许高端</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.

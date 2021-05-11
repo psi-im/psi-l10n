@@ -1305,8 +1305,13 @@ Asegúrate de insertar una dirección XMMP correcta.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 Ha ocurrido un error obteniendo información de la traducción de identificador de servicio desde &apos;%1&apos;.&lt;br&gt;Razón: %2&lt;br&gt;&lt;br&gt;El servicio no puede soportar esta funcionalidad. En este caso necesitarás insertar manualmente la dirección XMPP del contacto que deseas añadir. Ejemplos:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[dirección XMPP de un transporte AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[dirección XMPP de un transporte ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[dirección XMPP de un transporte MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[dirección XMPP de un transporte Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6745,10 +6750,26 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6770,17 +6791,12 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <source>Author: </source>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.

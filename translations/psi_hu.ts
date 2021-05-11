@@ -1302,9 +1302,14 @@ Győződj meg róla, hogy biztosan érvényes XMPP címet adtál-e meg.</transla
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Oka: %2&lt;br&gt;&lt;br&gt;A szolgáltatás valószínűleg nem támogatja ezt a funkciót. Ebben az esetben kézileg kell megadnod a hozzáadni kívánt ismerős XMPP címét. Pl.:
 &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppFelhasználó@egykiszolgáló.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolFelhasználó@[AIM Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;joska%hotmail.com@[MSN Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooFelhasználó@[Yahoo Átjáró XMPP címe]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6749,10 +6754,26 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Szerző: </translation>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6774,17 +6795,12 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <source>Author: </source>
+        <translation type="vanished">Szerző: </translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
