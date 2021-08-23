@@ -13115,6 +13115,25 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opcions</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Connectat</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Desconnectat</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
@@ -17544,6 +17563,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

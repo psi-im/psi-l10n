@@ -13888,6 +13888,25 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Tùy chọn</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Trực tuyến</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Ngoại tuyến</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
@@ -18536,6 +18555,10 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -14314,6 +14314,25 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation>Налаштування</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation>Доступний</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Поза мережею</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation>Показати наступну подію</translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
@@ -19176,6 +19195,10 @@ Do you still want to close the window?</source>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
         <translation>Здається, %1 не підтримує OMEMO, вимикаючи всю групу!</translation>
+    </message>
+    <message>
+        <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
+        <translation>Ви отримали повідомлення, зашифроване за допомогою OMEMO, але ваш клієнт не підтримує OMEMO або його підтримка відключена.</translation>
     </message>
 </context>
 <context>

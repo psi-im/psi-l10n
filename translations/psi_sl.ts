@@ -13476,6 +13476,25 @@ Ali želite aktivirati to sejo?</translation>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Možnosti</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Na zvezi</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Brez zveze</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
@@ -18082,6 +18101,10 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
