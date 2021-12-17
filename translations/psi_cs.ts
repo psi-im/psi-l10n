@@ -279,8 +279,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>O Psi</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -625,6 +625,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <source>Disable connections potentially exposing my IP address</source>
         <translation>Zakázat spojení, která potenciálně můžou odkrýt moji IP adresu</translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -815,6 +819,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Povolí Stream Management protokol, pokud je dostupný. Je užitečný, pokud máš nestabilní připojení, ale musí to podporovat tvůj server. Pro víc informací viz XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2214,11 +2222,11 @@ Opravdu zavřít toto okno?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Citovat</translation>
+        <translation type="vanished">Citovat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -5378,7 +5386,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Slova, která způsobí upozornění ve skupinovém chatu.</translation>
+        <translation type="vanished">Slova, která způsobí upozornění ve skupinovém chatu.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5418,7 +5426,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Barvy použité pro přezdívky ve skupinovém chatu</translation>
+        <translation type="vanished">Barvy použité pro přezdívky ve skupinovém chatu</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5430,7 +5438,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Přidá barvu do seznamu</translation>
+        <translation type="vanished">Přidá barvu do seznamu</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5475,6 +5483,14 @@ Hra je prohraná.</translation>
     <message>
         <source>Show initial joins</source>
         <translation>Zobrazit počáteční uzly</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7493,7 +7509,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Vztahy (affiliations)</translation>
+        <translation type="vanished">Vztahy (affiliations)</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7509,7 +7525,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>Všeobecné</translation>
+        <translation type="vanished">Všeobecné</translation>
     </message>
     <message>
         <source>message</source>
@@ -7529,7 +7545,19 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;Vizitka</translation>
+        <translation type="vanished">&amp;Vizitka</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8091,6 +8119,14 @@ Detaily: %1</translation>
     <message>
         <source>Description:</source>
         <translation>Popis:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10135,7 +10171,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="vanished">Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10752,7 +10788,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ovládá délku uchovávání záznamu chatu v paměti po uzavření okna chatu.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ovládá délku uchovávání záznamu chatu v paměti po uzavření okna chatu.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11199,7 +11235,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Způsobí, že Psí nastaví automaticky stav na &quot;offline&quot;, když je počítač v klidu déle, než je nastavená doba. Tohle tě odpojí z Jabber serveru.</translation>
+        <translation type="vanished">Způsobí, že Psí nastaví automaticky stav na &quot;offline&quot;, když je počítač v klidu déle, než je nastavená doba. Tohle tě odpojí z Jabber serveru.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11208,6 +11244,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Udává prioritu stavu &quot;automaticky pryč&quot;. Pokud je prázdné, Psí použije výchozí hodnotu účtu.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11250,7 +11290,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber dovoluje přidat rozšířenou stavovou zprávu na všechny typy stavů. Standardně se Psí neptá na rozšířenou stavovou zprávu, když si nastavíš stav na &quot;online&quot;. Zatrhni tuto volbu, pokud chceš, aby se ptal.</translation>
+        <translation type="vanished">Jabber dovoluje přidat rozšířenou stavovou zprávu na všechny typy stavů. Standardně se Psí neptá na rozšířenou stavovou zprávu, když si nastavíš stav na &quot;online&quot;. Zatrhni tuto volbu, pokud chceš, aby se ptal.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11263,6 +11303,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Předvolba s tímto jménem již existuje!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13621,7 +13665,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+        <translation type="vanished">Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17341,9 +17389,15 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>Tento zásuvný modul je implementací XEP-0049: privátní XML úložiště
+        <translation type="vanished">Tento zásuvný modul je implementací XEP-0049: privátní XML úložiště
 Tento zásuvný modul je plně kompatibilní s poznámkami uloženými v IM Miranda.
 Tento zásuvný modul je navržen tak, aby uchovával poznámky na jabber serveru s možností přístupu k nim kdekoliv z Psi nebo IM Miranda.</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18573,7 +18627,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>VCard</translation>
+        <translation type="vanished">VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18591,12 +18645,20 @@ Opravdu zavřít okno?</translation>
         <source>Message Carbons</source>
         <translation>Kopie zprávy</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">Vizitka</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Žádná vizitka k dispozici</translation>
+        <translation type="vanished">Žádná vizitka k dispozici</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19553,7 +19615,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation>&amp;Ukončil soukromou konverzaci</translation>
+        <translation>&amp;Ukončit soukromou konverzaci</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>

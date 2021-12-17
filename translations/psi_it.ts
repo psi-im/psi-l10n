@@ -286,7 +286,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
+        <translation type="vanished">Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -631,6 +635,10 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
         <source>Disable connections potentially exposing my IP address</source>
         <translation>Disattiva le connessioni che potenzialmente espongono il mio indirizzo IP</translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -822,6 +830,10 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Abilita il protocollo Gestione Flusso se possibile, è utile se hai una connessione instabile. Il tuo server deve supportare questa opzione, per ulteriori informazioni, vedi XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2220,11 +2232,11 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Cita</translation>
+        <translation type="vanished">Cita</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -5387,7 +5399,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Parole che causano una notifica nella conferenza.</translation>
+        <translation type="vanished">Parole che causano una notifica nella conferenza.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5427,7 +5439,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Colori usati per i soprannomi nelle conferenze</translation>
+        <translation type="vanished">Colori usati per i soprannomi nelle conferenze</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5439,7 +5451,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Aggiungi il colore alla lista</translation>
+        <translation type="vanished">Aggiungi il colore alla lista</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5484,6 +5496,14 @@ Hai perso la partita.</translation>
     <message>
         <source>Show initial joins</source>
         <translation>Mostra adesioni iniziali</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7549,7 +7569,7 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Affiliazioni</translation>
+        <translation type="vanished">Affiliazioni</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7565,7 +7585,7 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>General</source>
-        <translation>Generale</translation>
+        <translation type="vanished">Generale</translation>
     </message>
     <message>
         <source>message</source>
@@ -7585,7 +7605,19 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;VCard</translation>
+        <translation type="vanished">&amp;VCard</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8151,6 +8183,14 @@ Dettagli: %1</translation>
     <message>
         <source>Description:</source>
         <translation type="unfinished">Descrizione:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10192,7 +10232,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Del</source>
-        <translation>Elimina</translation>
+        <translation type="vanished">Elimina</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10808,7 +10848,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Controlla quanto a lungo il registro della chat sarà tenuto in memoria dopo che la finestra di chat viene chiusa.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Controlla quanto a lungo il registro della chat sarà tenuto in memoria dopo che la finestra di chat viene chiusa.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11255,7 +11295,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Imposta automaticamente lo stato &quot;Disconnesso&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
+        <translation type="vanished">Imposta automaticamente lo stato &quot;Disconnesso&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11264,6 +11304,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Specifica priorità dello stato auto-assente. Se vuoto, Psi userà le priorità predefinite dell&apos;account.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11306,7 +11350,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;Connesso&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
+        <translation type="vanished">Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;Connesso&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11319,6 +11363,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Hai già una preimpostazione con questo nome!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13679,7 +13727,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi è un client XMPP multipiattaforma rivolto a utenti esperti.</translation>
+        <translation type="vanished">Psi è un client XMPP multipiattaforma rivolto a utenti esperti.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17422,9 +17474,15 @@ ATTENZIONE!!! Prima di registrare un nuovo trasporto, è consigliato di aggiunge
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>Questo plugin è un implementazione di XEP-0049: Archiviazione Privata XML.
+        <translation type="vanished">Questo plugin è un implementazione di XEP-0049: Archiviazione Privata XML.
 Il plugin è completamente compatibile con le note salvate usando Miranda IM.
 Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità di accedervi da ovunque usando Psi+ o Miranda IM.</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18678,7 +18736,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>VCard</translation>
+        <translation type="vanished">VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18696,12 +18754,20 @@ Vuoi ancora chiudere la finestra?</translation>
         <source>Message Carbons</source>
         <translation>Carboni Messaggi</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Nessuna VCard disponibile</translation>
+        <translation type="vanished">Nessuna VCard disponibile</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

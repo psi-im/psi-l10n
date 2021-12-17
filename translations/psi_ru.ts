@@ -202,7 +202,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 01.02.2021</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 15.11.2021</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -278,7 +278,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
+        <translation type="vanished">Мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation>Кроссплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
 </context>
 <context>
@@ -623,6 +627,10 @@ When you enable this option you will not be able to find your password in config
         <source>Disable connections potentially exposing my IP address</source>
         <translation>Запретить соединения, потенциально раскрывающие мой IP-адрес</translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -813,6 +821,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Включает при возможности менеджер потока. Это полезно при нестабильном подключении к сети. Ваш сервер должен поддерживать данную опцию. Подробности см. в XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1319,7 +1331,14 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
+Причина: %2&lt;br&gt;&lt;br&gt;
+Возможно, данный сервис не поддерживает эту функцию. В этом случае вам придётся ввести XMPP адрес контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;
+&amp;nbsp;&amp;nbsp;1234567@[XMPP адрес службы ICQ]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;;joe%gmail.com@[XMPP адрес службы MSN]&lt;br&gt;
+&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -2219,11 +2238,11 @@ Do you still want to close the window?</source>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Цитировать</translation>
+        <translation type="vanished">Цитировать</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -5389,7 +5408,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Слова в конференции, которые вызывают оповещение.</translation>
+        <translation type="vanished">Слова в конференции, которые вызывают оповещение.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5429,7 +5448,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Цвета, которые используются для ников в конференции</translation>
+        <translation type="vanished">Цвета, которые используются для ников в конференции</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5441,7 +5460,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Добавить цвет в список</translation>
+        <translation type="vanished">Добавить цвет в список</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5486,6 +5505,14 @@ You lost the game.</source>
     <message>
         <source>Show initial joins</source>
         <translation>Показывать изначально вошедших</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6765,43 +6792,43 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">Максимальный размер изображения</translation>
+        <translation>Максимальный размер изображения</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished">Размер превью изображения (в пикселях)</translation>
+        <translation>Размер превью изображения (в пикселях)</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished">Разрешить превышение размера</translation>
+        <translation>Разрешить превышение размера</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Исключения</translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 КБ</translation>
+        <translation>512 КБ</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 МБ</translation>
+        <translation>1 МБ</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 МБ</translation>
+        <translation>2 МБ</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 МБ</translation>
+        <translation>5 МБ</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 МБ</translation>
+        <translation>10 МБ</translation>
     </message>
 </context>
 <context>
@@ -7549,7 +7576,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Участники</translation>
+        <translation type="vanished">Участники</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7565,7 +7592,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>Настройки</translation>
+        <translation type="vanished">Настройки</translation>
     </message>
     <message>
         <source>message</source>
@@ -7585,7 +7612,19 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;vCard</translation>
+        <translation type="vanished">&amp;vCard</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8151,6 +8190,14 @@ Details: %1</source>
     <message>
         <source>Description:</source>
         <translation>Описание:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10191,7 +10238,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Del</source>
-        <translation>Удалить</translation>
+        <translation type="vanished">Удалить</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10809,7 +10856,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Определяет, как долго история чата будет храниться в памяти после закрытия окна чата.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Определяет, как долго история чата будет храниться в памяти после закрытия окна чата.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11256,7 +11303,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Автоматически выходить из сети при бездействии в течение определённого периода времени.  Произойдёт отключение от сервера Jabber.</translation>
+        <translation type="vanished">Автоматически выходить из сети при бездействии в течение определённого периода времени.  Произойдёт отключение от сервера Jabber.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11265,6 +11312,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Укажите приоитет для автоматического статуса. Если Вы оставите поле пустым, будет использован приоритет аккаунта по умолчанию.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation>Автоматически выходить из сети при бездействии в течение определённого периода времени.  Полное отключение от XMPP сервера.</translation>
     </message>
 </context>
 <context>
@@ -11307,7 +11358,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>В Jabber можно использовать расширенные сообщения о состоянии для всех статусов.  Обычно Psi не предлагает вам использовать их, когда вы устанавливаете статус &quot;в сети&quot;.  Включите эту опцию, если хотите воспользоваться этой возможностью.</translation>
+        <translation type="vanished">В Jabber можно использовать расширенные сообщения о состоянии для всех статусов.  Обычно Psi не предлагает вам использовать их, когда вы устанавливаете статус &quot;в сети&quot;.  Включите эту опцию, если хотите воспользоваться этой возможностью.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11320,6 +11371,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Шаблон с таким названием уже существует!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation>В Jabber можно использовать расширенные сообщения о состоянии для всех статусов.  Обычно Psi не предлагает вам использовать их, когда вы устанавливаете статус &quot;в сети&quot;.  Включите эту опцию, если хотите воспользоваться этой возможностью.</translation>
     </message>
 </context>
 <context>
@@ -13683,7 +13738,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi — мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
+        <translation type="vanished">Psi — мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation>Psi — кроссплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
 </context>
 <context>
@@ -14318,19 +14377,19 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Доступен</translation>
+        <translation>Доступен</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Отключён</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать следующее сообщение</translation>
     </message>
 </context>
 <context>
@@ -17440,6 +17499,14 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="vanished">Данный плагин представляет собой реализацию XEP-0049: Private XML Storage.
+Плагин полностью совместим с заметками, сохранёнными из клиента Miranda IM.
+Предназначен для хранения заметок на jabber-сервере, с возможностью доступа к ним из любого места через клиент Psi+ или Miranda IM.</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation>Данный плагин представляет собой реализацию XEP-0049: Private XML Storage.
 Плагин полностью совместим с заметками, сохранёнными из клиента Miranda IM.
 Предназначен для хранения заметок на jabber-сервере, с возможностью доступа к ним из любого места через клиент Psi+ или Miranda IM.</translation>
@@ -18708,7 +18775,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>VCard</source>
-        <translation>vCard</translation>
+        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18726,12 +18793,20 @@ Do you still want to close the window?</source>
         <source>Message Carbons</source>
         <translation>Message Carbons</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>vCard недоступен</translation>
+        <translation type="vanished">vCard недоступен</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19206,7 +19281,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы получили сообщение, зашифрованное OMEMO, но ваш клиент не поддерживает OMEMO или его поддержка в настоящее время отключена.</translation>
     </message>
 </context>
 <context>

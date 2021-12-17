@@ -273,7 +273,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>關於PSI</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -619,6 +619,10 @@ When you enable this option you will not be able to find your password in config
         <source>Disable connections potentially exposing my IP address</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -808,6 +812,10 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2200,11 +2208,11 @@ Do you still want to close the window?</source>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -5346,7 +5354,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>在群組裡會產生提示的文字。</translation>
+        <translation type="vanished">在群組裡會產生提示的文字。</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5386,7 +5394,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>群組所使用的昵稱顏色標示</translation>
+        <translation type="vanished">群組所使用的昵稱顏色標示</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5398,7 +5406,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>添加這個顏色到清單</translation>
+        <translation type="vanished">添加這個顏色到清單</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5443,6 +5451,14 @@ You lost the game.</source>
     <message>
         <source>Show initial joins</source>
         <translation>顯示初始加入</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7455,7 +7471,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>附屬</translation>
+        <translation type="vanished">附屬</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7471,7 +7487,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation type="vanished">通用</translation>
     </message>
     <message>
         <source>message</source>
@@ -7490,7 +7506,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>關閉</translation>
     </message>
     <message>
-        <source>&amp;VCard</source>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8044,6 +8068,14 @@ Details: %1</source>
     <message>
         <source>Description:</source>
         <translation>描述:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10035,7 +10067,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Del</source>
-        <translation>刪除</translation>
+        <translation type="vanished">刪除</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10650,7 +10682,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;控制在對話視窗關閉之後對話歷史會留在記憶體裡多久。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;控制在對話視窗關閉之後對話歷史會留在記憶體裡多久。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11091,7 +11123,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>如果你的電腦閒置一段特定的時間之後, 讓 Psi 自動設置你的狀態為 &quot;離線&quot;。這會讓你從 Jabber 伺服器中斷連接。</translation>
+        <translation type="vanished">如果你的電腦閒置一段特定的時間之後, 讓 Psi 自動設置你的狀態為 &quot;離線&quot;。這會讓你從 Jabber 伺服器中斷連接。</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11100,6 +11132,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>指定自動離開狀態的優先度。如果空白, Psi 會使用帳號默認的優先度。</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11142,7 +11178,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber的讓你把所有狀態類型的擴展狀態訊息。通常情況下，PSI不提示消息，當您設置您的狀態為“線上”擴展你。如果你想有這樣的提示，選中此選項。</translation>
+        <translation type="vanished">Jabber的讓你把所有狀態類型的擴展狀態訊息。通常情況下，PSI不提示消息，當您設置您的狀態為“線上”擴展你。如果你想有這樣的提示，選中此選項。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11155,6 +11191,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>You already have a preset with that name!</source>
         <translation>你已經有一個叫做那個名稱的默認集了!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13483,7 +13523,7 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17184,9 +17224,15 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>這個外掛程式是xep-0049的一個工具:私人XML存儲。
+        <translation type="vanished">這個外掛程式是xep-0049的一個工具:私人XML存儲。
 該外掛程式完全相容用Miranda IM保存的筆記。
 該外掛程式的目的是對jabber伺服器進行記錄，以使得在任何地方均可使用 Psi+ or Miranda IM進入。</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18432,7 +18478,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>VCard</source>
-        <translation>虛擬名片</translation>
+        <translation type="vanished">虛擬名片</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18450,12 +18496,20 @@ Do you still want to close the window?</source>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">虛擬名片</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>沒有可用的虛擬名片</translation>
+        <translation type="vanished">沒有可用的虛擬名片</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

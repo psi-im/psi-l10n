@@ -274,7 +274,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Ứng dụng máy khách XMPP đa nền tảng hướng đến người dùng có kinh nghiệm.</translation>
+        <translation type="vanished">Ứng dụng máy khách XMPP đa nền tảng hướng đến người dùng có kinh nghiệm.</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -617,6 +621,10 @@ When you enable this option you will not be able to find your password in config
         <source>Disable connections potentially exposing my IP address</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -807,6 +815,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Bật giao thức Quản lý luồng nếu có thể. Hữu dụng khi kết nối không ổn định. Máy chủ của bạn phải được hỗ trợ tùy chọn này. Để tìm hiểu thêm, xem XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2200,11 +2212,11 @@ Bạn vẫn muốn đóng cửa sổ?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Trích dẫn</translation>
+        <translation type="vanished">Trích dẫn</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -5358,7 +5370,7 @@ Bạn đã thua!</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Những từ sẽ tạo ra thông báo trong nhóm trò chuyện.</translation>
+        <translation type="vanished">Những từ sẽ tạo ra thông báo trong nhóm trò chuyện.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5398,7 +5410,7 @@ Bạn đã thua!</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Màu sắc cho biệt danh trong nhóm trò chuyện</translation>
+        <translation type="vanished">Màu sắc cho biệt danh trong nhóm trò chuyện</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5410,7 +5422,7 @@ Bạn đã thua!</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Thêm màu vào danh sách</translation>
+        <translation type="vanished">Thêm màu vào danh sách</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5455,6 +5467,14 @@ Bạn đã thua!</translation>
     <message>
         <source>Show initial joins</source>
         <translation>Hiển thị tham gia ban đầu</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7419,7 +7439,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Nhập hội</translation>
+        <translation type="vanished">Nhập hội</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7435,7 +7455,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>Chung</translation>
+        <translation type="vanished">Chung</translation>
     </message>
     <message>
         <source>message</source>
@@ -7454,7 +7474,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Đóng</translation>
     </message>
     <message>
-        <source>&amp;VCard</source>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8005,6 +8033,14 @@ Details: %1</source>
     <message>
         <source>Description:</source>
         <translation>Mô tả:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9866,10 +9902,6 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Del</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation type="unfinished"></translation>
@@ -10478,7 +10510,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Điều khiển bao lâu bản ghi chát sẽ được giữ trong bộ nhớ sau khi đóng cửa sổ chát.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Điều khiển bao lâu bản ghi chát sẽ được giữ trong bộ nhớ sau khi đóng cửa sổ chát.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -10918,15 +10950,15 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10969,10 +11001,6 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -10983,6 +11011,10 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Bạn đã có một định sẵn tên đó !</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13257,7 +13289,7 @@ Lý do : %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16901,7 +16933,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18107,7 +18139,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>vCard</translation>
+        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18125,12 +18157,20 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Không có vCard sẵn sàng</translation>
+        <translation type="vanished">Không có vCard sẵn sàng</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
