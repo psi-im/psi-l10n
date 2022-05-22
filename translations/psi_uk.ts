@@ -634,7 +634,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте цей проксі-сервер для завантаження файлів по HTTP</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте той самий проксі-сервер для завантаження по HTTP, що й налаштований для з’єднання XMPP. В іншому випадку використовуйте проксі-сервер програми за замовчуванням.</translation>
     </message>
 </context>
 <context>
@@ -3772,10 +3772,21 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation>Очистити всі події</translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation>Читати наступну подію</translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Лічільник повідомлень&gt;</translation>
+        <translation type="vanished">&lt;Лічільник повідомлень&gt;</translation>
     </message>
 </context>
 <context>
@@ -5503,11 +5514,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати повідомлення про помилки, викликані деякими технічними проблемами, наприклад, втратою з’єднання клієнтом.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати технічні проблеми</translation>
     </message>
 </context>
 <context>
@@ -7611,15 +7622,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ролі</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль</translation>
     </message>
 </context>
 <context>
@@ -7981,6 +7992,14 @@ Incoming event(s) from:</source>
         <source>Show</source>
         <translation>Показати</translation>
     </message>
+    <message>
+        <source>Question</source>
+        <translation>Питання</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation>Ви впевнені, що хочете очистити всі події?</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8184,11 +8203,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль</translation>
     </message>
 </context>
 <context>
@@ -8376,6 +8395,17 @@ Tags: %1</source>
     <message>
         <source>Notes has been saved.</source>
         <translation>Нотатки збережено.</translation>
+    </message>
+</context>
+<context>
+    <name>NoughtsAndCrossesPlugin</name>
+    <message>
+        <source>Send command: noughtsandcrosses start</source>
+        <translation>Надішліть команду: noughtsandcrosses start</translation>
+    </message>
+    <message>
+        <source>Psi plugin to play noughts and crosses</source>
+        <translation>Плагін Psi для гри в хрестики-нулики</translation>
     </message>
 </context>
 <context>
@@ -13076,7 +13106,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Спеціальний елемент, який показує число протягом подій</translation>
+        <translation type="vanished">Спеціальний елемент, який показує число протягом подій</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13732,6 +13762,10 @@ Reason: %1.</source>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation>Psi - мульти-платформовий XMPP-клієнт для досвідчених користувачів.</translation>
     </message>
+    <message>
+        <source>Receive next pending event.</source>
+        <translation>Отримати наступну очікувану подію.</translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -14230,7 +14264,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Лічильник подій</translation>
+        <translation type="vanished">Лічильник подій</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16752,7 +16786,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Обробка подій</translation>
+        <translation type="vanished">Обробка подій</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -17786,6 +17820,49 @@ Please correct and try again.</source>
     <message>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
+    </message>
+</context>
+<context>
+    <name>TicTacToe</name>
+    <message>
+        <source>Opponent starts</source>
+        <translation>Суперник починає</translation>
+    </message>
+    <message>
+        <source>You start</source>
+        <translation>Ви починаєте</translation>
+    </message>
+    <message>
+        <source>Play!</source>
+        <translation>Грати!</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Вихід</translation>
+    </message>
+    <message>
+        <source>Click Play to start</source>
+        <translation>Натисніть Грати, щоб почати</translation>
+    </message>
+    <message>
+        <source>Make your move</source>
+        <translation>Зробіть свій хід</translation>
+    </message>
+    <message>
+        <source>Waiting for other player</source>
+        <translation>Чекаємо іншого гравця</translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation>Ви перемогли!</translation>
+    </message>
+    <message>
+        <source>Opponent won!</source>
+        <translation>Суперник переміг!</translation>
+    </message>
+    <message>
+        <source>It&apos;s a draw</source>
+        <translation>Нічия</translation>
     </message>
 </context>
 <context>

@@ -3767,10 +3767,21 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Ereignisbenachrichtigung&gt;</translation>
+        <translation type="vanished">&lt;Ereignisbenachrichtigung&gt;</translation>
     </message>
 </context>
 <context>
@@ -7959,6 +7970,14 @@ Eingehende(s) Event(s) von:</translation>
         <source>Show</source>
         <translation>Einblenden</translation>
     </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8358,6 +8377,17 @@ Tags: %1</translation>
     <message>
         <source>Notes has been saved.</source>
         <translation>Notizen wurden gespeichert.</translation>
+    </message>
+</context>
+<context>
+    <name>NoughtsAndCrossesPlugin</name>
+    <message>
+        <source>Send command: noughtsandcrosses start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi plugin to play noughts and crosses</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13048,7 +13078,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Element, das die Anzahl der wartenden Nachrichten anzeigt</translation>
+        <translation type="vanished">Element, das die Anzahl der wartenden Nachrichten anzeigt</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13700,6 +13730,10 @@ Grund: %1.</translation>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive next pending event.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -14198,7 +14232,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Ereignis-Benachrichtigung</translation>
+        <translation type="vanished">Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16717,7 +16751,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Ereignis-Benachrichtigung</translation>
+        <translation type="vanished">Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -17757,6 +17791,49 @@ Korrigieren Sie und versuchen Sie es erneut.</translation>
     <message>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
+    </message>
+</context>
+<context>
+    <name>TicTacToe</name>
+    <message>
+        <source>Opponent starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play!</source>
+        <translation type="unfinished">Spielen!</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished">Beenden</translation>
+    </message>
+    <message>
+        <source>Click Play to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make your move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for other player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opponent won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s a draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

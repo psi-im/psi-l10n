@@ -3741,10 +3741,21 @@ Nếu bạn muốn xác nhận yêu cầu này, vui lòng nhấn nút Xác nhậ
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Thông báo sự kiện&gt;</translation>
+        <translation type="vanished">&lt;Thông báo sự kiện&gt;</translation>
     </message>
 </context>
 <context>
@@ -7834,6 +7845,14 @@ Incoming event(s) from:</source>
         <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8226,6 +8245,17 @@ Tags: %1</source>
     </message>
     <message>
         <source>Notes has been saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NoughtsAndCrossesPlugin</name>
+    <message>
+        <source>Send command: noughtsandcrosses start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi plugin to play noughts and crosses</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12660,7 +12690,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Mục đặc biệt hiển thị số sự kiện bị hoãn</translation>
+        <translation type="vanished">Mục đặc biệt hiển thị số sự kiện bị hoãn</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13292,6 +13322,10 @@ Lý do : %1.</translation>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive next pending event.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -13788,7 +13822,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Bộ thông báo sự kiện</translation>
+        <translation type="vanished">Bộ thông báo sự kiện</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16247,10 +16281,6 @@ Lý do : %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Event Notifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Groups</source>
         <translation>Xem nhóm</translation>
     </message>
@@ -17230,6 +17260,49 @@ Hãy sửa chữa và thử lại.</translation>
     <message>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
+    </message>
+</context>
+<context>
+    <name>TicTacToe</name>
+    <message>
+        <source>Opponent starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play!</source>
+        <translation type="unfinished">Chơi đi !</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished">Thoát</translation>
+    </message>
+    <message>
+        <source>Click Play to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make your move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for other player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opponent won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s a draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
