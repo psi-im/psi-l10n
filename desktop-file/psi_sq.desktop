@@ -19,5 +19,7 @@ Actions=SelectProfile;
 
 
 # Translations
-Name[sk]=Psi
-Icon[sk]=psi
+Comment[sq]=Komunikoni përmes rrjetit XMPP
+GenericName[sq]=Klient XMPP
+Name[sq]=Psi
+Icon[sq]=psi
