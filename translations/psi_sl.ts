@@ -854,11 +854,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1981,11 +1981,11 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2028,6 +2028,10 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4118,11 +4122,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6566,11 +6570,11 @@ Ste prepičani, da jih želite zavreči?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zapri in zavrzi</translation>
+        <translation type="vanished">Zapri in zavrzi</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zapiraj</translation>
+        <translation type="vanished">Ne zapiraj</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6874,7 +6878,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7139,11 +7143,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7456,6 +7460,14 @@ Incoming event(s) from:</source>
         <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7707,6 +7719,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -7747,6 +7763,10 @@ Details: %1</source>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8016,7 +8036,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Prezri »naslovne« dogodke (npr. opozorila MSN)</translation>
+        <translation type="vanished">Prezri »naslovne« dogodke (npr. opozorila MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8037,6 +8057,10 @@ Razlog: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Sporočila (klepete, če klepetate)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8260,7 +8284,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Uporabi način z dvojnim klikom (kot ICQ)</translation>
+        <translation type="vanished">Uporabi način z dvojnim klikom (kot ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8309,6 +8333,10 @@ Razlog: %1.</translation>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9907,7 +9935,11 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi spregleda vsa prihajajoča »naslovna« sporočila kot so na primer najave in sistemska sporočila na MSN.</translation>
+        <translation type="vanished">Psi spregleda vsa prihajajoča »naslovna« sporočila kot so na primer najave in sistemska sporočila na MSN.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11566,11 +11598,11 @@ Uporabljajte samo črke in številke, brez presledkov ali ločil.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11595,7 +11627,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>&lt;i&gt;Ime profila&lt;/i&gt; naj bo čimbolj preprosto. Vsebuje naj le eno besedo sestavljeno samo iz črk in številk.&lt;br&gt;
+        <translation type="vanished">&lt;i&gt;Ime profila&lt;/i&gt; naj bo čimbolj preprosto. Vsebuje naj le eno besedo sestavljeno samo iz črk in številk.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Privzeto dejanje&lt;/i&gt; določa, kaj se zgodi, ko dvo-kliknete na stik na vašem seznamu. Izbiro lahko kasneje spremenite v nastavitvah.&lt;br&gt;
 &lt;br&gt;
@@ -11636,6 +11668,14 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Klepet</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12133,11 +12173,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Ročno izberi ključ</translation>
+        <translation type="vanished">&amp;Ročno izberi ključ</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Ne naredi ničesar</translation>
+        <translation type="vanished">&amp;Ne naredi ničesar</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12173,6 +12213,14 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Malformed request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12336,7 +12384,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Predvajaj zvoke</translation>
+        <translation type="vanished">Predvajaj zvoke</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -12344,7 +12392,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Preklopi med igranjem in ne igranjem zvokov</translation>
+        <translation type="vanished">Preklopi med igranjem in ne igranjem zvokov</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -12949,7 +12997,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>I understand</source>
-        <translation>Razumem</translation>
+        <translation type="vanished">Razumem</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13148,11 +13196,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -13225,6 +13273,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Odpri</translation>
     </message>
 </context>
 <context>
@@ -15197,11 +15252,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -15767,11 +15822,11 @@ Razlog: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Ločilo&gt;</translation>
+        <translation type="vanished">&lt;Ločilo&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Ločilo</translation>
+        <translation type="vanished">Ločilo</translation>
     </message>
 </context>
 <context>
@@ -16962,10 +17017,6 @@ Naslednji deluje le v skupinskih klepetih:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Ali ste vedeli, da lahko v pogovornem oknu Nastavi račun omogočite in onemogočite posamezne račune? To je lahko uporabno v primeru, da določenega računa ne uporabljate pogosto in nočete, da se njegovi stiki vidijo na seznamu stikov.</translation>
     </message>
@@ -17024,6 +17075,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17566,11 +17621,11 @@ Vsebina table bo izgubljena.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17994,11 +18049,11 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>

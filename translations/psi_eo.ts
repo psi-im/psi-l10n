@@ -842,11 +842,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1964,11 +1964,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2011,6 +2011,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4067,11 +4071,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6356,11 +6360,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Fermi kaj forĵeti</translation>
+        <translation type="vanished">Fermi kaj forĵeti</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne fermi</translation>
+        <translation type="vanished">Ne fermi</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6664,7 +6668,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6925,11 +6929,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Jes</translation>
+        <translation type="vanished">Jes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7234,6 +7238,14 @@ Incoming event(s) from:</source>
         <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7455,6 +7467,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -7495,6 +7511,10 @@ Details: %1</source>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7763,10 +7783,6 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7784,6 +7800,10 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8007,10 +8027,6 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8056,6 +8072,10 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>99999</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9647,7 +9667,11 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
+        <translation type="vanished">Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11270,11 +11294,11 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11292,14 +11316,6 @@ Proceed?</source>
     <message>
         <source>New Profile</source>
         <translation>Nova Profilon</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Profile Name:</source>
@@ -11336,6 +11352,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Babili</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11831,11 +11855,11 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Elekti ŝlosilon mane</translation>
+        <translation type="vanished">&amp;Elekti ŝlosilon mane</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Fari nenion</translation>
+        <translation type="vanished">&amp;Fari nenion</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -11871,6 +11895,14 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Malformed request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12033,16 +12065,12 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Ŝanĝas ĉu sonoj devas aŭdiĝi</translation>
+        <translation type="vanished">Ŝanĝas ĉu sonoj devas aŭdiĝi</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -12638,7 +12666,7 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Mi komprenas</translation>
+        <translation type="vanished">Mi komprenas</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -12829,11 +12857,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -12905,6 +12933,13 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14853,11 +14888,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -15381,11 +15416,11 @@ Kialo: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Disigilo&gt;</translation>
+        <translation type="vanished">&lt;Disigilo&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Disigilo</translation>
+        <translation type="vanished">Disigilo</translation>
     </message>
 </context>
 <context>
@@ -16535,10 +16570,6 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Ĉu vi sciis ke vi povas uzi elektujojn en la dialogujo pri agori kontojn, por aktivigi/malaktivigi kontojn? Tio eble utilas al vi, se vi uzas iun konton nur maloftege, kaj vi ne volas ke ĝi ĝenu en la kontaktlisto.</translation>
     </message>
@@ -16596,6 +16627,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17138,11 +17173,11 @@ La enhavo de la blanka tabulo estas forperdota.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17566,11 +17601,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Jes</translation>
+        <translation type="vanished">Jes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>

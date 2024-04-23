@@ -854,11 +854,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1981,11 +1981,11 @@ Vill du ändå stänga fönstret?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2028,6 +2028,10 @@ Vill du ändå stänga fönstret?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4127,11 +4131,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6594,11 +6598,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Stäng och kasta</translation>
+        <translation type="vanished">Stäng och kasta</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Stäng int</translation>
+        <translation type="vanished">Stäng int</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6902,7 +6906,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7167,11 +7171,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nej</translation>
+        <translation type="vanished">Nej</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7488,6 +7492,14 @@ Incoming event(s) from:</source>
         <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7739,6 +7751,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -7779,6 +7795,10 @@ Details: %1</source>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8048,7 +8068,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignorera &quot;notis&quot;-händelser (till exempel MSN-notifieringar)</translation>
+        <translation type="vanished">Ignorera &quot;notis&quot;-händelser (till exempel MSN-notifieringar)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8069,6 +8089,10 @@ Orsak: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Meddelanden (chattar om du chattar)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8292,7 +8316,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Använd dubbelklicksstil (som ICQ)</translation>
+        <translation type="vanished">Använd dubbelklicksstil (som ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8341,6 +8365,10 @@ Orsak: %1.</translation>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9939,7 +9967,11 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Går så att Psi ignorerar alla inkommande &quot;notiser&quot;, som MSNs systemmedelanden, etc.</translation>
+        <translation type="vanished">Går så att Psi ignorerar alla inkommande &quot;notiser&quot;, som MSNs systemmedelanden, etc.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11598,11 +11630,11 @@ Använd bara bokstäver och siffror, ingen interpunktering eller mellanslag.</tr
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11627,7 +11659,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Håll ditt &lt;i&gt;profilnamn&lt;/i&gt; enkelt. Det ska vara ett enda ord bestående bara av bokstäver eller siffror.&lt;br&gt;
+        <translation type="vanished">Håll ditt &lt;i&gt;profilnamn&lt;/i&gt; enkelt. Det ska vara ett enda ord bestående bara av bokstäver eller siffror.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Standardhandlingen&lt;/i&gt; är vad som händer när du dubbelklickar en kontakt i din lista. Möjligheterna är &lt;b&gt;meddelande&lt;/b&gt; (som ICQ) och &lt;b&gt;chatt&lt;/b&gt; (som AIM). Du kan ändra detta senare från menyn Inställningar.&lt;br&gt;
 &lt;br&gt;
@@ -11668,6 +11700,14 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Chatt</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12164,11 +12204,11 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Välj nyckel manuellt</translation>
+        <translation type="vanished">&amp;Välj nyckel manuellt</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Gör &amp;inget</translation>
+        <translation type="vanished">Gör &amp;inget</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12204,6 +12244,14 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Malformed request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12367,7 +12415,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Spela ljud</translation>
+        <translation type="vanished">Spela ljud</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -12375,7 +12423,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Slår på/av om ljud spelas</translation>
+        <translation type="vanished">Slår på/av om ljud spelas</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -12980,7 +13028,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Jag förstår</translation>
+        <translation type="vanished">Jag förstår</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13179,11 +13227,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -13256,6 +13304,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Öppna</translation>
     </message>
 </context>
 <context>
@@ -15220,11 +15275,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -15786,11 +15841,11 @@ Orsak: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Separator&gt;</translation>
+        <translation type="vanished">&lt;Separator&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Separator</translation>
+        <translation type="vanished">Separator</translation>
     </message>
 </context>
 <context>
@@ -16982,10 +17037,6 @@ Dessa  funkar bara i gruppchattdialogen:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Visste du att du kan använda kryssrutorna i Kontoinställningarna för att slå på/av konton? Det kan vara bra om du har ett konto du använder sällan, så att det inte gör din kontaktlista onödigt stor.</translation>
     </message>
@@ -17044,6 +17095,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17586,11 +17641,11 @@ Innehållet på skrivtavlan förloras.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18014,11 +18069,11 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nej</translation>
+        <translation type="vanished">Nej</translation>
     </message>
 </context>
 <context>

@@ -911,11 +911,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2140,11 +2140,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2188,6 +2188,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Записуйте та діліться звуковою нотою при натисканні</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation>Помилка аудіозапису</translation>
     </message>
 </context>
 <context>
@@ -4426,11 +4430,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7070,11 +7074,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Закрити та зтерти</translation>
+        <translation type="vanished">Закрити та зтерти</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Не закривати</translation>
+        <translation type="vanished">Не закривати</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7390,7 +7394,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Помилка Jingle завантаження</translation>
+        <translation type="vanished">Помилка Jingle завантаження</translation>
+    </message>
+    <message>
+        <source>Jingle download failed: %s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7669,11 +7677,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation type="vanished">Ні</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8000,6 +8008,14 @@ Incoming event(s) from:</source>
         <source>Are you sure you want to clear all events?</source>
         <translation>Ви впевнені, що хочете очистити всі події?</translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8264,6 +8280,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation>Відкрити папку призначення</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation>не визначено</translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8305,6 +8325,10 @@ Details: %1</source>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Передано: %1/%2 байт</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation>не визначено</translation>
     </message>
 </context>
 <context>
@@ -8585,7 +8609,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ігнорувати &quot;оголошення&quot; (наприклад, новини MSN)</translation>
+        <translation type="vanished">Ігнорувати &quot;оголошення&quot; (наприклад, новини MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8606,6 +8630,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Як повідомлення (як чати, якщо йде чат)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation>Ігнорувати події &quot;Заголовок&quot; (наприклад, оголошення)</translation>
     </message>
 </context>
 <context>
@@ -8837,7 +8865,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Керувати подвійним кліком</translation>
+        <translation type="vanished">Керувати подвійним кліком</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8886,6 +8914,10 @@ Reason: %1.</source>
     <message>
         <source>99999</source>
         <translation>99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10652,7 +10684,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Примушує Psi ігнорувати усі &quot;заголовочні&quot; події, такі як новини в MSN, оголошення та ін.</translation>
+        <translation type="vanished">Примушує Psi ігнорувати усі &quot;заголовочні&quot; події, такі як новини в MSN, оголошення та ін.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation>Змушує Psi ігнорувати всі вхідні події із заголовками, як-то оголошення тощо.</translation>
     </message>
 </context>
 <context>
@@ -12399,11 +12435,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12430,7 +12466,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Виберіть просту й зрозумілу &lt;i&gt;Назву профіля&lt;/i&gt;. Вона повинна бути словом, що складається з букв та цифр.&lt;br&gt;
+        <translation type="vanished">Виберіть просту й зрозумілу &lt;i&gt;Назву профіля&lt;/i&gt;. Вона повинна бути словом, що складається з букв та цифр.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Дія за замовчуванням&lt;/i&gt; - дія, що відбувається при подвійному клацанні по контакту з вашого списку. Можливі варіанти: &lt;b&gt;Повідомлення&lt;/b&gt; (як в ICQ) або &lt;b&gt;Чат&lt;/b&gt; (як в AIM). Цей режим можє бути змінений пізніше в меню налаштувань.&lt;br&gt;
 &lt;br&gt;
@@ -12471,6 +12507,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Розмова</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12967,11 +13011,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Обрати ключ вручну</translation>
+        <translation type="vanished">&amp;Обрати ключ вручну</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Нічого не &amp;робити</translation>
+        <translation type="vanished">Нічого не &amp;робити</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -13020,6 +13064,14 @@ Reason: %1.</source>
     <message>
         <source>Open Files For Sharing</source>
         <translation type="vanished">Відкрити файли для спільного доступу</translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation>Помилка брелока</translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation>Psi переключився на внутрішнє сховище паролів, оскільки системний менеджер паролів недоступний (%s).</translation>
     </message>
 </context>
 <context>
@@ -13182,7 +13234,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Програвати звуки</translation>
+        <translation type="vanished">Програвати звуки</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13190,7 +13242,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Визначає, чи будуть програватися звуки чи ні</translation>
+        <translation type="vanished">Визначає, чи будуть програватися звуки чи ні</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13554,11 +13606,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Керувати акаунтами</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Керувати акаунтами</translation>
     </message>
 </context>
 <context>
@@ -13819,7 +13871,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Я зрозумів</translation>
+        <translation type="vanished">Я зрозумів</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -14021,11 +14073,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -14098,6 +14150,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation>Додати закладку</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation>Відкрити</translation>
     </message>
 </context>
 <context>
@@ -16107,11 +16166,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -16704,11 +16763,11 @@ Reason: %1</source>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Separator&gt;</translation>
+        <translation type="vanished">&lt;Separator&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Розділювач</translation>
+        <translation type="vanished">Розділювач</translation>
     </message>
 </context>
 <context>
@@ -17973,7 +18032,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Ви спілкуєтесь з користувачами AIM та ICQ? Використовуйте транспорти, що надаються серверами XMPP. Потім ви можете вмовити ваших співрозмовників використовувати XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Ви спілкуєтесь з користувачами AIM та ICQ? Використовуйте транспорти, що надаються серверами XMPP. Потім ви можете вмовити ваших співрозмовників використовувати XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -18054,6 +18113,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>Це остання порада.
 &lt;br&gt;&lt;br&gt;Якщо ви хочете надати свою пораду, будь ласка, опублікуйте ії на &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форумах Psi&lt;/a&gt; (або надішліть поштою до одного з розробників), і ми неодмінно долучимо ії в наступному релізі.</translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18652,11 +18715,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ні</translation>
+        <translation type="vanished">&amp;Ні</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -19088,11 +19151,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation type="vanished">Ні</translation>
     </message>
 </context>
 <context>

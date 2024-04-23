@@ -904,11 +904,11 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2126,11 +2126,11 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2174,6 +2174,10 @@ Opravdu zavřít toto okno?</translation>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Nahrávat a sdílet zvukovou poznámku pokud stisknuto</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4411,11 +4415,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7014,11 +7018,11 @@ Jsi si jistý, že je chceš zahodit?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zavřít a zahodit změny</translation>
+        <translation type="vanished">Zavřít a zahodit změny</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Nezavírat</translation>
+        <translation type="vanished">Nezavírat</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7334,7 +7338,11 @@ abyste si zahráli. Chce hrát %2.</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Stahovaní Jingle selhalo</translation>
+        <translation type="vanished">Stahovaní Jingle selhalo</translation>
+    </message>
+    <message>
+        <source>Jingle download failed: %s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7607,11 +7615,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7938,6 +7946,14 @@ Příchozí událost(i) od:</translation>
         <source>Are you sure you want to clear all events?</source>
         <translation>Jsi si jistý, že chceš vymazat všechny události?</translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8202,6 +8218,10 @@ Detaily: %1</translation>
         <source>Open Destination Folder</source>
         <translation>Otevřít cílovou složku</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8243,6 +8263,10 @@ Detaily: %1</translation>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Přeneseno: %1/%2 bytů</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8523,7 +8547,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignorovat události typu &quot;Headline&quot; (např. MSN upozornění)</translation>
+        <translation type="vanished">Ignorovat události typu &quot;Headline&quot; (např. MSN upozornění)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8544,6 +8568,10 @@ Důvod: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Jako zprávy (ale: jako chaty při otevřeném okně chatu)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8775,7 +8803,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Aktivovat dvojklikem (jako ICQ)</translation>
+        <translation type="vanished">Aktivovat dvojklikem (jako ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8824,6 +8852,10 @@ Důvod: %1.</translation>
     <message>
         <source>99999</source>
         <translation>99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10594,7 +10626,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Způsobí, že Psi bude ignorovat všechny příchozí události typu &quot;oznámení (headline)&quot;, jako systémové novinky na MSN, sdělení, atd.</translation>
+        <translation type="vanished">Způsobí, že Psi bude ignorovat všechny příchozí události typu &quot;oznámení (headline)&quot;, jako systémové novinky na MSN, sdělení, atd.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12340,11 +12376,11 @@ Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</t
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12371,7 +12407,7 @@ Pokračovat?</translation>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Udržuj &lt;i&gt; Název profilu&lt;/i&gt; jednoduchý. Mělo by to být jednoduché slovo, složené pouze z písmen nebo číslic.&lt;br&gt;
+        <translation type="vanished">Udržuj &lt;i&gt; Název profilu&lt;/i&gt; jednoduchý. Mělo by to být jednoduché slovo, složené pouze z písmen nebo číslic.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt; Výchozí akce&lt;/i&gt; určuje, co se stane při dvojkliku na kontakt v seznamu. Možné volby jsou&lt;b&gt; Zpráva&lt;/b&gt; (ICQ styl) a&lt;b&gt; Rozhovor&lt;/b&gt; (AIM styl). Dá se změnit i později v nabídce Volby.&lt;br&gt;
 &lt;br&gt;
@@ -12412,6 +12448,14 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Chat</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12908,11 +12952,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Vyber klíč ručně</translation>
+        <translation type="vanished">&amp;Vyber klíč ručně</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Nedělej &amp;nic</translation>
+        <translation type="vanished">Nedělej &amp;nic</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12961,6 +13005,14 @@ Důvod: %1.</translation>
     <message>
         <source>Open Files For Sharing</source>
         <translation type="vanished">Otevřít soubory pro sdílení</translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13123,7 +13175,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Přehrávat Zvuky</translation>
+        <translation type="vanished">Přehrávat Zvuky</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13131,7 +13183,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Přepíná, zda má být zvuk přehrán</translation>
+        <translation type="vanished">Přepíná, zda má být zvuk přehrán</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13760,7 +13812,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Rozumím</translation>
+        <translation type="vanished">Rozumím</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13962,11 +14014,11 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -14039,6 +14091,13 @@ Migrace je možná s Psi-0.15</translation>
     <message>
         <source>Add To Bookmarks</source>
         <translation>Přidat do záložek</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Otevřít</translation>
     </message>
 </context>
 <context>
@@ -16048,11 +16107,11 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -16642,11 +16701,11 @@ Zdůvodnění: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Oddělovač&gt;</translation>
+        <translation type="vanished">&lt;Oddělovač&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Oddělovač</translation>
+        <translation type="vanished">Oddělovač</translation>
     </message>
 </context>
 <context>
@@ -17880,10 +17939,6 @@ Následující funguje pouze v okně groupchatu:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
     </message>
@@ -17942,6 +17997,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18525,11 +18584,11 @@ Obsah tabule bude ztracen.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18961,11 +19020,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>

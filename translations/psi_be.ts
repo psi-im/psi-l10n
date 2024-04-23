@@ -892,11 +892,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2112,11 +2112,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2159,6 +2159,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4388,11 +4392,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6978,11 +6982,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Зачыніць і адкінуць</translation>
+        <translation type="vanished">Зачыніць і адкінуць</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Не зачыняць</translation>
+        <translation type="vanished">Не зачыняць</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7294,7 +7298,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7564,11 +7568,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Не</translation>
+        <translation type="vanished">Не</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7887,6 +7891,14 @@ Incoming event(s) from:</source>
         <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8151,6 +8163,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8191,6 +8207,10 @@ Details: %1</source>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8472,7 +8492,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Не зважаць на «абвесткі» (пр., навіны MSN)</translation>
+        <translation type="vanished">Не зважаць на «абвесткі» (пр., навіны MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8493,6 +8513,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>паведамленьняў (ці гутаркі, калі гутарым)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8720,7 +8744,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Пстрыкаць трэба двойчы (як у ICQ)</translation>
+        <translation type="vanished">Пстрыкаць трэба двойчы (як у ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8769,6 +8793,10 @@ Reason: %1.</source>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10508,7 +10536,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>«Псі» ня будзе зважаць на ўсе падзеі кшталту «абвестак»: навіны MSN, рэкляма ды іншае.</translation>
+        <translation type="vanished">«Псі» ня будзе зважаць на ўсе падзеі кшталту «абвестак»: навіны MSN, рэкляма ды іншае.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12240,11 +12272,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12269,7 +12301,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Давайце профілю простую &lt;i&gt;назву&lt;/i&gt;. Назва — гэта адно слова зь літараў ці лічбаў.&lt;br&gt;
+        <translation type="vanished">Давайце профілю простую &lt;i&gt;назву&lt;/i&gt;. Назва — гэта адно слова зь літараў ці лічбаў.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Звычайнае дзеяньне&lt;/i&gt; — гэта тое, што адбываецца, калі двойчы пстрыкнуць па сьпісе суразмоўцаў. Можна абраць «&lt;b&gt;Паведамленьне&lt;/b&gt;» (як у ICQ) ці «&lt;b&gt;Гутарка&lt;/b&gt;» (як у AIM). Потым гэта можна зьмяніць у «Можнасьцях».&lt;br&gt;
 &lt;br&gt;
@@ -12310,6 +12342,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Гутарыць</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12806,11 +12846,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Абраць ключ самастойна</translation>
+        <translation type="vanished">&amp;Абраць ключ самастойна</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Нічога не рабіць</translation>
+        <translation type="vanished">&amp;Нічога не рабіць</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12846,6 +12886,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Malformed request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13009,7 +13057,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Гучэць</translation>
+        <translation type="vanished">Гучэць</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13017,7 +13065,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Вызначае, ці трэба граць гукі</translation>
+        <translation type="vanished">Вызначае, ці трэба граць гукі</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13638,7 +13686,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Я разумею</translation>
+        <translation type="vanished">Я разумею</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13837,11 +13885,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -13914,6 +13962,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Адчыніць</translation>
     </message>
 </context>
 <context>
@@ -15918,11 +15973,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -16511,11 +16566,11 @@ Reason: %1</source>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Аддзяляльнік&gt;</translation>
+        <translation type="vanished">&lt;Аддзяляльнік&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Аддзяляльнік</translation>
+        <translation type="vanished">Аддзяляльнік</translation>
     </message>
 </context>
 <context>
@@ -17758,7 +17813,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Ці гутарыце вы зь людзьмі, што ня з джабэру (кшталту AIM ці ICQ)?  Калі так, дык паспрабуйце абраць можнасьць «Значкі адпавядаюць транспарту суразмоўцы».  Гэта дазволіць адразу, кінуўшы хуткі позірк на сьпіс, убачыць, зь якое сеткі чалавек…  і пераканаць суразмоўцу перайсьці на XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Ці гутарыце вы зь людзьмі, што ня з джабэру (кшталту AIM ці ICQ)?  Калі так, дык паспрабуйце абраць можнасьць «Значкі адпавядаюць транспарту суразмоўцы».  Гэта дазволіць адразу, кінуўшы хуткі позірк на сьпіс, убачыць, зь якое сеткі чалавек…  і пераканаць суразмоўцу перайсьці на XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -17821,6 +17876,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18417,11 +18476,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18853,11 +18912,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Не</translation>
+        <translation type="vanished">Не</translation>
     </message>
 </context>
 <context>

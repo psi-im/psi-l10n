@@ -898,11 +898,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2119,11 +2119,11 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -2166,6 +2166,10 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4405,11 +4409,11 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7015,11 +7019,11 @@ Biztosan el akarod vetni őket?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Bezárás és elvetés</translation>
+        <translation type="vanished">Bezárás és elvetés</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zárja be</translation>
+        <translation type="vanished">Ne zárja be</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7334,7 +7338,7 @@ torpedóra. Ezt szeretné: %2.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7608,11 +7612,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Igen</translation>
+        <translation type="vanished">Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nem</translation>
+        <translation type="vanished">Nem</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7931,6 +7935,14 @@ Bejövő esemény(ek) innen:</translation>
         <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8195,6 +8207,10 @@ Részletek: %1</translation>
         <source>Open Destination Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8235,6 +8251,10 @@ Részletek: %1</translation>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8516,7 +8536,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;Főcím&quot; események mellőzése (pl. MSN-jelzések)</translation>
+        <translation type="vanished">&quot;Főcím&quot; események mellőzése (pl. MSN-jelzések)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8537,6 +8557,10 @@ Oka: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Üzenetekként (Beszélgetésként beszélgetés esetén)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8764,7 +8788,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>&quot;Dupla kattintásos&quot; mód (ICQ-féle)</translation>
+        <translation type="vanished">&quot;Dupla kattintásos&quot; mód (ICQ-féle)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8813,6 +8837,10 @@ Oka: %1.</translation>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10556,7 +10584,11 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot;-eseményeket, mint például a rendszert érintő híreket MSN-en, hirdetéseket, stb.</translation>
+        <translation type="vanished">Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot;-eseményeket, mint például a rendszert érintő híreket MSN-en, hirdetéseket, stb.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12298,11 +12330,11 @@ számok, pontok vagy szóközök nélkül.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12329,7 +12361,7 @@ Folytatás?</translation>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Legyen a &lt;i&gt;Profilnév&lt;/i&gt; egyszerű. Egy sima szó általában, legfeljebb egy-két számmal.&lt;br&gt;
+        <translation type="vanished">Legyen a &lt;i&gt;Profilnév&lt;/i&gt; egyszerű. Egy sima szó általában, legfeljebb egy-két számmal.&lt;br&gt;
 &lt;br&gt;
 Az &lt;i&gt;Alap művelet&lt;/i&gt; történik, ha duplán kattintasz valakire a címlistában. A választások &lt;b&gt;Üzenet&lt;/b&gt; (ICQ stílus) vagy &lt;b&gt;Beszélgetés&lt;/b&gt; (AIM stílus). Ezt később megváltoztathatod a Beállításoknál.&lt;br&gt;
 &lt;br&gt;
@@ -12370,6 +12402,14 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Beszélgetés</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12866,11 +12906,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Kulcs &amp;kiválasztása kézileg</translation>
+        <translation type="vanished">Kulcs &amp;kiválasztása kézileg</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Ne csináljon &amp;semmit</translation>
+        <translation type="vanished">Ne csináljon &amp;semmit</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12914,6 +12954,14 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Malformed request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13077,7 +13125,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Hangok lejátszása</translation>
+        <translation type="vanished">Hangok lejátszása</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13085,7 +13133,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Hangok be/kikapcsolása</translation>
+        <translation type="vanished">Hangok be/kikapcsolása</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13702,7 +13750,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Megértettem</translation>
+        <translation type="vanished">Megértettem</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13901,11 +13949,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -13977,6 +14025,13 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15979,11 +16034,11 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -16565,11 +16620,11 @@ Oka: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Elválasztó&gt;</translation>
+        <translation type="vanished">&lt;Elválasztó&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Elválasztó</translation>
+        <translation type="vanished">Elválasztó</translation>
     </message>
 </context>
 <context>
@@ -17795,10 +17850,6 @@ And these work only in groupchat dialog:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
@@ -17857,6 +17908,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18440,11 +18495,11 @@ A rajztábla tartalma el fog veszni.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18876,11 +18931,11 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Igen</translation>
+        <translation type="vanished">Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nem</translation>
+        <translation type="vanished">Nem</translation>
     </message>
 </context>
 <context>
