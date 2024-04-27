@@ -5,7 +5,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>emër_gjuhe</translation>
+        <translation type="unfinished">emër_gjuhe</translation>
     </message>
 </context>
 <context>
@@ -13698,7 +13698,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Hape</translation>
+        <translation>Hape</translation>
     </message>
 </context>
 <context>
@@ -18467,6 +18467,14 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Dhunim rregullash</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
