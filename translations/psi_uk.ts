@@ -7398,7 +7398,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка Jingle завантаження: %s</translation>
     </message>
 </context>
 <context>
@@ -8010,11 +8010,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Disable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути звуки</translation>
     </message>
     <message>
         <source>Enable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути звуки</translation>
     </message>
 </context>
 <context>
@@ -8917,7 +8917,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати стиль &quot;подвійний клік&quot;</translation>
     </message>
 </context>
 <context>
@@ -12514,7 +12514,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нехай&lt;i&gt; ім&apos;я вашого профілю &lt;/i&gt; буде простим. Це має бути одне слово, яке складається лише з букв або цифр.&lt;br&gt;
+&lt;br&gt;
+&lt;i&gt; Дія за замовчуванням&lt;/i&gt; це те, що відбувається, коли ви двічі клацаєте контакт у своєму списку. Доступні варіанти&lt;b&gt; Повідомлення&lt;/b&gt; та&lt;b&gt; Чат &lt;/b&gt;. Ви можете змінити це пізніше в меню «Параметри».&lt;br&gt;
+&lt;br&gt;
+Оберіть &lt;i&gt;Увімкнути смайли&lt;/i&gt; якщо ви бажаєте, щоб текст, як-от &lt;b&gt;:-)&lt;/b&gt; перетворювався на графіку, як-от &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
     </message>
 </context>
 <context>
@@ -14466,19 +14470,19 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Налаштування</translation>
+        <translation type="vanished">Налаштування</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Доступний</translation>
+        <translation type="vanished">Доступний</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Поза мережею</translation>
+        <translation type="vanished">Поза мережею</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation>Показати наступну подію</translation>
+        <translation type="vanished">Показати наступну подію</translation>
     </message>
 </context>
 <context>
@@ -18116,7 +18120,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Чи спілкуєтеся ви в сторонніх мережах миттєвих повідомлень, таких як Telegram і WhatsApp? Спробуйте ввімкнути опцію «іконки для транспорту». Це дозволить вам швидко побачити, яку мережу використовує ваш приятель. Тоді ви зможете переконати його перейти на XMPP.&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
 </context>
 <context>
@@ -19110,11 +19114,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Порушення політики</translation>
+        <translation>Порушення політики</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відправник порушив деякі правила обслуговування.</translation>
     </message>
 </context>
 <context>
