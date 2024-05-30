@@ -1753,7 +1753,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім’я:</translation>
     </message>
 </context>
 <context>
@@ -3559,6 +3559,45 @@ Proceed?</source>
     <message>
         <source>Use proxy server</source>
         <translation>Використати проксі-сервер</translation>
+    </message>
+</context>
+<context>
+    <name>EmojiRegistry</name>
+    <message>
+        <source>Smileys &amp; Emotion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>People &amp; Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animals &amp; Nature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Food &amp; Drink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Travel &amp; Places</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Зайняття</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8802,6 +8841,22 @@ Reason: %1.</source>
         <source>Tooltip background:</source>
         <translation>Фон підказки:</translation>
     </message>
+    <message>
+        <source>Group chat participants:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat moderators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat visitors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat contacts without role:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -13836,7 +13891,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте програмний рендеринг віджетів. У деяких випадках апаратний рендеринг за замовчуванням може призводити до графічних збоїв та аварійних завершень. Ця опція може допомогти.</translation>
     </message>
 </context>
 <context>
@@ -20097,7 +20152,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation>У порівнянні з OpenPGP і OMEMO, протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, vkontakte та інших мережах).</translation>
+        <translation type="vanished">У порівнянні з OpenPGP і OMEMO, протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, vkontakte та інших мережах).</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

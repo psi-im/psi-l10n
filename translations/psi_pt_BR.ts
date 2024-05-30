@@ -3548,6 +3548,45 @@ Proceder?</translation>
     </message>
 </context>
 <context>
+    <name>EmojiRegistry</name>
+    <message>
+        <source>Smileys &amp; Emotion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>People &amp; Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animals &amp; Nature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Food &amp; Drink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Travel &amp; Places</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Atividades</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
@@ -8740,6 +8779,22 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Tooltip background:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat participants:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat moderators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat visitors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat contacts without role:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19933,7 +19988,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation>Em comparação com o OpenPGP e o OMEMO, o protocolo OTR não depende de estruturas específicas do XMPP, o que permite utilizá-lo para proteger conversas através de transportes XMPP (para ICQ, Skype, Telegram, QQ, vkontakte e outras redes).</translation>
+        <translation type="vanished">Em comparação com o OpenPGP e o OMEMO, o protocolo OTR não depende de estruturas específicas do XMPP, o que permite utilizá-lo para proteger conversas através de transportes XMPP (para ICQ, Skype, Telegram, QQ, vkontakte e outras redes).</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
