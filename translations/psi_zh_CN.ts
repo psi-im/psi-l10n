@@ -646,7 +646,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>传统 SSL</translation>
+        <translation type="vanished">传统 SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -758,15 +758,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>传统 SSL 仅在手动指定主机/端口时可用。</translation>
+        <translation type="vanished">传统 SSL 仅在手动指定主机/端口时可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSL 错误</translation>
+        <translation type="vanished">SSL 错误</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>无法启用 SSL/TLS。插件未找到。</translation>
+        <translation type="vanished">无法启用 SSL/TLS。插件未找到。</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -823,6 +823,22 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation>为 HTTP 上传使用与为 XMPP 连接配置的代理相同的代理。否则，使用应用程序默认代理。</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -892,7 +908,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>传统 SSL</translation>
+        <translation type="vanished">传统 SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -916,7 +932,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>传统 SSL 仅在手动指定主机/端口时可用。</translation>
+        <translation type="vanished">传统 SSL 仅在手动指定主机/端口时可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -959,6 +975,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>注册账号时出错。
 原因：%1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3549,39 +3573,39 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>微笑与情感</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
-        <translation type="unfinished"></translation>
+        <translation>人和身体</translation>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>动物与自然</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation type="unfinished"></translation>
+        <translation>食物与饮料</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
-        <translation type="unfinished"></translation>
+        <translation>旅行和地点</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">活动</translation>
+        <translation>活动</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>物体</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>旗帜</translation>
     </message>
 </context>
 <context>
@@ -12792,11 +12816,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>功能已移除</translation>
+        <translation type="vanished">功能已移除</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>此账号被配置为使用“探测传统 SSL 端口”功能，但不再支持此功能。除非您的 XMPP 服务器非常过时，否则此更改不应影响您。如果您在连接时遇到问题，请检查您的账号设置是否正确，或者与 XMPP 服务器管理员联系。</translation>
+        <translation type="vanished">此账号被配置为使用“探测传统 SSL 端口”功能，但不再支持此功能。除非您的 XMPP 服务器非常过时，否则此更改不应影响您。如果您在连接时遇到问题，请检查您的账号设置是否正确，或者与 XMPP 服务器管理员联系。</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -13720,7 +13744,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>分配 OpenPGP 密钥(&amp;A)</translation>
+        <translation>分配 OpenPGP 密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
@@ -13862,6 +13886,10 @@ Reason: %1.</source>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
         <translation>使用软件小部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
+    </message>
+    <message>
+        <source>Quit the application</source>
+        <translation>退出应用程序</translation>
     </message>
 </context>
 <context>

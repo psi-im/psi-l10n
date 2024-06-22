@@ -596,7 +596,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Gammal SSL</translation>
+        <translation type="vanished">Gammal SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -708,15 +708,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
+        <translation type="vanished">Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSL-fel</translation>
+        <translation type="vanished">SSL-fel</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Kunde inte använda SSL/TLS. Insticksprogram ej funnet.</translation>
+        <translation type="vanished">Kunde inte använda SSL/TLS. Insticksprogram ej funnet.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -772,6 +772,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -842,7 +858,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Gammal SSL</translation>
+        <translation type="vanished">Gammal SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -866,7 +882,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
+        <translation type="vanished">Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -909,6 +925,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Det uppstod ett fel vid kontoregistrering.
 Orsak: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12006,14 +12030,6 @@ Vill du koppla ner?</translation>
         <translation>Kan inte ansluta: Kryptering är påslaget men QCA2-insticksprogram för SSL/TLS kan inte hittas.</translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation>Serverautentisering</translation>
     </message>
@@ -13040,6 +13056,10 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit the application</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -579,10 +579,6 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -691,16 +687,12 @@ When you enable this option you will not be able to find your password in config
         <translation>Erro</translation>
     </message>
     <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>SSL error</source>
-        <translation>Erro de SSL</translation>
+        <translation type="vanished">Erro de SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Impossível activar o SSL/TLS. O plugin não foi encontrado.</translation>
+        <translation type="vanished">Impossível activar o SSL/TLS. O plugin não foi encontrado.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -756,6 +748,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -825,10 +833,6 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Alerta</translation>
     </message>
@@ -847,10 +851,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Error</source>
         <translation>Erro</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -893,6 +893,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Ocorreu um erro ao registar a conta.
 Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11609,14 +11617,6 @@ Deseja sair?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation>Autenticação do Servidor</translation>
     </message>
@@ -12624,6 +12624,10 @@ Details: %1</source>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit the application</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
