@@ -826,19 +826,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS 错误</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启用 TLS，找不到插件。</translation>
     </message>
 </context>
 <context>
@@ -978,11 +978,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
     </message>
 </context>
 <context>
@@ -1590,7 +1590,7 @@ The list of exceptions for jids has two operating modes:
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
         <translation>此插件可以充当自动应答机。它有简单的配置选项，您可以使用：
 * 设置文本消息自动应答
-* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID ，排除将包括所有的私信）
+* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID，排除将包括所有的私信）
 * 禁用自动应答的一些账号
 * 设置发送自动消息数
 * 设置时间间隔之后，一些自动应答计数器将重置
@@ -1937,7 +1937,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">此插件的目的是从 Psi+ 直接传递验证码</translation>
+        <translation type="vanished">此插件旨在直接从 Psi+ 传递验证码。</translation>
     </message>
 </context>
 <context>
@@ -2428,7 +2428,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -3083,7 +3083,7 @@ Proceed?</source>
     </message>
     <message>
         <source>File %1 is not xml file</source>
-        <translation>文件 %1 不是 xml 文件</translation>
+        <translation>文件 %1 不是 XML 文件</translation>
     </message>
     <message>
         <source>Nothing to do..</source>
@@ -3163,7 +3163,7 @@ Proceed?</source>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation>此插件的设计目的是为了方便下载和安装 Psi 的图标集和其他资源。</translation>
+        <translation>此插件旨在方便下载和安装 Psi 的图标集和其他资源。</translation>
     </message>
 </context>
 <context>
@@ -3573,7 +3573,7 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation>微笑与情感</translation>
+        <translation>微笑和情感</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
@@ -3581,11 +3581,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation>动物与自然</translation>
+        <translation>动物和自然</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation>食物与饮料</translation>
+        <translation>食物和饮料</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
@@ -4233,7 +4233,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation>邮件颜色：</translation>
+        <translation>Mailto 颜色：</translation>
     </message>
     <message>
         <source>Moderators color:</source>
@@ -4372,7 +4372,7 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation>此插件的设计允许在 Psi 中轻松配置一些高级选项。
+        <translation>此插件旨在允许轻松配置 Psi 中的一些高级选项。
 此插件允许您访问高级应用程序选项，这些选项没有图形用户界面。
 
 重要的是：很大一部分选项是重要的系统设置。更改选项时，需要特别注意并正确理解结果。</translation>
@@ -4731,7 +4731,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
-        <translation>清除已完成(&amp;F)</translation>
+        <translation>清除完成的(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
@@ -6319,7 +6319,7 @@ Continue?</source>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation>此插件用于在 Psi 关闭时移除所选联系人的历史记录。
+        <translation>此插件旨在在关闭 Psi 时删除所选联系人的历史记录。
 您可以从联系人的右键菜单或通过插件选项选择或取消选择要删除历史记录的联系人。</translation>
     </message>
 </context>
@@ -7641,7 +7641,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8125,7 +8125,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation>可以根据各种过滤器丢弃传入的节，例如源/目标地址或特定消息内容</translation>
+        <translation>可以根据各种筛选器丢弃传入的节，例如源/目标地址或特定消息内容</translation>
     </message>
 </context>
 <context>
@@ -8906,6 +8906,10 @@ Reason: %1.</source>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;更多主题&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10186,7 +10190,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">使用密钥过滤消息</translation>
+        <translation type="vanished">使用密钥筛选消息</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11496,7 +11500,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation>音乐无视频过滤器和控制器切换器</translation>
+        <translation>音乐无-视频滤镜和控制器切换器</translation>
     </message>
 </context>
 <context>
@@ -11790,7 +11794,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>PGPKey</name>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
 </context>
 <context>
@@ -13748,7 +13752,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>取消分配 OpenPGP 密钥(&amp;U)</translation>
+        <translation>取消分配 OpenPGP 密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -13904,7 +13908,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>无法加载主题！请确保 Psi 已正确安装。</translation>
+        <translation type="vanished">无法加载主题！请确保 Psi 已正确安装。</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13986,6 +13990,18 @@ Migration is possible with Psi-0.15</source>
 
 使用 Psi-0.15 可以迁移</translation>
     </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation>无法加载“%1”主题！请确保 Psi 已正确安装。</translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation>转发…</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>转发</translation>
+    </message>
 </context>
 <context>
     <name>PsiContact</name>
@@ -14062,7 +14078,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">取消分配 OpenPGP 密钥(&amp;U)</translation>
+        <translation type="vanished">取消分配 OpenPGP 密钥(&amp;P)</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -14475,11 +14491,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
-        <translation>选项过滤器</translation>
+        <translation>选项筛选器</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation>筛选器</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -14828,7 +14844,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>不活动</translation>
+        <translation>不活跃</translation>
     </message>
     <message>
         <source>Day Off</source>
@@ -16008,11 +16024,11 @@ URL：%4
     </message>
     <message>
         <source>Role: %1</source>
-        <translation>角色：%1</translation>
+        <translation>角色: %1</translation>
     </message>
     <message>
         <source>Affiliation: %1</source>
-        <translation>从属关系：%1</translation>
+        <translation>从属关系: %1</translation>
     </message>
     <message>
         <source>Last Status</source>
@@ -17635,17 +17651,17 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">本插件是 XEP-0049：私人 XML 存储的实现。
-插件与使用 Miranda IM 保存的笔记完全兼容。
-插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+        <translation type="vanished">此插件是 XEP-0049：专用 XML 存储的实现。
+本插件与使用 Miranda IM 保存的笔记完全兼容。
+本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>本插件是 XEP-0049：私人 XML 存储的实现。
-插件与使用 Miranda IM 保存的笔记完全兼容。
-插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+        <translation>此插件是 XEP-0049：专用 XML 存储的实现。
+本插件与使用 Miranda IM 保存的笔记完全兼容。
+本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
 </context>
 <context>
@@ -17713,6 +17729,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1（不活动）</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation>退出 %1 应用程序</translation>
     </message>
 </context>
 <context>
@@ -18872,7 +18895,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation>筛选器</translation>
     </message>
     <message>
         <source>Message</source>

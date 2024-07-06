@@ -833,19 +833,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаними вручну.</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка TLS</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдається ввімкнути TLS. Плагін не знайдено.</translation>
     </message>
 </context>
 <context>
@@ -985,11 +985,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаними вручну.</translation>
     </message>
 </context>
 <context>
@@ -8927,6 +8927,10 @@ Reason: %1.</source>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Ще теми&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -13919,7 +13923,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити програму</translation>
     </message>
 </context>
 <context>
@@ -13934,7 +13938,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Неможливо завантажити тему!. Будь ласка, перевірте, чи правильно встановлена Psi+.</translation>
+        <translation type="vanished">Неможливо завантажити тему!. Будь ласка, перевірте, чи правильно встановлена Psi+.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -14015,6 +14019,18 @@ Migration is possible with Psi-0.15</source>
 %1
 
 Міграція можлива з Psi-0.15</translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation>Неможливо завантажити тему &quot;%1&quot;! Будь ласка переконайтеся, що Psi встановлена коректно.</translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation>Переслати...</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Вперед</translation>
     </message>
 </context>
 <context>
@@ -17754,6 +17770,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (Неактивний)</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation>Закрити програму %1</translation>
     </message>
 </context>
 <context>

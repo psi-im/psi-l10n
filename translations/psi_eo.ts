@@ -8082,6 +8082,10 @@ Kialo: %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -12708,10 +12712,6 @@ Kialo: %1.</translation>
         <translation>Malkapable enŝargi piktogramon.  Bonvolu certiĝi ke Psio estas ĝuste instalita.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Bonvolu malkonektiĝi antaŭ ŝanĝi la profilon.</translation>
     </message>
@@ -12787,6 +12787,18 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
 
 Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Antaŭen</translation>
     </message>
 </context>
 <context>
@@ -16311,6 +16323,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (Neaktiva)</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

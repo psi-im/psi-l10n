@@ -8867,6 +8867,10 @@ Motivo: %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Mais temas&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -13813,7 +13817,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Não foi possível carregar o tema! Por favor, certifique-se que o Psi esta instalado corretamente.</translation>
+        <translation type="vanished">Não foi possível carregar o tema! Por favor, certifique-se que o Psi esta instalado corretamente.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13891,6 +13895,18 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
 
 Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Avançar</translation>
     </message>
 </context>
 <context>
@@ -17614,6 +17630,13 @@ O plug-in foi projetado para manter as anotações no servidor XMPP com a capaci
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (Inativo(a))</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

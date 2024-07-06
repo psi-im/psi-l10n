@@ -8747,6 +8747,10 @@ Lý do : %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -13469,10 +13473,6 @@ Lý do : %1.</translation>
         <translation>Không thể nạp bộ biểu tượng.  Hãy kiểm tra lại Psi đã được cài đặt cho đúng.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Hãy ngưng kết nối trước khi thay đổi hồ sơ.</translation>
     </message>
@@ -13548,6 +13548,18 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
 
 Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Tới</translation>
     </message>
 </context>
 <context>
@@ -17166,6 +17178,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (bị động)</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

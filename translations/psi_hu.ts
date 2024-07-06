@@ -8850,6 +8850,10 @@ Oka: %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Még több téma&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -13809,7 +13813,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Nem sikerült betölteni a témát. Ellenőrizd, hogy a Psi helyesen lett-e telepítve.</translation>
+        <translation type="vanished">Nem sikerült betölteni a témát. Ellenőrizd, hogy a Psi helyesen lett-e telepítve.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13887,6 +13891,18 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
 
 Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Előre</translation>
     </message>
 </context>
 <context>
@@ -17566,6 +17582,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (tétlen)</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8893,6 +8893,10 @@ Grund: %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Mehr Stil-Themen&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
@@ -13875,7 +13879,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Kann das Thema nicht laden! Bitte stellen Sie sicher, dass Psi ordnungsgemäß installiert ist.</translation>
+        <translation type="vanished">Kann das Thema nicht laden! Bitte stellen Sie sicher, dass Psi ordnungsgemäß installiert ist.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13956,6 +13960,18 @@ Migration is possible with Psi-0.15</source>
 %1
 
 Migration ist möglich mit Psi-0.15</translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Vorwärts</translation>
     </message>
 </context>
 <context>
@@ -17694,6 +17710,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <message>
         <source>%1 (Inactive)</source>
         <translation>%1 (Inaktiv)</translation>
+    </message>
+</context>
+<context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
