@@ -8538,7 +8538,7 @@ Reason: %1.</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;עוד מוטיבים&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Style</source>
+        <source>Style:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16206,15 +16206,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>ספירת הכוונה-מחודשת מרבית מוצתה</translation>
-    </message>
-    <message>
-        <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ספירת הכוונה-מחודשת מרבית מוצתה</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>קוד מצב HTTP לא צפוי: %1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8908,8 +8908,8 @@ Reason: %1.</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;更多主题&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Style</source>
-        <translation type="unfinished"></translation>
+        <source>Style:</source>
+        <translation>风格：</translation>
     </message>
 </context>
 <context>
@@ -10723,7 +10723,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt;- 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt; - 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -10773,19 +10773,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation>指定主窗口的字体样式。</translation>
+        <translation>指定主窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>指定邮件窗口的字体样式。</translation>
+        <translation>指定邮件窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>指定聊天窗口的字体样式。</translation>
+        <translation>指定聊天窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>指定弹窗的字体样式。</translation>
+        <translation>指定弹窗的字体风格。</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
@@ -16197,7 +16197,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 x-状态。</translation>
+        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 X-状态。</translation>
     </message>
 </context>
 <context>
@@ -16849,15 +16849,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>已达到最大重定向次数</translation>
+        <translation type="vanished">已达到最大重定向次数</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation>无效的重定向 URL %1</translation>
+        <translation type="vanished">无效的重定向 URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>未预期的 HTTP 状态码：%1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation>无法解析 JSON。</translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation>无法从 %1 解析任何有效的服务器 JID。</translation>
     </message>
 </context>
 <context>
