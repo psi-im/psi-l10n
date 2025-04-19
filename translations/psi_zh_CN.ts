@@ -78,15 +78,15 @@
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
-        <translation>过去的首席开发人员和维护人员</translation>
+        <translation>过去的首席开发者和维护者</translation>
     </message>
     <message>
         <source>Past Lead Developer</source>
-        <translation>过去的首席开发人员</translation>
+        <translation>过去的首席开发者</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>开发人员</translation>
+        <translation>开发者</translation>
     </message>
     <message>
         <source>Active project members are presents below:</source>
@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">创始人、补丁作者和 MS Windows 版本维护者</translation>
+        <translation type="vanished">创始人、补丁作者和 MS Windows 包维护者</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
@@ -106,11 +106,11 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">首席补丁作者和插件作者、Mac OS X 版本维护者</translation>
+        <translation type="vanished">首席补丁作者和插件作者、Mac OS X 包维护者</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">补丁作者、插件作者和 Fedora 版本维护者</translation>
+        <translation type="vanished">补丁作者、插件作者和 Fedora 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -118,15 +118,15 @@
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">补丁作者和 Ubuntu 版本维护者</translation>
+        <translation type="vanished">补丁作者和 Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation type="vanished">Ubuntu 版本维护者</translation>
+        <translation type="vanished">Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Mandriva Linux 版本维护者</translation>
+        <translation type="vanished">Mandriva Linux 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
@@ -134,11 +134,11 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Psimedia 补丁作者和 Wiki 英语本地化</translation>
+        <translation>Psimedia 补丁作者和维基英语本地化</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">语言协调员、Debian 版本维护者</translation>
+        <translation type="vanished">语言协调员、Debian 包维护者</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Graphics</source>
-        <translation>图像</translation>
+        <translation>图形</translation>
     </message>
     <message>
         <source>Original Mac Port</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Webmaster, Marketing</source>
-        <translation>网站管理员、营销</translation>
+        <translation>网站管理员、市场营销</translation>
     </message>
     <message>
         <source>Bug Tracker Management</source>
@@ -204,7 +204,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>简体中文翻译团队&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;br&gt;
-现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详细信息！</translation>
+现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详情！</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -212,7 +212,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation>首席开发人员和当前维护人员</translation>
+        <translation>首席开发者和当前维护者</translation>
     </message>
     <message>
         <source>https://psi-im.org</source>
@@ -220,15 +220,15 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;针对经验丰富的用户的跨平台 XMPP 客户端。&lt;br/&gt;&lt;br/&gt;版权所有 © 2001-2020 Psi 团队。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;面向资深用户的跨平台 XMPP 客户端。&lt;br/&gt;&lt;br/&gt;版权所有 © 2001-2020 Psi 团队。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation>过去的首席小部件开发人员</translation>
+        <translation>过去的首席控件开发者</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation>开发人员和维护人员</translation>
+        <translation>开发者和维护者</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
@@ -236,7 +236,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation>创始人、补丁作者和前 MS Windows 版本维护者</translation>
+        <translation>创始人、补丁作者和前 MS Windows 包维护者</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
@@ -244,31 +244,31 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation>首席补丁作者和插件作者、前 macOS 版本维护者</translation>
+        <translation>首席补丁作者和插件作者、前 macOS 包维护者</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation>语言协调员、补丁作者、Debian 和 Ubuntu 版本维护者、MS Windows 和 macOS 版本维护者</translation>
+        <translation>语言协调员、补丁作者、Debian 和 Ubuntu 包维护者、MS Windows 和 macOS 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation>补丁作者和插件作者、MS Windows 版本维护者</translation>
+        <translation>补丁作者和插件作者、MS Windows 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation>补丁作者和插件作者、前 Fedora 版本维护者</translation>
+        <translation>补丁作者和插件作者、前 Fedora 包维护者</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation>补丁作者和前 Ubuntu 版本维护者</translation>
+        <translation>补丁作者和前 Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation>前 Ubuntu 版本维护者</translation>
+        <translation>前 Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation>前 Mandriva Linux 版本维护者</translation>
+        <translation>前 Mandriva Linux 包维护者</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
@@ -280,7 +280,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation>为经验丰富的用户设计的跨平台 XMPP 客户端。</translation>
+        <translation>专为资深用户打造的跨平台 XMPP 客户端。</translation>
     </message>
 </context>
 <context>
@@ -293,9 +293,9 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;请选择易记的&lt;b&gt;名称&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
+        <translation>&lt;qt&gt;请选择 Psi 可以用来指代此账号友好&lt;b&gt;名称&lt;/b&gt;。&lt;br&gt;
 &lt;br&gt;
-如果您想 Psi 尝试在远程服务器上为您创建账号，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框。如果您要添加现有的 XMPP 账号，请取消选中此框。</translation>
+如果要让 Psi 尝试在远程服务器上为您创建账号，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框。如果您正在添加现有的 XMPP 账号，请勿选中此复选框。</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -326,7 +326,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountAddDlg</name>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>如果您还没有 XMPP 账号并且想要注册，请选中此选项。请注意，这只适用于允许匿名注册的服务器。</translation>
+        <translation>如果您还没有 XMPP 账号并且想要注册新账号，请选中此选项‌。请注意，这仅适用于允许匿名注册的服务器。</translation>
     </message>
     <message>
         <source>Default</source>
@@ -373,7 +373,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;未创建账号。要创建账号，请单击“添加”按钮。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;未创建账号。要创建账号，请点击“添加”按钮。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>psi/options</source>
@@ -396,7 +396,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation>请先断开连接，然后再移除账号。</translation>
+        <translation>请在移除账号之前断开连接。</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -419,7 +419,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Example: juliet@capulet.com</source>
-        <translation>例子：juliet@capulet.com</translation>
+        <translation>示例：juliet@capulet.com</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
@@ -459,7 +459,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Details</source>
-        <translation>详细信息</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <source>Personal Information</source>
@@ -471,7 +471,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>编辑个人详细信息(&amp;D)…</translation>
+        <translation>编辑个人详情(&amp;D)…</translation>
     </message>
     <message>
         <source>OpenPGP</source>
@@ -531,7 +531,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>发送“keep-alive”包（防止超时）</translation>
+        <translation>发送“keep-alive”数据包（防止超时）</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
@@ -595,7 +595,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Authenticate as:</source>
-        <translation>身份验证为：</translation>
+        <translation>身份验证以：</translation>
     </message>
     <message>
         <source>Realm:</source>
@@ -607,11 +607,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation>&lt;b&gt;注意！&lt;/b&gt;
 &lt;br/&gt;
-如果启用此选项，您将无法在配置文件中找到密码，只有散列文本会在那里。因此，如果您忘记了密码，并且没有在其他地方备份，密码就会丢失。</translation>
+启用此选项后，您将无法在配置文件中找到密码，只有散列文本会在那里。因此，如果您忘记了密码，并且没有在其他地方备份，密码就会丢失。</translation>
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation>若服务器支持此功能，则存储散列值而不是明文密码。</translation>
+        <translation>如果服务器支持此功能，则存储散列而不是明文密码。</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -638,7 +638,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>When available</source>
-        <translation>当可用时</translation>
+        <translation>可用时</translation>
     </message>
     <message>
         <source>Never</source>
@@ -682,11 +682,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Integrity</source>
-        <translation>完全</translation>
+        <translation>完整性</translation>
     </message>
     <message>
         <source>Baseline</source>
-        <translation>基本</translation>
+        <translation>基线</translation>
     </message>
     <message>
         <source>High</source>
@@ -698,35 +698,35 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>通常，Psi 使用 &lt;i&gt;Digest&lt;/i&gt; 身份验证方法登录。选中此框可强制以纯文本方式登录 XMPP 服务器。仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它使您的连接可能容易受到攻击。</translation>
+        <translation>通常，Psi 使用&lt;i&gt;摘要&lt;/i&gt;身份验证方法登录。选中此复选框‌可强制以明文方式登录 XMPP 服务器。仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它可能使您的连接易受攻击。</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>在 Psi 启动时自动登入此账号。如果在检测到网络连接时自动启动 Psi，则对您很有用。</translation>
+        <translation>在 Psi 启动时自动登录此账号。当检测到互联网连接时自动启动 Psi，此功能非常实用。</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>在计算机睡眠后恢复时让 Psi 尝试连接。</translation>
+        <translation>让 Psi 在计算机从睡眠状态恢复后尝试连接。</translation>
     </message>
     <message>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
-        <translation>如果连接断开，让 Psi 尝试重新连接。如果您的连接不稳定，并且必须经常重新连接，则非常有用。</translation>
+        <translation>在连接断开时让 Psi 尝试重新连接。如果您的连接不稳定并且必须经常重新连接，则非常有用。</translation>
     </message>
     <message>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
-        <translation>记录消息历史记录。如果您想节省磁盘空间或需要最大限度的安全性，请禁用此选项。</translation>
+        <translation>保留消息历史记录。如果您想节省磁盘空间或需要最高安全性，请禁用此选项。</translation>
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>定期发送所谓的“Keep-alive”数据包。如果您的连接设置为在一段时间不活动后自动断开（例如，由 ISP 断开），并且您想一直保持连接，则此功能非常有用。</translation>
+        <translation>定期发送所谓的“Keep-alive”数据包。如果您的连接设置为在一定时间不活动后自动断开（例如，由 ISP 断开），并且您想一直保持连接，则此功能非常有用。</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持此选项，并且安装了必要的 qca-ossl 插件，则可以使用此选项。有关更多信息，请查看 Psi 主页。</translation>
+        <translation>选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持，并且如果您安装了必要的 qca-ossl 插件，则可以使用此选项。如需了解详情，请查看 Psi 主页。</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation>如果 XMPP 服务器支持压缩连接，则选中此选项以使用压缩连接。</translation>
+        <translation>如果 XMPP 服务器支持压缩连接，选中此选项可使用压缩连接。</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
@@ -738,7 +738,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation>此选项设置了您要进行身份验证的用户（和安全域）。这将覆盖您登录的 XMPP 地址。</translation>
+        <translation>此选项设置了您要进行身份验证的用户（和安全域）。这将覆盖您登录时使用的 XMPP 地址。</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
@@ -758,7 +758,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">传统 SSL 仅在手动指定主机/端口时可用。</translation>
+        <translation type="vanished">传统 SSL 仅在与手动指定主机/端口结合使用时可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -766,7 +766,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">无法启用 SSL/TLS。插件未找到。</translation>
+        <translation type="vanished">无法启用 SSL/TLS，未找到插件。</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -818,7 +818,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation>如果可能，启用流管理协议。如果您的连接不稳定，这很有用。您的服务器必须支持此选项。要了解更多，请参阅 XEP-0184。</translation>
+        <translation>如果可能，启用流管理协议。如果您的连接不稳定，这很有用。需确保服务器支持流管理。如需了解详情，请参阅 XEP-0184。</translation>
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
@@ -826,11 +826,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation>Direct TLS</translation>
+        <translation>直接 TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
+        <translation>直接 TLS 仅在与手动指定主机/端口结合使用时可用。</translation>
     </message>
     <message>
         <source>TLS error</source>
@@ -838,7 +838,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation>无法启用 TLS，找不到插件。</translation>
+        <translation>无法启用 TLS，未找到插件。</translation>
     </message>
 </context>
 <context>
@@ -853,7 +853,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation>请输入您要注册的服务器名：</translation>
+        <translation>请输入您要注册的服务器的名称：</translation>
     </message>
     <message>
         <source>Example: capulet.com</source>
@@ -904,7 +904,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>When available</source>
-        <translation>当可用时</translation>
+        <translation>可用时</translation>
     </message>
     <message>
         <source>Legacy SSL</source>
@@ -932,7 +932,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">传统 SSL 仅在手动指定主机/端口时可用。</translation>
+        <translation type="vanished">传统 SSL 仅在与手动指定主机/端口结合使用时可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -940,7 +940,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>无法启用 SSL/TLS。QCA2 插件未找到。</translation>
+        <translation>无法启用 SSL/TLS，未找到 QCA2 插件。</translation>
     </message>
     <message>
         <source>There was an error retrieving the server list</source>
@@ -952,7 +952,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You have entered an invalid server name</source>
-        <translation>您输入的服务器名无效</translation>
+        <translation>您输入的服务器名称无效</translation>
     </message>
     <message>
         <source>Please provide the following information:</source>
@@ -978,11 +978,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation>Direct TLS</translation>
+        <translation>直接 TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
+        <translation>直接 TLS 仅在与手动指定主机/端口结合使用时可用。</translation>
     </message>
 </context>
 <context>
@@ -993,11 +993,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation>只从 Psi 移除账号。</translation>
+        <translation>仅从 Psi 移除账号。</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>移除账号并尝试从服务器上注销。</translation>
+        <translation>移除账号并尝试从服务器注销。</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -1032,7 +1032,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>密码与账号不匹配。请再试一次。</translation>
+        <translation>密码与账号不匹配，请重试。</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
@@ -1073,7 +1073,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation>忽略此账号的所有全局操作，例如，自动状态、心情、活动等。</translation>
+        <translation>忽略此账号的所有全局操作，例如，自动状态、心情、活动等</translation>
     </message>
 </context>
 <context>
@@ -1083,8 +1083,8 @@ Reason: %1</source>
 When checked, the server will not
 save the history for this contact.</source>
         <translation type="vanished"> 启用 OTR 聊天。
-选中时，服务器将不会
-保存此联系人的聊天记录。</translation>
+选中后，服务器将不会
+保存此联系人的历史记录。</translation>
     </message>
 </context>
 <context>
@@ -1102,7 +1102,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>General:</source>
-        <translation>通用：</translation>
+        <translation>常规：</translation>
     </message>
     <message>
         <source>Specific:</source>
@@ -1148,7 +1148,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation>到期日期：</translation>
+        <translation>过期日期：</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
@@ -1234,7 +1234,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部填写 XMPP 地址（以及可选的昵称和分组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部输入 XMPP 地址（以及选填的昵称和分组），然后点击&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后点击&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1270,7 +1270,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Nickname (optional):</source>
-        <translation>昵称（可选）：</translation>
+        <translation>昵称（选填）：</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
@@ -1309,7 +1309,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation>已隐藏</translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1317,7 +1317,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation>请填写您想添加的好友的 XMPP 地址。</translation>
+        <translation>请输入您要添加的联系人的 XMPP 地址。</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
@@ -1331,7 +1331,7 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>已添加 %1 到您的联系人列表。</translation>
+        <translation>%1 已添加到您的联系人列表。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1341,28 +1341,28 @@ Make sure you enter a fully qualified XMPP address.</source>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation type="vanished">&lt;qt&gt;
-从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的XMPP地址。例子：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[AIM 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Yahoo 传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
+从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的 XMPP 地址。示例：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[AIM 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN 传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Yahoo 传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的XMPP地址。例子：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
+从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的 XMPP 地址。示例：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
     <name>AddressTypeDlg</name>
     <message>
         <source>Preferred</source>
-        <translation>偏好</translation>
+        <translation>首选</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>家庭</translation>
+        <translation>住宅</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation>工作</translation>
+        <translation>单位</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1394,7 +1394,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Voice Message</source>
-        <translation>语音消息</translation>
+        <translation>语音留言</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -1406,7 +1406,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Modem</source>
-        <translation>光猫</translation>
+        <translation>调制解调器</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Copy location</source>
-        <translation>复制链接地址</translation>
+        <translation>复制位置</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
@@ -1452,7 +1452,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation>您已将窗口抖动发送给 %1</translation>
+        <translation>您发送了窗口抖动至 %1</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1465,7 +1465,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>此插件旨在发送和接收特殊的消息，如“注意”，在此客户端是窗口抖动。
+        <translation>本插件旨在发送和接收特殊的消息，如“注意”，在此客户端是窗口抖动。
 为了正常工作，插件要求对方的客户端支持 XEP-0224（例如：Pidgin、Miranda IM 的 Nudge 插件）。</translation>
     </message>
 </context>
@@ -1477,11 +1477,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
-        <translation>%1 授权您查看对方的状态。</translation>
+        <translation>%1 已授权您查看状态。</translation>
     </message>
     <message>
         <source>%1 removed your authorization to view his status!</source>
-        <translation>%1 移除了您查看其状态的授权！</translation>
+        <translation>%1 已移除您查看状态的授权！</translation>
     </message>
 </context>
 <context>
@@ -1566,7 +1566,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1588,17 +1588,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>此插件可以充当自动应答机。它有简单的配置选项，您可以使用：
-* 设置文本消息自动应答
-* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID，排除将包括所有的私信）
-* 禁用自动应答的一些账号
-* 设置发送自动消息数
-* 设置时间间隔之后，一些自动应答计数器将重置
-* 禁用自动应答的活动标签页
-* 禁用自动应答，对于不在您的联系人列表中的联系人
+        <translation>本插件可以充当自动应答机。它有许多简单的配置选项，您可以用来：
+* 为自动应答设置文本消息
+* 从自动应答的对象中排除指定 JID，包括群聊（如果设置了群聊 JID，排除将包括所有的私信）
+* 为您的部分账号禁用自动应答
+* 设置发送的自动消息数
+* 设置重置自动消息计数器的时间间隔
+* 为活动标签页禁用自动应答
+* 为不在您的联系人列表中的联系人禁用自动应答
 JID 的例外列表有两种操作模式：
-* 关闭自动应答的例外列表，为除此之外的人打开（禁用模式）
-* 开启自动应答的例外列表，为除此之外的人关闭（启用模式）</translation>
+* 为例外列表关闭自动应答，为其他则打开（禁用模式）
+* 为例外列表开启自动应答，为其他则关闭（启用模式）</translation>
     </message>
 </context>
 <context>
@@ -1616,15 +1616,15 @@ JID 的例外列表有两种操作模式：
     </message>
     <message>
         <source>Codec error</source>
-        <translation>编码器错误</translation>
+        <translation>编解码器错误</translation>
     </message>
     <message>
         <source>Generic error</source>
-        <translation>一般错误</translation>
+        <translation>常规错误</translation>
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>在未选择设备的情况下无法呼叫。您有麦克风吗？检查 Psi 选项。</translation>
+        <translation>在未选择设备的情况下无法通话。是否有麦克风？请检查 Psi 选项。</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
@@ -1634,11 +1634,11 @@ JID 的例外列表有两种操作模式：
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>呼叫被拒绝或已终止。</translation>
+        <translation>通话被拒绝或已终止。</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
-        <translation>呼叫协商超时。</translation>
+        <translation>通话协商超时。</translation>
     </message>
     <message>
         <source>Unable to establish peer-to-peer connection.</source>
@@ -1646,7 +1646,7 @@ JID 的例外列表有两种操作模式：
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>呼叫协商失败。</translation>
+        <translation>通话协商失败。</translation>
     </message>
 </context>
 <context>
@@ -1679,11 +1679,11 @@ JID 的例外列表有两种操作模式：
     <name>BOBFileShareDownloader</name>
     <message>
         <source>&quot;Bits Of Binary&quot; data source is offline</source>
-        <translation>“Bits Of Binary”数据源离线</translation>
+        <translation>“二进制数据块”数据源离线</translation>
     </message>
     <message>
         <source>Download using &quot;Bits Of Binary&quot; failed</source>
-        <translation>使用“Bits Of Binary”下载失败</translation>
+        <translation>使用“二进制数据块”下载失败</translation>
     </message>
 </context>
 <context>
@@ -1707,8 +1707,8 @@ JID 的例外列表有两种操作模式：
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>此插件允许您和朋友玩战舰。
-使用了普通消息来发送命令，因此此插件将始终在您能够登录的任何地方工作。要邀请朋友参与游戏，您可以使用联系人右键菜单项或聊天窗口工具栏上的按钮。</translation>
+        <translation>本插件允许您和朋友玩战舰。
+发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友参与游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
         <source>Battleship game</source>
@@ -1805,7 +1805,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>To:</source>
-        <translation>到：</translation>
+        <translation>呼叫对象：</translation>
     </message>
     <message>
         <source>Use video</source>
@@ -1813,11 +1813,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Sending bandwidth:</source>
-        <translation>正在发送带宽：</translation>
+        <translation>发送带宽：</translation>
     </message>
     <message>
         <source>Call status</source>
-        <translation>呼叫状态</translation>
+        <translation>通话状态</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
@@ -1825,7 +1825,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>接受(&amp;A)</translation>
+        <translation>接听(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -1856,7 +1856,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Ready</source>
-        <translation>准备好了</translation>
+        <translation>就绪</translation>
     </message>
     <message>
         <source>From:</source>
@@ -1864,7 +1864,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>接受呼叫？</translation>
+        <translation>接听通话？</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1872,11 +1872,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Calling...</source>
-        <translation>呼叫中…</translation>
+        <translation>正在呼叫…</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>接受中…</translation>
+        <translation>正在接听…</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
@@ -1884,15 +1884,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Call active</source>
-        <translation>呼叫处于活动状态</translation>
+        <translation>正在通话</translation>
     </message>
     <message>
         <source>Call is ended</source>
-        <translation>呼叫已结束</translation>
+        <translation>通话已结束</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation>呼叫持续时间：%1</translation>
+        <translation>通话时长：%1</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">此插件旨在直接从 Psi+ 传递验证码。</translation>
+        <translation type="vanished">本插件旨在直接从 Psi+ 传递验证码。</translation>
     </message>
 </context>
 <context>
@@ -1983,11 +1983,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Subject Details:</source>
-        <translation>主题详细信息：</translation>
+        <translation>主题详情：</translation>
     </message>
     <message>
         <source>Issuer Details:</source>
-        <translation>颁发者详细信息：</translation>
+        <translation>颁发者详情：</translation>
     </message>
     <message>
         <source>Organization:</source>
@@ -1999,7 +1999,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Locality:</source>
-        <translation>地点：</translation>
+        <translation>地方：</translation>
     </message>
     <message>
         <source>State:</source>
@@ -2059,15 +2059,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>You must fill out the fields properly before you can proceed.</source>
-        <translation>您必须正确填写字段，然后才能继续操作。</translation>
+        <translation>您必须正确输入字段，然后才能继续。</translation>
     </message>
     <message>
         <source>You entered your old password incorrectly.  Try again.</source>
-        <translation>您输入的旧密码不正确。请再试一次。</translation>
+        <translation>您输入的旧密码不正确，请重试。</translation>
     </message>
     <message>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>新密码和确认的字段不匹配。请重新输入。</translation>
+        <translation>新密码和确认密码不匹配，请重新输入。</translation>
     </message>
     <message>
         <source>Success</source>
@@ -2142,7 +2142,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 (Composing ...)</source>
-        <translation>%1（正在输入…）</translation>
+        <translation>%1（正在撰写…）</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -2182,7 +2182,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation>%1 加密已启用</translation>
+        <translation>已启用 %1 加密</translation>
     </message>
 </context>
 <context>
@@ -2236,14 +2236,14 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>消息已更正</translation>
+        <translation>已更正消息</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>聊天消息风格</translation>
+        <translation>聊天消息样式</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
@@ -2274,15 +2274,15 @@ Do you still want to close the window?</source>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>玩家 %1 邀请您
-下棋。他想玩 %2。</translation>
+        <translation>玩家 %1 邀请您下棋。
+对方想要玩 %2。</translation>
     </message>
 </context>
 <context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2346,9 +2346,9 @@ to play chess. He wants to play %2.</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>此插件允许您和您的朋友下棋。
-此插件与 Tkabber 的类似插件兼容。
-对于发送命令，使用普通消息，因此此插件将始终在您能够登录的任何地方工作。要邀请朋友加入游戏，您可以使用联系人右键菜单项或聊天窗口工具栏上的按钮。</translation>
+        <translation>本插件允许您和您的朋友下棋。
+本插件与 Tkabber 的类似插件兼容。
+发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友加入游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
 </context>
 <context>
@@ -2444,7 +2444,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source> files selected</source>
-        <translation>文件已选择</translation>
+        <translation> 个文件已选择</translation>
     </message>
     <message>
         <source>Delete selected files</source>
@@ -2488,7 +2488,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History files: </source>
-        <translation>历史文件：</translation>
+        <translation>历史记录文件：</translation>
     </message>
     <message>
         <source>vCards: </source>
@@ -2540,11 +2540,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation>出了问题！</translation>
+        <translation>出了点问题！</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation>找不到缓存！</translation>
+        <translation>未找到缓存！</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
@@ -2563,7 +2563,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2576,7 +2576,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>此插件旨在清除头像缓存、保存的电子名片本地副本和历史记录日志。
+        <translation>本插件旨在清除头像缓存、保存的电子名片本地副本和历史记录日志。
 在将项目从硬盘中删除之前，您可以预览这些项目。</translation>
     </message>
 </context>
@@ -2622,7 +2622,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Values</source>
-        <translation>数值</translation>
+        <translation>值</translation>
     </message>
 </context>
 <context>
@@ -2684,7 +2684,7 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation>此插件用于替换客户端版本、名称和操作系统类型。
+        <translation>本插件可用于替换客户端版本、名称和操作系统类型。
 您可以指定客户端和操作系统的版本，也可以从预设列表中选择它们。
 </translation>
     </message>
@@ -2743,7 +2743,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2754,8 +2754,8 @@ You can specify the version of the client and OS or to select them from the pres
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation>此插件旨在保存 Psi 用户所在的群聊日志。
-可以从插件设置中查看群聊日志，也可以在群聊的活动窗口/标签页中单击工具栏上的相应按钮。
+        <translation>本插件旨在保存 Psi 用户所在的群聊日志。
+可以从插件设置中查看群聊日志，也可以在群聊的活动窗口/标签页中点击工具栏上的相应按钮。
 
 注意：要正常工作，必须启用群聊工具栏。</translation>
     </message>
@@ -2816,7 +2816,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>新建空白邮件(&amp;B)</translation>
+        <translation>新建空白消息(&amp;B)</translation>
     </message>
     <message>
         <source>Privacy Lists</source>
@@ -2836,7 +2836,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>发送服务邮件</translation>
+        <translation>发送服务器消息</translation>
     </message>
     <message>
         <source>Set MOTD</source>
@@ -2883,7 +2883,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>这将从您的联系人列表中永久移除 &lt;br&gt;%1&lt;br&gt;。</translation>
+        <translation>这将永久移除 &lt;br&gt;%1&lt;br&gt; 从您的联系人列表。</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
@@ -2902,7 +2902,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
-        <translation>将授权重新发送给分组</translation>
+        <translation>向分组重新发送授权</translation>
     </message>
     <message>
         <source>Request Authorization from Group</source>
@@ -2914,7 +2914,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation>将状态发送到分组</translation>
+        <translation>向分组发送状态</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
@@ -2926,23 +2926,23 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>发送邮件给分组</translation>
+        <translation>向分组发送消息</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>隐藏全部</translation>
+        <translation>全部隐藏</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>显示全部</translation>
+        <translation>全部显示</translation>
     </message>
     <message>
         <source>Leave All</source>
-        <translation>保留全部</translation>
+        <translation>全部离开</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation>已隐藏</translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -2999,7 +2999,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>邮件</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3007,15 +3007,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Auth request</source>
-        <translation>验证请求</translation>
+        <translation>请求授权</translation>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation>验证准许</translation>
+        <translation>同意授权</translation>
     </message>
     <message>
         <source>Change domain</source>
-        <translation>更改域</translation>
+        <translation>更改域名</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
@@ -3023,7 +3023,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation>移动到分组</translation>
+        <translation>移至分组</translation>
     </message>
     <message>
         <source>Export</source>
@@ -3055,7 +3055,7 @@ Proceed?</source>
     </message>
     <message>
         <source>This action is not supported atm</source>
-        <translation>atm 不支持此操作</translation>
+        <translation>目前不支持此操作</translation>
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
@@ -3091,7 +3091,7 @@ Proceed?</source>
     </message>
     <message>
         <source>No contacts found in file %1</source>
-        <translation>在文件 %1 中找不到联系人</translation>
+        <translation>在文件 %1 中未找到联系人</translation>
     </message>
     <message>
         <source>Confirm contacts importing</source>
@@ -3144,7 +3144,7 @@ Proceed?</source>
     <name>ContactProfile</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -3163,7 +3163,7 @@ Proceed?</source>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation>此插件旨在方便下载和安装 Psi 的图标集和其他资源。</translation>
+        <translation>本插件旨在方便下载和安装 Psi 的图标集和其他资源。</translation>
     </message>
 </context>
 <context>
@@ -3212,7 +3212,7 @@ Proceed?</source>
     <message>
         <source>ToolBar will be placed here</source>
         <comment>Don&apos;t translate this string</comment>
-        <translation>工具栏将放置在此处</translation>
+        <translation>工具栏将放在此处</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
@@ -3232,7 +3232,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Auto-browse into objects</source>
-        <translation>自动浏览到对象</translation>
+        <translation>自动浏览对象内部</translation>
     </message>
     <message>
         <source>Automatically get item information</source>
@@ -3362,11 +3362,11 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>获取&lt;b&gt;%1&lt;/b&gt;的项目时出错。&lt;br&gt;原因：%2</translation>
+        <translation>获取 &lt;b&gt;%1&lt;/b&gt; 的项目时出错。&lt;br&gt;原因：%2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>获取&lt;b&gt;%1&lt;/b&gt;的项目信息时出错。&lt;br&gt;原因：%2</translation>
+        <translation>获取 &lt;b&gt;%1&lt;/b&gt; 的项目信息时出错。&lt;br&gt;原因：%2</translation>
     </message>
     <message>
         <source>more items</source>
@@ -3402,7 +3402,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Features:</source>
-        <translation>特征：</translation>
+        <translation>特性：</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -3424,7 +3424,7 @@ Proceed?</source>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="vanished">您不能移动这步棋，因为对方已经将死国王</translation>
+        <translation type="vanished">您无法移动这步棋，因为对方已经将死国王</translation>
     </message>
     <message>
         <source>To castle</source>
@@ -3432,11 +3432,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation type="vanished">您想要王车易位吗？</translation>
+        <translation type="vanished">是否要王车易位？</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="vanished">确定</translation>
+        <translation type="vanished">是</translation>
     </message>
     <message>
         <source>No</source>
@@ -3447,11 +3447,11 @@ Proceed?</source>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[系统信息]&lt;/big&gt;&lt;br&gt;您现在获得授权。</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您现在已获得授权。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[系统信息]&lt;/big&gt;&lt;br&gt;您的授权已被移除！</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您的授权已被移除！</translation>
     </message>
 </context>
 <context>
@@ -3534,7 +3534,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Url:</source>
-        <translation>Url:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>User Name*:</source>
@@ -3573,11 +3573,11 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation>微笑和情感</translation>
+        <translation>笑脸和情绪</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
-        <translation>人和身体</translation>
+        <translation>人物和身体</translation>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
@@ -3597,7 +3597,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Objects</source>
-        <translation>物体</translation>
+        <translation>物件</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -3625,7 +3625,7 @@ Proceed?</source>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation>此插件旨在枚举消息，添加聊天日志中的消息编号和错过消息的通知。
+        <translation>本插件旨在枚举消息，添加聊天日志中的消息编号和错过消息的通知。
 通过聊天工具栏上的按钮，支持每位联系人的开/关消息枚举。</translation>
     </message>
 </context>
@@ -3637,11 +3637,11 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>To:</source>
-        <translation>收件人：</translation>
+        <translation>接收者：</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>发件人：</translation>
+        <translation>发送者：</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3665,7 +3665,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Message length</source>
-        <translation>邮件长度</translation>
+        <translation>消息长度</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -3737,7 +3737,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Send Message</source>
-        <translation>发送邮件</translation>
+        <translation>发送消息</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3749,7 +3749,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>No recipients have been specified!</source>
-        <translation>没有指定的接收者！</translation>
+        <translation>未指定接收者！</translation>
     </message>
     <message>
         <source>Please type in a transaction identifier first.</source>
@@ -3773,7 +3773,7 @@ URL: %1
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
-如果您要确认此请求，请提供事务标识符并按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请提供事务标识符并点击“确认”按钮。否则，请点击“拒绝”按钮。</translation>
     </message>
     <message>
         <source>Transaction identifier: %1
@@ -3781,15 +3781,15 @@ If you wish to confirm this request, please provide transaction identifier and p
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
         <translation>事务标识符：%1
 
-如果您要确认此请求，请按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请点击“确认”按钮。否则，请点击“拒绝”按钮。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户想订阅您的在线状态。单击标有“添加/授权”的按钮以授权订阅。如果联系人不在您的联系人列表中，这也会将其添加到联系人列表中。</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户想订阅您的在线状态。点击标有“添加/授权”的按钮以授权订阅。如果联系人不在您的联系人列表中，这也会将其添加到联系人列表中。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您现在获得授权。</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您现在已获得授权。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
@@ -3821,11 +3821,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户想要修改您的联系人列表 (%1)。单击标有“添加/授权”的按钮以授权修改。</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户想要修改您的联系人列表（%1）。点击标有“添加/授权”的按钮以授权修改。</translation>
     </message>
     <message>
         <source>For all</source>
-        <translation>对于全部</translation>
+        <translation>对于所有</translation>
     </message>
 </context>
 <context>
@@ -3836,7 +3836,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Read next event</source>
-        <translation>读取下一个事件</translation>
+        <translation>阅读下一个事件</translation>
     </message>
 </context>
 <context>
@@ -3858,7 +3858,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation>功能不执行</translation>
+        <translation>功能未实现</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
@@ -3874,7 +3874,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation>%1 的正常运行时间是 %2</translation>
+        <translation>%1 运行时间是 %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
@@ -3890,7 +3890,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation>您无权检索最后活动信息</translation>
+        <translation>未授权您检索最后活动信息</translation>
     </message>
     <message>
         <source>%1 Time</source>
@@ -3914,7 +3914,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation>复制状态信息</translation>
+        <translation>复制状态消息</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -3938,7 +3938,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation>此插件在联系人右键菜单中添加了几个额外的命令。</translation>
+        <translation>本插件在联系人右键菜单添加了几个额外的命令。</translation>
     </message>
 </context>
 <context>
@@ -3961,7 +3961,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Look</source>
-        <translation>查看</translation>
+        <translation>外观</translation>
     </message>
     <message>
         <source>CSS</source>
@@ -3989,7 +3989,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation>启用“谈话风格”</translation>
+        <translation>启用“谈话样式”</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
@@ -4005,7 +4005,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>自动大写句子的第一个字母</translation>
+        <translation>自动将句子中的第一个字母大写</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
@@ -4053,16 +4053,16 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation>当创建新群聊时，自动接受默认群聊配置</translation>
+        <translation>创建新群聊时自动接受默认群聊配置</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation>当创建新群聊时，自动打开配置对话框</translation>
+        <translation>创建新群聊时自动打开配置对话框</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation>当创建新群聊时，自动打开配置对话框
+        <translation>创建新群聊时自动打开配置对话框。
 如果 accept-defaults 是“false”，此选项才有效。</translation>
     </message>
     <message>
@@ -4089,7 +4089,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation>离开群聊时的状态信息：</translation>
+        <translation>离开群聊时的状态消息：</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
@@ -4121,11 +4121,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation>在左侧放置头像</translation>
+        <translation>将头像放在左侧</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation>联系人的排序样式：</translation>
+        <translation>联系人排序方式：</translation>
     </message>
     <message>
         <source>Avatars size:</source>
@@ -4145,11 +4145,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>在“全部都在同一窗口”模式下将联系人列表放置在左侧</translation>
+        <translation>在“多窗口合一”模式下将联系人列表放在左侧</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation>联系人名称和状态信息在一排</translation>
+        <translation>联系人名称和状态消息在一排</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
@@ -4189,35 +4189,35 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation>在账号菜单里显示“管理”选项</translation>
+        <translation>在账号菜单显示“管理”选项</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation>在联系人右键菜单里显示“活跃的聊天”选项</translation>
+        <translation>在联系人菜单显示“活动聊天”选项</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">在联系人右键菜单里显示“分配 OpenPGP 密钥”选项</translation>
+        <translation type="vanished">在联系人菜单显示“分配 OpenPGP 密钥”选项</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation>在联系人右键菜单里显示“图片”选项</translation>
+        <translation>在联系人菜单显示“图片”选项</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation>在主菜单中显示“更改配置文件”选项</translation>
+        <translation>在主菜单显示“更改配置文件”选项</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation>在状态菜单中显示“聊天”选项</translation>
+        <translation>在状态菜单显示“聊天”选项</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation>在状态菜单中显示“隐身”的选项</translation>
+        <translation>在状态菜单显示“隐身”选项</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation>在状态菜单中显示“延长离开”选项</translation>
+        <translation>在状态菜单显示“延长离开”选项</translation>
     </message>
     <message>
         <source>Enable single messages</source>
@@ -4245,7 +4245,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation>访客颜色：</translation>
+        <translation>参观者颜色：</translation>
     </message>
     <message>
         <source>No Role color:</source>
@@ -4273,7 +4273,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation>标签页上“撰写”事件的文本颜色：</translation>
+        <translation>标签页上“正在撰写”事件的文本颜色：</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
@@ -4333,7 +4333,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation>启用“单个账号”模式</translation>
+        <translation>启用“单账号”模式</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
@@ -4357,7 +4357,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4372,10 +4372,10 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation>此插件旨在允许轻松配置 Psi 中的一些高级选项。
-此插件允许您访问高级应用程序选项，这些选项没有图形用户界面。
+        <translation>本插件旨在允许轻松配置 Psi 中的一些高级选项。
+本插件允许您访问高级应用程序选项，这些选项没有图形用户界面。
 
-重要的是：很大一部分选项是重要的系统设置。更改选项时，需要特别注意并正确理解结果。</translation>
+重要的是：很大一部分选项是重要的系统设置。更改选项时，需要特别注意，并充分了解可能产生的后果。</translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
@@ -4391,11 +4391,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation>多行标签页模式将当前标签页放在最下面一行</translation>
+        <translation>在多行模式下将当前标签页放在最下面一行</translation>
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation>当关闭窗口时隐藏群聊</translation>
+        <translation>关闭窗口时隐藏群聊</translation>
     </message>
 </context>
 <context>
@@ -4439,7 +4439,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Ready</source>
-        <translation>准备好了</translation>
+        <translation>就绪</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4523,11 +4523,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>正在接收…</translation>
+        <translation>正在接受…</translation>
     </message>
     <message>
         <source>Accepted!</source>
-        <translation>已接收！</translation>
+        <translation>已接受！</translation>
     </message>
     <message>
         <source>File was rejected by remote user.</source>
@@ -4550,7 +4550,7 @@ a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连接到对等端进行数据传输。
 
-确保数据传输设置正确。如果您在 NAT 路由器或防火墙后面，则需要打开正确的 TCP 端口或在账号设置中指定数据传输代理。</translation>
+请确保数据传输设置正确。如果您在 NAT 路由器或防火墙后面，则需要打开正确的 TCP 端口或在账号设置中指定数据传输代理。</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -4560,7 +4560,7 @@ unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>无法连接或激活数据传输代理。
 
-这意味着代理服务要么不起作用，要么无法访问。如果您在防火墙后面，则需要确保允许传出 TCP 连接。</translation>
+这意味着代理服务可能未正常运行或无法访问。如果您在防火墙后面，则需要确保允许传出 TCP 连接。</translation>
     </message>
     <message>
         <source>File I/O error</source>
@@ -4568,7 +4568,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
-        <translation>无法接收文件。也许发送者已经取消了请求。</translation>
+        <translation>无法接受文件。也许发送者已经取消了请求。</translation>
     </message>
 </context>
 <context>
@@ -4601,7 +4601,7 @@ that outgoing TCP connections are allowed.</source>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation>在 HttpUpload 服务上发布</translation>
+        <translation>已发布在 HttpUpload 服务上</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
@@ -4620,7 +4620,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>To:</source>
-        <translation>到：</translation>
+        <translation>接收者：</translation>
     </message>
     <message>
         <source>File:</source>
@@ -4671,7 +4671,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation>剩下 %1h%2m%3s</translation>
+        <translation>还剩 %1 小时 %2 分钟 %3 秒</translation>
     </message>
     <message>
         <source>File</source>
@@ -4691,7 +4691,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>%1h%2m%3s</source>
-        <translation>%1h%2m%3s</translation>
+        <translation>%1 小时 %2 分钟 %3 秒</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4731,7 +4731,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
-        <translation>清除完成的(&amp;F)</translation>
+        <translation>清除已完成的(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
@@ -4744,7 +4744,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
-        <translation>与 %2 传输 %1 错误。
+        <translation>与 %2 传输 %1 失败。
 原因：%3</translation>
     </message>
     <message>
@@ -4860,7 +4860,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4908,7 +4908,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Error: Cannot parse command: </source>
-        <translation>错误：无法分析命令：</translation>
+        <translation>错误：无法解析命令：</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4930,15 +4930,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Error: You are in or joining this room already!</source>
-        <translation>错误：您已在或正在加入此群聊！</translation>
+        <translation>错误：您已在群聊中或正在加入此群聊！</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
-        <translation>意外的群聊错误：%1</translation>
+        <translation>意外群聊错误：%1</translation>
     </message>
     <message>
         <source>Please choose a different nickname</source>
-        <translation>请选择一个不同的昵称</translation>
+        <translation>请选择其他昵称</translation>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
@@ -4978,7 +4978,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>This room has been destroyed.</source>
-        <translation>已经解散了此群聊。</translation>
+        <translation>已解散此群聊。</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -4986,7 +4986,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation>是否要加入替代地址“%1”？</translation>
+        <translation>是否要加入替代群聊“%1”？</translation>
     </message>
     <message>
         <source>Room Destroyed</source>
@@ -4998,15 +4998,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation>此群聊已将您封禁了</translation>
+        <translation>您已被封禁</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation>%1 从群聊中封禁了您</translation>
+        <translation>您已被 %1 从群聊中封禁</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
-        <translation>已封禁 %1</translation>
+        <translation>%1 已被封禁</translation>
     </message>
     <message>
         <source>%1 has been banned by %2</source>
@@ -5018,15 +5018,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation>此群聊已将您踢出了</translation>
+        <translation>您已被踢出群聊</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation>%1 从群聊中踢出了您</translation>
+        <translation>您已被 %1 踢出群聊</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
-        <translation>已踢出 %1</translation>
+        <translation>%1 已被踢出</translation>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
@@ -5038,35 +5038,35 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>由于从属关系的更改，此群聊已将您移除了</translation>
+        <translation>由于从属关系的更改，您已被移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>由于从属关系的更改，%1 从群聊中移除了您</translation>
+        <translation>由于从属关系的更改，您已被 %1 移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>由于从属关系的更改，从群聊中移除了 %1</translation>
+        <translation>由于从属关系的更改，%1 已被移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>由于从属关系的更改，%2 从群聊中移除了 %1</translation>
+        <translation>由于从属关系的更改，%1 已被 %2 移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>此群聊已将您移除了，因为此群聊是仅成员进入</translation>
+        <translation>您已被移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>%1 从群聊中移除了您，因为此群聊是仅成员进入</translation>
+        <translation>您已被 %1 移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
+        <translation>%1 已被移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%2 从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
+        <translation>%1 已被 %2 移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -5078,15 +5078,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation>话题已设置为</translation>
+        <translation>主题已设置为</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation> 已取消设置话题</translation>
+        <translation> 已取消设置主题</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation> 已设置话题为</translation>
+        <translation> 已设置主题为</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -5130,7 +5130,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送邮件(&amp;M)</translation>
+        <translation>发送消息(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -5166,7 +5166,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>Participant</source>
@@ -5182,7 +5182,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>无从属关系</translation>
+        <translation>访客</translation>
     </message>
     <message>
         <source>Member</source>
@@ -5202,19 +5202,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation>由于技术问题，此群聊已将您移除了</translation>
+        <translation>由于技术问题，您已被移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation>由于技术问题，%1 从群聊中移除了您</translation>
+        <translation>由于技术问题，您已被 %1 移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation>由于技术问题，从群聊中移除了 %1</translation>
+        <translation>由于技术问题，%1 已被移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation>由于技术问题，%2 从群聊中移除了 %1</translation>
+        <translation>由于技术问题，%1 已被 %2 移出群聊</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
@@ -5252,7 +5252,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
 </context>
 <context>
@@ -5307,7 +5307,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation type="vanished">接受</translation>
+        <translation type="vanished">已接受</translation>
     </message>
     <message>
         <source>Your move...</source>
@@ -5324,8 +5324,8 @@ Reason: %1</source>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="vanished">您想要结束游戏吗？
-您会输掉</translation>
+        <translation type="vanished">是否要结束游戏？
+您将会输掉</translation>
     </message>
     <message>
         <source>Yes, end</source>
@@ -5365,7 +5365,7 @@ You will lose it</source>
     </message>
     <message>
         <source>not found.</source>
-        <translation type="vanished">找不到。</translation>
+        <translation type="vanished">未找到。</translation>
     </message>
     <message>
         <source>Save image</source>
@@ -5454,31 +5454,31 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation type="vanished">启用文字突出显示</translation>
+        <translation type="vanished">启用文本突出显示</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>如果聊天中包含此文字，突出显示行并提醒用户</translation>
+        <translation>如果聊天中包含此文本，突出显示行并提醒用户</translation>
     </message>
     <message>
         <source>Word highlighting</source>
-        <translation>文字突出显示</translation>
+        <translation>文本突出显示</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">会在群聊中引起通知的文字。</translation>
+        <translation type="vanished">在群聊中引起通知的文本。</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>这些是在群聊中提到时会通知用户的文字。</translation>
+        <translation>这些是在群聊中提到时会通知用户的文本。</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>在此处输入新文字，然后按“添加文字”将其添加到突出显示列表中</translation>
+        <translation>在此处输入新文本，然后点击“添加”将其添加到突出显示列表中</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
-        <translation>添加新文字到列表中</translation>
+        <translation>将新文本添加到列表中</translation>
     </message>
     <message>
         <source>Add</source>
@@ -5486,7 +5486,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation>从突出显示列表中移除所选文字</translation>
+        <translation>从突出显示列表中移除所选文本</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5510,7 +5510,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>这是群聊中昵称的颜色列表。</translation>
+        <translation>这是群聊中昵称显示所使用的颜色列表。</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
@@ -5526,7 +5526,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
-        <translation>从列表中移除选定的颜色</translation>
+        <translation>从列表中移除所选颜色</translation>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
@@ -5538,11 +5538,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自动化</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Manual palette</source>
-        <translation>手动配色</translation>
+        <translation>手动调色板</translation>
     </message>
     <message>
         <source>Nick Coloring Type</source>
@@ -5566,7 +5566,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation>显示由一些技术问题引起的踢出信息，例如客户端的连接中断。</translation>
+        <translation>显示由一些技术问题引起的踢出消息，例如客户端的连接中断。</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
@@ -5593,7 +5593,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation>命名的区域，如校区或街区</translation>
+        <translation>命名的区域，如校区或社区</translation>
     </message>
     <message>
         <source>Bearing:</source>
@@ -5641,7 +5641,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation>水平 GPS 误差，以弧分为单位；此元素已弃用，取而代之的是 &lt;accuracy/&gt;</translation>
+        <translation>水平 GPS 误差，以弧分为单位；此元素已弃用，取而代之的是 &lt;精确度&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
@@ -5661,11 +5661,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Locality:</source>
-        <translation>地点：</translation>
+        <translation>地方：</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation>行政区域内的地点，例如城镇或城市</translation>
+        <translation>行政区域内的地方，例如城镇或城市</translation>
     </message>
     <message>
         <source>Longitude:</source>
@@ -5705,7 +5705,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation>区域内的一条主干道，或两条主干道的交叉口</translation>
+        <translation>地方内的一条主干道，或两条主干道的交叉口</translation>
     </message>
     <message>
         <source>Text:</source>
@@ -5805,7 +5805,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - 收到的邮件！&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com — 收到了邮件！&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -5842,7 +5842,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation>此插件旨在添加对 GNOME 3 在线状态更改的支持</translation>
+        <translation>本插件旨在添加对 GNOME 3 在线状态更改的支持</translation>
     </message>
 </context>
 <context>
@@ -5881,8 +5881,8 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>玩家 %1 邀请您
-下五子棋。他想玩 %2。</translation>
+        <translation>玩家 %1 邀请您玩
+五子棋。对方想玩 %2。</translation>
     </message>
 </context>
 <context>
@@ -5906,8 +5906,8 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>此插件允许您和您的朋友玩五子棋。
-使用普通消息来发送命令，因此此插件将始终在您能够登录的任何地方工作。要邀请朋友参与游戏，您可以使用联系人右键菜单项或聊天窗口工具栏上的按钮。</translation>
+        <translation>本插件允许您和您的朋友玩五子棋。
+发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友参与游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -5974,18 +5974,18 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
-        <translation>手动指定群聊名：</translation>
+        <translation>手动指定群聊名称：</translation>
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation>在群聊中显示您的名称为：</translation>
+        <translation>在群聊中显示的名称：</translation>
     </message>
 </context>
 <context>
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation type="vanished">话题：</translation>
+        <translation type="vanished">主题：</translation>
     </message>
     <message>
         <source>AccountLabel</source>
@@ -6027,7 +6027,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>群聊消息风格</translation>
+        <translation>群聊消息样式</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
@@ -6042,11 +6042,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation>已隐藏(&amp;H)</translation>
+        <translation>隐藏(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>创建新的(&amp;C)…</translation>
+        <translation>新建(&amp;C)…</translation>
     </message>
     <message>
         <source>Create New Group</source>
@@ -6061,7 +6061,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation>设置群聊话题</translation>
+        <translation>设置群聊主题</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6115,7 +6115,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Not in list</source>
@@ -6150,7 +6150,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;First</source>
-        <translation>最早(&amp;E)</translation>
+        <translation>最早(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -6170,7 +6170,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation>是否确实要完全移除联系人 %1 的历史记录？</translation>
+        <translation>是否确定要完全移除联系人 %1 的历史记录？</translation>
     </message>
     <message>
         <source>Export message history</source>
@@ -6286,8 +6286,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>找到 %1 个要导入的文件。
-继续？</translation>
+        <translation>已找到 %1 个要导入的文件。
+是否继续？</translation>
     </message>
     <message>
         <source>Counting records</source>
@@ -6298,7 +6298,7 @@ Continue?</source>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -6319,7 +6319,7 @@ Continue?</source>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation>此插件旨在在关闭 Psi 时删除所选联系人的历史记录。
+        <translation>本插件旨在在关闭 Psi 时删除所选联系人的历史记录。
 您可以从联系人的右键菜单或通过插件选项选择或取消选择要删除历史记录的联系人。</translation>
     </message>
 </context>
@@ -6345,7 +6345,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation>找不到主机</translation>
+        <translation>未找到主机</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6357,7 +6357,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid reply</source>
-        <translation>响应无效</translation>
+        <translation>回复无效</translation>
     </message>
 </context>
 <context>
@@ -6368,7 +6368,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation>找不到主机</translation>
+        <translation>未找到主机</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6380,7 +6380,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid reply</source>
-        <translation>响应无效</translation>
+        <translation>回复无效</translation>
     </message>
 </context>
 <context>
@@ -6391,7 +6391,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation>找不到主机</translation>
+        <translation>未找到主机</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6403,7 +6403,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid reply</source>
-        <translation>响应无效</translation>
+        <translation>回复无效</translation>
     </message>
 </context>
 <context>
@@ -6418,7 +6418,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation>图片(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图片 (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6446,11 +6446,11 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Please wait</source>
-        <translation>请等待</translation>
+        <translation>请稍候</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation>另一项上传操作正在进行中。请等待最多 %1 秒以完成或失败。</translation>
+        <translation>另一项上传操作正在进行中。请等待最多 %1 秒以完成该操作或等待其失败。</translation>
     </message>
     <message>
         <source>Not supported</source>
@@ -6482,7 +6482,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation>此插件允许通过 XEP-0363 上传图片和其他文件。</translation>
+        <translation>本插件允许通过 XEP-0363 上传图片和其他文件。</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
@@ -6490,7 +6490,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation>服务器响应不包含用于发送或下载文件的 URL。</translation>
+        <translation>服务器回复中缺少上传或下载的 URL。</translation>
     </message>
     <message>
         <source>Error uploading</source>
@@ -6498,7 +6498,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
-        <translation>没有要上传的数据，这可能是由于超时或其他错误造成的。</translation>
+        <translation>没有数据上传，这可能是超时或其他错误的结果。</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
@@ -6532,7 +6532,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6547,7 +6547,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6562,14 +6562,14 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>IconsetDetailsDlg</name>
     <message>
         <source>Iconset Details: %1</source>
-        <translation>图标集详细信息：%1</translation>
+        <translation>图标集详情：%1</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6589,7 +6589,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Home URL:</source>
-        <translation>首页 URL：</translation>
+        <translation>主页 URL：</translation>
     </message>
     <message>
         <source>XXX</source>
@@ -6635,7 +6635,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6650,7 +6650,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6669,7 +6669,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6732,7 +6732,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -6745,7 +6745,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和他聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。他的 JID：%1。
+        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和对方聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。对方的 JID：%1。
 
 此致，Debian Sid。</translation>
     </message>
@@ -6754,14 +6754,14 @@ Sincerely yours, Debian Sid.</source>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，他将不会收到您的消息，您必须通过 Jabber 和他聊天。他的 JID：%1。
+        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，对方将不会收到您的消息，您必须通过 Jabber 和对方聊天。对方的 JID：%1。
 
-如果您不知道 Jabber 是什么，那就用 Google 吧。它知道一切，并随时准备帮助每一个提出要求的人。
+如果您不知道 Jabber 是什么，那就问 Google 吧。它知道一切，并随时准备帮助每一个提出要求的人。
 此致，Debian Sid。</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6776,8 +6776,8 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">此插件旨在帮助您将尽可能多的联系人从 ICQ 转移到 Jabber。
-此插件有许多简单的设置，可以帮助您：
+        <translation type="vanished">本插件旨在帮助您将尽可能多的联系人从 ICQ 转移到 Jabber。
+本插件有许多简单的设置，可以帮助您：
 * 设置特殊的消息文本
 * 排除特定的 ICQ 号码
 * 设置消息重复的时间间隔
@@ -6790,7 +6790,7 @@ The plugin has a number of simple settings that can help you:
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6810,7 +6810,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation>图片(*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图片 (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
@@ -6832,7 +6832,7 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation>此插件旨在向联系人列表中的联系人发送图片。
+        <translation>本插件旨在向联系人列表中的联系人发送图片。
 您的联系人的客户端必须支持 XEP-0071: XHTML-IM 并支持 data:URI 方案。
 注意：要正常工作，选项 options.ui.chat.central-tooolbar 必须设置为 true。</translation>
     </message>
@@ -6929,7 +6929,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
-        <translation>此插件在非 webkit Psi 版本的聊天中显示图片 URL 的预览。
+        <translation>本插件在非 Webkit Psi 版本的聊天中显示图片 URL 的预览。
 </translation>
     </message>
 </context>
@@ -6937,7 +6937,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -7005,11 +7005,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Role:</source>
-        <translation>职能：</translation>
+        <translation>职责：</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>地点</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -7079,7 +7079,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation>名：</translation>
+        <translation>名字：</translation>
     </message>
     <message>
         <source>Middle Name:</source>
@@ -7087,7 +7087,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>姓：</translation>
+        <translation>姓氏：</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -7099,7 +7099,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>打开浏览器</translation>
+        <translation>打开网络浏览器</translation>
     </message>
     <message>
         <source>No date</source>
@@ -7117,11 +7117,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>您尚未发布您的账号信息更改。
-是否确定要放弃它们？</translation>
+是否确定要舍弃它们？</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="vanished">关闭并放弃</translation>
+        <translation type="vanished">关闭并舍弃</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
@@ -7169,7 +7169,7 @@ available</source>
         <source>You have not published conference information changes.
 Are you sure you want to discard them?</source>
         <translation>您尚未发布群聊信息更改。
-是否确定要放弃它们？</translation>
+是否确定要舍弃它们？</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
@@ -7211,14 +7211,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation>详细信息</translation>
+        <translation>详情</translation>
     </message>
 </context>
 <context>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation>五子棋游戏插件 - 邀请</translation>
+        <translation>五子棋游戏插件 — 邀请</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -7245,7 +7245,7 @@ Reason: %1</source>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation>国际象棋插件 - 邀请</translation>
+        <translation>国际象棋插件 — 邀请</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -7253,27 +7253,27 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reject</source>
-        <translation>放弃</translation>
+        <translation>拒绝</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation>五子棋游戏插件 - 邀请</translation>
+        <translation>五子棋游戏插件 — 邀请</translation>
     </message>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation>第二</translation>
+        <translation>后手</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation>第一</translation>
+        <translation>先手</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
         <translation>玩家 %1 邀请您
-玩战舰，他想玩 %2。</translation>
+玩战舰，对方想玩 %2。</translation>
     </message>
 </context>
 <context>
@@ -7304,15 +7304,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation>战舰游戏插件 - 邀请</translation>
+        <translation>战舰游戏插件 — 邀请</translation>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation>我想玩第一</translation>
+        <translation>我想当先手</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation>我想玩第二</translation>
+        <translation>我想当后手</translation>
     </message>
 </context>
 <context>
@@ -7331,7 +7331,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation>Jabber 磁盘 - %1</translation>
+        <translation>Jabber 磁盘 — %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
@@ -7371,7 +7371,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Intro</source>
-        <translation>简介</translation>
+        <translation>介绍</translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -7383,7 +7383,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Move to...</source>
-        <translation>移动到…</translation>
+        <translation>移至…</translation>
     </message>
     <message>
         <source>Remove Item</source>
@@ -7395,7 +7395,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation>输入的目录名</translation>
+        <translation>输入目录名称</translation>
     </message>
     <message>
         <source>Input Full JID</source>
@@ -7433,11 +7433,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation>无效的 Jingle-FT URI</translation>
+        <translation>Jingle-FT URI 无效</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation>意外的传入数据</translation>
+        <translation>意外传入内容</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
@@ -7522,8 +7522,8 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation>此插件旨在高效、舒适地与 Juick 微博服务配合使用。
-目前，此插件能够 
+        <translation>本插件旨在高效、舒适地与 Juick 微博服务配合使用。
+目前，本插件能够 
 * 在来自 juick@juick.com 机器人的消息中着色 @昵称、*标签和 #消息 ID
 * 检测消息中的 &gt;引用
 * 启用可点击的 @昵称、*标签、#消息 ID 和其他控制元素，将其插入输入区域
@@ -7563,7 +7563,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Specifies, whether toolbar is enabled and visible.</source>
-        <translation>指定工具栏是否已启用和可见。</translation>
+        <translation>指定工具栏是否已启用和显示。</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -7626,7 +7626,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Banned</source>
-        <translation>已封禁</translation>
+        <translation>被驱逐者</translation>
     </message>
 </context>
 <context>
@@ -7653,7 +7653,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation type="vanished">通用</translation>
+        <translation type="vanished">常规</translation>
     </message>
     <message>
         <source>message</source>
@@ -7677,7 +7677,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation>通用(&amp;G)</translation>
+        <translation>常规(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
@@ -7685,7 +7685,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation>简介(&amp;P)</translation>
+        <translation>资料(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -7763,7 +7763,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Request chat history</source>
-        <translation>请求聊天历史记录</translation>
+        <translation>请求聊天记录</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7941,7 +7941,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -7969,7 +7969,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">此应用程序使用 GStreamer %1，全面的开源和跨平台多媒体框架。有关详细信息，请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">此应用程序使用 GStreamer %1，全面的开源和跨平台多媒体框架。如需了解详情，请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
@@ -7997,7 +7997,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation>状态信息</translation>
+        <translation>状态消息</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -8025,11 +8025,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>1 event received</source>
-        <translation>1 个事件已收到</translation>
+        <translation>收到 1 个事件</translation>
     </message>
     <message>
         <source>%1 events received</source>
-        <translation>%1 个事件已收到</translation>
+        <translation>收到 %1 个事件</translation>
     </message>
     <message>
         <source>psimedia is unavailable</source>
@@ -8037,7 +8037,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="vanished">PsiMedia 插件未加载或未初始化。&lt;br&gt;请查看 &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; 了解更多详细信息。</translation>
+        <translation type="vanished">PsiMedia 插件未加载或未初始化。&lt;br&gt;请查看 &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; 了解更多详情。</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -8092,7 +8092,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="vanished">准备好了</translation>
+        <translation type="vanished">就绪</translation>
     </message>
     <message>
         <source>About</source>
@@ -8105,10 +8105,10 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="vanished">是一款由两名玩家玩的网络西洋棋游戏。
-它在同一个程序中包含客户端和服务器。
-您可以修改和重新分发源代码
-因为它使用 GPL。
+        <translation type="vanished">是一款支持双人对战的网络西洋棋游戏。
+其客户端与服务器端集成于同一程序中‌。
+您可以修改和重新分发源代码，
+因为它遵循 GPL 许可。
 
 俄罗斯，坦波夫，2005 年 (denis@silversoft.net)</translation>
     </message>
@@ -8125,7 +8125,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation>可以根据各种筛选器丢弃传入的节，例如源/目标地址或特定消息内容</translation>
+        <translation>可以根据各种筛选条件丢弃传入的节，例如源/目标地址或特定消息内容</translation>
     </message>
 </context>
 <context>
@@ -8146,7 +8146,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
         <translation>与 XMPP 服务器通信时出错。
-详细信息：%1</translation>
+详情：%1</translation>
     </message>
 </context>
 <context>
@@ -8169,11 +8169,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Length</source>
-        <translation>长度：</translation>
+        <translation>长度</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>注解</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <source>Algorithm</source>
@@ -8205,7 +8205,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Expiration</source>
-        <translation>到期</translation>
+        <translation>过期</translation>
     </message>
     <message>
         <source>Email</source>
@@ -8254,7 +8254,7 @@ Details: %1</source>
     </message>
     <message>
         <source>ID:</source>
-        <translation>ID：</translation>
+        <translation>地址：</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8266,11 +8266,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation>通用(&amp;G)</translation>
+        <translation>常规(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation>简介(&amp;P)</translation>
+        <translation>资料(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -8321,7 +8321,7 @@ Details: %1</source>
     </message>
     <message>
         <source>%1 remaining</source>
-        <translation>剩下 %1</translation>
+        <translation>还剩 %1</translation>
     </message>
     <message>
         <source>Open Destination Folder</source>
@@ -8389,7 +8389,7 @@ Details: %1</source>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
-        <translation>意外的 HTTP 状态</translation>
+        <translation>意外 HTTP 状态</translation>
     </message>
 </context>
 <context>
@@ -8483,7 +8483,7 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="vanished">从打开的网页复制授权代码。</translation>
+        <translation type="vanished">从打开的网页复制授权码。</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
@@ -8499,7 +8499,7 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>试图对您的状态进行签名时出错。
+        <translation>尝试对您的状态签名时出错。
 原因：%1。</translation>
     </message>
 </context>
@@ -8515,7 +8515,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation>OpenPGP 是使用最广泛的加密标准。它的使用非常简单：&lt;br/&gt;* 生成密钥对（公钥 + 密钥），或者选择现有的密钥对并在程序设置中进行设置。&lt;br/&gt;* 使用强密码保护您的密钥，永远不要将其交给任何人。&lt;br/&gt;* 与好友共享您的公钥，并使用您信任的任何交流渠道（XMPP、电子邮件、PGP 密钥服务器）获取他们的公钥。&lt;br/&gt;* 在与好友聊天时启用 PGP 加密，享受受保护对话的乐趣。</translation>
+        <translation>OpenPGP 是使用最广泛的加密标准。它的使用非常简单：&lt;br/&gt;* 生成密钥对（公钥 + 密钥），或者选择现有的密钥对并在程序设置中进行设置。&lt;br/&gt;* 使用强密码保护您的密钥，永远不要将其交给任何人。&lt;br/&gt;* 与好友分享您的公钥，并使用您信任的任何通信渠道（XMPP、电子邮件、PGP 密钥服务器）获取他们的公钥。&lt;br/&gt;* 在与好友聊天时启用 PGP 加密，享受受保护对话的乐趣。</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
@@ -8608,7 +8608,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Do not send composing events</source>
-        <translation>不要发送正在输入的事件</translation>
+        <translation>不要发送正在撰写事件</translation>
     </message>
     <message>
         <source>Request receipts</source>
@@ -8644,11 +8644,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
-        <translation>当上线时自动获取电子名片</translation>
+        <translation>上线时自动获取电子名片</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation>当联系人上线时在联系人列表使用动画</translation>
+        <translation>联系人上线时在联系人列表使用动画</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
@@ -8660,7 +8660,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation>将收到的邮件和聊天视为：</translation>
+        <translation>将收到的消息和聊天视为：</translation>
     </message>
     <message>
         <source>Determined by sender</source>
@@ -8668,7 +8668,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages</source>
-        <translation>邮件</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>Chats</source>
@@ -8676,7 +8676,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation>邮件（如果是聊天还是聊天）</translation>
+        <translation>消息（如果是聊天时还是聊天）</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
@@ -8699,7 +8699,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation>在主窗口中指定账号名的背景色。</translation>
+        <translation>指定主窗口中账号名称的背景颜色。</translation>
     </message>
     <message>
         <source>Account heading background:</source>
@@ -8711,7 +8711,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation>在主窗口中指定分组名称的背景色。</translation>
+        <translation>指定主窗口中分组名称的背景颜色。</translation>
     </message>
     <message>
         <source>Group heading background:</source>
@@ -8783,11 +8783,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Status messages:</source>
-        <translation>状态信息：</translation>
+        <translation>状态消息：</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation>指定系统消息的附加文本的颜色，例如群聊话题。</translation>
+        <translation>指定系统消息的附加文本的颜色，例如群聊主题。</translation>
     </message>
     <message>
         <source>Additional message text:</source>
@@ -8803,7 +8803,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Message:</source>
-        <translation>邮件：</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -8855,7 +8855,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation>群聊访客：</translation>
+        <translation>群聊参观者：</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
@@ -8909,7 +8909,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation>风格：</translation>
+        <translation>样式：</translation>
     </message>
 </context>
 <context>
@@ -8924,7 +8924,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable docklet</source>
-        <translation>最小化到系统托盘</translation>
+        <translation>启用系统托盘</translation>
     </message>
     <message>
         <source>Docklet</source>
@@ -8972,7 +8972,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation>将账号密码保存在更安全的系统密钥环管理器中，而不是配置文件设置中。</translation>
+        <translation>将账号密码存储在更安全的系统密钥环管理器中，而不是配置文件设置中。</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
@@ -9046,7 +9046,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>邮件(&amp;M)</translation>
+        <translation>消息(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -9054,7 +9054,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="vanished">当聊天窗口关闭时(&amp;W)</translation>
+        <translation type="vanished">聊天窗口关闭时(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
@@ -9113,11 +9113,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Raise roster window on new event</source>
-        <translation>在新事件时弹出联系人列表窗口</translation>
+        <translation>有新事件时弹出联系人列表窗口</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation>忽略来自不在您联系人列表中的联系人的事件</translation>
+        <translation>忽略不在您联系人列表中的联系人的事件</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
@@ -9129,7 +9129,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Bounce dock:</source>
-        <translation>在系统托盘弹跳图标：</translation>
+        <translation>弹跳图标：</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9176,7 +9176,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation>找不到词典</translation>
+        <translation>未找到词典</translation>
     </message>
     <message>
         <source>OptInputUI</source>
@@ -9219,7 +9219,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[定制]</translation>
+        <translation>[自定义]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
@@ -9305,7 +9305,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -9313,7 +9313,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation>在收到的消息事件</translation>
+        <translation>收到新消息时</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
@@ -9321,27 +9321,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation>在传入的标题事件</translation>
+        <translation>收到标题事件时</translation>
     </message>
     <message>
         <source>On incoming file event</source>
-        <translation>在传入的文件事件</translation>
+        <translation>在传入文件事件时</translation>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation>当联系人开始输入时</translation>
+        <translation>联系人开始输入时</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
-        <translation>当联系人变成有空时</translation>
+        <translation>联系人变为已在线时</translation>
     </message>
     <message>
         <source>When a contact becomes unavailable</source>
-        <translation>当联系人变成没空时</translation>
+        <translation>联系人变为已离线时</translation>
     </message>
     <message>
         <source>When a contact changes status</source>
-        <translation>当联系人更改状态时</translation>
+        <translation>联系人更改状态时</translation>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
@@ -9385,7 +9385,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Durations, sec.</source>
-        <translation>持续时间，秒。</translation>
+        <translation>时长（秒）</translation>
     </message>
 </context>
 <context>
@@ -9396,7 +9396,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>联系人列表窗口始终在最上层显示</translation>
+        <translation>联系人列表窗口始终置顶</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
@@ -9432,7 +9432,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation>秒（0 - 从不）</translation>
+        <translation>秒后（0 - 从不）</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -9492,7 +9492,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>只有最高优先级的客户端图标</translation>
+        <translation>仅最高优先级客户端图标</translation>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -9508,11 +9508,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>边角半径</translation>
+        <translation>圆角半径</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation>将头像放置在左侧</translation>
+        <translation>将头像放在左侧</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
@@ -9527,7 +9527,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation>隐藏联系人列表小部件中的滚动条。</translation>
+        <translation>隐藏联系人列表控件中的滚动条。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -9539,7 +9539,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation>如果联系人状态是在线、离开和其他，则显示图标。</translation>
+        <translation>如果联系人是在线、离开等状态时显示图标。</translation>
     </message>
     <message>
         <source>Status</source>
@@ -9547,7 +9547,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>显示用户客户端的图标</translation>
+        <translation>显示用户客户端图标</translation>
     </message>
     <message>
         <source>Clients</source>
@@ -9555,7 +9555,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
-        <translation>显示所有者、管理员、成员等从属关系图标</translation>
+        <translation>显示所有者、管理员、成员、访客等从属关系图标</translation>
     </message>
     <message>
         <source>Affiliations</source>
@@ -9583,11 +9583,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>边角半径</translation>
+        <translation>圆角半径</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation>将头像对齐联系人列表的左边缘，否则向右对齐。</translation>
+        <translation>将头像与联系人列表的左边缘对齐，否则右对齐。</translation>
     </message>
     <message>
         <source>Left aligned</source>
@@ -9712,7 +9712,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source> minutes</source>
-        <translation> 分钟</translation>
+        <translation> 分钟后</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
@@ -9732,7 +9732,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Status message:</source>
-        <translation>状态信息：</translation>
+        <translation>状态消息：</translation>
     </message>
     <message>
         <source>Default priority</source>
@@ -9771,7 +9771,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation>选择时提示状态信息</translation>
+        <translation>选择时提示状态消息</translation>
     </message>
     <message>
         <source>Online</source>
@@ -9855,7 +9855,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation>选定的预设</translation>
+        <translation>所选预设</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -9984,12 +9984,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">如果您第一次使用此插件，请确保您的所有账号都在线，然后按“更新生日”按钮。这需要一些时间。</translation>
+        <translation type="vanished">如果您首次使用本插件，请确保您的所有账号都在线，然后点击“更新生日”按钮。这需要一些时间。</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -10037,7 +10037,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -10053,11 +10053,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
-        <translation>联系人右键菜单</translation>
+        <translation>联系人菜单</translation>
     </message>
     <message>
         <source>Toolbar action</source>
@@ -10065,7 +10065,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
@@ -10082,7 +10082,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="vanished">如果设置为“true”，服务器将发送未读电子邮件通知</translation>
+        <translation type="vanished">如果设置为“true”，服务器
+将发送未读电子邮件通知</translation>
     </message>
     <message>
         <source>Mail notifications</source>
@@ -10098,7 +10099,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">消息存档</translation>
+        <translation type="vanished">消息归档</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
@@ -10114,7 +10115,9 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="vanished">允许以同一用户身份登录的多个应用程序报告相同的状态信息</translation>
+        <translation type="vanished">允许以同一用户身份
+登录的多个应用程序
+报告相同的状态消息</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
@@ -10126,7 +10129,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
         <translation type="vanished">Google Talk 服务器禁用服务器端对个人对话的记录和发送通知。
-启用“消息存档”选项以供使用！</translation>
+启用“消息归档”选项以供使用！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
@@ -10134,7 +10137,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">启用“邮件通知”选项</translation>
+        <translation type="vanished">启用“邮件通知”选项！</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
@@ -10154,7 +10157,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10198,11 +10201,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation>同一事件的弹窗通知之间每个联系人的延迟时间</translation>
+        <translation>同一事件的弹窗通知之间的每次联系延迟</translation>
     </message>
     <message>
         <source>Delay between popups</source>
@@ -10218,7 +10221,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation>启用通知</translation>
+        <translation>启用通知：</translation>
     </message>
     <message>
         <source>Tune</source>
@@ -10242,11 +10245,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation>主要的</translation>
+        <translation>主选项</translation>
     </message>
     <message>
         <source>Question:</source>
@@ -10266,11 +10269,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation>对群聊中的私信启用“停止垃圾消息”</translation>
+        <translation>为群聊中的私信启用“停止垃圾信息”插件</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation>为从属关系启用“停止垃圾消息”：</translation>
+        <translation>为从属关系启用“停止垃圾信息”插件：</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -10286,11 +10289,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>None</source>
-        <translation>无</translation>
+        <translation>访客</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation>为角色启用“停止垃圾消息”：</translation>
+        <translation>为角色启用“停止垃圾信息”插件：</translation>
     </message>
     <message>
         <source>Moderator</source>
@@ -10302,7 +10305,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -10318,7 +10321,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation>屏蔽的节数：</translation>
+        <translation>已屏蔽的节数：</translation>
     </message>
     <message>
         <source>View Log</source>
@@ -10334,11 +10337,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>times</source>
-        <translation>次数</translation>
+        <translation>次</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation>重置计数器的超时时间：</translation>
+        <translation>超时后重置计数器：</translation>
     </message>
     <message>
         <source>min.</source>
@@ -10355,12 +10358,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation>如果不匹配上述任何规则，则禁用停止垃圾消息
+        <translation>如果不匹配上述任何规则，则禁用“停止垃圾信息”插件
 （不适用于群聊私信）</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -10392,11 +10395,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation>在联系人右键菜单中显示监视 JID 按钮</translation>
+        <translation>在联系人右键菜单显示监视 JID 按钮</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -10428,7 +10431,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
-        <translation>是否要删除选定的密钥？</translation>
+        <translation>是否要删除所选密钥？</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
@@ -10456,7 +10459,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Canceled</source>
-        <translation>取消</translation>
+        <translation>已取消</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -10472,7 +10475,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation>已移除 Cookies</translation>
+        <translation>已移除 Cookie</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -10516,7 +10519,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>如果您第一次使用此插件，请确保您的所有账号都在线，然后按“更新生日”按钮。这需要一些时间。</translation>
+        <translation>如果您首次使用本插件，请确保您的所有账号都在线，然后点击“更新生日”按钮。这需要一些时间。</translation>
     </message>
     <message>
         <source>Keys Manager</source>
@@ -10632,7 +10635,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation>每次都要求确认密码</translation>
+        <translation>每次都询问密码确认</translation>
     </message>
     <message>
         <source>Open configuration file</source>
@@ -10687,11 +10690,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation>启用信息事件的发送和请求，如“联系人正在输入”…</translation>
+        <translation>启用消息事件的发送和请求，如“联系人正在输入”…</translation>
     </message>
     <message>
         <source>Enables the sending of events when you end or suspend a conversation</source>
-        <translation>当您结束或中止对话时，启用事件的发送</translation>
+        <translation>结束或暂停对话时启用事件的发送</translation>
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
@@ -10707,7 +10710,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation>如果想要将收到的消息和聊天日志中的选定文本自动复制到剪贴板，请选中此选项</translation>
+        <translation>如果您要将收到的消息和聊天日志中的所选文本自动复制到剪贴板，请选中此选项</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
@@ -10715,15 +10718,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>在消息对话框中启用按照 JID 自动补全功能。</translation>
+        <translation>启用消息对话框中的 JID 实时输入自动补全功能。</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
-        <translation>启用时，会自动将 URL 从剪贴板附加到消息</translation>
+        <translation>启用后会自动将剪贴板中的 URL 附加到消息中</translation>
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt; - 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; — 消息呈现为消息，聊天呈现为聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;消息&lt;/B&gt; — 所有消息/聊天均以消息形式呈现，无论其原始形式如何。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; — 所有消息/聊天均以聊天形式呈现，无论其原始形式如何。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -10731,7 +10734,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
-        <translation>默认情况下，Psi 总是在登录时检查您的电子名片。如果您想节省一些流量，可以取消选中此选项。</translation>
+        <translation>默认情况下，Psi 在登录时会始终检查您的电子名片。如果您想节省一些流量，可以取消选中此选项。</translation>
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
@@ -10773,19 +10776,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation>指定主窗口的字体风格。</translation>
+        <translation>指定主窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>指定邮件窗口的字体风格。</translation>
+        <translation>指定消息窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>指定聊天窗口的字体风格。</translation>
+        <translation>指定聊天窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>指定弹窗的字体风格。</translation>
+        <translation>指定弹出窗口的字体样式。</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
@@ -10793,7 +10796,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation>使用字体选择对话框为邮件窗口选择字体。</translation>
+        <translation>使用字体选择对话框为消息窗口选择字体。</translation>
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
@@ -10821,7 +10824,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status message</source>
-        <translation>状态信息</translation>
+        <translation>状态消息</translation>
     </message>
 </context>
 <context>
@@ -10843,7 +10846,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation>Adium主题</translation>
+        <translation>Adium 主题</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
@@ -10881,15 +10884,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>让 Psi 使用 docklet 图标，也称为系统托盘图标。</translation>
+        <translation>设置 Psi 使用系统托盘图标。</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>通常，在系统托盘图标中单击 Psi 图标会将主窗口带到前台。如果您想要使用双击，请选中此选项。</translation>
+        <translation>通常，单击 Psi 系统托盘图标会将主窗口显示到前台。如果您想要使用双击，请选中此选项。</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>启动 Psi 时只显示系统托盘图标。</translation>
+        <translation>启动 Psi 时仅显示系统托盘图标。</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
@@ -10901,7 +10904,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation>您更改的某些选项只有在重启时才会完全生效。</translation>
+        <translation>您更改的部分选项仅在重启后才能完全生效。</translation>
     </message>
     <message>
         <source>Default</source>
@@ -10920,7 +10923,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation type="vanished">语音呼叫中</translation>
+        <translation type="vanished">语音通话</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
@@ -10943,11 +10946,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
-        <translation>让默认操作打开一个普通的邮件窗口。</translation>
+        <translation>将默认操作设为打开普通消息窗口。</translation>
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation>让默认操作打开聊天窗口。</translation>
+        <translation>将默认操作设为打开聊天窗口。</translation>
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
@@ -10959,7 +10962,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi bring an open chat window to the front of your screen when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation>让 Psi 在您收到新消息时将打开的聊天窗口显示在屏幕前面。它不会占用键盘焦点，因此不会干扰您的工作。</translation>
+        <translation>当收到新消息时，Psi 会将已打开的聊天窗口前置显示在屏幕上。它不会占用键盘焦点，因此不会干扰您的工作。</translation>
     </message>
     <message>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
@@ -11002,15 +11005,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation>当收到新消息时自动弹出窗口。</translation>
+        <translation>收到新消息时自动弹出窗口。</translation>
     </message>
     <message>
         <source>Makes new incoming headlines pop up automatically when received.</source>
-        <translation>当收到新的传入标题时自动弹出窗口。</translation>
+        <translation>收到新的传入标题时自动弹出窗口。</translation>
     </message>
     <message>
         <source>Makes new incoming file requests pop up automatically when received.</source>
-        <translation>当收到新的传入文件请求时自动弹出窗口。</translation>
+        <translation>收到新的传入文件请求时自动弹出窗口。</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
@@ -11022,11 +11025,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
-        <translation>使新的传入事件将主窗口置于前台。</translation>
+        <translation>收到新的传入事件时自动将主窗口置顶显示。</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming events from contacts not already in your list of contacts.</source>
-        <translation>让 Psi 忽略所有来自不在您的联系人列表中的联系人的传入事件。</translation>
+        <translation>让 Psi 忽略所有不在您联系人列表中的联系人的传入事件。</translation>
     </message>
     <message>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
@@ -11034,11 +11037,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically accept all authorization requests from &lt;b&gt;anyone&lt;/b&gt;.</source>
-        <translation>让 Psi 自动接受来自&lt;b&gt;任何人&lt;/b&gt;的所有授权请求。</translation>
+        <translation>让 Psi 自动接受&lt;b&gt;任何人&lt;/b&gt;的所有授权请求。</translation>
     </message>
     <message>
         <source>Makes Psi notify you when your authorization request was approved.</source>
-        <translation>当您的授权请求获得批准时，让 Psi 通知您。</translation>
+        <translation>让 Psi 在您的授权请求获得批准时通知您。</translation>
     </message>
 </context>
 <context>
@@ -11217,11 +11220,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>General plugin options</source>
-        <translation>通用插件选项</translation>
+        <translation>常规插件选项</translation>
     </message>
 </context>
 <context>
@@ -11269,7 +11272,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation>弹窗的行为</translation>
+        <translation>弹窗行为</translation>
     </message>
 </context>
 <context>
@@ -11299,7 +11302,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>自动调整 Psi 主窗口大小以放入所有联系人。</translation>
+        <translation>自动调整 Psi 主窗口大小以完整显示所有联系人。</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
@@ -11356,7 +11359,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configure how Psi sounds</source>
-        <translation>配置 Psi 的声音</translation>
+        <translation>配置 Psi 声音</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
@@ -11364,7 +11367,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>如果您想在状态为“离开”或“延长离开”时听到声音提示,，请启用此选项。</translation>
+        <translation>如果您想在状态为“离开”或“延长离开”时听到声音提示，请启用此选项。</translation>
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
@@ -11422,7 +11425,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation>指定在允许 Psi 自动设置状态时要使用的扩展信息。请参阅上面的选项。</translation>
+        <translation>指定在允许 Psi 自动设置状态时要使用的扩展消息，请查看上面的选项。</translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
@@ -11453,15 +11456,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation>按下此按钮可创建新的状态信息预设。</translation>
+        <translation>按下此按钮可创建新的状态消息预设。</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation>按下此按钮可删除状态信息预设。</translation>
+        <translation>按下此按钮可删除状态消息预设。</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation>您可以在此处编辑上面列表中当前所选状态信息预设的消息。</translation>
+        <translation>您可以在此处编辑上面列表中当前所选状态消息预设的消息。</translation>
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
@@ -11473,7 +11476,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="vanished">Jabber 允许您将扩展状态信息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展信息。如果要有此提示，请选中此选项。</translation>
+        <translation type="vanished">Jabber 允许您将扩展状态消息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展消息。如果要有此提示，请选中此选项。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11489,7 +11492,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber 允许您将扩展状态信息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展信息。如果要有此提示，请选中此选项。</translation>
+        <translation>XMPP 允许您将扩展状态消息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展消息。如果要有此提示，请选中此选项。</translation>
     </message>
 </context>
 <context>
@@ -11500,7 +11503,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation>音乐无-视频滤镜和控制器切换器</translation>
+        <translation>音乐无视频过滤器和控制器切换器</translation>
     </message>
 </context>
 <context>
@@ -11534,7 +11537,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation>请注意：此编辑器将直接更改选项。按“取消”将不会恢复这些更改。</translation>
+        <translation>请注意：此编辑器将直接更改选项，按取消将不会恢复这些更改。</translation>
     </message>
 </context>
 <context>
@@ -11553,7 +11556,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Comment</source>
-        <translation>注解</translation>
+        <translation>注释</translation>
     </message>
 </context>
 <context>
@@ -11579,7 +11582,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>For all accounts</source>
-        <translation>对于全部账号</translation>
+        <translation>对于所有账号</translation>
     </message>
     <message>
         <source>Response mode</source>
@@ -11591,7 +11594,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>not implemented</source>
-        <translation>不执行</translation>
+        <translation>未实现</translation>
     </message>
     <message>
         <source>ignore</source>
@@ -11647,7 +11650,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="vanished">在 IQ 版本显示弹窗</translation>
+        <translation type="vanished">在版本 IQ 上显示弹窗</translation>
     </message>
     <message>
         <source>never</source>
@@ -11671,7 +11674,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -11715,7 +11718,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation>*要指定服务器的顺序，请使用 drag-n-drop</translation>
+        <translation>*使用拖放可以指定服务器的顺序</translation>
     </message>
     <message>
         <source>Add new server</source>
@@ -11743,7 +11746,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -11759,7 +11762,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status message:</source>
-        <translation>状态信息：</translation>
+        <translation>状态消息：</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
@@ -11767,15 +11770,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation>设置状态前的延迟，秒</translation>
+        <translation>设置状态前的延迟（秒）</translation>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation>恢复状态前的延迟，秒</translation>
+        <translation>恢复状态前的延迟（秒）</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Save queries to log</source>
@@ -11783,7 +11786,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation>&lt;b&gt;请注意！&lt;/b&gt;随意使用客户端切换器插件可能导致无法使用 OMEMO 和 OpenPGP 加密。请谨慎使用该此插件的功能…</translation>
+        <translation>&lt;b&gt;请注意！&lt;/b&gt;随意使用客户端切换插件，可能会导致无法使用 OMEMO 和 OpenPGP 加密。请谨慎使用本插件的功能…</translation>
     </message>
     <message>
         <source>OS version</source>
@@ -11940,7 +11943,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation>当您的联系人列表中的用户改变其心情、音乐或活动时，此插件显示弹窗通知。</translation>
+        <translation>当您的联系人列表中的用户改变其心情、音乐或活动时，本插件显示弹窗通知。</translation>
     </message>
 </context>
 <context>
@@ -11981,7 +11984,7 @@ Please enter your passphrase below:</source>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation>此插件没有用户可配置的选项</translation>
+        <translation>本插件没有用户可配置的选项</translation>
     </message>
 </context>
 <context>
@@ -12090,7 +12093,7 @@ Please enter your passphrase below:</source>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation>%1: %2 - 切换</translation>
+        <translation>%1: %2 — 切换</translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
@@ -12108,7 +12111,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation>你想切换颜色吗？</translation>
+        <translation>是否要切换颜色？</translation>
     </message>
     <message>
         <source>You Lose.</source>
@@ -12296,11 +12299,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Up</source>
-        <translation>上</translation>
+        <translation>上移</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>下</translation>
+        <translation>下移</translation>
     </message>
     <message>
         <source>Edit ...</source>
@@ -12366,11 +12369,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Outgoing Presence</source>
-        <translation>传出在线状态</translation>
+        <translation>发出在线状态</translation>
     </message>
     <message>
         <source>Incoming Presence</source>
-        <translation>传入在线状态</translation>
+        <translation>接收在线状态</translation>
     </message>
     <message>
         <source>If:</source>
@@ -12413,7 +12416,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>None</source>
-        <translation>无</translation>
+        <translation>没有</translation>
     </message>
     <message>
         <source>Both</source>
@@ -12421,11 +12424,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>From</source>
-        <translation>从</translation>
+        <translation>接收</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>到</translation>
+        <translation>发送</translation>
     </message>
 </context>
 <context>
@@ -12469,11 +12472,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>已经有另一个配置文件使用此名称。请选择另一个。</translation>
+        <translation>已经有另一个配置文件使用此名称，请选择其他名称。</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>无法重命名配置文件。请不要使用任何特殊字符。</translation>
+        <translation>无法重命名配置文件，请不要使用任何特殊字符。</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -12504,11 +12507,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
         <translation>&lt;qt&gt;作为预防措施，您最后一次被问到这是否是您真正想要的。以下文件夹将被删除！&lt;br&gt;&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-继续？</translation>
+是否继续？</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation>无法完全删除文件夹。确保您拥有适当的权限。</translation>
+        <translation>无法完全删除文件夹，请确保您拥有适当的权限。</translation>
     </message>
 </context>
 <context>
@@ -12523,11 +12526,11 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。它应该仅由几个字母或数字组成。&lt;br&gt;
+        <translation type="vanished">保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。名称应该仅由几个字母或数字组成。&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。有&lt;b&gt;消息&lt;/b&gt;（ICQ 风格）和&lt;b&gt;聊天&lt;/b&gt;（AIM 风格）两种。您可以稍后从“选项”菜单更改此选项。&lt;br&gt;
+&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。有&lt;b&gt;消息&lt;/b&gt;（ICQ 样式）和&lt;b&gt;聊天&lt;/b&gt;（AIM 样式）两种。您可以稍后从选项菜单更改此选项。&lt;br&gt;
 &lt;br&gt;
-如果您想要让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像这样&lt;icon name=&quot;psi/smile&quot;&gt;的图片，则勾选&lt;i&gt;启用表情图标&lt;/i&gt;复选框。</translation>
+如果您想让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像 &lt;icon name=&quot;psi/smile&quot;&gt; 这样的图形，则选中&lt;i&gt;启用表情符号&lt;/i&gt;复选框。</translation>
     </message>
     <message>
         <source>Profile Name:</source>
@@ -12559,7 +12562,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>邮件(&amp;M)</translation>
+        <translation>消息(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -12571,11 +12574,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。名称应为仅由字母或数字组成的单个单词 。&lt;br&gt;
+        <translation>保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。名称应为仅由字母或数字组成的单个单词。&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。选项为&lt;b&gt;消息和&lt;b&gt;聊天&lt;/b&gt;。您可以稍后从“选项”菜单更改此选项。&lt;br&gt;
+&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。选项包括&lt;b&gt;消息和&lt;b&gt;聊天&lt;/b&gt;。您可以稍后从选项菜单更改此选项。&lt;br&gt;
 &lt;br&gt;
-如果您想要让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像这样&lt;icon name=&quot;psi/smile&quot;&gt;的图片，则勾选&lt;i&gt;启用表情图标&lt;/i&gt;复选框。</translation>
+如果您想要让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像 &lt;icon name=&quot;psi/smile&quot;&gt; 这样的图形，则选中&lt;i&gt;启用表情符号&lt;/i&gt;复选框。</translation>
     </message>
 </context>
 <context>
@@ -12586,11 +12589,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>已有一个具有此名称的现有配置文件。请选择另一个。</translation>
+        <translation>已存在具有此名称的现有配置文件，请选择其他名称。</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>无法创建配置文件。请不要使用任何特殊字符。</translation>
+        <translation>无法创建配置文件，请不要使用任何特殊字符。</translation>
     </message>
 </context>
 <context>
@@ -12667,11 +12670,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>Proxy</name>
     <message>
         <source>Proxy Profiles</source>
-        <translation>代理配置文件</translation>
+        <translation>代理配置</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新增(&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -12860,7 +12863,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Timed out from inactivity</source>
-        <translation>由于不活动而超时</translation>
+        <translation>因不活动而超时</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -12868,7 +12871,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid XML</source>
-        <translation>无效的 XML</translation>
+        <translation>XML 无效</translation>
     </message>
     <message>
         <source>Policy violation</source>
@@ -12892,7 +12895,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Host not found</source>
-        <translation>找不到主机</translation>
+        <translation>未找到主机</translation>
     </message>
     <message>
         <source>Error connecting to proxy</source>
@@ -12916,7 +12919,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Host no longer hosted</source>
-        <translation>主机已不再托管</translation>
+        <translation>主机不再托管</translation>
     </message>
     <message>
         <source>Host unknown</source>
@@ -12940,7 +12943,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Server rejected STARTTLS</source>
-        <translation>服务器拒绝 STARTTLS</translation>
+        <translation>服务器已拒绝 STARTTLS</translation>
     </message>
     <message>
         <source>TLS handshake error</source>
@@ -12968,11 +12971,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation>无效的账号信息</translation>
+        <translation>账号信息无效</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation>无效的 SASL 机制</translation>
+        <translation>SASL 机制无效</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -13002,7 +13005,7 @@ Do you want to log out ?</source>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>与服务器通信时出错。
-详细信息：%1</translation>
+详情：%1</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
@@ -13014,7 +13017,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
-        <translation>是否要接受来自 %3 的 %1 (%2 kb)？</translation>
+        <translation>是否要接受来自 %3 的 %1（%2 kb）？</translation>
     </message>
     <message>
         <source>Logged out</source>
@@ -13055,7 +13058,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="vanished">试图对您的状态进行签名时出错。
+        <translation type="vanished">尝试对您的状态签名时出错。
 原因：%1。</translation>
     </message>
     <message>
@@ -13092,7 +13095,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation>无法连接：加密已启用，但没有 QCA 密钥库管理器不可用。</translation>
+        <translation>无法连接：已启用加密，但没有可用的 QCA 密钥库管理器。</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
@@ -13120,7 +13123,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation>异常的请求</translation>
+        <translation>请求格式错误</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
@@ -13191,11 +13194,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Status Messages</source>
-        <translation>显示状态信息</translation>
+        <translation>显示状态消息</translation>
     </message>
     <message>
         <source>Toggles visibility of status messages of contacts</source>
-        <translation>切换联系人的状态信息是否显示</translation>
+        <translation>切换联系人的状态消息是否显示</translation>
     </message>
     <message>
         <source>Show Contacts</source>
@@ -13247,11 +13250,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>New Blank Message</source>
-        <translation>新建空白邮件</translation>
+        <translation>新建空白消息</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>新建空白邮件(&amp;B)</translation>
+        <translation>新建空白消息(&amp;B)</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
@@ -13363,7 +13366,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation>设置所有活动账号的心情</translation>
+        <translation>为所有活动账号设置心情</translation>
     </message>
     <message>
         <source>Set Activity</source>
@@ -13371,7 +13374,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation>设置所有活动账号的活动</translation>
+        <translation>为所有活动账号设置活动</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
@@ -13379,7 +13382,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation>设置所有活动账号的地理位置</translation>
+        <translation>为所有活动账号设置地理位置</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -13391,7 +13394,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Smaller alternative to the Status button</source>
-        <translation>状态按钮的较小替代选项</translation>
+        <translation>状态按钮的较小替代方案</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
@@ -13463,11 +13466,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Wiki (Online)</source>
-        <translation>Wiki(在线)</translation>
+        <translation>维基(在线)</translation>
     </message>
     <message>
         <source>&amp;Wiki (Online)</source>
-        <translation>Wiki(在线)(&amp;W)</translation>
+        <translation>维基(在线)(&amp;W)</translation>
     </message>
     <message>
         <source>Home Page (Online)</source>
@@ -13571,7 +13574,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation>添加联系人到联系人列表中</translation>
+        <translation>将联系人添加到联系人列表</translation>
     </message>
     <message>
         <source>Add Contact</source>
@@ -13623,11 +13626,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="vanished">固定标签</translation>
+        <translation type="vanished">固定标签页</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="vanished">取消固定标签</translation>
+        <translation type="vanished">取消固定标签页</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -13639,7 +13642,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation>固定/取消固定标签</translation>
+        <translation>固定/取消固定标签页</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
@@ -13663,7 +13666,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation>设置话题</translation>
+        <translation>设置主题</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -13708,7 +13711,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Error: Can not parse command: </source>
-        <translation>错误：无法分析命令：</translation>
+        <translation>错误：无法解析命令：</translation>
     </message>
     <message>
         <source>Command&gt;</source>
@@ -13789,17 +13792,17 @@ Reason: %1.</source>
     <message>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation>激活运行指定配置文件的程序实例。否则，请使用此配置文件打开新实例（除非与远程一起使用）。</translation>
+        <translation>激活运行指定配置文件的程序实例。否则，请使用此配置文件打开新实例（除非与 --remote 一起使用）。</translation>
     </message>
     <message>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation>强制远程控制模式。如果没有正在运行的实例，或者指定了配置文件，但没有实例使用它，则退出而不执行任何操作。不能与选择配置文件一起使用。</translation>
+        <translation>强制远程控制模式。如果没有正在运行的实例，或者指定了 --profile，但没有实例使用它，则退出而不执行任何操作。无法与 --choose-profile 一起使用。</translation>
     </message>
     <message>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation>启动时显示选择配置文件对话框。不能与远程一起使用。</translation>
+        <translation>启动时显示选择配置文件对话框，无法与 --remote 一起使用。</translation>
     </message>
     <message>
         <source>URI</source>
@@ -13818,17 +13821,17 @@ Reason: %1.</source>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation>设置状态。状态必须是“在线”、“聊天”、“离开”、“延长离开”、“请勿打扰”、“离线”之一。</translation>
+        <translation>设置状态。状态必须是 `online&apos;、`chat&apos;、`away&apos;、`xa&apos;、`dnd&apos;、`offline&apos; 之一。</translation>
     </message>
     <message>
         <source>MSG</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation>信息</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>Set status message. Must be used together with --status.</source>
         <comment>do not translate --status</comment>
-        <translation>设置状态信息，必须与状态一起使用。</translation>
+        <translation>设置状态消息，必须与 --status 一起使用。</translation>
     </message>
     <message>
         <source>Show this help message and exit.</source>
@@ -13852,7 +13855,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>MSG</source>
-        <translation>信息</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>URI</source>
@@ -13860,7 +13863,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="vanished">Psi - 面向经验丰富的用户的跨平台 XMPP 客户端</translation>
+        <translation type="vanished">Psi - 面向资深用户的跨平台 XMPP 客户端</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -13873,23 +13876,23 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>有关 Psi 的更多信息，请访问 &lt;https://psi-im.org/&gt;。</translation>
+        <translation>如需详细了解 Psi，请前往 &lt;https://psi-im.org/&gt;。</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Psi 是面向经验丰富的用户的跨平台 XMPP 客户端。</translation>
+        <translation type="vanished">Psi 是面向资深用户的跨平台 XMPP 客户端。</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation>Psi 是专为经验丰富的用户设计的跨平台 XMPP 客户端。</translation>
+        <translation>Psi 是专为资深用户打造的跨平台 XMPP 客户端。</translation>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation>接收下一个待定事件。</translation>
+        <translation>接收下一个待处理事件。</translation>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation>使用软件小部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
+        <translation>使用软件控件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
     </message>
     <message>
         <source>Quit the application</source>
@@ -13912,7 +13915,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation>请先断开连接，然后再更改配置文件。</translation>
+        <translation>请在更改配置文件之前断开连接。</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -13936,7 +13939,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
-        <translation>您无法禁用&lt;i&gt;所有&lt;/i&gt;工具栏&lt;i&gt;和&lt;/i&gt;菜单栏。如果您这样做，当您改变主意时，您将无法使它们恢复。</translation>
+        <translation>您无法禁用&lt;i&gt;所有&lt;/i&gt;工具栏&lt;i&gt;和&lt;/i&gt;菜单栏。如果您这样做，当您改变主意时，您将无法重新启用它们。</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -13966,7 +13969,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation>您需要设置账号才能开始。您想注册新账号还是使用现有账号？</translation>
+        <translation>您需要设置账号才能开始。是否要注册新账号还是使用现有账号？</translation>
     </message>
     <message>
         <source>Register new account</source>
@@ -13985,7 +13988,7 @@ This may mean you are already running another instance of Psi. You may experienc
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation>从一些非常旧的版本中找不到更多受支持的配置文件：
+        <translation>从一些非常旧的版本中未找到更多受支持的配置文件：
 %1
 
 使用 Psi-0.15 可以迁移</translation>
@@ -14007,7 +14010,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiContact</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Not in list</source>
@@ -14015,7 +14018,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation>已隐藏</translation>
+        <translation>隐藏</translation>
     </message>
 </context>
 <context>
@@ -14042,7 +14045,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送邮件(&amp;M)</translation>
+        <translation>发送消息(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -14110,7 +14113,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation>始终可见</translation>
+        <translation>始终显示</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14130,7 +14133,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>已添加/已授权 &lt;b&gt;%1&lt;/b&gt; 到联系人列表。</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; 已添加/已授权到联系人列表。</translation>
     </message>
     <message>
         <source>Authorize</source>
@@ -14138,11 +14141,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>已发送授权给 &lt;b&gt;%1&lt;/b&gt;。</translation>
+        <translation>已向 &lt;b&gt;%1&lt;/b&gt; 发送授权。</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>从 &lt;b&gt;%1&lt;/b&gt; 重新请求授权。</translation>
+        <translation>已向 &lt;b&gt;%1&lt;/b&gt; 重新请求授权。</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -14150,7 +14153,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>是否确定要移除 &lt;b&gt;%1&lt;/b&gt; 的授权？</translation>
+        <translation>是否确定要从 &lt;b&gt;%1&lt;/b&gt; 移除授权？</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -14170,7 +14173,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation>解除屏蔽</translation>
+        <translation>取消屏蔽</translation>
     </message>
     <message>
         <source>&amp;Log On</source>
@@ -14182,15 +14185,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Re&amp;send Authorization To</source>
-        <translation>重新发送授权给(&amp;S)</translation>
+        <translation>重新发送授权(&amp;S)</translation>
     </message>
     <message>
         <source>Re&amp;request Authorization From</source>
-        <translation>重新请求授权从(&amp;R)</translation>
+        <translation>重新请求授权(&amp;R)</translation>
     </message>
     <message>
         <source>Re&amp;move Authorization From</source>
-        <translation>移除授权从(&amp;M)</translation>
+        <translation>移除授权(&amp;M)</translation>
     </message>
     <message>
         <source>In&amp;vite To</source>
@@ -14198,7 +14201,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send Message T&amp;o</source>
-        <translation>发送消息给(&amp;O)</translation>
+        <translation>发送消息至(&amp;O)</translation>
     </message>
     <message>
         <source>Open Chat &amp;To</source>
@@ -14210,7 +14213,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Active Chats</source>
-        <translation>活跃的聊天(&amp;A)</translation>
+        <translation>活动聊天(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
@@ -14306,7 +14309,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
-        <translation>无法打开此配置文件—它已在运行，但没有响应</translation>
+        <translation>无法打开此配置文件 — 它已在运行，但没有响应</translation>
     </message>
 </context>
 <context>
@@ -14324,11 +14327,11 @@ Would you like to activate that session now?</source>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
-        <translation>不在电脑旁</translation>
+        <translation>离座中</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>我不在电脑旁，请留言。</translation>
+        <translation>暂时离开，请留言。</translation>
     </message>
     <message>
         <source>Showering</source>
@@ -14336,7 +14339,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation>我正在淋浴，你得等我出来。</translation>
+        <translation>正洗着呢，得等会儿才能回哈～</translation>
     </message>
     <message>
         <source>Eating</source>
@@ -14344,7 +14347,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation>出去吃饭，嗯…食物。</translation>
+        <translation>外面觅食中，嗯～香！</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -14352,7 +14355,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation>睡觉真棒。Zzzzz</translation>
+        <translation>睡觉真香，呼呼～</translation>
     </message>
     <message>
         <source>Work</source>
@@ -14360,7 +14363,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>无法聊天，必须工作。</translation>
+        <translation>没空聊，得干活了。</translation>
     </message>
     <message>
         <source>Air</source>
@@ -14368,7 +14371,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
-        <translation>出去呼吸新鲜空气。</translation>
+        <translation>出去透透气。</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -14376,7 +14379,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation>出去看电影。你同意吗？</translation>
+        <translation>出去看电影，一起吗？</translation>
     </message>
     <message>
         <source>Secret</source>
@@ -14384,7 +14387,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation>我现在没空，您只需要知道这些就够了。</translation>
+        <translation>我现在没空，您不需要知道更多。</translation>
     </message>
     <message>
         <source>Out for the night</source>
@@ -14396,11 +14399,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Greece</source>
-        <translation>希腊</translation>
+        <translation>远方</translation>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation>我去了一个很远的地方。总有一天我会回来的！</translation>
+        <translation>此去远行，归来有期！</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -14540,7 +14543,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>首页</translation>
+        <translation>主页</translation>
     </message>
 </context>
 <context>
@@ -14596,15 +14599,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>First Name</source>
-        <translation>名</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation>姓</translation>
+        <translation>姓氏</translation>
     </message>
     <message>
         <source>E-mail</source>
@@ -14644,7 +14647,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>No certificate presented.</source>
-        <translation>没有颁发证书。</translation>
+        <translation>未提供证书。</translation>
     </message>
     <message>
         <source>Hostname mismatch.</source>
@@ -14656,15 +14659,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>General validation error.</source>
-        <translation>一般验证错误。</translation>
+        <translation>常规验证错误。</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation>%1 证书未通过真伪测试。</translation>
+        <translation>%1 证书未通过真实性验证。</translation>
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation>详细信息(&amp;D)…</translation>
+        <translation>详情(&amp;D)…</translation>
     </message>
     <message>
         <source>&amp;Connect anyway</source>
@@ -14680,7 +14683,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>The server did not present a certificate.</source>
-        <translation>服务器未颁发证书。</translation>
+        <translation>服务器未提供证书。</translation>
     </message>
     <message>
         <source>Certificate is valid.</source>
@@ -14692,7 +14695,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>General certificate validation error.</source>
-        <translation>一般证书验证错误。</translation>
+        <translation>常规证书验证错误。</translation>
     </message>
     <message>
         <source>Doing Chores</source>
@@ -14704,7 +14707,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation>清洁</translation>
+        <translation>打扫</translation>
     </message>
     <message>
         <source>Cooking</source>
@@ -14712,11 +14715,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Doing Maintenance</source>
-        <translation>做保养</translation>
+        <translation>‌日常维护</translation>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation>做菜</translation>
+        <translation>收拾餐具</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
@@ -14736,7 +14739,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Drinking</source>
-        <translation>喝酒</translation>
+        <translation>喝水</translation>
     </message>
     <message>
         <source>Having A Beer</source>
@@ -14772,11 +14775,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Exercising</source>
-        <translation>健身</translation>
+        <translation>运动</translation>
     </message>
     <message>
         <source>Cycling</source>
-        <translation>骑车兜风</translation>
+        <translation>骑行</translation>
     </message>
     <message>
         <source>Dancing</source>
@@ -14792,7 +14795,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Playing Sports</source>
-        <translation>运动</translation>
+        <translation>踢足球</translation>
     </message>
     <message>
         <source>Running</source>
@@ -14808,15 +14811,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Working Out</source>
-        <translation>锻炼</translation>
+        <translation>打篮球</translation>
     </message>
     <message>
         <source>Grooming</source>
-        <translation>梳妆</translation>
+        <translation>梳洗</translation>
     </message>
     <message>
         <source>At The Spa</source>
-        <translation>在温泉</translation>
+        <translation>水疗</translation>
     </message>
     <message>
         <source>Brushing Teeth</source>
@@ -14840,15 +14843,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Having Appointment</source>
-        <translation>有约会</translation>
+        <translation>有预约</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>不活跃</translation>
+        <translation>无活动</translation>
     </message>
     <message>
         <source>Day Off</source>
-        <translation>休息日</translation>
+        <translation>休假</translation>
     </message>
     <message>
         <source>Hanging Out</source>
@@ -14932,7 +14935,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Talking</source>
-        <translation>说话</translation>
+        <translation>交谈</translation>
     </message>
     <message>
         <source>In Real Life</source>
@@ -15052,7 +15055,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Invitation to %1</source>
-        <translation>邀请 %1</translation>
+        <translation>邀请加入 %1</translation>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
@@ -15098,7 +15101,7 @@ Region: </source>
         <source>
 Locality: </source>
         <translation>
-地点：</translation>
+地方：</translation>
     </message>
     <message>
         <source>
@@ -15468,7 +15471,7 @@ Description: </source>
     </message>
     <message>
         <source>a moderator</source>
-        <translation>一位主持人</translation>
+        <translation>主持人</translation>
     </message>
     <message>
         <source>moderator</source>
@@ -15476,7 +15479,7 @@ Description: </source>
     </message>
     <message>
         <source>a participant</source>
-        <translation>一位参与者</translation>
+        <translation>参与者</translation>
     </message>
     <message>
         <source>participant</source>
@@ -15484,15 +15487,15 @@ Description: </source>
     </message>
     <message>
         <source>a visitor</source>
-        <translation>一位访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>an owner</source>
-        <translation>一位所有者</translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <source>owner</source>
@@ -15500,7 +15503,7 @@ Description: </source>
     </message>
     <message>
         <source>an administrator</source>
-        <translation>一位管理员</translation>
+        <translation>管理员</translation>
     </message>
     <message>
         <source>administrator</source>
@@ -15508,7 +15511,7 @@ Description: </source>
     </message>
     <message>
         <source>a member</source>
-        <translation>一位成员</translation>
+        <translation>成员</translation>
     </message>
     <message>
         <source>member</source>
@@ -15516,7 +15519,7 @@ Description: </source>
     </message>
     <message>
         <source>an outcast</source>
-        <translation>一位被驱逐者</translation>
+        <translation>被驱逐者</translation>
     </message>
     <message>
         <source>outcast</source>
@@ -15524,7 +15527,7 @@ Description: </source>
     </message>
     <message>
         <source>unaffiliated</source>
-        <translation>无从属关系</translation>
+        <translation>访客</translation>
     </message>
     <message>
         <source>&lt;unnamed%1&gt;</source>
@@ -15532,11 +15535,11 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation type="vanished">无效的密码短语</translation>
+        <translation type="vanished">密码短语无效</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation type="vanished">无效的输入格式</translation>
+        <translation type="vanished">输入格式无效</translation>
     </message>
     <message>
         <source>Signing key expired</source>
@@ -15544,7 +15547,7 @@ Description: </source>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation type="vanished">无效的密钥</translation>
+        <translation type="vanished">密钥无效</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
@@ -15552,7 +15555,7 @@ Description: </source>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation type="vanished">加密密钥不受信任</translation>
+        <translation type="vanished">加密密钥未受信任</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
@@ -15626,7 +15629,7 @@ Description: </source>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation>显示全部消息</translation>
+        <translation>显示所有消息</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -15646,12 +15649,12 @@ Description: </source>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation>退订</translation>
+        <translation>取消订阅</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation>给 %1 的消息加密失败。
+        <translation>加密发往 %1 的消息失败。
 未发送消息。</translation>
     </message>
     <message>
@@ -15686,15 +15689,15 @@ OTR 插件将无法工作。</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation>您的消息未发送。要么结束私人对话，要么重新开始。</translation>
+        <translation>您的消息未发送。请先结束私密对话，或重新开始。</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation>收到无法读取的加密消息。</translation>
+        <translation>收到了无法读取的加密消息。</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation>收到加密消息，但无法读取，因为尚未建立专用连接。</translation>
+        <translation>收到了加密消息，但无法读取，因为尚未建立私密连接。</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
@@ -15776,19 +15779,19 @@ URL：%4
     </message>
     <message>
         <source>Messages,</source>
-        <translation>消息，</translation>
+        <translation>消息、</translation>
     </message>
     <message>
         <source>Presence-In,</source>
-        <translation>在线状态—接收，</translation>
+        <translation>接收在线状态、</translation>
     </message>
     <message>
         <source>Presence-Out,</source>
-        <translation>在线状态—发出，</translation>
+        <translation>发出在线状态、</translation>
     </message>
     <message>
         <source>Queries,</source>
-        <translation>查询，</translation>
+        <translation>查询、</translation>
     </message>
     <message>
         <source>Else %1 %2</source>
@@ -15828,11 +15831,11 @@ URL：%4
     </message>
     <message>
         <source>Contact becomes Available</source>
-        <translation>联系人变成有空</translation>
+        <translation>联系人变为已在线</translation>
     </message>
     <message>
         <source>Contact becomes Unavailable</source>
-        <translation>联系人变成没空</translation>
+        <translation>联系人变为已离线</translation>
     </message>
     <message>
         <source>Contact changes Status</source>
@@ -15920,7 +15923,7 @@ URL：%4
     </message>
     <message>
         <source>Choose the status and status message</source>
-        <translation>选择状态及状态信息</translation>
+        <translation>选择状态和状态消息</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -16016,7 +16019,7 @@ URL：%4
     </message>
     <message>
         <source>Using</source>
-        <translation>正在使用</translation>
+        <translation>使用</translation>
     </message>
     <message>
         <source>Time</source>
@@ -16024,11 +16027,11 @@ URL：%4
     </message>
     <message>
         <source>Role: %1</source>
-        <translation>角色: %1</translation>
+        <translation>角色：%1</translation>
     </message>
     <message>
         <source>Affiliation: %1</source>
-        <translation>从属关系: %1</translation>
+        <translation>从属关系：%1</translation>
     </message>
     <message>
         <source>Last Status</source>
@@ -16036,7 +16039,7 @@ URL：%4
     </message>
     <message>
         <source>Status Message</source>
-        <translation>状态信息</translation>
+        <translation>状态消息</translation>
     </message>
     <message>
         <source>Last Available</source>
@@ -16048,7 +16051,7 @@ URL：%4
     </message>
     <message>
         <source>Last Status Message</source>
-        <translation>最后状态信息</translation>
+        <translation>最后状态消息</translation>
     </message>
     <message>
         <source>Never</source>
@@ -16126,7 +16129,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation>已为“%1”发现新的 OMEMO 设备。</translation>
+        <translation>已发现“%1”的新 OMEMO 设备。</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
@@ -16185,7 +16188,7 @@ Thanks for your patience.</source>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -16197,7 +16200,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 X-状态。</translation>
+        <translation>本插件旨在使用 QIP Infium Jabber 客户端显示联系人的 X-状态。</translation>
     </message>
 </context>
 <context>
@@ -16323,8 +16326,8 @@ Reason: %1</source>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation>此插件旨在显示即将到来的生日提醒。
-第一次安装此插件时，您需要登录所有账号，转到插件设置并单击“更新生日”。然后，此插件将收集联系人列表中所有用户的生日信息，但当选择“使用电子名片缓存”选项时，将使用缓存在硬盘上的用户的电子名片。</translation>
+        <translation>本插件旨在显示即将到来的生日提醒。
+首次安装本插件时，您需要登录所有账号，转到插件设置并点击“更新生日”。然后，本插件将收集联系人列表中所有用户的生日信息，但当选择“使用电子名片缓存”选项时，将使用缓存在硬盘上的用户的电子名片。</translation>
     </message>
 </context>
 <context>
@@ -16353,7 +16356,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>
-        <translation>群聊名</translation>
+        <translation>群聊名称</translation>
     </message>
     <message>
         <source>Auto-join</source>
@@ -16384,7 +16387,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation>状态信息</translation>
+        <translation>状态消息</translation>
     </message>
 </context>
 <context>
@@ -16414,7 +16417,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation>将截图上传到选定的服务器</translation>
+        <translation>将截图上传到所选服务器</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
@@ -16498,7 +16501,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation>图片 (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>图片 (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
@@ -16549,11 +16552,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Capture after</source>
-        <translation>捕获后</translation>
+        <translation>捕获</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>秒</translation>
+        <translation>秒后</translation>
     </message>
 </context>
 <context>
@@ -16573,11 +16576,11 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation>此插件允许您截图并将其保存到硬盘驱动器或上传到 FTP 或 HTTP 服务器。
-此插件具有以下设置：
-* 快捷键—截图的快捷键（默认情况下，Ctrl+Alt+P）
-* 格式—存储截图的文件格式（默认：.jpg）
-* 文件名—文件名的格式（默认：pic-yyyyMMdd-hhmmss，其中 yyyyMMdd=YYYYMMDD，hhmmss 是当前日期，格式为年月日—时分秒）
+        <translation>本插件允许您截图并将其保存到硬盘或上传到 FTP 或 HTTP 服务器。
+本插件具有以下设置：
+* 快捷键 — 截图的快捷键（默认情况下，Ctrl+Alt+P）
+* 格式 — 存储截图的文件格式（默认：.jpg）
+* 文件名 — 文件名的格式（默认：pic-yyyyMMdd-hhmmss，其中 yyyyMMdd=YYYYMMDD，hhmmss 是当前日期，格式为年月日—时分秒）
 FTP 服务器的地址指定为 ftp://ftp.domain.tld/path1/path2</translation>
     </message>
     <message>
@@ -16625,11 +16628,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>First Name</source>
-        <translation>名</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation>姓</translation>
+        <translation>姓氏</translation>
     </message>
     <message>
         <source>E-Mail Address</source>
@@ -16664,7 +16667,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <name>SearchDlg</name>
     <message>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;正在获取 %1 的搜索表单…&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;正在获取 %1 的搜索表…&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -16681,7 +16684,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <source>Unable to retrieve search form.
 Reason: %1</source>
-        <translation>无法检索搜索表单。
+        <translation>无法检索搜索表。
 原因：%1</translation>
     </message>
     <message>
@@ -16697,12 +16700,12 @@ Reason: %1</source>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
         <translation>
-            <numerusform>已将 %n 个用户添加到您的联系人列表中。</numerusform>
+            <numerusform>%n 位用户已添加到您的联系人列表。</numerusform>
         </translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>已将 %1 添加到您的联系人列表中。</translation>
+        <translation>%1 已添加到您的联系人列表。</translation>
     </message>
 </context>
 <context>
@@ -16780,15 +16783,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>添加分隔符作为子菜单</translation>
+        <translation>将分隔符添加为子菜单</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>上</translation>
+        <translation>上移</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>下</translation>
+        <translation>下移</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
@@ -16857,7 +16860,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
-        <translation>未预期的 HTTP 状态码：%1</translation>
+        <translation>意外 HTTP 状态码：%1</translation>
     </message>
     <message>
         <source>Failed to parse json.</source>
@@ -16960,7 +16963,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation>显示状态信息</translation>
+        <translation>显示状态消息</translation>
     </message>
     <message>
         <source>Publish Tune</source>
@@ -16972,39 +16975,39 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status All</source>
-        <translation>全部状态</translation>
+        <translation>状态 全部</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation>分组状态</translation>
+        <translation>状态 分组</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation>聊天状态</translation>
+        <translation>状态 聊天</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation>在线状态</translation>
+        <translation>状态 在线</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation>离开状态</translation>
+        <translation>状态 离开</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation>延长离开状态</translation>
+        <translation>状态 延长离开</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation>请勿打扰状态</translation>
+        <translation>状态 请勿打扰</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation>隐身状态</translation>
+        <translation>状态 隐身</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>离线状态</translation>
+        <translation>状态 离线</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -17044,7 +17047,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation>打开 Wiki</translation>
+        <translation>打开维基</translation>
     </message>
     <message>
         <source>Open Home Page</source>
@@ -17172,7 +17175,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation>登录到选定的传输</translation>
+        <translation>登录到所选传输</translation>
     </message>
     <message>
         <source>Common actions</source>
@@ -17212,7 +17215,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation>将应用程序放在最前面</translation>
+        <translation>前置显示窗口</translation>
     </message>
     <message>
         <source>Send new message</source>
@@ -17236,7 +17239,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation>发送状态信息</translation>
+        <translation>设置状态消息</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
@@ -17248,7 +17251,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation>设置聊天话题</translation>
+        <translation>设置聊天主题</translation>
     </message>
 </context>
 <context>
@@ -17320,7 +17323,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation>应用选定的皮肤</translation>
+        <translation>应用所选皮肤</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -17336,7 +17339,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation>移除选定的皮肤</translation>
+        <translation>移除所选皮肤</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -17344,7 +17347,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation>用当前设置覆盖选定的皮肤</translation>
+        <translation>用当前设置覆盖所选皮肤 </translation>
     </message>
     <message>
         <source>Save</source>
@@ -17364,7 +17367,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -17400,7 +17403,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation>覆盖选定的皮肤</translation>
+        <translation>覆盖所选皮肤</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
@@ -17436,8 +17439,8 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation>此插件旨在创建、存储皮肤并将其应用于 Psi。
-皮肤—一组自定义设置。
+        <translation>本插件旨在创建、存储皮肤并将其应用于 Psi。
+皮肤 — 一组自定义设置。
 要下载新皮肤，请在 PsiData 目录中创建一个名为 skins 的文件夹，并将新皮肤放入其中。您也可以只打开一个皮肤文件。
 每个皮肤必须在一个单独的目录中。您还可以将截图添加到皮肤文件中。
 在大多数情况下，为了确保皮肤应用正确，您必须执行一系列操作：
@@ -17451,11 +17454,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>SpacerAction</name>
     <message>
         <source>&lt;Spacer&gt;</source>
-        <translation>&lt;空格&gt;</translation>
+        <translation>&lt;间隔&gt;</translation>
     </message>
     <message>
         <source>Spacer provides spacing to separate actions</source>
-        <translation>空格为单独的操作提供间距</translation>
+        <translation>间隔控件通过提供间距来分隔操作</translation>
     </message>
 </context>
 <context>
@@ -17555,7 +17558,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation>停止垃圾消息插件</translation>
+        <translation>停止垃圾信息插件</translation>
     </message>
     <message>
         <source> pass the test</source>
@@ -17589,20 +17592,20 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation>此插件旨在阻止来自 Psi 用户的垃圾消息和其他不需要的信息。本插件的功能基于“问题 - 答案”的原则。
+        <translation>本插件旨在阻止来自 Psi 用户的垃圾信息和其他不需要的信息。本插件的功能基于“问题 — 答案”的原则。
 通过插件设置，您可以：
 * 定义安全问题和答案
 * 定义一组规则，定义是否为联系人触发插件
 * 定义正确答案情况下发送的文本消息
 * 通过弹窗启用通知
 * 允许在联系人历史记录中保存被屏蔽的消息
-* 定义主题邮件的数量
+* 定义主题消息的数量
 * 设置时间间隔，在此时间间隔后重置发送的问题数量
 * 在群聊中屏蔽私信
 * 选择对哪些等级和角色的群聊参与者禁用屏蔽消息功能
 * 在私信中向不属于例外列表中的角色和等级，包括屏蔽的参与者发出死锁信息。
 
-规则是从上到下检查的。如果规则已启用 - 会触发阻止垃圾消息，否则 - 不会触发阻止垃圾消息。如果没有任何规则触发联系人列表消息的阻止垃圾消息，您可以指定插件是否激活。对于来自同一群聊的私信，它始终有效。
+规则是从上到下检查的。如果规则已启用 — 会触发“停止垃圾信息”插件，否则 — 不会触发“停止垃圾信息”插件。如果没有任何规则触发联系人列表消息的“停止垃圾信息”插件，您可以指定插件是否激活。对于来自同一群聊的私信，它始终有效。
 问题和答案以及规则列表对于普通消息和群聊中的私信来说很常见。
 当用户通过后，测试将发送一个重新授权请求。应该注意的是，在发回的消息中，安全问题得到了正确回答。
 插件会保存被屏蔽消息的日志，您可以通过插件设置查看这些日志。“重置”按钮可删除日志并重置被屏蔽消息的计数器。
@@ -17641,7 +17644,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -17659,17 +17662,17 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">此插件是 XEP-0049：专用 XML 存储的实现。
+        <translation type="vanished">本插件是 XEP-0049：私有 XML 存储的实现。
 本插件与使用 Miranda IM 保存的笔记完全兼容。
-本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+本插件旨在将笔记保存在 Jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>此插件是 XEP-0049：专用 XML 存储的实现。
+        <translation>本插件是 XEP-0049：私有 XML 存储的实现。
 本插件与使用 Miranda IM 保存的笔记完全兼容。
-本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+本插件旨在将笔记保存在 XMPP 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
 </context>
 <context>
@@ -17696,7 +17699,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source>Hide All Tabs</source>
-        <translation>隐藏全部标签页</translation>
+        <translation>隐藏所有标签页</translation>
     </message>
     <message>
         <source>Detach Current Tab</source>
@@ -17724,15 +17727,15 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source> is composing</source>
-        <translation> 正在输入</translation>
+        <translation> 正在撰写</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation>取消固定标签</translation>
+        <translation>取消固定标签页</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation>固定标签</translation>
+        <translation>固定标签页</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -17772,7 +17775,7 @@ Currently supports:
 Copyright (C) 2003 Justin Karneges</source>
         <translation>%1 v1.0
 
-用于演示 Iris XMPP库的实用程序。
+用于演示 Iris XMPP 库的实用工具。
 
 目前支持：
   draft-ietf-xmpp-core-21
@@ -17955,7 +17958,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>邮件(&amp;M)</translation>
+        <translation>消息(&amp;M)</translation>
     </message>
     <message>
         <source>IQ &amp;Version</source>
@@ -17994,7 +17997,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation>单击“玩”开始</translation>
+        <translation>点击“玩”开始</translation>
     </message>
     <message>
         <source>Make your move</source>
@@ -18006,7 +18009,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>You won!</source>
-        <translation>你赢了！</translation>
+        <translation>您赢了！</translation>
     </message>
     <message>
         <source>Opponent won!</source>
@@ -18033,7 +18036,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation type="vanished">上一个(&amp;P)</translation>
+        <translation type="vanished">上一项(&amp;P)</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -18045,7 +18048,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="vanished">下一个(&amp;N)</translation>
+        <translation type="vanished">下一项(&amp;N)</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -18068,7 +18071,7 @@ Please correct and try again.</source>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>您可以选择多个表情图标集，并使用选项对话框为它们指定优先级。</translation>
+        <translation>您可以选择多个表情符号图标集，并使用选项对话框为其分配优先级。</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -18102,25 +18105,25 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</source>
         <translation>您可以在对话及群聊对话框中输入以下特殊命令：
 &lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; 清除聊天视图&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; 由您的昵称替代&lt;/li&gt;
+&lt;li&gt;“/clear”清除聊天视图&lt;/li&gt;
+&lt;li&gt;“/me 消息”“/me”由您的昵称替代&lt;/li&gt;
 &lt;/ul&gt;
 这些仅在群聊对话框中有效：
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; 更改您的昵称&lt;/li&gt;
+&lt;li&gt;“/nick 新昵称”更改您的昵称，“新昵称”由您的新昵称替代&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>您知道可以使用 Psi 注册多个 XMPP 账号吗？如果您想将工作与个人账号分开，可以这样做。如果您是经验丰富的用户，想要在不稳定的服务器上测试最新的 XMPP 功能，也可以这样做—无需运行第二个客户端来连接到稳定的服务器，只需在“账号设置”屏幕中单击“添加”即可。</translation>
+        <translation>您是否知道您可以在 Psi 注册多个 XMPP 账号？如果您想将工作与个人账号分开，完全没问题。如果您是热衷尝鲜的高级用户，想在不稳定的服务器上测试最新的 XMPP 功能 — 无需为此专门运行第二个客户端来连接稳定的服务器，只需在“账号设置”屏幕中点击“添加”即可。</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="vanished">您是否在第三方 IM 网络上聊天，例如 AIM 和 ICQ？尝试启用“传输—特定图标”选项。这将使您快速了解您的好友正在使用哪个网络。然后您就可以说服他切换到 XMPP。</translation>
+        <translation type="vanished">您是否在第三方 IM 网络上聊天，例如 AIM 和 ICQ？尝试启用“传输—特定图标”选项。这将使您快速了解您的好友正在使用哪个网络。然后您就可以说服对方切换到 XMPP。</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>您是否知道可以使用账号设置对话框中的复选框来启用/禁用账号？在您很少使用的账号的情况下，这可能很有用，因此不会使您的联系人列表混乱。</translation>
+        <translation>您是否知道可以在账号设置对话框中通过勾选复选框来启用/禁用账号？若您有使用频率较低的账号，此功能将非常实用，禁用后就不会挤占您的列表空间。</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
@@ -18128,7 +18131,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>您是否知道 Psi 是允许您同时连接到多个服务器的 XMPP 客户端之一？您的朋友可以称为“mrcool@jabber.org”，业务伙伴可以称为“John.J.Smith_the_fourth@mycompany.com”。</translation>
+        <translation>您是否知道 Psi 是允许您同时连接到多个服务器的 XMPP 客户端之一？这意味着您可以用“mrcool@jabber.org”的身份与朋友交流，同时以“John.J.Smith_the_fourth@mycompany.com”的身份与商务伙伴保持联系。</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -18150,19 +18153,19 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>正在寻找传输或群聊，但您的服务器没有提供&lt;i&gt;任何&lt;/i&gt;合适的服务？使用 Psi 菜单-&gt;服务发现，通过在地址栏中输入其域名，在任何 XMPP 服务器上查找好的服务。
+        <translation>正在寻找传输或群聊，但您的服务器没有提供合适的服务？使用 Psi 菜单-&gt;服务发现，通过在地址栏中输入其域名即可在&lt;i&gt;任意&lt;/i&gt; XMPP 服务器上查找优质服务。
 &lt;br&gt;&lt;br&gt;
 注意：有些服务器可能会禁用对来自不同服务器的用户的传输注册，但这还不常见。</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>如果您经常在群聊中聊天，昵称补全是很好的功能。最有用的快捷键是 &lt;tt&gt;Tab 键&lt;/tt&gt;；当在新行的开头或一步之后使用时，它会插入最后一个直接对您讲话的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会在群聊中所有人的昵称上循环。&lt;br/&gt;&lt;br/&gt;对于更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都在同一群聊中。如果您输入 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会导致任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续 &lt;tt&gt;Tab&lt;/tt&gt; 循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开始的昵称，也可以写更多的字母，直到有一个唯一的补全。当你按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将补全 mbl。您越是使用这个功能，就越有可能喜欢它并依赖它。试着补全某人的昵称，您就会意识到它有多强大。</translation>
+        <translation>如果您经常在群聊中聊天，昵称补全是非常有用的功能。最有用的快捷键是 &lt;tt&gt;Tab-Tab&lt;/tt&gt;；当在新行开头或消息起始后处使用时，它会插入最后与您联系的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会循环显示群聊中所有人的昵称。&lt;br/&gt;&lt;br/&gt;对于更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都在同一群聊中。如果您输入 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会产生任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，也可以输入更多字母，直到出现唯一的补全。当您按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将补全 mbl。您越是使用此功能，就越有可能喜欢它并依赖它。试着补全某人的昵称，您就会意识到它有多强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="vanished">这是最后一个提示。
-&lt;br&gt;&lt;br&gt;如果您想贡献自己的“每日提示”，请将其发布在 &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt;上（或邮寄给其中一位开发人员），我们很乐意将其集成到下一个版本中。</translation>
+&lt;br&gt;&lt;br&gt;如果您想贡献自己的“每日提示”，请将其发布在 &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt;上（或通过电子邮件发给其中一位开发者），我们很乐意将其集成到下一个版本中。</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -18196,7 +18199,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>这是最后一个提示。
-&lt;br&gt;&lt;br&gt;如果您想贡献自己的“每日提示”，请将其发布在 &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi 论坛&lt;/a&gt;上（或邮寄给其中一位开发人员），我们很乐意将其集成到下一个版本中。</translation>
+&lt;br&gt;&lt;br&gt;如果您想贡献自己的“每日提示”，请将其发布在 &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi 论坛&lt;/a&gt;上（或通过电子邮件发给其中一位开发者），我们很乐意将其集成到下一个版本中。</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
@@ -18239,7 +18242,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Rotate</source>
-        <translation>循环</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -18291,7 +18294,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation>此插件允许您将所选文本转换为另一种语言。
+        <translation>本插件允许您将所选文本转换为另一种语言。
 </translation>
     </message>
 </context>
@@ -18329,11 +18332,11 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Open mail composer</source>
-        <translation>打开邮件撰写器</translation>
+        <translation>打开邮件编辑器</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>打开浏览器</translation>
+        <translation>打开网络浏览器</translation>
     </message>
     <message>
         <source>Add to Roster</source>
@@ -18341,11 +18344,11 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Send message to</source>
-        <translation>发送邮件给</translation>
+        <translation>发送消息</translation>
     </message>
     <message>
         <source>Chat with</source>
-        <translation>聊天与</translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Join groupchat</source>
@@ -18353,7 +18356,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Copy location</source>
-        <translation>复制链接地址</translation>
+        <translation>复制位置</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -18411,17 +18414,17 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation>此插件旨在设置您在所选视频播放器中观看视频时的自定义状态。
-注意：此插件可在 Linux 系列操作系统和 Windows 操作系统中使用。
+        <translation>本插件旨在设置您在所选视频播放器中观看视频时的自定义状态。
+注意：本插件可在 Linux 系列操作系统和 Windows 操作系统中使用。
 
 在 Linux 中，插件使用 DBUS 与视频播放器配合使用，并使用 X11 功能检测全屏应用程序。
 在 Windows 中，插件使用 WinAPI 功能检测全屏应用程序。
 
-要使用 Totem player，您需要在此播放器中启用适当的插件（编辑\插件\D-Bus）；
+要使用 Totem 播放器，您需要在此播放器中启用适当的插件（编辑\插件\D-Bus）；
 
-要使用 VLC player，您需要在播放器设置的“接口\控制接口”部分的高级设置标签页中启用选项“控制接口 D-Bus”；
+要使用 VLC 播放器，您需要在播放器设置的“接口\控制接口”部分的高级设置标签页中启用选项“控制接口 D-Bus”；
 
-要使用 Kaffeine player，您必须有播放器版本（&gt;=1.0），不需要额外的配置；
+要使用 Kaffeine 播放器，您必须有播放器版本（&gt;=1.0），不需要额外的配置；
 
 要使用 GNOME MPlayer，不需要额外的配置。</translation>
     </message>
@@ -18462,7 +18465,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation>已将新消息添加到日志中。如果保存更改，则会丢失它们</translation>
+        <translation>新消息已添加到日志中。如果保存更改，则会丢失它们</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -18556,7 +18559,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation>已将新消息添加到日志中。如果保存更改，则会丢失它们</translation>
+        <translation>新消息已添加到日志中。如果保存更改，则会丢失它们</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -18583,7 +18586,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation>接受</translation>
+        <translation>接听</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -18602,23 +18605,23 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Calling</source>
-        <translation>呼叫中</translation>
+        <translation>正在呼叫</translation>
     </message>
     <message>
         <source>Accepting</source>
-        <translation>接受中</translation>
+        <translation>正在接听</translation>
     </message>
     <message>
         <source>Rejecting</source>
-        <translation>拒绝中</translation>
+        <translation>正在拒绝</translation>
     </message>
     <message>
         <source>Hanging up</source>
-        <translation>挂断中</translation>
+        <translation>正在挂断</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation>已接受</translation>
+        <translation>已接听</translation>
     </message>
     <message>
         <source>Rejected</source>
@@ -18626,7 +18629,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>In progress</source>
-        <translation>正在进行中</translation>
+        <translation>进行中</translation>
     </message>
     <message>
         <source>Terminated</source>
@@ -18661,7 +18664,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation>&lt;br&gt;状态信息：%1</translation>
+        <translation>&lt;br&gt;状态消息：%1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
@@ -18682,8 +18685,8 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation>此插件旨在监测特定联系人列表中联系人的状态，以及替换收到消息的标准声音。
-在第一个标签页，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签页是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
+        <translation>本插件旨在监测特定联系人列表中联系人的状态，以及替换收到消息的标准声音。
+在第一个标签页，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹出窗口，当状态更改为在线时，可以播放自定义声音。在第二个标签页是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
     </message>
 </context>
 <context>
@@ -18805,7 +18808,7 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <source>A new whiteboard message was just received.
 Do you still want to close the window?</source>
-        <translation>刚刚收到一条新的白板信息。
+        <translation>刚刚收到一条新的白板消息。
 是否仍要关闭窗口？</translation>
     </message>
     <message>
@@ -18837,19 +18840,19 @@ Do you still want to close the window?</source>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
-        <translation>带到前面</translation>
+        <translation>前移一层</translation>
     </message>
     <message>
         <source>Bring to front</source>
-        <translation>置于顶层</translation>
+        <translation>置顶显示</translation>
     </message>
     <message>
         <source>Send backwards</source>
-        <translation>送到后面</translation>
+        <translation>后移一层</translation>
     </message>
     <message>
         <source>Send to back</source>
-        <translation>置于底层</translation>
+        <translation>置底显示</translation>
     </message>
     <message>
         <source>Group</source>
@@ -18868,7 +18871,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The contact does not support whiteboarding.</source>
-        <translation>联系人并不支持使用白板。</translation>
+        <translation>联系人不支持白板功能。</translation>
     </message>
     <message>
         <source>Open Existing SVG?</source>
@@ -18888,7 +18891,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboarding Invitation?</source>
-        <translation>邀请使用白板？</translation>
+        <translation>白板邀请？</translation>
     </message>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
@@ -19055,7 +19058,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Gone</source>
-        <translation>离开</translation>
+        <translation>已失效</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
@@ -19071,15 +19074,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Item not found</source>
-        <translation>找不到项目</translation>
+        <translation>未找到项目</translation>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation>找不到所请求的 JID 或项目。</translation>
+        <translation>无法找到所请求的 JID 或项目。</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation>JID 异常</translation>
+        <translation>JID 格式错误</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
@@ -19131,11 +19134,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation>请求实体未被授权访问请求的服务，因为需要注册。</translation>
+        <translation>未授权请求实体访问所请求的服务，因为需要注册。</translation>
     </message>
     <message>
         <source>Remote server not found</source>
-        <translation>找不到远程服务器</translation>
+        <translation>未找到远程服务器</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
@@ -19147,11 +19150,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation>无法在合理的时间内联系指定为预期接收者的部分或全部JID（或满足请求所需的）的远程服务器或服务。</translation>
+        <translation>无法在合理的时间内联系到作为预期接收者（或满足请求所需）的部分或全部 JID 的远程服务器或服务。</translation>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation>资源约束</translation>
+        <translation>资源限制</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
@@ -19171,7 +19174,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation>请求实体未被授权访问所请求的服务，因为需要订阅。</translation>
+        <translation>未授权请求实体访问所请求的服务，因为需要订阅。</translation>
     </message>
     <message>
         <source>Undefined condition</source>
@@ -19187,7 +19190,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation>接收者或服务器理解请求，但此时没有预料到（例如，请求出现故障）。</translation>
+        <translation>接收者或服务器理解了请求，但此时没有预料到（例如，请求出现故障）。</translation>
     </message>
     <message>
         <source>Policy violation</source>
@@ -19299,7 +19302,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -19347,7 +19350,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
@@ -19355,7 +19358,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19389,11 +19392,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>trusted</source>
-        <translation>可信的</translation>
+        <translation>受信任的</translation>
     </message>
     <message>
         <source>untrusted</source>
-        <translation>不可信</translation>
+        <translation>未受信任</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -19401,7 +19404,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>not decided</source>
-        <translation>未决定</translation>
+        <translation>尚未决定</translation>
     </message>
     <message>
         <source>User</source>
@@ -19468,7 +19471,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation>从可用设备列表中删除设备后，它将停止接收来自您的联系人的离线消息，直到它变为在线且您的联系人将其标记为可信的。</translation>
+        <translation>从可用设备列表中删除设备后，它将停止接收来自您的联系人的离线消息，直到它变为在线且您的联系人将其标记为受信任的。</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
@@ -19483,11 +19486,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation>以下消息来自不信任的设备：</translation>
+        <translation>以下消息来自未受信任的设备：</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation>[不信任]：</translation>
+        <translation>[未受信任]：</translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
@@ -19641,18 +19644,18 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation>自动将新的拥有设备标记为可信设备</translation>
+        <translation>自动将新自有设备标记为受信任的</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation>自动将新的对话者设备标记为可信设备</translation>
+        <translation>自动将新对话者设备标记为受信任的</translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation>身份验证 %1</translation>
+        <translation>验证 %1 身份</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
@@ -19664,11 +19667,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation>若要手动进行身份验证，请在经过身份验证的通道上交换指纹，并将彼此的指纹与下面列出的指纹进行比较。</translation>
+        <translation>若要手动验证身份，请在已经过身份验证的渠道上交换指纹，并将彼此的指纹与下面列出的指纹进行比对。</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation>身份验证至 %1</translation>
+        <translation>%1 的身份验证</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
@@ -19712,7 +19715,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation>此联系人已通过身份验证。</translation>
+        <translation>此联系人已经过身份验证。</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
@@ -19764,7 +19767,7 @@ Do you still want to close the window?</source>
 You should authenticate %1 as well by asking your own question.</source>
         <translation>您已成功通过身份验证。
 
-您也应该通过询问自己的问题来验证 %1。</translation>
+您也应该通过询问自己的问题来验证 %1 的身份。</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
@@ -19806,19 +19809,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation>禁用私人消息</translation>
+        <translation>禁用私密消息传递</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation>手动启用私人消息</translation>
+        <translation>手动启用私密消息传递</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation>自动启用私人消息</translation>
+        <translation>自动启用私密消息传递</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation>需要私人消息</translation>
+        <translation>要求私密消息传递</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
@@ -19971,27 +19974,27 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>unverified</source>
-        <translation>未验证的</translation>
+        <translation>未经验证</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation>OTR 消息传递 [%1]</translation>
+        <translation>OTR 消息 [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation>刷新私人对话​​(&amp;R)</translation>
+        <translation>刷新私密对话​​(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation>开始私人对话(&amp;S)</translation>
+        <translation>开始私密对话(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation>结束私人对话(&amp;E)</translation>
+        <translation>结束私密对话(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation>验证联系人(&amp;A)</translation>
+        <translation>验证联系人身份(&amp;A)</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
@@ -20014,7 +20017,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">Psi 的 OTR 消息插件</translation>
+        <translation type="vanished">Psi 的 OTR 插件</translation>
     </message>
     <message>
         <source>Authors: %1</source>
@@ -20022,7 +20025,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="vanished">Off-the-Record（OTR）消息允许您通过即时消息进行私人对话，提供：</translation>
+        <translation type="vanished">不留记录即时通讯（OTR）允许您通过即时通讯进行私密对话，提供：</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -20038,7 +20041,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation>对通信者的身份有信心。</translation>
+        <translation>您可以确信通信者的身份准确无误。</translation>
     </message>
     <message>
         <source>Deniability</source>
@@ -20046,7 +20049,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="vanished">您发送的消息没有可供第三方检查的数字签名。任何人都可以在对话后伪造消息，使它们看起来像是来自您。然而，在对话过程中，您的通信者可以确信他看到的消息是真实的且未经修改的。</translation>
+        <translation type="vanished">您发送的消息没有可供第三方检查的数字签名。任何人都可以在对话后伪造消息，使其看起来像是您发送的。但是，在对话过程中，您的通信者可以确信其看到的消息是真实的且未经修改的。</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -20058,7 +20061,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">如需进一步信息，请参阅&lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
+        <translation type="vanished">如需了解详情，请参阅 &lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -20066,47 +20069,47 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation>正在尝试刷新私人对话</translation>
+        <translation>正在尝试刷新私密对话</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation>正在尝试开始私人对话</translation>
+        <translation>正在尝试开始私密对话</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation>私人对话已开始</translation>
+        <translation>私密对话已开始</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation>未验证的对话已开始</translation>
+        <translation>未经验证的对话已开始</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation>私人对话已中断</translation>
+        <translation>私密对话已中断</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation>私人对话已关闭</translation>
+        <translation>私密对话已关闭</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation>%1 已结束与您的私人对话；您也应该结束。</translation>
+        <translation>%1 已结束与您的私密对话，您也应该结束。</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation>私人对话已刷新</translation>
+        <translation>私密对话已刷新</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation>未验证的对话已刷新</translation>
+        <translation>未经验证的对话已刷新</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation>联系人已通过身份验证</translation>
+        <translation>联系人已经过身份验证</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation>联系人未进行身份验证</translation>
+        <translation>联系人未经过身份验证</translation>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
@@ -20118,11 +20121,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation>如需进一步信息，请参阅 &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
+        <translation>如需了解详情，请参阅 &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;。</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation>Off-the-Record Messaging（OTR）是一种为即时消息对话提供加密的加密协议。除了身份验证和加密，OTR 还提供前向保密和可延展加密。</translation>
+        <translation>不留记录即时通讯（OTR）是一种为即时通讯对话提供加密的加密协议。除了身份验证和加密，OTR 还提供前向保密和可延展加密。</translation>
     </message>
     <message>
         <source>OTR features:</source>
@@ -20134,7 +20137,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation>* 对话者的身份验证简单方便，无需通过外部交流渠道比较公钥指纹。</translation>
+        <translation>* 无需通过外部通信渠道比对公钥指纹，即可实现简单便捷的对话者身份验证。</translation>
     </message>
     <message>
         <source>OTR limitations:</source>
@@ -20162,11 +20165,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation>您发送的消息没有可供第三方检查的数字签名。任何人都可以在对话后伪造消息，使它们看起来像是来自您。然而，在对话过程中，您的通信者可以确信他看到的消息是真实的且未经修改的。</translation>
+        <translation>您发送的消息没有可供第三方检查的数字签名。任何人都可以在对话后伪造消息，使其看起来像是您发送的。但是，在对话过程中，您的通信者可以确信其看到的消息是真实的且未经修改的。</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="vanished">与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 特定的结构，这允许人们使用它来保护通过 XMPP 传输（到 ICQ、Skype、Telegram、QQ、VK 和其他网络）的对话。</translation>
+        <translation type="vanished">与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 的特定体系，因此可用于保护通过 XMPP 传输（ICQ、Skype、Telegram、QQ、VK 和其他网络）进行的对话。</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
@@ -20277,7 +20280,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
     <message>
         <source>https://link</source>
@@ -20462,7 +20465,7 @@ line2</source>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation>清除 Cookies</translation>
+        <translation>清除 Cookie</translation>
     </message>
     <message>
         <source>Open Browser</source>
@@ -20490,14 +20493,14 @@ line2</source>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation>Cookies 已经过时了！
+        <translation>Cookie 已经过时了！
 重新授权…</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>无法获取文件！
-尝试移除 Cookies。</translation>
+尝试移除 Cookie。</translation>
     </message>
     <message>
         <source>Filelist downloaded
@@ -20534,7 +20537,7 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation>文件已发送给 %1</translation>
+        <translation>文件已发送至 %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
@@ -20599,11 +20602,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation>清除 Cookies</translation>
+        <translation>清除 Cookie</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
