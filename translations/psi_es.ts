@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>Acerca de Psi+</translation>
+        <translation type="vanished">Acerca de Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Los miembros activos del proyecto se muestran abajo:</translation>
+        <translation type="vanished">Los miembros activos del proyecto se muestran abajo:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Fundador y parcheador líder</translation>
+        <translation type="vanished">Fundador y parcheador líder</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -222,22 +222,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -271,10 +255,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>Acerca de Psi</translation>
+        <translation type="vanished">Acerca de Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -601,7 +605,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;¡Atención!&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;¡Atención!&lt;/b&gt;
 &lt;br/&gt;
 Cuando habilites esta opción, no podrás encontrar tu contraseña en los archivos de configuración. Solo habrá ahí texto cifrado. Por lo que si olvidas tu contraseña, esta se perderá si no tienes una copia de respaldo en otro lugar. </translation>
     </message>
@@ -623,6 +627,17 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1087,7 +1102,11 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Este perfil de Psi ya está funcionando...&lt;br&gt;Por favor, espera...</translation>
+        <translation type="vanished">Este perfil de Psi ya está funcionando...&lt;br&gt;Por favor, espera...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1563,7 +1582,7 @@ Para que funcione correctamente, es necesario que el cliente del otro lado sopor
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1597,6 +1616,10 @@ The list of exceptions for jids has two operating modes:
 La lista de excepciones por JID tiene dos modos de operación:
 * la contestadora está apagada para la lista de excepciones, encendida para el resto (modo Inhabilitado)
 * la contestadora está encendida para la lista de excepciones, apagada para el resto (modo Habilitado)</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1705,7 +1728,7 @@ La lista de excepciones por JID tiene dos modos de operación:
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Este complemento te permite jugar batalla naval con tus amigos.
+        <translation type="vanished">Este complemento te permite jugar batalla naval con tus amigos.
 Para el envío de comandos, se usan mensajes normales, por lo que este complemento funcionará siempre que hayas conectado. Para invitar a un amigo al juego, puedes hacerlo desde el menú de contacto o el botón en la barra de herramientas de la ventana de chat.</translation>
     </message>
     <message>
@@ -1715,6 +1738,11 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <message>
         <source>Battleship game!</source>
         <translation>¡Juego Batalla Naval!</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1761,7 +1789,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nombre:</translation>
+        <translation>Nombre:</translation>
     </message>
 </context>
 <context>
@@ -1912,7 +1940,15 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Diálogo</translation>
+        <translation type="vanished">Diálogo</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2315,7 @@ a jugar ajedrez. Quiere jugar %2.</translation>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2343,9 +2379,19 @@ a jugar ajedrez. Quiere jugar %2.</translation>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Este complemento te permite jugar ajedrez con tus amigos.
+        <translation type="vanished">Este complemento te permite jugar ajedrez con tus amigos.
 Es compatible con un complemento similar para Tkabber.
 Para enviar las órdenes, se usan los mensajes normales, por lo que este complemento funcionará siempre y cuando puedas iniciar sesión. Para invitar un amigo al juego, puedes usar la entrada del menú de contactos o el botón en la barra de herramientas de la ventana de conversación.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play chess with your friends.
+The plugin is compatible with a similar plugin for Tkabber.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2560,7 +2606,7 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2574,6 +2620,10 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Este complemento ha sido diseñado para limpiar la caché de avatares, copias locales de vCards y registro de historial. Puedes tener una vista previa antes de eliminarlos de tu disco duro.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2641,6 +2691,13 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <source>Invert</source>
         <translation>Invertir</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation>Mecanismos ofrecidos: </translation>
     </message>
 </context>
 <context>
@@ -2737,7 +2794,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2760,6 +2817,10 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <message>
         <source>Email: </source>
         <translation type="vanished">Email:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2818,7 +2879,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Consola &amp;XML</translation>
+        <translation type="vanished">Consola &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2867,6 +2928,10 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <message>
         <source>Groupchats</source>
         <translation>Salas</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3587,7 +3652,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Actividades</translation>
+        <translation>Actividades</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -4285,7 +4350,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS para Psi+&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS para Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4349,7 +4414,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4387,6 +4452,18 @@ Importante: una gran parte de las opciones son configuraciones importantes del s
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4854,7 +4931,11 @@ Razón: %3</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5120,7 +5201,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Pegar y Enviar</translation>
+        <translation type="vanished">Pegar y Enviar</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5900,7 +5981,7 @@ a jugar gomoku. Quiere jugar %2.</translation>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Este complemento te permite jugar gomoku con tus amigos.
+        <translation type="vanished">Este complemento te permite jugar gomoku con tus amigos.
 Para enviar órdenes, son usados los mensajes normales, por lo que este complemento funcionará siempre que puedas iniciar sesión. Para invitar un amigo al juego, puedes usar la entrada en el menú de la lista de contactos o el botón en la barra de herramientas de la ventana de conversación.</translation>
     </message>
     <message>
@@ -5910,6 +5991,11 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <message>
         <source>Gomoku game!</source>
         <translation>¡Juego Gomoku!</translation>
+    </message>
+    <message>
+        <source>Play gomoku with your friends.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6275,7 +6361,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
     <message>
         <source>Psi+ Import history</source>
-        <translation>Importar historial de Psi+</translation>
+        <translation type="vanished">Importar historial de Psi+</translation>
     </message>
     <message>
         <source>Found %1 files for import.
@@ -6287,12 +6373,16 @@ Continue?</source>
         <source>Counting records</source>
         <translation>Conteo de registros</translation>
     </message>
+    <message>
+        <source>Import history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -6315,6 +6405,10 @@ Continue?</source>
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>Este complemento ha sido diseñado para eliminar el historial  de los contactos seleccionados al cerrar Psi+.
 Puedes marcar o desmarcar un contacto para la eliminación de su historial desde el menú contextual o un contacto por medio de las opciones del complemento.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6784,7 +6878,7 @@ Tiene un número de pequeñas configuraciones que te ayudarán:
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6836,6 +6930,10 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     </message>
     <message>
         <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7273,6 +7371,10 @@ a jugar batalla naval. Quiere jugar %2.</translation>
     <message>
         <source>I want to play second</source>
         <translation>Quiero jugar de segundo</translation>
+    </message>
+    <message>
+        <source>Battleship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7783,6 +7885,14 @@ Motivo: %1</translation>
     <message>
         <source>Remove</source>
         <translation>Eliminar</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Cuenta</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8412,7 +8522,7 @@ Etiquetas: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi plugin to play noughts and crosses</source>
+        <source>Play Noughts And Crosses (Tic-tac-toe)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9194,6 +9304,10 @@ Motivo: %1.</translation>
         <source>S</source>
         <translation>S</translation>
     </message>
+    <message>
+        <source>Description</source>
+        <translation>Descripción</translation>
+    </message>
 </context>
 <context>
     <name>OptPopups</name>
@@ -9843,7 +9957,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Option Editor</source>
-        <translation>Psi: Editor de opciones</translation>
+        <translation type="vanished">Psi: Editor de opciones</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -9890,7 +10004,7 @@ Los nombres de opción no pueden estar vacios, acabar en &apos;.&apos; o contene
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
@@ -9943,7 +10057,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9967,7 +10081,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
@@ -10105,7 +10219,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -10149,7 +10263,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -10267,7 +10381,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -10303,7 +10417,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -10560,6 +10674,34 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11228,6 +11370,197 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabSecurity</name>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption methods and key management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation>Cuenta:</translation>
+    </message>
+    <message>
+        <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation>Usuario</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Huella</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation>Copiar huella</translation>
+    </message>
+    <message>
+        <source>Known keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retire device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sanitize OMEMO PEP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation>Configuración</translation>
+    </message>
+    <message>
+        <source>Publishing OMEMO keys…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking OMEMO PEP data…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO PEP data has been sanitized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retire OMEMO device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an account to manage its encryption settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This encryption method does not provide settings for this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready</source>
+        <translation>Preparado</translation>
+    </message>
+    <message>
+        <source>Not set up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No encryption methods are available for this account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO is unavailable in this build.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set up OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save name and republish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unnamed device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO support is not compiled in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not save the trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabShortcuts</name>
     <message>
         <source>Shortcuts</source>
@@ -11577,7 +11910,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -11649,7 +11982,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -11681,7 +12014,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Save queries to log</source>
@@ -11693,6 +12026,18 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>OS version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11763,15 +12108,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>Guardar contraseña</translation>
+        <translation type="vanished">Guardar contraseña</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation type="vanished">Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="vanished">Cancelar</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11808,6 +12153,21 @@ Por favor inserta tu contraseña abajo:</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: Contraseña de OpenPGP</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation>Contraseña de cuenta equivocada</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation>Por favor inserta tu contraseña para %1:</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation>Guardar contraseña</translation>
     </message>
 </context>
 <context>
@@ -12071,6 +12431,14 @@ Todavía puedes guardar el juego.</translation>
     <message>
         <source>Draw</source>
         <translation>Empate</translation>
+    </message>
+    <message>
+        <source>You Won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You Lost.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13027,6 +13395,26 @@ Motivo: %1.</translation>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The selected encryption method &apos;%1&apos; is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected encryption session is unavailable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The chat could not create an encryption session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The chat encryption session was closed before the message could be retried.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13132,7 +13520,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Consola &amp;XML</translation>
+        <translation type="vanished">Consola &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13372,19 +13760,19 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Foro Psi+ (Online)</translation>
+        <translation type="vanished">Foro Psi+ (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>&amp;Foro Psi+ (Online)</translation>
+        <translation type="vanished">&amp;Foro Psi+ (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation>Unirse a la sala de discusión de Psi+ (Online)</translation>
+        <translation type="vanished">Unirse a la sala de discusión de Psi+ (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation>&amp;Unirse a la sala de discusión de Psi+ (Online)</translation>
+        <translation type="vanished">&amp;Unirse a la sala de discusión de Psi+ (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13558,6 +13946,18 @@ Motivo: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Pegar y Enviar</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Cifrado</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13609,27 +14009,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Pegar y Enviar</translation>
-    </message>
-    <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Pegar y Enviar</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation>Huella para la cuenta «%1»: %2</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13662,6 +14046,66 @@ Motivo: %1.</translation>
     <message>
         <source>Command</source>
         <translation>Comando</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption: %1 (unavailable for this contact)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This encryption method is not available for the selected resource.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO devices and fingerprints…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own device: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No remote OMEMO devices are known yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote devices:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>distrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>undecided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO devices</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13776,6 +14220,10 @@ Motivo: %1.</translation>
         <source>Quit the application</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -13878,7 +14326,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Adelante</translation>
+        <translation>Adelante</translation>
     </message>
 </context>
 <context>
@@ -14115,7 +14563,122 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
+    </message>
+</context>
+<context>
+    <name>PsiEncryptionController</name>
+    <message>
+        <source>Decryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not prepare session recovery: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sent a new key exchange to %1 device %2. Future messages from it can be decrypted, but the failed message must be sent again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session recovery failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Review OMEMO devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Dirección</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation>Huella</translation>
+    </message>
+    <message>
+        <source>Unnamed device (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Your account (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This device did not publish a verifiable name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device name was verified against this OMEMO identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust allows selected contact devices to receive encrypted messages and selected devices of your own account to decrypt message copies. Distrust excludes those devices. Not now leaves them undecided and cancels this encrypted send.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust marks the selected sender devices as trusted. Distrust marks them as explicitly untrusted. Not now keeps the message visible but leaves the devices undecided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust and repair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrust selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrust device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not save the OMEMO trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO setup failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14357,7 +14920,7 @@ Quieres activar esa sesión ahora?</translation>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
-        <translation>Psi+: Editor de opciones</translation>
+        <translation type="vanished">Psi+: Editor de opciones</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -14382,6 +14945,10 @@ Quieres activar esa sesión ahora?</translation>
     <message>
         <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation>Editor de opción</translation>
     </message>
 </context>
 <context>
@@ -15568,11 +16135,11 @@ El complemento OTR no funcionará.</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation>Se ha recibido un mensaje cifrado ilegible.</translation>
+        <translation type="vanished">Se ha recibido un mensaje cifrado ilegible.</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation>Se ha recibido un mensaje cifrado pero no se puede leer porque no se ha establecido la conexión privada todavía.</translation>
+        <translation type="vanished">Se ha recibido un mensaje cifrado pero no se puede leer porque no se ha establecido la conexión privada todavía.</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
@@ -15580,7 +16147,7 @@ El complemento OTR no funcionará.</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation>El mensaje recibido contiene datos mal formados.</translation>
+        <translation type="vanished">El mensaje recibido contiene datos mal formados.</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
@@ -15948,7 +16515,7 @@ Contraseña: %5</translation>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>Las llaves privadas para la cuenta «%1» necesitan ser generadas. Esto tomará algo de tiempo (desde unos pocos segundos hasta un par de minutos), mientras tanto puedes seguir usando el Psi+, todos los mensajes serán enviados sin cifrado hasta que las llaves sean generadas. Se te notificará cuando el proceso termine.
+        <translation type="vanished">Las llaves privadas para la cuenta «%1» necesitan ser generadas. Esto tomará algo de tiempo (desde unos pocos segundos hasta un par de minutos), mientras tanto puedes seguir usando el Psi+, todos los mensajes serán enviados sin cifrado hasta que las llaves sean generadas. Se te notificará cuando el proceso termine.
 
 ¿Deseas generar las llaves ahora?</translation>
     </message>
@@ -16058,12 +16625,104 @@ Gracias por tu paciencia.</translation>
         <source>Audio and video device configuration</source>
         <translation>Configuración de los dispositivos de audio y vídeo</translation>
     </message>
+    <message>
+        <source>The OTR profile could not be loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot initialize OTR for this account: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot save OTR fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote OTR protocol error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message contains malformed OTR data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot update OTR fingerprint trust: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot delete OTR fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot delete OTR private key: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start an OTR session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR encryption session was cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR requires a recipient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The OTR session with %1 is not established yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not encrypt the message with OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR decryption session was cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The stanza was not a valid OTR message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undecided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -16076,6 +16735,10 @@ Gracias por tu paciencia.</translation>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Este complemento ha sido diseñado para mostrar los estados-x de contactos usando el cliente jabber QIP Infium.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17233,7 +17896,7 @@ Razón: %1</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -17315,6 +17978,10 @@ En la mayoría de los casos, para asegurarse que el diseño se aplicó correctam
 2. Reiniciar la aplicación
 3. Aplicar nuevamente el mismo diseño
 Esto permite que todas las configuraciones (íconos, distribución de la barra de herramientas) sean recuperadas correctamente.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17511,7 +18178,7 @@ El complemento guarda una traza de los mensajes bloqueados, la cual puedes ver a
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -17537,6 +18204,10 @@ El complemento ha sido diseñado para mantener las notas en el servidor jabber c
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18260,7 +18931,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation>Este complemento ha sido diseñado para establecer un estado personalizado al observar vídeos en los reproductores seleccionados.
+        <translation type="vanished">Este complemento ha sido diseñado para establecer un estado personalizado al observar vídeos en los reproductores seleccionados.
 Nota: Este complemento ha sido diseñado para funcionar en la familia de sistemas operativos Linux y Windows.
 
 En Linux usa DBUS para funcionar con los reproductores de vídeo y las funciones X11 para detectar aplicaciones en pantalla completa.
@@ -18273,6 +18944,24 @@ Para que funcione con el reproductor VLC necesitas habilitar la opción &apos;In
 Para que funcione con el reproductor Kaffeine debes tener la versión del reproductor (&gt;= 1.0), no hay necesidad de configuración adicional.
 
 Para que funcione con GNOME MPlayer no hay necesidad de configuración adicional.</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications (do not works with Wayland). 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed;
+
+To work with Parole player you need to enable MPRIS2 module/plugin.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18748,7 +19437,7 @@ Do you still want to close the window?</source>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Consola XML</translation>
+        <translation type="vanished">Consola XML</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18794,12 +19483,32 @@ Do you still want to close the window?</source>
         <source>SM</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Mecanismos ofrecidos: </translation>
+        <translation type="vanished">Mecanismos ofrecidos: </translation>
     </message>
 </context>
 <context>
@@ -19040,7 +19749,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violación de política</translation>
+        <translation>Violación de política</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
@@ -19062,7 +19771,11 @@ Do you still want to close the window?</source>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Consola XML</translation>
+        <translation type="vanished">Consola XML</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19085,7 +19798,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Has introducido un XML mal formado. ¿Seguro que quieres enviar esto?</translation>
+        <translation type="vanished">Has introducido un XML mal formado. ¿Seguro que quieres enviar esto?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -19094,6 +19807,10 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation type="vanished">No</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19148,7 +19865,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -19204,7 +19921,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (en línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (en línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20116,10 +20841,14 @@ a este mensaje en juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>https://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20440,7 +21169,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (En línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
