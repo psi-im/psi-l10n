@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>补丁作者和插件作者</translation>
+        <translation type="vanished">补丁作者和插件作者</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Psimedia 补丁作者和维基英语本地化</translation>
+        <translation type="vanished">Psimedia 补丁作者和维基英语本地化</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -244,35 +244,35 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation>首席补丁作者和插件作者、前 macOS 包维护者</translation>
+        <translation type="vanished">首席补丁作者和插件作者、前 macOS 包维护者</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation>语言协调员、补丁作者、Debian 和 Ubuntu 包维护者、MS Windows 和 macOS 包维护者</translation>
+        <translation type="vanished">语言协调员、补丁作者、Debian 和 Ubuntu 包维护者、MS Windows 和 macOS 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation>补丁作者和插件作者、MS Windows 包维护者</translation>
+        <translation type="vanished">补丁作者和插件作者、MS Windows 包维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation>补丁作者和插件作者、前 Fedora 包维护者</translation>
+        <translation type="vanished">补丁作者和插件作者、前 Fedora 包维护者</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation>补丁作者和前 Ubuntu 包维护者</translation>
+        <translation type="vanished">补丁作者和前 Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation>前 Ubuntu 包维护者</translation>
+        <translation type="vanished">前 Ubuntu 包维护者</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation>前 Mandriva Linux 包维护者</translation>
+        <translation type="vanished">前 Mandriva Linux 包维护者</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation>补丁作者和前俄语翻译</translation>
+        <translation type="vanished">补丁作者和前俄语翻译</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -295,12 +295,48 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
-        <source>Patcher and former MS Windows Packager</source>
-        <translation>补丁作者和前 MS Windows 包维护者</translation>
+        <source>Developer and Plugins Author</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and former Designer</source>
-        <translation>补丁作者和前设计师</translation>
+        <source>Developer and Language Coordinator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Developer and Plugins Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian Translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psimedia Developer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -662,6 +698,10 @@ When you enable this option you will not be able to find your password in config
                 &lt;br/&gt;
                 启用此选项后，您将无法在配置文件中找到密码，只有散列文本会在那里。因此，如果您忘记了密码，并且没有在其他地方备份，密码就会丢失。</translation>
     </message>
+    <message>
+        <source>SRV lookup:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -755,7 +795,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持，并且如果您安装了必要的 qca-ossl 插件，则可以使用此选项。如需了解详情，请查看 Psi 主页。</translation>
+        <translation type="vanished">选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持，并且如果您安装了必要的 qca-ossl 插件，则可以使用此选项。如需了解详情，请查看 Psi 主页。</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -872,6 +912,22 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
         <translation>无法启用 TLS，未找到插件。</translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote, with the DNS server of the proxy</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1650,44 +1706,151 @@ JID 的例外列表有两种操作模式：
     </message>
 </context>
 <context>
+    <name>AvCallManagerPrivate</name>
+    <message>
+        <source>The Jingle offer did not match the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AvCallPrivate</name>
     <message>
         <source>System error</source>
-        <translation>系统错误</translation>
+        <translation type="vanished">系统错误</translation>
     </message>
     <message>
         <source>Codec error</source>
-        <translation>编解码器错误</translation>
+        <translation type="vanished">编解码器错误</translation>
     </message>
     <message>
         <source>Generic error</source>
-        <translation>通用错误</translation>
+        <translation type="vanished">通用错误</translation>
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>在未选择设备的情况下无法通话。是否有麦克风？请检查 Psi 选项。</translation>
+        <translation type="vanished">在未选择设备的情况下无法通话。是否有麦克风？请检查 Psi 选项。</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
 %1.</source>
-        <translation>尝试发送时出错：
+        <translation type="vanished">尝试发送时出错：
 %1。</translation>
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>通话被拒绝或已终止。</translation>
+        <translation type="vanished">通话被拒绝或已终止。</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
-        <translation>通话协商超时。</translation>
+        <translation type="vanished">通话协商超时。</translation>
     </message>
     <message>
         <source>Unable to establish peer-to-peer connection.</source>
-        <translation>无法建立对等连接。</translation>
+        <translation type="vanished">无法建立对等连接。</translation>
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>通话协商失败。</translation>
+        <translation type="vanished">通话协商失败。</translation>
+    </message>
+    <message>
+        <source>The requested media type is not supported by the current media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact has no device to call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a Jingle call session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create the requested RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to initialize the media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No offered RTP media type was accepted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A media file was selected as call input but no file is configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No microphone is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a microphone to this session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No camera is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for screen sharing to connect before enabling the camera.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a camera to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for the camera to connect before sharing your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The media backend cannot add screen sharing to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer did not accept any usable RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen sharing was declined or could not connect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was terminated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was rejected or negotiation failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1762,7 +1925,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>和好友玩“战船“游戏。这是一个纸上棋类游戏，目标是击沉对手的战船。要邀请好友进行游戏，可使用联系人菜单项或聊天窗口中工具栏上的按钮。</translation>
     </message>
 </context>
 <context>
@@ -1842,103 +2005,365 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
         <source>Export bookmarks</source>
         <translation>导出书签</translation>
     </message>
+    <message>
+        <source>Bookmark error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark changes could not be submitted.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Call</name>
     <message>
         <source>Dialog</source>
-        <translation>对话框</translation>
+        <translation type="vanished">对话框</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>呼叫对象：</translation>
+        <translation type="vanished">呼叫对象：</translation>
     </message>
     <message>
         <source>Use video</source>
-        <translation>使用视频</translation>
+        <translation type="vanished">使用视频</translation>
     </message>
     <message>
         <source>Sending bandwidth:</source>
-        <translation>发送带宽：</translation>
+        <translation type="vanished">发送带宽：</translation>
     </message>
     <message>
         <source>Call status</source>
-        <translation>通话状态</translation>
+        <translation type="vanished">通话状态</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>拒绝(&amp;R)</translation>
+        <translation type="vanished">拒绝(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>接听(&amp;A)</translation>
+        <translation type="vanished">接听(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>CallDlg</name>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 — %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact cannot be called.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact does not support whiteboards.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a whiteboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The invitation was declined or failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a whiteboard to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted with OMEMO; the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted, verified with OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, but the contact&apos;s OMEMO device is not trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not end-to-end encrypted: the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, not verified end-to-end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CallDlg::Private</name>
     <message>
         <source>Voice Call</source>
-        <translation>语音通话</translation>
+        <translation type="vanished">语音通话</translation>
     </message>
     <message>
         <source>High (1Mbps)</source>
-        <translation>高 (1Mbps)</translation>
+        <translation type="vanished">高 (1Mbps)</translation>
     </message>
     <message>
         <source>Average (400Kbps)</source>
-        <translation>平均 (400Kbps)</translation>
+        <translation type="vanished">平均 (400Kbps)</translation>
     </message>
     <message>
         <source>Low (160Kbps)</source>
-        <translation>低 (160Kbps)</translation>
+        <translation type="vanished">低 (160Kbps)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭(&amp;C)</translation>
+        <translation type="vanished">关闭(&amp;C)</translation>
     </message>
     <message>
         <source>C&amp;all</source>
-        <translation>呼叫(&amp;A)</translation>
+        <translation type="vanished">呼叫(&amp;A)</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>就绪</translation>
+        <translation type="vanished">就绪</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>来自：</translation>
+        <translation type="vanished">来自：</translation>
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>接听通话？</translation>
+        <translation type="vanished">接听通话？</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消(&amp;C)</translation>
+        <translation type="vanished">取消(&amp;C)</translation>
     </message>
     <message>
         <source>Calling...</source>
-        <translation>正在呼叫…</translation>
+        <translation type="vanished">正在呼叫…</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>正在接听…</translation>
+        <translation type="vanished">正在接听…</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
-        <translation>挂断(&amp;H)</translation>
+        <translation type="vanished">挂断(&amp;H)</translation>
     </message>
     <message>
         <source>Call active</source>
-        <translation>正在通话</translation>
+        <translation type="vanished">正在通话</translation>
     </message>
     <message>
         <source>Call is ended</source>
-        <translation>通话已结束</translation>
+        <translation type="vanished">通话已结束</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation>通话时长：%1</translation>
+        <translation type="vanished">通话时长：%1</translation>
+    </message>
+</context>
+<context>
+    <name>CallStage</name>
+    <message>
+        <source>Show %1 on the main stage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CallView</name>
+    <message>
+        <source>Audio call
+Turn on your camera or share your screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HD · 2 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balanced · 1 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low bandwidth · 400 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Close call window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel screen selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel selected screen: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End call (%1 elapsed)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Cancel call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen selected: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected · waiting for video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session ended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call ended</source>
+        <translation>通话已结束</translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls are not available with this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No devices available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System default (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device unavailable; using %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2263,45 +2688,56 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ChatEditProxy</name>
+    <message>
+        <source>Reply</source>
+        <translation>回复</translation>
+    </message>
+    <message>
+        <source>Reply to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 说：</translation>
+        <translation type="vanished">%1 说：</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>主题：</translation>
+        <translation type="vanished">主题：</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation type="vanished">URL:</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation>描述：</translation>
+        <translation type="vanished">描述：</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>消息已被更正</translation>
+        <translation type="vanished">消息已被更正</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>聊天消息样式</translation>
+        <translation type="vanished">聊天消息样式</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>在此处配置聊天主题</translation>
+        <translation type="vanished">在此处配置聊天主题</translation>
     </message>
 </context>
 <context>
@@ -2412,7 +2848,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>和好友玩国际象棋。该插件兼容 Tkabber 的类似插件。要邀请好友进行游戏可用联系人菜单项或聊天窗口中工具栏上的按钮。</translation>
     </message>
 </context>
 <context>
@@ -2776,6 +3212,89 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
 </context>
 <context>
+    <name>CodeBlockWidget</name>
+    <message>
+        <source>Choose syntax highlighting language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in a separate window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format JSON or XML for reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run received code?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executing code from a message can read, modify or delete local data. Only continue if you have reviewed the code and trust its source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I understand and accept the risk of running code from an unverified source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syntax highlighting: %1. Click to choose another language.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format for reading (toggle original)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format available for valid JSON or XML, up to 2 MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
@@ -2956,6 +3475,34 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>&amp;XMPP Console</source>
         <translation>XMPP 控制台(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Blocked Contacts...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked Contacts</source>
+        <translation>已屏蔽的联系人</translation>
+    </message>
+    <message>
+        <source>Server blocklist (XEP-0191)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block JID...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock</source>
+        <translation>取消屏蔽</translation>
+    </message>
+    <message>
+        <source>Block JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP address:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3287,6 +3834,29 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DesktopUtil</name>
+    <message>
+        <source>Choose another player…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External media player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player:</source>
+        <translation>播放器：</translation>
+    </message>
+    <message>
+        <source>Choose media player executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the media player. Choose another player and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
@@ -3436,12 +4006,16 @@ Proceed?</source>
         <source>Service Discovery toolbar</source>
         <translation>服务发现工具栏</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -3530,11 +4104,18 @@ Proceed?</source>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您现在已获得授权。</translation>
+        <translation type="vanished">&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您现在已获得授权。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您的授权已被移除！</translation>
+        <translation type="vanished">&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;您的授权已被移除！</translation>
+    </message>
+</context>
+<context>
+    <name>EDBSqLite</name>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4686,6 +5267,13 @@ that outgoing TCP connections are allowed.</source>
     </message>
 </context>
 <context>
+    <name>FileShareDownloader</name>
+    <message>
+        <source>The file is larger than the automatic download limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
@@ -4696,11 +5284,69 @@ that outgoing TCP connections are allowed.</source>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation>已发布在 HttpUpload 服务上</translation>
+        <translation type="vanished">已发布在 HttpUpload 服务上</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation>无法在 HttpUpload 服务上发布</translation>
+        <translation type="vanished">无法在 HttpUpload 服务上发布</translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingMediaSave</name>
+    <message>
+        <source>Download source disappeared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected media size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read media data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media download ended before validation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incomplete media download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingPublication</name>
+    <message>
+        <source>Published in the private PubSub catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PubSub publication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reusing an HTTP upload after checking its availability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not open the file for HTTP upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation>已发布在 HttpUpload 服务上</translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5327,6 +5973,50 @@ Reason: %1</source>
         <source>%1 encryption is enabled</source>
         <translation>%1 加密已启用</translation>
     </message>
+    <message>
+        <source>%1 is not in the room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy last known address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation>用户信息</translation>
+    </message>
+    <message>
+        <source>Open Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -5337,6 +6027,10 @@ Reason: %1</source>
     <message>
         <source>Command</source>
         <translation>命令</translation>
+    </message>
+    <message>
+        <source>Room membership lost; attempting to rejoin.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6019,7 +6713,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Play gomoku with your friends.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>和你的好友玩五子棋。
+要邀请好友进行游戏，可使用联系人菜单项或者聊天窗口中工具栏上的按钮</translation>
     </message>
 </context>
 <context>
@@ -6107,6 +6802,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <source>Send</source>
         <translation>发送</translation>
     </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GroupChatTopicAddLangDlg</name>
@@ -6131,11 +6830,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>群聊消息样式</translation>
+        <translation type="vanished">群聊消息样式</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>在此处配置群聊主题</translation>
+        <translation type="vanished">在此处配置群聊主题</translation>
     </message>
 </context>
 <context>
@@ -6236,6 +6935,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>deleted</source>
         <translation>已删除</translation>
+    </message>
+    <message>
+        <source>Group chats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6361,27 +7064,27 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation>状态：</translation>
+        <translation type="vanished">状态：</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation>进度：</translation>
+        <translation type="vanished">进度：</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>退出</translation>
+        <translation type="vanished">退出</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>导入</translation>
+        <translation type="vanished">导入</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>Psi+ Import history</source>
@@ -6390,16 +7093,32 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>已找到 %1 个要导入的文件。
+        <translation type="vanished">已找到 %1 个要导入的文件。
 是否继续？</translation>
     </message>
     <message>
         <source>Counting records</source>
-        <translation>正在计算记录</translation>
+        <translation type="vanished">正在计算记录</translation>
     </message>
     <message>
-        <source>Import history</source>
-        <translation>导入历史记录</translation>
+        <source>Upgrade history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history database needs to be upgraded. This can take some time for a large history. Psi will continue starting after the upgrade finishes. Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrading history…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrading history (record %1)…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history upgrade failed. Changes were rolled back; Psi cannot continue.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6433,6 +7152,41 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>HistorySync</name>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up repeated a cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not repair cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up did not advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not persist archive page</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7432,7 +8186,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Battleship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>战船游戏插件——邀请</translation>
     </message>
 </context>
 <context>
@@ -7566,6 +8320,10 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Jingle download failed: %s</source>
         <translation>Jingle下载失败：%s</translation>
+    </message>
+    <message>
+        <source>Jingle file transfer is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8242,6 +9000,212 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
 </context>
 <context>
+    <name>MamChatWidget</name>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Add reaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retract message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>消息</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delivered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation>消息已被更正</translation>
+    </message>
+    <message>
+        <source>Edited message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type: %1
+Size: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation>打开文件</translation>
+    </message>
+    <message>
+        <source>Show in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>在浏览器中打开</translation>
+    </message>
+    <message>
+        <source>Cancel download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create a temporary directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Message retracted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Referenced message is not available locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quote</source>
+        <translation>引用</translation>
+    </message>
+    <message>
+        <source>The message has no reply identifier assigned by its sender or room.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>转发</translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MamImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Mattermost::OverlayScrollBarManager</name>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
@@ -8254,6 +9218,21 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation>可以根据各种筛选条件丢弃传入的节，例如源/目标地址或特定消息内容</translation>
+    </message>
+</context>
+<context>
+    <name>MessagePreview</name>
+    <message>
+        <source>Cancel reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show more…</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8521,6 +9500,48 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>NativeChatThemes</name>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speech bubbles, your messages on the right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NativeChatViewThemeProvider</name>
+    <message>
+        <source>Groupchat Message Style</source>
+        <translation>群聊消息样式</translation>
+    </message>
+    <message>
+        <source>Chat Message Style</source>
+        <translation>聊天消息样式</translation>
+    </message>
+    <message>
+        <source>Choose the native message layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
@@ -8608,7 +9629,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Play Noughts And Crosses (Tic-tac-toe)</source>
-        <translation type="unfinished"></translation>
+        <translation>玩井字棋</translation>
     </message>
 </context>
 <context>
@@ -8993,6 +10014,26 @@ Reason: %1.</source>
         <source>Group chat contacts without role:</source>
         <translation>无角色的群聊联系人：</translation>
     </message>
+    <message>
+        <source>Desktop palette:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Muted color for quoted text and the vertical quote line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quoted messages:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -9367,7 +10408,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>使用联系人的消息格式</translation>
+        <translation type="vanished">使用联系人的消息格式</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -9392,6 +10433,22 @@ Reason: %1.</source>
     <message>
         <source>Enable audio messages</source>
         <translation>启用音频消息</translation>
+    </message>
+    <message>
+        <source>Download automatically in chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download automatically in group chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9548,11 +10605,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>禁用应用程序窗口中的滚动条。</translation>
+        <translation type="vanished">禁用应用程序窗口中的滚动条。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>禁用滚动条</translation>
+        <translation type="vanished">禁用滚动条</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -9663,11 +10720,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation>隐藏联系人列表部件中的滚动条。</translation>
+        <translation type="vanished">隐藏联系人列表部件中的滚动条。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>禁用滚动条</translation>
+        <translation type="vanished">禁用滚动条</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -9834,6 +10891,14 @@ Reason: %1.</source>
     <message>
         <source>Reset to defaults</source>
         <translation>重置为默认</translation>
+    </message>
+    <message>
+        <source>Incoming call (repeated):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calling (repeated):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10990,6 +12055,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Status message</source>
         <translation>状态消息</translation>
     </message>
+    <message>
+        <source>Light desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
@@ -11301,7 +12378,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>vk.com</source>
-        <translation>vk.com</translation>
+        <translation type="vanished">vk.com</translation>
     </message>
     <message>
         <source>Weather</source>
@@ -11377,7 +12454,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>如果启用，Psi 将按联系人指定的格式显示收到的消息</translation>
+        <translation type="vanished">如果启用，Psi 将按联系人指定的格式显示收到的消息</translation>
+    </message>
+    <message>
+        <source>Never, only when asked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11496,7 +12597,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Encryption methods and key management</source>
-        <translation type="unfinished"></translation>
+        <translation>加密方式和密钥管理</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11504,7 +12605,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
-        <translation type="unfinished"></translation>
+        <translation>信任前审核每个身份。信任的设备可以接收加密消息；不信任的设备被排除。</translation>
     </message>
     <message>
         <source>User</source>
@@ -11516,7 +12617,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -11536,7 +12637,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Known keys</source>
-        <translation type="unfinished"></translation>
+        <translation>已知密钥</translation>
     </message>
     <message>
         <source>Current device</source>
@@ -11544,35 +12645,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Device ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>设备 ID：</translation>
     </message>
     <message>
         <source>Device name:</source>
-        <translation type="unfinished"></translation>
+        <translation>设备名称：</translation>
     </message>
     <message>
         <source>Fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹：</translation>
     </message>
     <message>
         <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>为这个账号注册的其他设备。报废一台设备会将其从已发布的 OMEMO 设备列表中删除，这样它不会再接收加密消息。</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>设备</translation>
     </message>
     <message>
         <source>Retire device</source>
-        <translation type="unfinished"></translation>
+        <translation>作废设备</translation>
     </message>
     <message>
         <source>Sanitize OMEMO PEP</source>
-        <translation type="unfinished"></translation>
+        <translation>净化 OMEMO PEP</translation>
     </message>
     <message>
         <source>Own keys</source>
-        <translation type="unfinished"></translation>
+        <translation>自己的密钥</translation>
     </message>
     <message>
         <source>OMEMO encryption policy</source>
@@ -11592,7 +12693,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>这是新聊天的全局默认值。单个聊天中选中的方式优先级高于默认值。新的 OMEMO 身份始终需要明确的信任决定。</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -11600,7 +12701,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在发布 OMEMO 密钥…</translation>
     </message>
     <message>
         <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
@@ -11608,19 +12709,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Checking OMEMO PEP data…</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查 OMEMO PEP 数据…</translation>
     </message>
     <message>
         <source>OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO</translation>
     </message>
     <message>
         <source>OMEMO PEP data has been sanitized.</source>
-        <translation type="unfinished"></translation>
+        <translation>已净化 OMEMO PEP 数据</translation>
     </message>
     <message>
         <source>Retire OMEMO device</source>
-        <translation type="unfinished"></translation>
+        <translation>作废 OMEMO 设备</translation>
     </message>
     <message>
         <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
@@ -11628,11 +12729,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select an account to manage its encryption settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个账号来管理它的加密设置。</translation>
     </message>
     <message>
         <source>This encryption method does not provide settings for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>此加密方式不提供此页面的设置。</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -11640,15 +12741,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Not set up</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>可用</translation>
     </message>
     <message>
         <source>No encryption methods are available for this account.</source>
-        <translation type="unfinished"></translation>
+        <translation>此账号没有加密方式可用。</translation>
     </message>
     <message>
         <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
@@ -11656,26 +12757,137 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OMEMO is unavailable in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本中 OMEMO 不可用.</translation>
     </message>
     <message>
         <source>Set up OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>设置 OMEMO</translation>
     </message>
     <message>
         <source>Save name and republish</source>
-        <translation type="unfinished"></translation>
+        <translation>保存名称并重新发布</translation>
     </message>
     <message>
         <source>Unnamed device</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名的设备</translation>
     </message>
     <message>
         <source>OMEMO support is not compiled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 支持没有编译进来。</translation>
     </message>
     <message>
         <source>Could not save the trust decision.</source>
+        <translation>无法保存信任决定。</translation>
+    </message>
+    <message>
+        <source>Calls, whiteboards and files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabServerless</name>
+    <message>
+        <source>Serverless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat on the local network without a server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable serverless messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>刷新</translation>
+    </message>
+    <message>
+        <source>Network interface:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Listening port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connect automatically when Psi starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation>状态：</translation>
+    </message>
+    <message>
+        <source>Automatic (active local network)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
+    <message>
+        <source>%1 (unavailable)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assigned when enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation>已禁用</translation>
+    </message>
+    <message>
+        <source>Online on the local network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Announcing on the local network…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>离线</translation>
+    </message>
+    <message>
+        <source>Local network</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11893,6 +13105,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
         <translation>请注意：此编辑器将直接更改选项，按取消将不会恢复这些更改。</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabXmppAccounts</name>
+    <message>
+        <source>XMPP</source>
+        <translation>XMPP</translation>
+    </message>
+    <message>
+        <source>Server accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12557,11 +13780,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>You Won!</source>
-        <translation type="unfinished"></translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <source>You Lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>你输了。</translation>
     </message>
 </context>
 <context>
@@ -12822,67 +14045,74 @@ Please enter your passphrase below:</source>
     </message>
 </context>
 <context>
+    <name>ProfileItemDelegate</name>
+    <message>
+        <source>Delete profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ProfileManage</name>
     <message>
         <source>Manage Profiles</source>
-        <translation>管理配置文件</translation>
+        <translation type="vanished">管理配置文件</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加(&amp;A)</translation>
+        <translation type="vanished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>重命名(&amp;R)</translation>
+        <translation type="vanished">重命名(&amp;R)</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>移除(&amp;O)</translation>
+        <translation type="vanished">移除(&amp;O)</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation type="vanished">psi/remove</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation>重命名配置文件</translation>
+        <translation type="vanished">重命名配置文件</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation>请为配置文件输入新名称，简单就好。
+        <translation type="vanished">请为配置文件输入新名称，简单就好。
 只能使用字母或数字，没有标点符号或空格。</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>已经有另一个配置文件使用此名称，请选择其他名称。</translation>
+        <translation type="vanished">已经有另一个配置文件使用此名称，请选择其他名称。</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>无法重命名配置文件，请不要使用任何特殊字符。</translation>
+        <translation type="vanished">无法重命名配置文件，请不要使用任何特殊字符。</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation>删除配置文件</translation>
+        <translation type="vanished">删除配置文件</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;是否确定要删除“&lt;b&gt;%1&lt;/b&gt;”配置文件？这将删除配置文件的所有消息历史记录以及相关设置！&lt;/qt&gt;</translation>
+        <translation type="vanished">&lt;qt&gt;是否确定要删除“&lt;b&gt;%1&lt;/b&gt;”配置文件？这将删除配置文件的所有消息历史记录以及相关设置！&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
-        <translation>不，我改变主意了</translation>
+        <translation type="vanished">不，我改变主意了</translation>
     </message>
     <message>
         <source>Delete it!</source>
-        <translation>删除它！</translation>
+        <translation type="vanished">删除它！</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -12896,19 +14126,19 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;作为预防措施，您最后一次被问到这是否是您真正想要的。以下文件夹将被删除！&lt;br&gt;&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;作为预防措施，您最后一次被问到这是否是您真正想要的。以下文件夹将被删除！&lt;br&gt;&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 是否继续？</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation>无法完全删除文件夹，请确保您拥有适当的权限。</translation>
+        <translation type="vanished">无法完全删除文件夹，请确保您拥有适当的权限。</translation>
     </message>
 </context>
 <context>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation>新配置文件</translation>
+        <translation type="vanished">新配置文件</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -12924,77 +14154,65 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation>配置文件名称：</translation>
+        <translation type="vanished">配置文件名称：</translation>
     </message>
     <message>
         <source>Default Action</source>
-        <translation>默认操作</translation>
+        <translation type="vanished">默认操作</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation>启用表情符号</translation>
+        <translation type="vanished">启用表情符号</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭(&amp;C)</translation>
+        <translation type="vanished">关闭(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>创建(&amp;C)</translation>
+        <translation type="vanished">创建(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>消息(&amp;M)</translation>
+        <translation type="vanished">消息(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>聊天(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。名称应为仅由字母或数字组成的单个单词。&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。选项包括&lt;b&gt;消息和&lt;b&gt;聊天&lt;/b&gt;。您可以稍后从选项菜单更改此选项。&lt;br&gt;
-&lt;br&gt;
-如果您想要让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像 &lt;icon name=&quot;psi/smile&quot;&gt; 这样的图形，则勾选&lt;i&gt;启用表情符号&lt;/i&gt;复选框。</translation>
+        <translation type="vanished">聊天(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
     <message>
         <source>New Profile</source>
-        <translation>新配置文件</translation>
+        <translation type="vanished">新配置文件</translation>
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>已存在具有此名称的现有配置文件，请选择其他名称。</translation>
+        <translation type="vanished">已存在具有此名称的现有配置文件，请选择其他名称。</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>无法创建配置文件，请不要使用任何特殊字符。</translation>
+        <translation type="vanished">无法创建配置文件，请不要使用任何特殊字符。</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpen</name>
     <message>
         <source>Open Profile</source>
-        <translation>打开配置文件</translation>
+        <translation type="vanished">打开配置文件</translation>
     </message>
     <message>
         <source>left</source>
-        <translation>左</translation>
+        <translation type="vanished">左</translation>
     </message>
     <message>
         <source>Image goes here</source>
@@ -13006,54 +14224,128 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile:</source>
-        <translation>配置文件：</translation>
+        <translation type="vanished">配置文件：</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>启动时自动打开(&amp;A)</translation>
+        <translation type="vanished">启动时自动打开(&amp;A)</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>语言：</translation>
+        <translation type="vanished">语言：</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>退出(&amp;Q)</translation>
+        <translation type="vanished">退出(&amp;Q)</translation>
     </message>
     <message>
         <source>psi/quit</source>
-        <translation>psi/quit</translation>
+        <translation type="vanished">psi/quit</translation>
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation>配置文件(&amp;P)…</translation>
+        <translation type="vanished">配置文件(&amp;P)…</translation>
     </message>
     <message>
         <source>psi/profile</source>
-        <translation>psi/profile</translation>
+        <translation type="vanished">psi/profile</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>打开(&amp;O)</translation>
+        <translation type="vanished">打开(&amp;O)</translation>
     </message>
     <message>
         <source>psi/logo_16</source>
-        <translation>psi/logo_16</translation>
+        <translation type="vanished">psi/logo_16</translation>
+    </message>
+    <message>
+        <source>Profiles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Startup and language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Automatically open this profile on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last opened profile will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application language:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>从此列表中选择要打开的配置文件。</translation>
+        <translation type="vanished">从此列表中选择要打开的配置文件。</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation>从此列表中选择您想要 Psi 使用的语言。您可以从 Psi 主页下载额外的语言包。</translation>
+        <translation type="vanished">从此列表中选择您想要 Psi 使用的语言。您可以从 Psi 主页下载额外的语言包。</translation>
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>Psi 启动时自动打开此配置文件。如果您只有一个配置文件，则非常有用。</translation>
+        <translation type="vanished">Psi 启动时自动打开此配置文件。如果您只有一个配置文件，则非常有用。</translation>
+    </message>
+    <message>
+        <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the application language. This setting applies to all profiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the selected profile automatically the next time Psi starts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create this profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile created, but its default options could not be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile names may contain only letters and numbers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A profile with this name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to rename the profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Profile</source>
+        <translation>删除配置文件</translation>
+    </message>
+    <message>
+        <source>Delete profile &quot;%1&quot;?
+
+All of its message history, settings, and cached files will be deleted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the profile completely. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13106,6 +14398,26 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Password:</source>
         <translation>密码：</translation>
     </message>
+    <message>
+        <source>DNS through the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoH URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test DNS...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyChooser</name>
@@ -13140,12 +14452,56 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
         <translation>如果需要代理服务器进行连接，请在此处选择代理类型。</translation>
     </message>
+    <message>
+        <source>None</source>
+        <translation>访客</translation>
+    </message>
+    <message>
+        <source>DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS over TCP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A DNS server reached through this proxy. Accounts that use the proxy can look up their server with it (remote SRV lookup), so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
         <translation>未命名</translation>
+    </message>
+    <message>
+        <source>Test proxy DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid proxy host or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP domain to look up:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XMPP server was found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SRV, the domain:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SRV %1:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13529,15 +14885,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>The selected encryption method &apos;%1&apos; is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选加密方式“%1”不可用。</translation>
     </message>
     <message>
         <source>The selected encryption session is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选加密会话不可用。</translation>
     </message>
     <message>
         <source>The chat could not create an encryption session.</source>
-        <translation type="unfinished"></translation>
+        <translation>该聊天无法创建加密会话。</translation>
     </message>
     <message>
         <source>The chat encryption session was closed before the message could be retried.</source>
@@ -13545,6 +14901,22 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption failed: %1</source>
+        <translation>加密失败：%1</translation>
+    </message>
+    <message>
+        <source>Bookmark synchronization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless delivery failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation>不支持</translation>
+    </message>
+    <message>
+        <source>Group chat whiteboards are not supported yet.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14209,51 +15581,51 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
-        <translation type="unfinished"></translation>
+        <translation>加密：%1（该联系人不可使用）</translation>
     </message>
     <message>
         <source>Encryption: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>加密：%1</translation>
     </message>
     <message>
         <source>No encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>无加密</translation>
     </message>
     <message>
         <source>This encryption method is not available for the selected resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>此加密方式对所选资源不可用。</translation>
     </message>
     <message>
         <source>OpenPGP management</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP 管理</translation>
     </message>
     <message>
         <source>OMEMO devices and fingerprints…</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 设备和指纹…</translation>
     </message>
     <message>
         <source>Own device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>自己的设备：%1</translation>
     </message>
     <message>
         <source>Own fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>自己的指纹：%1</translation>
     </message>
     <message>
         <source>No remote OMEMO devices are known yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有已知的远程 OMEMO 设备。</translation>
     </message>
     <message>
         <source>Remote devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>远程设备：</translation>
     </message>
     <message>
         <source>distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>未决定</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -14261,6 +15633,34 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OMEMO devices</source>
+        <translation>OMEMO 设备</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>加密</translation>
+    </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation>语音呼叫</translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard only</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14373,16 +15773,8 @@ Reason: %1.</source>
         <translation>接收下一个待处理事件。</translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation>使用软件部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
-    </message>
-    <message>
         <source>Quit the application</source>
         <translation>退出应用程序</translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
-        <translation>使用 Vulkan 部件渲染。在 X11 和 NVIDIA 显卡上，QtWebengine 渲染可能会使用 Vulkan，如果聊天标签页/窗口中无内容显示，此选项可能会有所帮助</translation>
     </message>
 </context>
 <context>
@@ -14539,7 +15931,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>打开白板(&amp;W)</translation>
+        <translation type="vanished">打开白板(&amp;W)</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -14695,7 +16087,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Open a White&amp;board To</source>
-        <translation>打开白板至(&amp;B)</translation>
+        <translation type="vanished">打开白板至(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Active Chats</source>
@@ -14721,6 +16113,14 @@ Migration is possible with Psi-0.15</source>
         <source>Add To Bookmarks</source>
         <translation>添加到书签</translation>
     </message>
+    <message>
+        <source>Call &amp;To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiDBusNotifier</name>
@@ -14728,16 +16128,28 @@ Migration is possible with Psi-0.15</source>
         <source>Open</source>
         <translation>打开</translation>
     </message>
+    <message>
+        <source>Whiteboard invitation</source>
+        <translation>白板邀请</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation>接听</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiEncryptionController</name>
     <message>
         <source>Decryption failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>解密失败：%1</translation>
     </message>
     <message>
         <source>Could not prepare session recovery: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法准备会话恢复：%1</translation>
     </message>
     <message>
         <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
@@ -14749,23 +16161,23 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Session recovery failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>会话恢复失败：%1</translation>
     </message>
     <message>
         <source>Review OMEMO devices</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 OMEMO 设备</translation>
     </message>
     <message>
         <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation>新 OMEMO 设备密钥在能被用于对外发送的加密消息前需要一个信任决定。设备名将与其身份密钥进行对比验证（OMEMO 2) 并由设备所有者提供。</translation>
+        <translation>新 OMEMO 设备密钥在能被用于对外发送的加密消息前需要一个信任决定。设备名将与其身份密钥进行对照验证（OMEMO 2) 并由设备所有者提供。</translation>
     </message>
     <message>
         <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation>Psi 无法解密来自此设备的一条消息，因为本地会话缺失。查看该设备并明确批准创建新的会话。设备名将与其身份密钥进行对比验证（OMEMO 2）并由设备所有者提供。</translation>
+        <translation>Psi 无法解密来自此设备的一条消息，因为本地会话缺失。查看该设备并明确批准创建新的会话。设备名将与其身份密钥进行对照验证（OMEMO 2）并由设备所有者提供。</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>设备</translation>
     </message>
     <message>
         <source>Address</source>
@@ -14773,7 +16185,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -14781,7 +16193,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>未命名设备（%1）</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -14789,15 +16201,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Your account (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>你的账号（%1）</translation>
     </message>
     <message>
         <source>This device did not publish a verifiable name.</source>
-        <translation type="unfinished"></translation>
+        <translation>此设备未发布可验证的名称。</translation>
     </message>
     <message>
         <source>The device name was verified against this OMEMO identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>设备名和此 OMEMO 身份密钥进行对比验证。</translation>
     </message>
     <message>
         <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
@@ -14813,34 +16225,48 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Trust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>选择了信任</translation>
     </message>
     <message>
         <source>Trust and repair</source>
-        <translation type="unfinished"></translation>
+        <translation>信任并修复</translation>
     </message>
     <message>
         <source>Repair session</source>
-        <translation type="unfinished"></translation>
+        <translation>修复会话</translation>
     </message>
     <message>
         <source>Distrust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>选择了不信任</translation>
     </message>
     <message>
         <source>Distrust device</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任设备</translation>
     </message>
     <message>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>不是现在</translation>
     </message>
     <message>
         <source>Could not save the OMEMO trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存 OMEMO 信任决定。</translation>
     </message>
     <message>
         <source>OMEMO setup failed: %1</source>
+        <translation>OMEMO 设置失败：%1</translation>
+    </message>
+    <message>
+        <source>Could not decrypt a message: the encryption session with this device is broken (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair OMEMO session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This device&apos;s identity key is already trusted. Only its encryption session needs to be repaired.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14911,6 +16337,13 @@ Would you like to activate that session now?</source>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>无法打开此配置文件 - 它已在运行，但没有响应</translation>
+    </message>
+</context>
+<context>
+    <name>PsiMedia::ScreenCapture</name>
+    <message>
+        <source>The media backend does not support screen sharing.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15059,11 +16492,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Open a detached option editor window.</source>
-        <translation>打开分离的选项编辑器窗口。</translation>
+        <translation type="vanished">打开分离的选项编辑器窗口。</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>高级</translation>
+        <translation type="vanished">高级</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15124,12 +16557,42 @@ Would you like to activate that session now?</source>
         <source> is typing...</source>
         <translation> 正在输入…</translation>
     </message>
+    <message>
+        <source>invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is calling you</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiPopup::Private</name>
+    <message>
+        <source>Accept</source>
+        <translation>接听</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
         <translation>清除</translation>
+    </message>
+</context>
+<context>
+    <name>PsiTextView</name>
+    <message>
+        <source>unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared media is downloading (%1, %2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16790,94 +18253,134 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>The OTR profile could not be loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载 OTR 配置文件。</translation>
     </message>
     <message>
         <source>Cannot initialize OTR for this account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为该账号初始化 OTR：%1</translation>
     </message>
     <message>
         <source>Cannot save OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存 OTR 指纹：%1</translation>
     </message>
     <message>
         <source>Remote OTR protocol error.</source>
-        <translation type="unfinished"></translation>
+        <translation>远程 OTR 协议错误。</translation>
     </message>
     <message>
         <source>Received message contains malformed OTR data.</source>
-        <translation type="unfinished"></translation>
+        <translation>接收的消息含畸形的 OTR 数据。</translation>
     </message>
     <message>
         <source>Cannot update OTR fingerprint trust: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法更新 OTR 指纹信任：%1</translation>
     </message>
     <message>
         <source>Cannot delete OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除 OTR 指纹：%1</translation>
     </message>
     <message>
         <source>Cannot delete OTR private key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除 OTR 私钥：%1</translation>
     </message>
     <message>
         <source>Could not start an OTR session.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动 OTR 会话。</translation>
     </message>
     <message>
         <source>OTR encryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>取消了 OTR 加密会话</translation>
     </message>
     <message>
         <source>OTR requires a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR 需要收件人</translation>
     </message>
     <message>
         <source>The OTR session with %1 is not established yet</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的 OTR 会话尚未建立</translation>
     </message>
     <message>
         <source>Could not encrypt the message with OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>无法用 OTR 加密消息</translation>
     </message>
     <message>
         <source>OTR decryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>取消了 OTR 解密会话</translation>
     </message>
     <message>
         <source>The stanza was not a valid OTR message</source>
-        <translation type="unfinished"></translation>
+        <translation>该文本段不是有效的 OTR 消息</translation>
     </message>
     <message>
         <source>OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR</translation>
     </message>
     <message>
         <source>Distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>Undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>未决定</translation>
     </message>
     <message>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>信任</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>旧式</translation>
     </message>
     <message>
         <source>OMEMO 2</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 2</translation>
     </message>
     <message>
         <source>Legacy OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>旧的 OMEMO</translation>
     </message>
     <message>
         <source>Unknown</source>
+        <translation>未知</translation>
+    </message>
+    <message>
+        <source>Save file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No download source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transferring, end-to-end encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>完成</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Native message layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17096,6 +18599,29 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>This user wants to modify your roster.</source>
         <translation>此用户想要修改您的联系人列表。</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenShareCapture</name>
+    <message>
+        <source>Choose what to share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or a single window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>分享</translation>
     </message>
 </context>
 <context>
@@ -19434,108 +20960,108 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>WbDlg</name>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation>白板(%1)</translation>
+        <translation type="vanished">白板(%1)</translation>
     </message>
     <message>
         <source>Save session</source>
-        <translation>保存会话</translation>
+        <translation type="vanished">保存会话</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation>保存白板的内容</translation>
+        <translation type="vanished">保存白板的内容</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation>更改几何图形</translation>
+        <translation type="vanished">更改几何图形</translation>
     </message>
     <message>
         <source>End session</source>
-        <translation>结束会话</translation>
+        <translation type="vanished">结束会话</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation>清除白板</translation>
+        <translation type="vanished">清除白板</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation>笔划颜色</translation>
+        <translation type="vanished">笔划颜色</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation>填充颜色</translation>
+        <translation type="vanished">填充颜色</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation>笔划宽度</translation>
+        <translation type="vanished">笔划宽度</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation>编辑模式</translation>
+        <translation type="vanished">编辑模式</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation>细的笔划</translation>
+        <translation type="vanished">细的笔划</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation>中等笔划</translation>
+        <translation type="vanished">中等笔划</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation>宽的笔划</translation>
+        <translation type="vanished">宽的笔划</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>选择</translation>
+        <translation type="vanished">选择</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>转换</translation>
+        <translation type="vanished">转换</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>旋转</translation>
+        <translation type="vanished">旋转</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>缩放</translation>
+        <translation type="vanished">缩放</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>擦去</translation>
+        <translation type="vanished">擦去</translation>
     </message>
     <message>
         <source>Scroll view</source>
-        <translation>滚动查看</translation>
+        <translation type="vanished">滚动查看</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation>滚动</translation>
+        <translation type="vanished">滚动</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation>绘制路径</translation>
+        <translation type="vanished">绘制路径</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation>添加图片</translation>
+        <translation type="vanished">添加图片</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation>白板工具栏</translation>
+        <translation type="vanished">白板工具栏</translation>
     </message>
     <message>
         <source>%1 left (session: %2).</source>
-        <translation>%1 已离开（会话：%2）。</translation>
+        <translation type="vanished">%1 已离开（会话：%2）。</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation type="vanished">警告</translation>
     </message>
     <message>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
-        <translation>是否确定要结束会话？
+        <translation type="vanished">是否确定要结束会话？
 白板上的内容将丢失。</translation>
     </message>
     <message>
@@ -19549,32 +21075,32 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <source>A new whiteboard message was just received.
 Do you still want to close the window?</source>
-        <translation>刚刚收到一条新的白板消息。
+        <translation type="vanished">刚刚收到一条新的白板消息。
 是否仍要关闭窗口？</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation>设置新宽度：</translation>
+        <translation type="vanished">设置新宽度：</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>宽度：</translation>
+        <translation type="vanished">宽度：</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation>设置新高度：</translation>
+        <translation type="vanished">设置新高度：</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>高度：</translation>
+        <translation type="vanished">高度：</translation>
     </message>
     <message>
         <source>Save Whitebaord</source>
-        <translation>保存白板</translation>
+        <translation type="vanished">保存白板</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation>可缩放矢量图形 (*.svg)</translation>
+        <translation type="vanished">可缩放矢量图形 (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -19608,35 +21134,433 @@ Do you still want to close the window?</source>
     <name>WbManager</name>
     <message>
         <source>Unsupported</source>
-        <translation>不支持</translation>
+        <translation type="vanished">不支持</translation>
     </message>
     <message>
         <source>The contact does not support whiteboarding.</source>
-        <translation>联系人不支持白板功能。</translation>
+        <translation type="vanished">联系人不支持白板功能。</translation>
     </message>
     <message>
         <source>Open Existing SVG?</source>
-        <translation>打开现有 SVG？</translation>
+        <translation type="vanished">打开现有 SVG？</translation>
     </message>
     <message>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation>是否要在白板中打开现有的 SVG 文档？</translation>
+        <translation type="vanished">是否要在白板中打开现有的 SVG 文档？</translation>
     </message>
     <message>
         <source>Initial SVG Document for the Whiteboard</source>
-        <translation>白板的初始 SVG 文档</translation>
+        <translation type="vanished">白板的初始 SVG 文档</translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="vanished">可缩放矢量图形 (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboarding Invitation?</source>
+        <translation type="vanished">白板邀请？</translation>
+    </message>
+    <message>
+        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
+        <translation type="vanished">%1 邀请您加入白板会话。是否要加入？</translation>
+    </message>
+    <message>
+        <source>Answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was withdrawn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard session has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbView</name>
+    <message>
+        <source>Save session</source>
+        <translation>保存会话</translation>
+    </message>
+    <message>
+        <source>Save the contents of the whiteboard</source>
+        <translation>保存白板的内容</translation>
+    </message>
+    <message>
+        <source>Change the geometry</source>
+        <translation>更改几何图形</translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard for everyone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard</source>
+        <translation>清除白板</translation>
+    </message>
+    <message>
+        <source>Stroke color</source>
+        <translation>笔划颜色</translation>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation>填充颜色</translation>
+    </message>
+    <message>
+        <source>Stroke width</source>
+        <translation>笔划宽度</translation>
+    </message>
+    <message>
+        <source>Edit mode</source>
+        <translation>编辑模式</translation>
+    </message>
+    <message>
+        <source>Import SVG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add the drawing of an SVG file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thin stroke</source>
+        <translation>细的笔划</translation>
+    </message>
+    <message>
+        <source>Medium stroke</source>
+        <translation>中等笔划</translation>
+    </message>
+    <message>
+        <source>Thick stroke</source>
+        <translation>宽的笔划</translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation>%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation>选择</translation>
+    </message>
+    <message>
+        <source>Draw paths</source>
+        <translation>绘制路径</translation>
+    </message>
+    <message>
+        <source>Draw lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rectangles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw ellipses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rhombuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add images</source>
+        <translation>添加图片</translation>
+    </message>
+    <message>
+        <source>Erase</source>
+        <translation>擦去</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse and keyboard controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard toolbar</source>
+        <translation>白板工具栏</translation>
+    </message>
+    <message>
+        <source>Right-click or Control-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag (two-finger click and drag on a trackpad)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Space + drag, or two-finger scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + scroll, or pinch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-drag or Space + drag; the wheel scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + wheel, or pinch on a touchpad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw with the current tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Straight line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>工具</translation>
+    </message>
+    <message>
+        <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square, circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the rectangle or ellipse tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke width and text size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select and move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag an item (or the Select tool)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag on the empty canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to or remove from the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + %2 + click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all / deselect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move by 1 or 10 units</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow keys / %1 + arrow keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation>缩放</translation>
+    </message>
+    <message>
+        <source>%1 + %2 + drag the selection, or + and −</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Delete or Backspace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group / ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring forward / send backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Up / Page Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to front / send to back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home / End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Item menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>视图</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1, %2 / %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit the canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan a zoomed canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop image files on the canvas, paste with %1, or click with the image tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set new width:</source>
+        <translation>设置新宽度：</translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation>宽度：</translation>
+    </message>
+    <message>
+        <source>Set new height:</source>
+        <translation>设置新高度：</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度：</translation>
+    </message>
+    <message>
+        <source>Save Whiteboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>可缩放矢量图形 (*.svg)</translation>
     </message>
     <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation>白板邀请？</translation>
+        <source>The file is not an SVG document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbWidget</name>
+    <message>
+        <source>Choose an image</source>
+        <translation>选择一个图片</translation>
     </message>
     <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation>%1 邀请您加入白板会话。是否要加入？</translation>
+        <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text:</source>
+        <translation>文本：</translation>
     </message>
 </context>
 <context>
@@ -19773,6 +21697,13 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>XMPP::JT_Message</name>
+    <message>
+        <source>Unable to serialize message stanza</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
@@ -19781,6 +21712,140 @@ Do you still want to close the window?</source>
     <message>
         <source>No vCard available</source>
         <translation>没有可用的电子名片</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::LinkLocalService</name>
+    <message>
+        <source>The serverless name is too long for DNS-SD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot publish the serverless address on this network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot announce serverless presence.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find the peer&apos;s TCP service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot bind to the selected network interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many serverless connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer&apos;s TCP connection failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless peer lookup timed out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid serverless user@machine identity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot start serverless messaging on the selected network interface or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless discovery failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This Iris build does not include JDNS serverless discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This user is no longer visible on the local network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many pending serverless messages or connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::RemoteNameProvider</name>
+    <message>
+        <source>The connection to the DNS server was refused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS server host was not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not connect to the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The proxy refused the connection to the DNS server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proxy authentication failed</source>
+        <translation>代理身份验证失败</translation>
+    </message>
+    <message>
+        <source>The connection to the DNS server failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS resolver failed to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the DNS lookup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 did not answer in time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported proxy type for DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The connection to DNS server %1 was lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS is not available for DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The certificate of DNS server %1 is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS with DNS server %1 failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid HTTP reply from DNS server %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 answered with HTTP status %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS is not available: Iris was built without JDNS</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
